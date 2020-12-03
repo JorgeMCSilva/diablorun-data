@@ -1,6 +1,6 @@
 {
-  "name": "diablorun-data",
-  "version": "1.0.0",
+  "name": "@diablorun/diablorun-data",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DiabloRun/diablorun-data/issues"
   },
-  "homepage": "https://github.com/DiabloRun/diablorun-data#readme"
+  "homepage": "https://github.com/DiabloRun/diablorun-data#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
