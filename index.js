@@ -7,5 +7,6 @@ module.exports = {
     stats: require('./stats.json'),
     hirelings: require('./hirelings.json'),
     stats: require('./skills.json'),
-    levelExperience: require('./level-experience.json')
+    levelExperience: require('./level-experience.json'),
+    difficulties: ['normal', 'nightmare', 'hell']
 };
