@@ -1,4 +1,4 @@
-declare module "diablorun-data" {
+declare module "@diablorun/diablorun-data" {
     export const areas: {
         [id: string]: {
             act: number;
