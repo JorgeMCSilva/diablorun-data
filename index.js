@@ -6,7 +6,7 @@ module.exports = {
     quests: require('./quests.json'),
     stats: require('./stats.json'),
     hirelings: require('./hirelings.json'),
-    stats: require('./skills.json'),
+    skills: require('./skills.json'),
     levelExperience: require('./level-experience.json'),
     difficulties: ['normal', 'nightmare', 'hell'],
     runewords: require('./runewords.json'),
