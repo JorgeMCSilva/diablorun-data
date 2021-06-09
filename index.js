@@ -10,5 +10,8 @@ module.exports = {
     levelExperience: require('./level-experience.json'),
     difficulties: ['normal', 'nightmare', 'hell'],
     runewords: require('./runewords.json'),
-    recipes: require('./recipes.json')
+    recipes: require('./recipes.json'),
+    fbr: require('./fbr.json'),
+    fcr: require('./fcr.json'),
+    fhr: require('./fhr.json')
 };
