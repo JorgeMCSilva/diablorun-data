@@ -51,4 +51,16 @@ declare module "@diablorun/diablorun-data" {
     export const recipes: {
         [name: string]: string;
     };
+
+    export const fbr: {
+        [name: string]: string;
+    };
+
+    export const fcr: {
+        [name: string]: string;
+    };
+
+    export const fhr: {
+        [name: string]: string;
+    };
 }
