@@ -72,4 +72,16 @@ declare module "@diablorun/diablorun-data" {
     export const acronyms: {
         [name: string]: string;
     };
+
+    export const unid: {
+        [name: string]: string[];
+    };
+
+    export const uniques: {
+        name: string;
+        unidItem: string;
+        cLevel: number,
+        requirements: string[];
+        properties: string[];
+    };
 }

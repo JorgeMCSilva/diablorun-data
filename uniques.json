@@ -1,0 +1,6559 @@
+[
+    {
+        "name": "Arreat's Face",
+        "unidItem": "Slayer Guard",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 118"
+        ],
+        "properties": [
+            "+150-200% EDef",
+            "30% FHR",
+            "20% Bonus To AR",
+            "+2 To Barbarian Skill Levels",
+            "3-6% LL Per Hit",
+            "All Res +30",
+            "+20 To Str",
+            "+20 To Dex",
+            "+2 To Combat Skills (Barbarian Only)"
+        ]
+    },
+    {
+        "name": "Wolfhowl",
+        "unidItem": "Fury Visor",
+        "cLevel": 79,
+        "requirements": [
+            "Required Level: 79",
+            "Required Strength: 129"
+        ],
+        "properties": [
+            "+120-150% EDef",
+            "+2-3 To Warcries (Barbarian Only)",
+            "+3-6 To Feral Rage",
+            "+3-6 To Lycanthropy",
+            "+3-6 To Werewolf",
+            "+8-15 To Str",
+            "+8-15 To Dex",
+            "+8-15 To Vit",
+            "Level 15 Summon Dire Wolf (18 Charges)"
+        ]
+    },
+    {
+        "name": "Demonhorn's Edge",
+        "unidItem": "Destroyer Helm",
+        "cLevel": 61,
+        "requirements": [
+            "Required Level: 61",
+            "Required Strength: 151"
+        ],
+        "properties": [
+            "+120-160% EDef",
+            "10% IAS",
+            "3-6% LL Per Hit",
+            "Attacker Takes Dmg of 55-77",
+            "+1-3 To Warcries (Barbarian Only)",
+            "+1-3 To Combat Masteries (Barbarian Only)",
+            "+1-3 To Combat Skills (Barbarian Only)"
+        ]
+    },
+    {
+        "name": "Halaberd's Reign",
+        "unidItem": "Conqueror Crown",
+        "cLevel": 77,
+        "requirements": [
+            "Required Level: 77",
+            "Required Strength: 174"
+        ],
+        "properties": [
+            "Replenish Life +15-23",
+            "+20% FHR",
+            "+2 To Barbarian Skill Levels",
+            "+1 To Combat Masteries (Barbarian Only)",
+            "+1-2 To Battle Command (Barbarian Only)",
+            "+1-2 To Battle Orders (Barbarian Only)"
+        ]
+    },
+    {
+        "name": "Lenymo",
+        "unidItem": "Sash",
+        "cLevel": 7,
+        "requirements": [
+            "Required Level: 7"
+        ],
+        "properties": [
+            "Regenerate Mana 30%",
+            "All Res +5",
+            "+15 To Mana",
+            "+1 To Light Radius"
+        ]
+    },
+    {
+        "name": "Snakecord",
+        "unidItem": "Light Belt",
+        "cLevel": 12,
+        "requirements": [
+            "Required Level: 12"
+        ],
+        "properties": [
+            "+20-30% EDef",
+            "+10 Def",
+            "Replenish Life +5",
+            "Poison Resist +25%",
+            "Poison Length Reduced By 50%",
+            "+12 Poison Dmg Over 3 Seconds"
+        ]
+    },
+    {
+        "name": "Nightsmoke",
+        "unidItem": "Belt",
+        "cLevel": 20,
+        "requirements": [
+            "Required Level: 20",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+30-50% EDef",
+            "+15 Def",
+            "50% Dmg Taken Goes to Mana",
+            "Dmg Reduced By 2",
+            "All Res +10",
+            "+20 To Mana"
+        ]
+    },
+    {
+        "name": "Goldwrap",
+        "unidItem": "Heavy Belt",
+        "cLevel": 27,
+        "requirements": [
+            "Required Level: 27",
+            "Required Strength: 45"
+        ],
+        "properties": [
+            "+40-60% EDef",
+            "+25 Def",
+            "10% IAS",
+            "30% MF",
+            "50-80% Extra Gold",
+            "+2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Bladebuckle",
+        "unidItem": "Plated Belt",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 60"
+        ],
+        "properties": [
+            "+80-100% EDef",
+            "+30 Def",
+            "+30% FHR",
+            "+10 To Dex",
+            "+5 To Str",
+            "Dmg Reduced By 3",
+            "Attacker Takes Dmg of 8"
+        ]
+    },
+    {
+        "name": "String of Ears",
+        "unidItem": "Demonhide Sash",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 20"
+        ],
+        "properties": [
+            "+150-180% EDef",
+            "+15 Def",
+            "6-8% LL Per Hit",
+            "Dmg Reduced By 10-15%",
+            "Magic Dmg Reduced 10-15"
+        ]
+    },
+    {
+        "name": "Razortail",
+        "unidItem": "Sharkskin Belt",
+        "cLevel": 32,
+        "requirements": [
+            "Required Level: 32",
+            "Required Strength: 20"
+        ],
+        "properties": [
+            "+120-150% EDef",
+            "+15 Def",
+            "+10 To Max Dmg",
+            "Piercing Attack (33)",
+            "+15 To Dex",
+            "Attacker Takes Dmg of 1-99(1 Per Character Level)"
+        ]
+    },
+    {
+        "name": "Gloom's Trap",
+        "unidItem": "Mesh Belt",
+        "cLevel": 36,
+        "requirements": [
+            "Required Level: 36",
+            "Required Strength: 58"
+        ],
+        "properties": [
+            "+120-150% EDef",
+            "5% ML Per Hit",
+            "Increase Max Mana 15%",
+            "Regenerate Mana 15%",
+            "+15 To Vit",
+            "-3 To Light Radius"
+        ]
+    },
+    {
+        "name": "Snowclash",
+        "unidItem": "Battle Belt",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 88"
+        ],
+        "properties": [
+            "+130-170% EDef",
+            "5% Chance To Cast Level 7-20 Blizzard When Struck",
+            "+15 Cold Absorb",
+            "15% To Max Cold Resist",
+            "Adds 13-21 Cold Dmg (3 sec. Duration, Normal)",
+            "+2 To Chilling Armor (Sorceress Only)",
+            "+2 To Blizzard (Sorceress Only)",
+            "+3 To Glacial Spike (Sorceress Only)"
+        ]
+    },
+    {
+        "name": "Thundergod's Vigor",
+        "unidItem": "War Belt",
+        "cLevel": 47,
+        "requirements": [
+            "Required Level: 47",
+            "Required Strength: 110"
+        ],
+        "properties": [
+            "+160-200% EDef",
+            "Adds 1-50 Lightning Dmg",
+            "5% Chance To Cast Level 7 Fist of the Heavens When Struck",
+            "+20 Lightning Absorb",
+            "10% To Max Lightning Resist",
+            "+20 To Str",
+            "+20 To Vit",
+            "+3 To Lightning Fury (Amazon Only)",
+            "+3 To Lightning Strike (Amazon Only)"
+        ]
+    },
+    {
+        "name": "Arachnid Mesh",
+        "unidItem": "Spiderweb Sash",
+        "cLevel": 80,
+        "requirements": [
+            "Required Level: 80",
+            "Required Strength: 50"
+        ],
+        "properties": [
+            "+90-120% EDef",
+            "Slows Target By 10%",
+            "+1 To All Skills",
+            "+20% FCR",
+            "Increases Max Mana 5%",
+            "Level 3 Venom (11 Charges)"
+        ]
+    },
+    {
+        "name": "Nosferatu's Coil",
+        "unidItem": "Vampirefang Belt",
+        "cLevel": 51,
+        "requirements": [
+            "Required Level: 51",
+            "Required Strength: 50"
+        ],
+        "properties": [
+            "Slows Target By 10%",
+            "+2 To Mana Per Kill",
+            "5-7% LL Per Hit",
+            "+15 To Str",
+            "10% IAS",
+            "-3 To Light Radius"
+        ]
+    },
+    {
+        "name": "Verdungo's Hearty Cord",
+        "unidItem": "Mithril Coil",
+        "cLevel": 63,
+        "requirements": [
+            "Required Level: 63",
+            "Required Strength: 106"
+        ],
+        "properties": [
+            "+90-140% EDef",
+            "10% FHR",
+            "+30-40 To Vit",
+            "Replenish Life +10-13",
+            "+100-120 Max Stamina",
+            "Dmg Reduced By 10-15%"
+        ]
+    },
+    {
+        "name": "Homunculus",
+        "unidItem": "Hierophant Trophy",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 58"
+        ],
+        "properties": [
+            "+150-200% EDef",
+            "+5 To Mana Per Kill",
+            "40% Increased Chance to Block",
+            "30% FBR",
+            "+2 To Necromancer Skill Levels",
+            "+20 To Energy",
+            "Regenerate Mana 33%",
+            "All Res +40",
+            "+2 To Curses (Necromancer Only)"
+        ]
+    },
+    {
+        "name": "Darkforce Spawn",
+        "unidItem": "Bloodlord Skull",
+        "cLevel": 65,
+        "requirements": [
+            "Required Level: 65",
+            "Required Strength: 106"
+        ],
+        "properties": [
+            "+140-180% EDef",
+            "+1-3 To Summoning Skills (Necromancer Only)",
+            "+1-3 To Poison and Bone Spells (Necromancer Only)",
+            "+1-3 To Curses (Necromancer Only)",
+            "+30% FCR",
+            "Increase Max Mana 10%"
+        ]
+    },
+    {
+        "name": "Boneflame",
+        "unidItem": "Succubus Skull",
+        "cLevel": 72,
+        "requirements": [
+            "Required Level: 72",
+            "Required Strength: 95"
+        ],
+        "properties": [
+            "+120-150% EDef",
+            "+20% FCR",
+            "+2-3 To Necromancer Skill Levels",
+            "All Res +20-30",
+            "15% Chance To Cast Level 3 Terror When Struck"
+        ]
+    },
+    {
+        "name": "Pelta Lunata",
+        "unidItem": "Buckler",
+        "cLevel": 2,
+        "requirements": [
+            "Required Level: 2",
+            "Required Strength: 12"
+        ],
+        "properties": [
+            "+30-40% EDef",
+            "+30 Def",
+            "20% Increased Chance to Block",
+            "40% FBR",
+            "+10 To Energy",
+            "+10 To Vit",
+            "+2 To Str"
+        ]
+    },
+    {
+        "name": "Umbral Disk",
+        "unidItem": "Small Shield",
+        "cLevel": 9,
+        "requirements": [
+            "Required Level: 9",
+            "Required Strength: 22"
+        ],
+        "properties": [
+            "+40-50% EDef",
+            "+30 Def",
+            "30% Increased Chance to Block",
+            "Hit Blinds Target",
+            "+20 To Life",
+            "+10 To Dex",
+            "-2 To Light Radius",
+            "+10-15 Durability"
+        ]
+    },
+    {
+        "name": "Stormguild",
+        "unidItem": "Large Shield",
+        "cLevel": 13,
+        "requirements": [
+            "Required Level: 13",
+            "Required Strength: 34"
+        ],
+        "properties": [
+            "+50-60% EDef",
+            "+30 Def",
+            "+30% Increased Chance to Block",
+            "Lightning Resist +25%",
+            "Adds 1-6 Lightning Dmg",
+            "Attacker Takes Lightning Dmg Of 3",
+            "Magic Dmg Reduced By 1"
+        ]
+    },
+    {
+        "name": "Steelclash",
+        "unidItem": "Kite Shield",
+        "cLevel": 17,
+        "requirements": [
+            "Required Level: 17",
+            "Required Strength: 47"
+        ],
+        "properties": [
+            "+60-100% EDef",
+            "+20 Def",
+            "25% Increased Chance to Block",
+            "20% FBR",
+            "All Res +15",
+            "+1 To Paladin Skill Levels",
+            "+3 To Light Radius",
+            "Dmg Reduced By 3"
+        ]
+    },
+    {
+        "name": "Swordback Hold",
+        "unidItem": "Spiked Shield",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15",
+            "Required Strength: 30"
+        ],
+        "properties": [
+            "+30-60% Enhance Def",
+            "+10 Def",
+            "20% Increased Chance to Block",
+            "50% Chance of OW",
+            "Attacker Takes Dmg of 10"
+        ]
+    },
+    {
+        "name": "Bverrit Keep",
+        "unidItem": "Tower Shield",
+        "cLevel": 19,
+        "requirements": [
+            "Required Level: 19",
+            "Required Strength: 75"
+        ],
+        "properties": [
+            "+80-120% Def",
+            "+30 Def",
+            "10% Increased Chance to Block",
+            "Fire Resist +75%",
+            "+5 To Str",
+            "Magic Dmg Reduced By 5"
+        ]
+    },
+    {
+        "name": "Wall of the Eyeless",
+        "unidItem": "Bone Shield",
+        "cLevel": 20,
+        "requirements": [
+            "Required Level: 20",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+30-40% EDef",
+            "+10 Def",
+            "+5 To Mana Per Kill",
+            "20% FCR",
+            "3% ML Per Hit",
+            "Poison Resist +20%"
+        ]
+    },
+    {
+        "name": "The Ward",
+        "unidItem": "Gothic Shield",
+        "cLevel": 26,
+        "requirements": [
+            "Required Level: 26",
+            "Required Strength: 60"
+        ],
+        "properties": [
+            "+100% EDef",
+            "+40 Def",
+            "10% Increased Chance to Block",
+            "All Res +30-50",
+            "Magic Dmg Reduced By 2",
+            "+10 To Str"
+        ]
+    },
+    {
+        "name": "Visceratuant",
+        "unidItem": "Defender",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28",
+            "Required Strength: 38"
+        ],
+        "properties": [
+            "+100-150% EDef",
+            "30% Increased Chance to Block",
+            "30% FBR",
+            "+1 To Sorceress Skill Levels",
+            "Attacker Takes Lightning Dmg of 10"
+        ]
+    },
+    {
+        "name": "Moser's Blessed Circle",
+        "unidItem": "Round Shield",
+        "cLevel": 31,
+        "requirements": [
+            "Required Level: 31",
+            "Required Strength: 53"
+        ],
+        "properties": [
+            "+180-220% EDef",
+            "+25% Increased Chance to Block",
+            "30% FBR",
+            "All Res +25",
+            "Socketed (2)"
+        ]
+    },
+    {
+        "name": "Stormchaser",
+        "unidItem": "Scutum",
+        "cLevel": 35,
+        "requirements": [
+            "Required Level: 35",
+            "Required Strength: 71"
+        ],
+        "properties": [
+            "+160-220% EDef",
+            "+20% Increased Chance to Block",
+            "4% Chance To Cast Level 5 Tornado When Struck",
+            "4% Chance To Cast Level 6 Blizzard When Struck",
+            "10% FBR",
+            "+150 To AR",
+            "Lightning Resist +50%",
+            "Half Freeze Duration",
+            "Adds 1-60 Lightning Dmg"
+        ]
+    },
+    {
+        "name": "Tiamat's Rebuke",
+        "unidItem": "Dragon Shield",
+        "cLevel": 38,
+        "requirements": [
+            "Required Level: 38",
+            "Required Strength: 91"
+        ],
+        "properties": [
+            "+140-200% EDef",
+            "Adds 27-53 Cold Dmg - 6 Second Duration",
+            "Adds 35-95 Fire Dmg",
+            "Adds 1-120 Lightning Dmg",
+            "3% Chance To Cast Level 6 Hydra When Struck",
+            "5% Chance To Cast Level 7 Nova When Struck",
+            "5% Chance To Cast Level 9 Frost Nova When Struck",
+            "All Res +25-35%"
+        ]
+    },
+    {
+        "name": "Lance Guard",
+        "unidItem": "Barbed Shield",
+        "cLevel": 35,
+        "requirements": [
+            "Required Level: 35",
+            "Required Strength: 65"
+        ],
+        "properties": [
+            "+70-120% EDef",
+            "15% Dmg Taken Goes To Mana",
+            "30% FHR",
+            "20% Deadly Strike",
+            "+50 To Life",
+            "Attacker Takes Dmg of 47"
+        ]
+    },
+    {
+        "name": "Gerke's Sanctuary",
+        "unidItem": "Pavise",
+        "cLevel": 44,
+        "requirements": [
+            "Required Level: 44",
+            "Required Strength: 133"
+        ],
+        "properties": [
+            "+180-240% EDef",
+            "+30% Increased Chance to Block",
+            "All Res +20-30",
+            "Replenish Life +15",
+            "Dmg Reduced By 11-16",
+            "Magic Dmg Reduced By 14-18"
+        ]
+    },
+    {
+        "name": "Lidless Wall",
+        "unidItem": "Grim Shield",
+        "cLevel": 41,
+        "requirements": [
+            "Required Level: 41",
+            "Required Strength: 58"
+        ],
+        "properties": [
+            "+80-130% EDef",
+            "+1 To All Skills",
+            "Increase Max Mana 10%",
+            "20% FCR",
+            "+3-5 To Mana Per Kill",
+            "+10 To Energy",
+            "+1 To Light Radius"
+        ]
+    },
+    {
+        "name": "Radament's Sphere",
+        "unidItem": "Ancient Shield",
+        "cLevel": 50,
+        "requirements": [
+            "Required Level: 50",
+            "Required Strength: 110"
+        ],
+        "properties": [
+            "+160-200% EDef",
+            "+20% Increased Chance to Block",
+            "+20% FBR",
+            "5% Chance To Cast Level 5 Poison Nova When Struck",
+            "Level 6 Poison Explosion (40 Charges)",
+            "Poison Resist +75%",
+            "+80 Poison Dmg Over 4 Seconds"
+        ]
+    },
+    {
+        "name": "Blackoak Shield",
+        "unidItem": "Luna",
+        "cLevel": 61,
+        "requirements": [
+            "Required Level: 61",
+            "Required Strength: 100"
+        ],
+        "properties": [
+            "+160-200% EDef",
+            "+ (0.625 Per Character Level) +0-61 Absorb Cold Dmg",
+            "+ (1.25 Per Character Level) +1-123 To Life",
+            "+ (0.5 Per Character Level) +0-49 To Dex",
+            "+50% FBR",
+            "+4% Chance To Cast Level 5 Weaken When Struck",
+            "Half Freeze Duration"
+        ]
+    },
+    {
+        "name": "Stormshield",
+        "unidItem": "Monarch",
+        "cLevel": 73,
+        "requirements": [
+            "Required Level: 73",
+            "Required Strength: 156"
+        ],
+        "properties": [
+            "+3-371 Def (+3.75 Per Character Level)",
+            "+25% Increased Chance to Block",
+            "35% FBR",
+            "Dmg Reduced By 35%",
+            "Cold Resist +60%",
+            "Lightning Resist +25%",
+            "+30 To Str",
+            "Attacker Takes Lightning Dmg of 10",
+            "Indestructible"
+        ]
+    },
+    {
+        "name": "Spike Thorn",
+        "unidItem": "Blade Barrier",
+        "cLevel": 70,
+        "requirements": [
+            "Required Level: 70",
+            "Required Strength: 118"
+        ],
+        "properties": [
+            "+120-150% EDef",
+            "+30% FHR",
+            "Dmg Reduced By 15-20%",
+            "+ (1.375 Per Character Level) Attacker Takes Dmg of 1-136",
+            "Socketed (1)"
+        ]
+    },
+    {
+        "name": "Medusa's Gaze",
+        "unidItem": "Aegis",
+        "cLevel": 76,
+        "requirements": [
+            "Required Level: 76",
+            "Required Strength: 219"
+        ],
+        "properties": [
+            "+150-180% EDef",
+            "5-9% LL Per Hit",
+            "Slows Target By 20%",
+            "Cold Resist +40-80%",
+            "10% Chance To Cast Level 7 Lower Resist When Struck",
+            "100% Chance To Cast Level 44 Nova When You Die"
+        ]
+    },
+    {
+        "name": "Head Hunter's Glory",
+        "unidItem": "Troll Nest",
+        "cLevel": 75,
+        "requirements": [
+            "Required Level: 75",
+            "Required Strength: 106"
+        ],
+        "properties": [
+            "+320-420 Def",
+            "+300-350 Def vs. Missiles",
+            "Fire Resist +20-30%",
+            "Poison Resist +30-40%",
+            "+5-7 Life Per Kill",
+            "Socketed (1-3)"
+        ]
+    },
+    {
+        "name": "Spirit Ward",
+        "unidItem": "Ward",
+        "cLevel": 68,
+        "requirements": [
+            "Required Level: 68",
+            "Required Strength: 185"
+        ],
+        "properties": [
+            "+130-180% EDef",
+            "+25% FBR",
+            "20-30% Increased Chance to Block",
+            "All Res +30-40",
+            "+6-11 Cold Absorb",
+            "5% Chance To Cast Level 8 Fade When Struck"
+        ]
+    },
+    {
+        "name": "Herald of Zakarum",
+        "unidItem": "Gilded Shield",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 89"
+        ],
+        "properties": [
+            "+150-200% EDef",
+            "30% Increased Chance Of Block",
+            "30% FBR",
+            "20% Bonus To AR",
+            "+20 To Str",
+            "+20 To Vit",
+            "All Res +50",
+            "+2 To Paladin Skill Levels",
+            "+2 To Combat Skills (Paladin Only)"
+        ]
+    },
+    {
+        "name": "Alma Negra",
+        "unidItem": "Sacred Rondache",
+        "cLevel": 77,
+        "requirements": [
+            "Required Level: 77",
+            "Required Strength: 109"
+        ],
+        "properties": [
+            "+180-210% EDef",
+            "+1-2 To Paladin Skill Levels",
+            "20% Increased Chance of Block",
+            "30% FBR",
+            "+40-75% EDmg",
+            "40-75% Bonus to AR",
+            "Magic Dmg Reduced By 5-9"
+        ]
+    },
+    {
+        "name": "Dragonscale",
+        "unidItem": "Zakarum Shield",
+        "cLevel": 80,
+        "requirements": [
+            "Required Level: 80",
+            "Required Strength: 142"
+        ],
+        "properties": [
+            "+170-200% EDef",
+            "Adds 211-371 Fire Dmg",
+            "+15% To Fire Skill Dmg",
+            "+10 To Hydra",
+            "+5% To Max Fire Resist",
+            "+15-25 To Str",
+            "Fire Absorb 10-20%"
+        ]
+    },
+    {
+        "name": "Biggin's Bonnet",
+        "unidItem": "Cap",
+        "cLevel": 3,
+        "requirements": [
+            "Required Level: 3"
+        ],
+        "properties": [
+            "+30% EDmg",
+            "+14 Def",
+            "+30 To AR",
+            "+15 To Mana",
+            "+15 To Life"
+        ]
+    },
+    {
+        "name": "Tarnhelm",
+        "unidItem": "Skull Cap",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15",
+            "Required Strength:15"
+        ],
+        "properties": [
+            "+1 To All Skill Levels",
+            "25-50% Better Chance of Getting Magic Items",
+            "75% Extra Gold"
+        ]
+    },
+    {
+        "name": "Coif of Glory",
+        "unidItem": "Helm",
+        "cLevel": 14,
+        "requirements": [
+            "Required Level: 14",
+            "Required Strength: 26"
+        ],
+        "properties": [
+            "+10 Def",
+            "Attacker Takes Lightning Dmg of 7",
+            "Hit Blinds Target (Same effect as Dim Vision)",
+            "Lightning Resist +15%",
+            "+100 Def vs. Missiles"
+        ]
+    },
+    {
+        "name": "Duskdeep",
+        "unidItem": "Full Helm",
+        "cLevel": 30,
+        "requirements": [
+            "Required Strength: 41",
+            "Required Level: 17"
+        ],
+        "properties": [
+            "+8 to Max Dmg",
+            "+44% EDef",
+            "+11 Def",
+            "All Res +15",
+            "Dmg Reduced by 7",
+            "-2 to Light Radius"
+        ]
+    },
+    {
+        "name": "Howltusk",
+        "unidItem": "Great Helm",
+        "cLevel": 25,
+        "requirements": [
+            "Required Level: 25",
+            "Required Strength: 63"
+        ],
+        "properties": [
+            "35% Dmg Taken Goes to Mana",
+            "+80% EDef",
+            "Magic Dmg Reduced By 2",
+            "Attacker Takes Dmg of 3",
+            "Knockback",
+            "Hit Causes Monster To Flee 25%"
+        ]
+    },
+    {
+        "name": "The Face of Horror",
+        "unidItem": "Mask",
+        "cLevel": 20,
+        "requirements": [
+            "Required Level: 20",
+            "Required Strength: 23"
+        ],
+        "properties": [
+            "+25 Def",
+            "+50% Dmg To Undead",
+            "Hit Causes Monsters to Flee 50%",
+            "All Res +10",
+            "+20 To Str"
+        ]
+    },
+    {
+        "name": "Undead Crown",
+        "unidItem": "Crown",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 55"
+        ],
+        "properties": [
+            "+30-60% EDef",
+            "+50% Dmg Vs. Undead",
+            "+50-100 AR Vs. Undead",
+            "Half Freeze Duration",
+            "5% LL Per Hit",
+            "Poison Resist +50%",
+            "+40 Def",
+            "+3 To Skeleton Mastery (Necromancer Only)"
+        ]
+    },
+    {
+        "name": "Wormskull",
+        "unidItem": "Bone Helm",
+        "cLevel": 21,
+        "requirements": [
+            "Required Strength: 25",
+            "Required Level: 21"
+        ],
+        "properties": [
+            "+1 to Necromancer Skill Levels",
+            "+80 Poison damage over 8 seconds",
+            "5% Life stolen per hit",
+            "+10 to Mana",
+            "Poison Resist +25%"
+        ]
+    },
+    {
+        "name": "Peasant Crown",
+        "unidItem": "War Hat",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28",
+            "Required Strength: 20"
+        ],
+        "properties": [
+            "+100% EDef",
+            "+1 To All Skills",
+            "15% FRW",
+            "Replenish Life +6-12",
+            "+20 To Energy",
+            "+20 To Vit"
+        ]
+    },
+    {
+        "name": "Rockstopper",
+        "unidItem": "Sallet",
+        "cLevel": 31,
+        "requirements": [
+            "Required Level: 31",
+            "Required Strength: 43"
+        ],
+        "properties": [
+            "+160-220% EDef",
+            "Dmg Reduced By 10%",
+            "30% FHR",
+            "Cold Resist +20-40%",
+            "Fire Resist +20-50%",
+            "Lightning Resist +20-40%",
+            "+15 To Vit"
+        ]
+    },
+    {
+        "name": "Stealskull",
+        "unidItem": "Casque",
+        "cLevel": 35,
+        "requirements": [
+            "Required Level: 35",
+            "Required Strength: 59"
+        ],
+        "properties": [
+            "+200-240% EDef",
+            "10% Increased Attack speed",
+            "10% FHR",
+            "5% LL Per Hit",
+            "5% ML Per Hit",
+            "30-50% Better Chance of Getting Magic Items"
+        ]
+    },
+    {
+        "name": "Darksight Helm",
+        "unidItem": "Basinet",
+        "cLevel": 38,
+        "requirements": [
+            "Required Level: 38",
+            "Required Strength: 82"
+        ],
+        "properties": [
+            "+ 2-198 Def (+ 2 Per Character Level)",
+            "6% Chance To Cast Level 3 Dim Vision When Struck",
+            "Level 5 Cloak of Shadows (30 Charges)",
+            "Cannot Be Frozen",
+            "Fire Resist +20-40%",
+            "5% ML Per Hit",
+            "-4 To Light Radius"
+        ]
+    },
+    {
+        "name": "Valkyrie Wing",
+        "unidItem": "Winged Helm",
+        "cLevel": 44,
+        "requirements": [
+            "Required Level: 44",
+            "Required Strength: 115"
+        ],
+        "properties": [
+            "+150-200% Def",
+            "+1-2 To Amazon Skill Levels",
+            "20% FRW",
+            "20% FHR",
+            "+2-4 To Mana Per Kill"
+        ]
+    },
+    {
+        "name": "Blackhorn's Face",
+        "unidItem": "Death Mask",
+        "cLevel": 41,
+        "requirements": [
+            "Required Level: 41",
+            "Required Strength: 55"
+        ],
+        "properties": [
+            "+180-220% EDef",
+            "Slows Target By 20%",
+            "Attacker Takes Lightning Dmg of 25",
+            "Prevent Monster Heal",
+            "+20 Lightning Absorb",
+            "Lightning Resist +15%"
+        ]
+    },
+    {
+        "name": "Crown of Thieves",
+        "unidItem": "Grand Crown",
+        "cLevel": 49,
+        "requirements": [
+            "Required Level: 49",
+            "Required Strength: 103"
+        ],
+        "properties": [
+            "+160-200% EDef",
+            "9-12% LL Per Hit",
+            "Fire Resist +33%",
+            "+35 To Mana",
+            "+50 To Life",
+            "+25 To Dex",
+            "80-100% Extra Gold"
+        ]
+    },
+    {
+        "name": "Vampire Gaze",
+        "unidItem": "Grim Helm",
+        "cLevel": 41,
+        "requirements": [
+            "Required Level: 41",
+            "Required Strength: 58"
+        ],
+        "properties": [
+            "+100% EDef",
+            "Adds 6-22 Cold Dmg - 4 Second Duration",
+            "15% Slower Stamina Drain",
+            "6-8% LL Per Hit",
+            "6-8% ML Per Hit",
+            "Dmg Reduced By 15-20%",
+            "Magic Dmg Reduced By 10-15"
+        ]
+    },
+    {
+        "name": "Harlequin Crest",
+        "unidItem": "Shako",
+        "cLevel": 62,
+        "requirements": [
+            "Required Level: 62",
+            "Required Strength: 50"
+        ],
+        "properties": [
+            "+2 To All Skills",
+            "+1-148 To Life (+1.5 Per Character Level)",
+            "+1-148 To Mana (+1.5 Per Character Level)",
+            "Dmg Reduced By 10%",
+            "50% Better Chance of Getting Magic Items",
+            "+2 To All Attributes"
+        ]
+    },
+    {
+        "name": "Steel Shade",
+        "unidItem": "Armet",
+        "cLevel": 62,
+        "requirements": [
+            "Required Level: 62",
+            "Required Strength: 109"
+        ],
+        "properties": [
+            "+100-130% EDef",
+            "Replenish Life +10-18",
+            "+4-8% ML Per Hit",
+            "+5-11 Fire Absorb"
+        ]
+    },
+    {
+        "name": "Veil of Steel",
+        "unidItem": "Spired Helm",
+        "cLevel": 73,
+        "requirements": [
+            "Required Level: 73",
+            "Required Strength: 192"
+        ],
+        "properties": [
+            "+60% EDef",
+            "+140 To Def",
+            "All Res +50",
+            "+15 To Str",
+            "+15 To Vit",
+            "-4 To Light Radius"
+        ]
+    },
+    {
+        "name": "Nightwing's Veil",
+        "unidItem": "Spired Helm",
+        "cLevel": 67,
+        "requirements": [
+            "Required Level: 67",
+            "Required Strength: 96"
+        ],
+        "properties": [
+            "+90-120% EDef",
+            "+2 To All Skills",
+            "+8-15% To Cold Skill Dmg",
+            "+10-20 To Dex",
+            "+5-9 Cold Absorb",
+            "Half Freeze Duration",
+            "Requirements -50%"
+        ]
+    },
+    {
+        "name": "Andariel's Visage",
+        "unidItem": "Demonhead",
+        "cLevel": 83,
+        "requirements": [
+            "Required Level: 83",
+            "Required Strength: 102"
+        ],
+        "properties": [
+            "+100-150% EDef",
+            "+2 To All Skills",
+            "20% IAS",
+            "8-10% LL Per Hit",
+            "+25-30 To Str",
+            "+10% To Max Poison Resist",
+            "Fire Resist -30%",
+            "Poison Resist +70%",
+            "15% Chance To Cast Level 15 Poison Nova When Struck",
+            "Level 3 Venom (20 charges)"
+        ]
+    },
+    {
+        "name": "Crown of Ages",
+        "unidItem": "Corona",
+        "cLevel": 82,
+        "requirements": [
+            "Required Level: 82",
+            "Required Strength: 174"
+        ],
+        "properties": [
+            "+50% EDef",
+            "+100-150 Def",
+            "+1 To All Skills",
+            "Dmg Reduced By 10-15%",
+            "All Res +20-30",
+            "+30% FHR",
+            "Socketed (1-2)",
+            "Indestructible"
+        ]
+    },
+    {
+        "name": "Giant Skull",
+        "unidItem": "Bone Visage",
+        "cLevel": 65,
+        "requirements": [
+            "Required Level: 65",
+            "Required Strength: 106"
+        ],
+        "properties": [
+            "+250-320 Def",
+            "10% Chance Of CB",
+            "Knockback",
+            "+25-35 to Strength",
+            "Socketed (1-2)"
+        ]
+    },
+    {
+        "name": "The Hand of Broc",
+        "unidItem": "Leather Gloves",
+        "cLevel": 5,
+        "requirements": [
+            "Required Level: 5"
+        ],
+        "properties": [
+            "3% Mana stolen per hit",
+            "3% Life stolen per hit",
+            "+14% EDef",
+            "+10 Def",
+            "+20 to Mana",
+            "Poison Resist +10%"
+        ]
+    },
+    {
+        "name": "Bloodfist",
+        "unidItem": "Heavy Gloves",
+        "cLevel": 9,
+        "requirements": [
+            "Required Level: 9"
+        ],
+        "properties": [
+            "+10-20% EDef",
+            "+10 Def",
+            "+10% IAS",
+            "+30% FHR",
+            "+40 To Life",
+            "+5 To Min Dmg"
+        ]
+    },
+    {
+        "name": "Chance Guards",
+        "unidItem": "Chain Gloves",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+20-30% EDef",
+            "+15 Def",
+            "+25 To AR",
+            "25-40% Better Chance of Getting Magic Items",
+            "200% Extra Gold",
+            "+2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Magefist",
+        "unidItem": "Light Gauntlets",
+        "cLevel": 23,
+        "requirements": [
+            "Required Level: 23",
+            "Required Strength: 45"
+        ],
+        "properties": [
+            "+20-30% EDef",
+            "+10 Def",
+            "+1 To Fire Skills",
+            "+20% FCR",
+            "Regenerate Mana 25%",
+            "Adds 1-6 Fire Dmg"
+        ]
+    },
+    {
+        "name": "Frostburn",
+        "unidItem": "Gauntlets",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 60"
+        ],
+        "properties": [
+            "+10-20% EDef",
+            "+30 Def",
+            "+5% EDmg",
+            "Increase Max Mana 40%",
+            "Adds 1-6 Cold Dmg"
+        ]
+    },
+    {
+        "name": "Venom Grip",
+        "unidItem": "Demonhide Gloves",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 20"
+        ],
+        "properties": [
+            "+130-160% EDef",
+            "+15-25 Def",
+            "5% Chance of CB",
+            "+60 Poison Dmg Over 4 Seconds",
+            "5% LL Per Hit",
+            "5% To Max Poison Resist",
+            "Poison Resist +30%"
+        ]
+    },
+    {
+        "name": "Gravepalm",
+        "unidItem": "Sharkskin Gloves",
+        "cLevel": 32,
+        "requirements": [
+            "Required Level: 32",
+            "Required Strength: 20"
+        ],
+        "properties": [
+            "+140-180% EDef",
+            "+100-200% Dmg To Undead",
+            "+100-200 To AR Against Undead",
+            "+10 To Energy",
+            "+10 To Str"
+        ]
+    },
+    {
+        "name": "Ghoulhide",
+        "unidItem": "Heavy Bracers",
+        "cLevel": 36,
+        "requirements": [
+            "Required Level: 36",
+            "Required Strength: 58"
+        ],
+        "properties": [
+            "+150-190% EDef",
+            "+ 8-792 To AR Against Undead (+8 Per Character Level)",
+            "+ 2-198 % Dmg To Undead (+2 Per Character Level)",
+            "4-5% ML Per Hit",
+            "+20 To Life"
+        ]
+    },
+    {
+        "name": "Lava Gout",
+        "unidItem": "Battle Gauntlets",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 88"
+        ],
+        "properties": [
+            "+150-200% EDef",
+            "2% Chance To Cast Level 10 Enchant On Striking",
+            "Half Freeze Duration",
+            "Adds 13-46 Fire Dmg",
+            "+20% IAS",
+            "Fire Resist +24%"
+        ]
+    },
+    {
+        "name": "Hellmouth",
+        "unidItem": "War Gauntlets",
+        "cLevel": 47,
+        "requirements": [
+            "Required Level: 47",
+            "Required Strength: 110"
+        ],
+        "properties": [
+            "+150-200% EDef",
+            "4% Chance To Cast Level 12 Firestorm On Striking",
+            "2% Chance To Cast Level 4 Meteor On Striking",
+            "+15 Fire Absorb",
+            "Adds 15-72 Fire Dmg"
+        ]
+    },
+    {
+        "name": "Dracul's Grasp",
+        "unidItem": "Vampirebone Gloves",
+        "cLevel": 76,
+        "requirements": [
+            "Required Level: 76",
+            "Required Strength: 50"
+        ],
+        "properties": [
+            "+90-120% EDef",
+            "+10-15 To Str",
+            "+5-10 Life Per Kill",
+            "25% Chance of OW",
+            "7-10% LL Per Hit",
+            "5% Chance To Cast Level 10 Life Tap On Striking"
+        ]
+    },
+    {
+        "name": "Soul Drainer",
+        "unidItem": "Vambraces",
+        "cLevel": 74,
+        "requirements": [
+            "Required Level: 74",
+            "Required Strength: 106"
+        ],
+        "properties": [
+            "+90-120% EDef",
+            "4-7% ML Per Hit",
+            "4-7% LL Per Hit",
+            "-50 To Monster Def Per Hit",
+            "8% Chance To Cast Level 3 Weaken On Striking"
+        ]
+    },
+    {
+        "name": "Steelrend",
+        "unidItem": "Ogre Gauntlets",
+        "cLevel": 70,
+        "requirements": [
+            "Required Level: 70",
+            "Required Strength: 185"
+        ],
+        "properties": [
+            "+170-210 Def",
+            "+30-60% EDmg",
+            "10% Chance of CB",
+            "+15-20 To Str"
+        ]
+    },
+    {
+        "name": "Jalal's Mane",
+        "unidItem": "Totemic Mask",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 65"
+        ],
+        "properties": [
+            "+150-200% EDef",
+            "30% FHR",
+            "20% Bonus To AR",
+            "+2 To Druid Skill Levels",
+            "All Res +30",
+            "+5 To Mana Per Kill",
+            "+20 To Str",
+            "+20 To Energy",
+            "+2 To Shape Shifting Skills (Druid Only)"
+        ]
+    },
+    {
+        "name": "Cerebus' Bite",
+        "unidItem": "Blood Spirit",
+        "cLevel": 63,
+        "requirements": [
+            "Required Level: 63",
+            "Required Strength: 86"
+        ],
+        "properties": [
+            "+130-140% EDef",
+            "60-120% Bonus to AR",
+            "7-10% LL Per Hit",
+            "33% Chance of OW",
+            "+2-4 To Shape Shifting Skills (Druid Only)",
+            "+1-2 To Feral Rage (Druid Only)"
+        ]
+    },
+    {
+        "name": "Ravenlore",
+        "unidItem": "Sky Spirit",
+        "cLevel": 74,
+        "requirements": [
+            "Required Level: 74",
+            "Required Strength: 113"
+        ],
+        "properties": [
+            "+120-150% EDef",
+            "+7 To Raven (Druid Only)",
+            "+3 To Elemental Skills (Druid Only)",
+            "+20-30 To Energy",
+            "-10-20% To Enemy Fire Resist",
+            "All Res +15-25"
+        ]
+    },
+    {
+        "name": "Spirit Keeper",
+        "unidItem": "Earth Spirit",
+        "cLevel": 67,
+        "requirements": [
+            "Required Level: 67",
+            "Required Strength: 104"
+        ],
+        "properties": [
+            "+170-190% EDef",
+            "+1-2 To Druid Skill Levels",
+            "+20% FHR",
+            "+10% To Max Poison Resist",
+            "Fire Resist +30-40%",
+            "+9-14 Lightning Absorb",
+            "Cold Absorb 15-25%"
+        ]
+    },
+    {
+        "name": "Kira's Guardian",
+        "unidItem": "Tiara",
+        "cLevel": 77,
+        "requirements": [
+            "Required Level: 77"
+        ],
+        "properties": [
+            "+50-120 Def",
+            "+20% FHR",
+            "Cannot Be Frozen",
+            "All Res +50-70"
+        ]
+    },
+    {
+        "name": "Griffon's Eye",
+        "unidItem": "Diadem",
+        "cLevel": 76,
+        "requirements": [
+            "Required Level: 76"
+        ],
+        "properties": [
+            "+100-200 Def",
+            "+1 To All Skills",
+            "+25% FCR",
+            "-15-20% To Enemy Lightning Resistance",
+            "+10-15% To Lightning Skill Dmg"
+        ]
+    },
+    {
+        "name": "Hotspur",
+        "unidItem": "Boots",
+        "cLevel": 5,
+        "requirements": [
+            "Required Level: 5"
+        ],
+        "properties": [
+            "+10-20% EDef",
+            "+6 Def",
+            "Fire Resist +45%",
+            "15% To Max Fire Resist",
+            "Adds 3-6 Fire Dmg",
+            "+15 To Life"
+        ]
+    },
+    {
+        "name": "Gorefoot",
+        "unidItem": "Heavy Boots",
+        "cLevel": 9,
+        "requirements": [
+            "Required Level: 9",
+            "Required Strength: 18"
+        ],
+        "properties": [
+            "+20-30% EDef",
+            "20% FRW",
+            "2% ML Per Hit",
+            "Attacker Takes Dmg of 2",
+            "+12 Def",
+            "+2 To Leap (Barbarian Only)"
+        ]
+    },
+    {
+        "name": "Treads of Cthon",
+        "unidItem": "Chain Boots",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15",
+            "Required Strength: 30"
+        ],
+        "properties": [
+            "+30-40% EDef",
+            "+12 Def",
+            "50% Slower Stamina Drain",
+            "30% FRW",
+            "+50 Def vs. Missiles",
+            "+10 To Life"
+        ]
+    },
+    {
+        "name": "Goblin Toe",
+        "unidItem": "Light Plated Boots",
+        "cLevel": 22,
+        "requirements": [
+            "Required Level: 22",
+            "Required Strength: 50"
+        ],
+        "properties": [
+            "+50-60% EDef",
+            "25% Chance of a CB",
+            "-1 To Light Radius",
+            "Dmg Reduced By 1",
+            "Magic Dmg Reduced By 1",
+            "+15 Def"
+        ]
+    },
+    {
+        "name": "Tearhaunch",
+        "unidItem": "Greaves",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 70"
+        ],
+        "properties": [
+            "+60-80% EDef",
+            "20% FRW",
+            "All Res +10",
+            "+35 Def",
+            "+5 To Dex",
+            "+5 To Str",
+            "+2 To Vigor (Paladin Only)"
+        ]
+    },
+    {
+        "name": "Infernostride",
+        "unidItem": "Demonhide Boots",
+        "cLevel": 29,
+        "requirements": [
+            "Required Strength: 20",
+            "Required Level: 29"
+        ],
+        "properties": [
+            "5% Chance to cast level 8 Blaze when struck",
+            "+20% FRW",
+            "Adds 12-33 Fire damage",
+            "+146% EDef",
+            "+15 Def",
+            "+10% to Max Fire Resist",
+            "Fire Resist +30%",
+            "55% Extra Gold from Monsters",
+            "+2 to Light Radius"
+        ]
+    },
+    {
+        "name": "Waterwalk",
+        "unidItem": "Sharkskin Boots",
+        "cLevel": 32,
+        "requirements": [
+            "Required Level: 32",
+            "Required Strength: 47"
+        ],
+        "properties": [
+            "+180-210% EDef",
+            "20% FRW",
+            "+100 Def vs. Missile",
+            "+15 To Dex",
+            "+5% Max Fire Resist",
+            "Heal Stamina Plus 50%",
+            "+40 Max Stamina",
+            "+45-65 To Life"
+        ]
+    },
+    {
+        "name": "Silkweave",
+        "unidItem": "Mesh Boots",
+        "cLevel": 36,
+        "requirements": [
+            "Required Level: 36",
+            "Required Strength: 65"
+        ],
+        "properties": [
+            "+150-190% EDef",
+            "30% FRW",
+            "+5 To Mana Per Kill",
+            "Increase Max Mana 10%",
+            "+200 Def vs. Missile"
+        ]
+    },
+    {
+        "name": "War Traveler",
+        "unidItem": "Battle Boots",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 95"
+        ],
+        "properties": [
+            "+150-190% EDef",
+            "25% FRW",
+            "+10 To Vit",
+            "+10 To Str",
+            "Adds 15-25 Dmg",
+            "40% Slower Stamina Drain",
+            "Attacker Takes Dmg Of 5-10",
+            "30-50% Better Chance of Getting Magic Items"
+        ]
+    },
+    {
+        "name": "Gore Rider",
+        "unidItem": "War Boots",
+        "cLevel": 47,
+        "requirements": [
+            "Required Level: 47",
+            "Required Strength: 94"
+        ],
+        "properties": [
+            "+160-200% EDef",
+            "30% FRW",
+            "10% Chance Of OW",
+            "15% Chance Of CB",
+            "15% Deadly Strike",
+            "Requirements -25%",
+            "+20 Max Stamina"
+        ]
+    },
+    {
+        "name": "Sandstorm Trek",
+        "unidItem": "Scarabshell Boots",
+        "cLevel": 64,
+        "requirements": [
+            "Required Level: 64",
+            "Required Strength: 91"
+        ],
+        "properties": [
+            "+140-170% EDef",
+            "+20% FHR",
+            "+20% FRW",
+            "+ (1 Per Character Level) +1-99 Max Stamina",
+            "+10-15 To Str",
+            "+10-15 To Vit",
+            "50% Slower Stamina Drain",
+            "Poison Resist +40-70%",
+            "Repairs 1 Durability In 20 Seconds"
+        ]
+    },
+    {
+        "name": "Marrowwalk",
+        "unidItem": "Boneweave Boots",
+        "cLevel": 66,
+        "requirements": [
+            "Required Level: 66",
+            "Required Strength: 118"
+        ],
+        "properties": [
+            "+170-200% EDef",
+            "+20% FRW",
+            "+1-2 To Skeleton Mastery (Necromancer Only)",
+            "+10-20 To Str",
+            "+17 To Dex",
+            "Regenerate Mana 10%",
+            "Heal Stamina Plus 10%",
+            "Half Freeze Duration",
+            "Level 33 Bone Prison (13 Charges)",
+            "Level 12 Life Tap (10 Charges)"
+        ]
+    },
+    {
+        "name": "Shadow Dancer",
+        "unidItem": "Myrmidon Greaves",
+        "cLevel": 71,
+        "requirements": [
+            "Required Level: 71",
+            "Required Strength: 167"
+        ],
+        "properties": [
+            "+70-100% EDef",
+            "+1-2 To Shadow Disciplines (Assassin Only)",
+            "+30% FRW",
+            "+30% FHR",
+            "+15-25 To Dex",
+            "Requirements -20%"
+        ]
+    },
+    {
+        "name": "Greyform",
+        "unidItem": "Quilted Armor",
+        "cLevel": 7,
+        "requirements": [
+            "Required Level: 7",
+            "Required Strength: 12"
+        ],
+        "properties": [
+            "+20 Def",
+            "5% LL Per Hit",
+            "Magic Dmg Reduced By 3",
+            "Cold Resist 20%",
+            "Fire Resist 20%",
+            "+10 To Dex"
+        ]
+    },
+    {
+        "name": "Blinkbat's Form",
+        "unidItem": "Leather Armor",
+        "cLevel": 12,
+        "requirements": [
+            "Required Level: 12",
+            "Required Strength: 15"
+        ],
+        "properties": [
+            "+25 Def",
+            "+50 Def vs. Missiles",
+            "10% FRW",
+            "40% FHR",
+            "Adds 3-6 Fire Dmg"
+        ]
+    },
+    {
+        "name": "The Centurion",
+        "unidItem": "Hard Leather Armor",
+        "cLevel": 14,
+        "requirements": [
+            "Required Level: 14",
+            "Required Strength: 20"
+        ],
+        "properties": [
+            "+30 Def",
+            "Replenish Life +5",
+            "+50 To AR",
+            "+15 To Mana",
+            "+15 To Max Stamina",
+            "+15 To Life",
+            "25% Slow Stamina Drain",
+            "Dmg Reduced By 2"
+        ]
+    },
+    {
+        "name": "Twitchthroe",
+        "unidItem": "Studded Leather",
+        "cLevel": 16,
+        "requirements": [
+            "Required Level: 16",
+            "Required Strength: 27"
+        ],
+        "properties": [
+            "+25 Def",
+            "25% Increase chance of Block",
+            "20% FHR",
+            "20% IAS",
+            "+10 To Dex",
+            "+10 To Str"
+        ]
+    },
+    {
+        "name": "Darkglow",
+        "unidItem": "Ring Mail",
+        "cLevel": 14,
+        "requirements": [
+            "Required Level: 14",
+            "Required Strength: 36"
+        ],
+        "properties": [
+            "+70-100% EDef",
+            "5% To Max Poison Resist",
+            "5% To Max Cold Resist",
+            "5% To Max Lightning Resist",
+            "5% To Max Fire Resist",
+            "+50 Def vs. Melee",
+            "+20 To AR",
+            "All Res +10",
+            "+3 To Light Radius"
+        ]
+    },
+    {
+        "name": "Hawkmail",
+        "unidItem": "Scale Mail",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15",
+            "Required Strength: 44"
+        ],
+        "properties": [
+            "+80-100% EDef",
+            "10% FRW",
+            "15% To Max Cold Resist",
+            "Cold Resist +15%",
+            "Cannot Be Frozen"
+        ]
+    },
+    {
+        "name": "Venom Ward",
+        "unidItem": "Breast Plate",
+        "cLevel": 20,
+        "requirements": [
+            "Required Level: 20",
+            "Required Strength: 30"
+        ],
+        "properties": [
+            "+60-100% EDef",
+            "+2 To Light Radius",
+            "15% To Max Poison Resist",
+            "Poison Resist +90%",
+            "Poison Length Reduced By 50%"
+        ]
+    },
+    {
+        "name": "Sparking Mail",
+        "unidItem": "Chain Mail",
+        "cLevel": 17,
+        "requirements": [
+            "Required Level: 17",
+            "Required Strength: 48"
+        ],
+        "properties": [
+            "+75-85% EDef",
+            "Lightning Resist +30%",
+            "Attacker Takes Lightning Dmg of 10-14",
+            "Adds 1-20 Lightning Dmg"
+        ]
+    },
+    {
+        "name": "Iceblink",
+        "unidItem": "Splint Mail",
+        "cLevel": 22,
+        "requirements": [
+            "Required Level: 22",
+            "Required Strength: 51"
+        ],
+        "properties": [
+            "+70-80% EDef",
+            "Freezes Target",
+            "Cold Resist +30%",
+            "Magic Dmg Reduced By 1",
+            "+4 To Light Radius"
+        ]
+    },
+    {
+        "name": "Heavenly Garb",
+        "unidItem": "Light Plate",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 41"
+        ],
+        "properties": [
+            "+100% EDef",
+            "Regenerate Mana 25%",
+            "All Res +10",
+            "+15 To Energy",
+            "+50% Dmg To Undead",
+            "+100 To AR Against Undead"
+        ]
+    },
+    {
+        "name": "Boneflesh",
+        "unidItem": "Plate Mail",
+        "cLevel": 26,
+        "requirements": [
+            "Required Level: 26",
+            "Required Strength: 65"
+        ],
+        "properties": [
+            "+100-120% EDef",
+            "5% LL Per Hit",
+            "25% Chance Of OW",
+            "+35 To AR"
+        ]
+    },
+    {
+        "name": "Rockfleece",
+        "unidItem": "Field Plate",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28",
+            "Required Strength: 50"
+        ],
+        "properties": [
+            "+100-130% EDef",
+            "Requirements -10%",
+            "Dmg Reduced By 10%",
+            "+5 To Str",
+            "Dmg Reduced By 5"
+        ]
+    },
+    {
+        "name": "Rattlecage",
+        "unidItem": "Gothic Plate",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 70"
+        ],
+        "properties": [
+            "+200 Def",
+            "25% Chance of CB",
+            "Hit Causes Monster To Flee 40%",
+            "+45 To AR"
+        ]
+    },
+    {
+        "name": "Goldskin",
+        "unidItem": "Full Plate Mail",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28",
+            "Required Strength: 80"
+        ],
+        "properties": [
+            "+120-150% EDef",
+            "+2 To Light Radius",
+            "All Res +35",
+            "Attacker Takes Dmg of 10",
+            "100% Extra Gold"
+        ]
+    },
+    {
+        "name": "Silks of the Victor",
+        "unidItem": "Ancient Armor",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28",
+            "Required Strength: 100"
+        ],
+        "properties": [
+            "+100-120% EDef",
+            "+1 To All Skills",
+            "5% ML Per Hit",
+            "+2 To Light Radius"
+        ]
+    },
+    {
+        "name": "The Spirit Shroud",
+        "unidItem": "Ghost Armor",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28",
+            "Required Strength: 38"
+        ],
+        "properties": [
+            "+150% EDef",
+            "Cannot Be Frozen",
+            "+1 To All Skills",
+            "Replenish Life +10",
+            "Magic Dmg Reduced By 7-11"
+        ]
+    },
+    {
+        "name": "Skin of the Vipermagi",
+        "unidItem": "Serpentskin Armor",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 43"
+        ],
+        "properties": [
+            "+120% EDef",
+            "+1 To All Skills",
+            "30% FCR",
+            "Magic Dmg Reduced By 9-13",
+            "All Res +20-35"
+        ]
+    },
+    {
+        "name": "Skin of the Flayed One",
+        "unidItem": "Demonhide Armor",
+        "cLevel": 31,
+        "requirements": [
+            "Required Level: 31",
+            "Required Strength: 50"
+        ],
+        "properties": [
+            "+150-190% EDef",
+            "Repairs 1 Durability In 10 Seconds",
+            "5-7% LL Per Hit",
+            "Replenish Life +15-25",
+            "Attacker Takes Dmg of 15"
+        ]
+    },
+    {
+        "name": "Iron Pelt",
+        "unidItem": "Trellised Armor",
+        "cLevel": 33,
+        "requirements": [
+            "Required Level: 33",
+            "Required Strength: 61"
+        ],
+        "properties": [
+            "+50-100% EDef",
+            "+3-297 Def (+3 Per Character Level)",
+            "Dmg Reduced by 15-20",
+            "Magic Dmg Reduced by 10-16",
+            "+25 To Life"
+        ]
+    },
+    {
+        "name": "Crow Caw",
+        "unidItem": "Tigulated Mail",
+        "cLevel": 37,
+        "requirements": [
+            "Required Level: 37",
+            "Required Strength: 86"
+        ],
+        "properties": [
+            "+150-180% EDef",
+            "15% IAS",
+            "15% FHR",
+            "35% Chance of OW",
+            "+15 Dex"
+        ]
+    },
+    {
+        "name": "Spirit Forge",
+        "unidItem": "Linked Mail",
+        "cLevel": 35,
+        "requirements": [
+            "Required Level: 35",
+            "Required Strength: 74"
+        ],
+        "properties": [
+            "+120-160% EDef",
+            "+1-123 Life (+1.25 Per Character Level)",
+            "Fire Resist +5%",
+            "Adds 20-65 Fire Dmg",
+            "+15 To Str",
+            "Socketed (2)",
+            "+4 To Light Radius"
+        ]
+    },
+    {
+        "name": "Duriel's Shell",
+        "unidItem": "Cuirass",
+        "cLevel": 41,
+        "requirements": [
+            "Required Level: 41",
+            "Required Strength: 65"
+        ],
+        "properties": [
+            "+160-200% EDef",
+            "+ (1.25 Per Character Level) 1-123 Def",
+            "+ (1 Per Character Level) 1-99 To Life",
+            "Fire Resist +20%",
+            "Lightning Resist +20%",
+            "Poison Resist +20%",
+            "Cold Resist +50%",
+            "Cannot Be Frozen",
+            "+15 To Str"
+        ]
+    },
+    {
+        "name": "Shaftstop",
+        "unidItem": "Mesh Armor",
+        "cLevel": 38,
+        "requirements": [
+            "Required Level: 38",
+            "Required Strength: 92"
+        ],
+        "properties": [
+            "+180-220% EDef",
+            "Dmg Reduced By 30%",
+            "+250 Def vs. Missiles",
+            "+60 To Life"
+        ]
+    },
+    {
+        "name": "Skullder's Ire",
+        "unidItem": "Russet Armor",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 97"
+        ],
+        "properties": [
+            "+160-200% EDef",
+            "Repairs 1 Durability In 5 Seconds",
+            "+ (1.25 Per Character Level) 1-123 % MF",
+            "+1 To All Skill Levels",
+            "Magic Dmg Reduced By 10"
+        ]
+    },
+    {
+        "name": "Que-Hegan's Wisdom",
+        "unidItem": "Mage Plate",
+        "cLevel": 51,
+        "requirements": [
+            "Required Level: 51",
+            "Required Strength: 55"
+        ],
+        "properties": [
+            "+140-160% EDef",
+            "+1 To All Skill Levels",
+            "+3 To Mana Per Kill",
+            "20% FCR",
+            "20% FHR",
+            "Magic Dmg Reduced By 6-10",
+            "+15 To Energy"
+        ]
+    },
+    {
+        "name": "Guardian Angel",
+        "unidItem": "Templar Coat",
+        "cLevel": 45,
+        "requirements": [
+            "Required Level: 45",
+            "Required Strength: 118"
+        ],
+        "properties": [
+            "+180-200% EDef",
+            "+20% Increased Chance to Block",
+            "+30% FBR",
+            "+2-247 To AR Against Demons (+2.5 Per Character Level)",
+            "+1 To Paladin Skill Levels",
+            "+4 To Light Radius",
+            "15% To Max Poison Resist",
+            "15% To Max Cold Resist",
+            "15% To Max Lightning Resist",
+            "15% To Max Fire Resist"
+        ]
+    },
+    {
+        "name": "Toothrow",
+        "unidItem": "Sharktooth Armor",
+        "cLevel": 48,
+        "requirements": [
+            "Required Level: 48",
+            "Required Strength: 103"
+        ],
+        "properties": [
+            "+160-220% EDef",
+            "+40-60 Def",
+            "40% Chance of OW",
+            "Fire Resist +15%",
+            "+10 Strength",
+            "Attacker Takes Dmg of 20-40"
+        ]
+    },
+    {
+        "name": "Atma's Wail",
+        "unidItem": "Embossed Plate",
+        "cLevel": 51,
+        "requirements": [
+            "Required Level: 51",
+            "Required Strength: 125"
+        ],
+        "properties": [
+            "+120-160% EDef",
+            "+ (2 Per Character Level) 2-198 Def",
+            "30% FHR",
+            "Replenish Life +10",
+            "Increase Max Mana 15%",
+            "+15 To Dex",
+            "+20% MF"
+        ]
+    },
+    {
+        "name": "Black Hades",
+        "unidItem": "Chaos Armor",
+        "cLevel": 53,
+        "requirements": [
+            "Required Level: 53",
+            "Required Strength: 140"
+        ],
+        "properties": [
+            "+140-200% EDef",
+            "+30-60% Dmg To Demons",
+            "+200-250 To AR Against Demons",
+            "Half Freeze Duration",
+            "Socketed (3)",
+            "-2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Corpsemourn",
+        "unidItem": "Ornate Plate",
+        "cLevel": 55,
+        "requirements": [
+            "Required Level: 55",
+            "Required Strength: 170"
+        ],
+        "properties": [
+            "+150-180% EDef",
+            "Level 5 Corpse Explosion (40 Charges)",
+            "Adds 12-36 Fire Dmg",
+            "6% Chance To Cast Level 2 Iron Maiden When Struck",
+            "Cold Resist +35%",
+            "+10 To Vit",
+            "+8 To Str"
+        ]
+    },
+    {
+        "name": "Ormus' Robes",
+        "unidItem": "Dusk Shroud",
+        "cLevel": 75,
+        "requirements": [
+            "Required Level: 75",
+            "Required Strength: 77"
+        ],
+        "properties": [
+            "+10-20 Def",
+            "+20% FCR",
+            "+10-15% To Cold Skill Dmg",
+            "+10-15% To Fire Skill Dmg",
+            "+10-15% To Lightning Skill Dmg",
+            "+3 bonus to a random Sorceress skill (Sorceress Only)",
+            "Regenerate Mana 10-15%"
+        ]
+    },
+    {
+        "name": "The Gladiator's Bane",
+        "unidItem": "Wire Fleece",
+        "cLevel": 85,
+        "requirements": [
+            "Required Level: 85",
+            "Required Strength: 111"
+        ],
+        "properties": [
+            "+150-200% EDef",
+            "+50 Def",
+            "Cannot Be Frozen",
+            "30% FHR",
+            "Poison Length Reduced By 50%",
+            "Attacker Takes Dmg Of 20",
+            "Dmg Reduced By 15-20",
+            "Magic Dmg Reduced By 15-20"
+        ]
+    },
+    {
+        "name": "Arkaine's Valor",
+        "unidItem": "Balrog Skin",
+        "cLevel": 85,
+        "requirements": [
+            "Required Level: 85",
+            "Required Strength: 165"
+        ],
+        "properties": [
+            "+150-180% EDef",
+            "+1-2 To All Skills",
+            "+0-49 To Vit (+0.5 Per Character Level)",
+            "30% FHR",
+            "Dmg Reduced By 10-15"
+        ]
+    },
+    {
+        "name": "Leviathan",
+        "unidItem": "Kraken Shell",
+        "cLevel": 65,
+        "requirements": [
+            "Required Level: 65",
+            "Required Strength: 174"
+        ],
+        "properties": [
+            "+170-200% EDef",
+            "+100-150 Def",
+            "+40-50 To Str",
+            "Dmg Reduced By 15-25%",
+            "Indestructible"
+        ]
+    },
+    {
+        "name": "Steel Carapace",
+        "unidItem": "Shadow Plate",
+        "cLevel": 66,
+        "requirements": [
+            "Required Level: 66",
+            "Required Strength: 230"
+        ],
+        "properties": [
+            "+190-220% EDef",
+            "Regenerate Mana 10-15%",
+            "+20% FHR",
+            "Cold Resist +40-60%",
+            "Dmg Reduced by 9-14",
+            "Repairs 1 Durability in 20 Seconds",
+            "8% Chance To Cast Level 6 Iron Maiden When Struck"
+        ]
+    },
+    {
+        "name": "Templar's Might",
+        "unidItem": "Sacred Armor",
+        "cLevel": 74,
+        "requirements": [
+            "Required Level: 74",
+            "Required Strength: 232"
+        ],
+        "properties": [
+            "+170-220% EDef",
+            "+250-300 Def vs. Missiles",
+            "+10-15 To Str",
+            "+10-15 To Vit",
+            "+20% FHR",
+            "+40-50 Max Stamina",
+            "+1-2 To Offensive Auras (Paladin Only)"
+        ]
+    },
+    {
+        "name": "Tyrael's Might",
+        "unidItem": "Sacred Armor",
+        "cLevel": 84,
+        "requirements": [
+            "Required Level: 84",
+            "Required Strength: None"
+        ],
+        "properties": [
+            "+120-150% EDef",
+            "+50-100% Dmg To Demons",
+            "+20% FRW",
+            "+20-30 To Str",
+            "All Res +20-30",
+            "Cannot Be Frozen",
+            "Requirements -100%",
+            "Slain Monsters Rest in Peace",
+            "Indestructible"
+        ]
+    },
+    {
+        "name": "Gheed's Fortune",
+        "unidItem": "Grand Charm",
+        "cLevel": 62,
+        "requirements": [
+            "Required Level: 62"
+        ],
+        "properties": [
+            "80-160% Extra Gold",
+            "Reduces All Vendor Prices 10-15%",
+            "20-40% Better Chance of Getting Magic Items"
+        ]
+    },
+    {
+        "name": "Annihilus",
+        "unidItem": "Small Charm",
+        "cLevel": 70,
+        "requirements": [
+            "Required Level: 70"
+        ],
+        "properties": [
+            "+1 To All Skills",
+            "+10-20 To All Attributes",
+            "All Res +10-20",
+            "+5-10% To Experience Gained"
+        ]
+    },
+    {
+        "name": "Hellfire Torch",
+        "unidItem": "Large Charm",
+        "cLevel": 75,
+        "requirements": [
+            "Required Level: 75"
+        ],
+        "properties": [
+            "25% Chance to cast level 10 Firestorm on attack (Firestorm is one of Diablo's trademark attacks)",
+            "+3 to (Random Class) Skill Levels",
+            "+10-20 to All Attributes",
+            "All Res +10 - 20",
+            "+8 to Light Radius",
+            "Level 30 Hydra (10/10 Charges)"
+        ]
+    },
+    {
+        "name": "Nokozan Relic",
+        "unidItem": "Amulet",
+        "cLevel": 10,
+        "requirements": [
+            "Required Level: 10"
+        ],
+        "properties": [
+            "+20% FHR",
+            "Adds 3-6 Fire damage",
+            "+10% to Max Fire Resist",
+            "Fire Resist +50%",
+            "+3 to Light Radius"
+        ]
+    },
+    {
+        "name": "The Eye of Etlich",
+        "unidItem": "Amulet",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15"
+        ],
+        "properties": [
+            "+1-5 To Light Radius",
+            "+1 To All Skills",
+            "3-7% LL Per Hit",
+            "Adds (1-2) to (3-5) Cold Dmg",
+            "Cold Duration: 2-10 Seconds",
+            "+10-40 Def vs. Missiles"
+        ]
+    },
+    {
+        "name": "The Mahim-Oak Curio",
+        "unidItem": "Amulet",
+        "cLevel": 25,
+        "requirements": [
+            "Required Level: 25"
+        ],
+        "properties": [
+            "+10 Def",
+            "+10% EDef",
+            "+10% Bonus To AR",
+            "All Res +10",
+            "+10 To All Attributes"
+        ]
+    },
+    {
+        "name": "Saracen's Chance",
+        "unidItem": "Amulet",
+        "cLevel": 47,
+        "requirements": [
+            "Required Level: 47"
+        ],
+        "properties": [
+            "10% Chance To Cast Level 2 Iron Maiden When Struck",
+            "All Res +15-25",
+            "+12 To All Attributes"
+        ]
+    },
+    {
+        "name": "The Cat's Eye",
+        "unidItem": "Amulet",
+        "cLevel": 50,
+        "requirements": [
+            "Required Level: 50"
+        ],
+        "properties": [
+            "+30% FRW",
+            "+20% IAS",
+            "+100 Def vs. Missiles",
+            "+100 Def",
+            "+25 To Dex"
+        ]
+    },
+    {
+        "name": "Crescent Moon",
+        "unidItem": "Amulet",
+        "cLevel": 50,
+        "requirements": [
+            "Required Level: 50"
+        ],
+        "properties": [
+            "10% Dmg Taken Goes To Mana",
+            "+45 To Mana",
+            "3-6% LL Per Hit",
+            "11-15% ML Per Hit",
+            "Magic Dmg Reduced By 10",
+            "-2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Atma's Scarab",
+        "unidItem": "Amulet",
+        "cLevel": 60,
+        "requirements": [
+            "Required Level: 60"
+        ],
+        "properties": [
+            "5% Chance To Cast Level 2 Amplify Dmg On Striking",
+            "20% Bonus To AR",
+            "+40 Poison Dmg over 4 seconds",
+            "Poison Resist +75%",
+            "+3 To Light Radius",
+            "Attacker Takes Dmg of 5"
+        ]
+    },
+    {
+        "name": "The Rising Sun",
+        "unidItem": "Amulet",
+        "cLevel": 60,
+        "requirements": [
+            "Required Level: 60"
+        ],
+        "properties": [
+            "+2 To Fire Skills",
+            "2% Chance To Cast Level 13-19 Meteor When Struck",
+            "+ (0.75 Per Character Level) 0-74 Fire Absorb",
+            "Adds 24-48 Fire Dmg",
+            "Replenish Life +10",
+            "+4 To Light Radius"
+        ]
+    },
+    {
+        "name": "Highlord's Wrath",
+        "unidItem": "Amulet",
+        "cLevel": 65,
+        "requirements": [
+            "Required Level: 65"
+        ],
+        "properties": [
+            "+1 To All Skills",
+            "+20% IAS",
+            "+ (0.375 Per Character Level) 0-37 % Deadly Strike",
+            "Lightning Resist +35%",
+            "Adds 1-30 Lightning Dmg",
+            "Attacker Takes Lightning Dmg Of 15"
+        ]
+    },
+    {
+        "name": "Mara's Kaleidoscope",
+        "unidItem": "Amulet",
+        "cLevel": 67,
+        "requirements": [
+            "Required Level: 67"
+        ],
+        "properties": [
+            "+2 To All Skills",
+            "All Res +20-30",
+            "+5 To All Attributes"
+        ]
+    },
+    {
+        "name": "Seraph's Hymn",
+        "unidItem": "Amulet",
+        "cLevel": 65,
+        "requirements": [
+            "Required Level: 65"
+        ],
+        "properties": [
+            "+2 To All Skills",
+            "+1-2 To Defensive Auras (Paladin Only)",
+            "+20-50% Dmg To Demons",
+            "+150-250 To AR Against Demons",
+            "+20-50% Dmg To Undead",
+            "+150-250 To AR Against Undead",
+            "+2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Metalgrid",
+        "unidItem": "Amulet",
+        "cLevel": 81,
+        "requirements": [
+            "Required Level: 81"
+        ],
+        "properties": [
+            "+400-450 To AR",
+            "Level 22 Iron Golem (11 Charges)",
+            "Level 12 Iron Maiden (20 Charges)",
+            "All Res +25-35",
+            "+300-350 Def"
+        ]
+    },
+    {
+        "name": "Nagelring",
+        "unidItem": "Ring",
+        "cLevel": 7,
+        "requirements": [
+            "Required Level: 7"
+        ],
+        "properties": [
+            "Magic Dmg Reduced By 3",
+            "+50-75 To AR",
+            "Attacker Takes Dmg of 3",
+            "15-30% MF"
+        ]
+    },
+    {
+        "name": "Manald Heal",
+        "unidItem": "Ring",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15"
+        ],
+        "properties": [
+            "4-7% ML Per Hit",
+            "Replenish Life +5-8",
+            "Regenerate Mana 20%",
+            "+20 To Life"
+        ]
+    },
+    {
+        "name": "Stone of Jordan",
+        "unidItem": "Ring",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29"
+        ],
+        "properties": [
+            "+1 To All Skills",
+            "+25% Mana",
+            "+1-12 Lightning Dmg",
+            "+20 Mana"
+        ]
+    },
+    {
+        "name": "Dwarf Star",
+        "unidItem": "Ring",
+        "cLevel": 45,
+        "requirements": [
+            "Required Level: 45"
+        ],
+        "properties": [
+            "Fire Absorb 15%",
+            "Heal Stamina Plus 15%",
+            "+40 Max Stamina",
+            "+40 to Life",
+            "100% Extra Gold",
+            "Magic Dmg Reduced By 12-15"
+        ]
+    },
+    {
+        "name": "Raven Frost",
+        "unidItem": "Ring",
+        "cLevel": 43,
+        "requirements": [
+            "Required Level: 43"
+        ],
+        "properties": [
+            "+150-250 to AR",
+            "Adds 15-45 Cold Dmg",
+            "+15-20 to Dex",
+            "+40 to Mana",
+            "Cold Absorb 20%",
+            "Cannot Be Frozen"
+        ]
+    },
+    {
+        "name": "Bul-Kathos' Wedding Band",
+        "unidItem": "Ring",
+        "cLevel": 58,
+        "requirements": [
+            "Required Level: 58"
+        ],
+        "properties": [
+            "+1 To All Skills",
+            "+ (0.5 Per Character Level) 0-49 To Life",
+            "3-5% LL Per Hit",
+            "+50 Max Stamina"
+        ]
+    },
+    {
+        "name": "Carrion Wind",
+        "unidItem": "Ring",
+        "cLevel": 60,
+        "requirements": [
+            "Required Level: 60"
+        ],
+        "properties": [
+            "10% Chance To Cast Level 10 Poison Nova When Struck",
+            "8% Chance To Cast Level 13 Twister On Striking",
+            "6-9% LL Per Hit",
+            "+100-160 Def vs. Missiles",
+            "Poison Resist +55%",
+            "10% Dmg Taken Goes To Mana",
+            "Level 21 Poison Creeper (15 Charges)"
+        ]
+    },
+    {
+        "name": "Nature's Peace",
+        "unidItem": "Ring",
+        "cLevel": 69,
+        "requirements": [
+            "Required Level: 69"
+        ],
+        "properties": [
+            "Slain Monsters Rest In Peace",
+            "Prevent Monster Heal",
+            "Poison Resist +20-30%",
+            "Dmg Reduced by 7-11",
+            "Level 5 Oak Sage"
+        ]
+    },
+    {
+        "name": "Wisp Projector",
+        "unidItem": "Ring",
+        "cLevel": 76,
+        "requirements": [
+            "Required Level: 76"
+        ],
+        "properties": [
+            "10% Chance To Cast Level 16 Lightning On Striking",
+            "Lightning Absorb 10-20%",
+            "10-20% Better Chance of Getting Magic Items",
+            "Level 7 Spirit of Barbs (11 charges)",
+            "Level 5 Heart of Wolverine (13 charges)",
+            "Level 2 Oak Sage (15 charges)"
+        ]
+    },
+    {
+        "name": "Torch of Iro",
+        "unidItem": "Wand",
+        "cLevel": 5,
+        "requirements": [
+            "Required Level: 5"
+        ],
+        "properties": [
+            "+50% Dmg to Undead",
+            "Adds 5-9 Fire Dmg",
+            "+1 To Necromancer Skill Levels",
+            "+10 To Energy",
+            "Regenerate Mana 5%",
+            "6% LL Per Hit",
+            "+3 To Light Radius"
+        ]
+    },
+    {
+        "name": "Maelstrom",
+        "unidItem": "Yew Wand",
+        "cLevel": 14,
+        "requirements": [
+            "Required Level: 14"
+        ],
+        "properties": [
+            "+50% Dmg to Undead",
+            "Adds 1-9 Lightning Dmg",
+            "+13 To Mana",
+            "30% FCR",
+            "Lightning Resist +40%",
+            "+1-3 to Iron Maiden (Necromancer Only)",
+            "+1-3 to Amplify Dmg (Necromancer Only)",
+            "+1-3 to Terror (Necromancer Only)",
+            "+1-3 to Corpse Explosion (Necromancer Only)"
+        ]
+    },
+    {
+        "name": "Gravenspine",
+        "unidItem": "Bone Wand",
+        "cLevel": 20,
+        "requirements": [
+            "Required Level: 20"
+        ],
+        "properties": [
+            "+50% Dmg to Undead",
+            "+2 To Necromancer Skill Levels",
+            "Adds 4-8 Cold Dmg, Cold Duration: 3 seconds",
+            "5% ML Per Hit",
+            "+25-50 Mana",
+            "+10 To Dex",
+            "+10 To Str"
+        ]
+    },
+    {
+        "name": "Ume's Lament",
+        "unidItem": "Grim Wand",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28"
+        ],
+        "properties": [
+            "+50% Dmg to Undead",
+            "+2 To Necromancer Skill Levels",
+            "20% FCR",
+            "+40 To Mana",
+            "Hit Causes Monster To Flee 50%",
+            "+2 To Decrepify (Necromancer Only)",
+            "+3 To Terror (Necromancer Only)"
+        ]
+    },
+    {
+        "name": "Suicide Branch",
+        "unidItem": "Burnt Wand",
+        "cLevel": 33,
+        "requirements": [
+            "Required Level: 33",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+50% Dmg to Undead",
+            "+1 To All Skills",
+            "50% FCR",
+            "Increase Max Mana 10%",
+            "All Res +10",
+            "+40 To Life",
+            "Attacker Takes Dmg of 25"
+        ]
+    },
+    {
+        "name": "Carin Shard",
+        "unidItem": "Petrified Wand",
+        "cLevel": 35,
+        "requirements": [
+            "Required Level: 35",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+50% Dmg to Undead",
+            "+ (1.25 Per Character Level) 1-123 To Mana",
+            "+ (1.25 Per Character Level) 1-123 To Life",
+            "+1 To Necromancer Skill Levels",
+            "+2 To Summoning Skills (Necromancer Only)",
+            "10% FCR",
+            "30% FHR",
+            "Replenish Life +5"
+        ]
+    },
+    {
+        "name": "Arm of King Leoric",
+        "unidItem": "Tomb Wand",
+        "cLevel": 36,
+        "requirements": [
+            "Required Level: 36",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+50% Dmg to Undead",
+            "10% Chance To Cast Level 2 Bone Prison When Struck",
+            "5% Chance To Cast Level 10 Bone Spirit When Struck",
+            "+ (1.25 Per Character Level) 1-123 To Mana",
+            "10% FCR",
+            "+2 To Terror (Necromancer Only)",
+            "+2 To Raise Skeletal Mage (Necromancer Only)",
+            "+3 To Skeleton Mastery (Necromancer Only)",
+            "+3 To Raise Skeleton (Necromancer Only)",
+            "+2 To Summoning Skills (Necromancer Only)",
+            "+2 To Poison and Bone Spells (Necromancer Only)"
+        ]
+    },
+    {
+        "name": "Blackhand Key",
+        "unidItem": "Grave Wand",
+        "cLevel": 41,
+        "requirements": [
+            "Required Level: 41",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+50% Dmg to Undead",
+            "+2 To Necromancer Skill Levels",
+            "+1 To Curses (Necromancer Only)",
+            "20% Dmg Taken Goes To Mana",
+            "30% FCR",
+            "Fire Resist +37%",
+            "+50 To Life",
+            "Level 13 Grim Ward (30 Charges)",
+            "-2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Boneshade",
+        "unidItem": "Lich Wand",
+        "cLevel": 79,
+        "requirements": [
+            "Required Level: 79",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+50% Dmg to Undead",
+            "+2 To Necromancer Skill Levels",
+            "+1-2 To Bone Spirit (Necromancer Only)",
+            "+2-3 To Bone Spear (Necromancer Only)",
+            "+2-3 To Bone Wall (Necromancer Only)",
+            "+4-5 To Bone Armor (Necromancer Only)",
+            "+4-5 To Teeth (Necromancer Only)",
+            "+25% FCR"
+        ]
+    },
+    {
+        "name": "Death's Web",
+        "unidItem": "Unearthed Wand",
+        "cLevel": 66,
+        "requirements": [
+            "Required Level: 66",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+50% Dmg to Undead",
+            "-40-50% To Enemy Poison Resistance",
+            "+7-12 To Mana Per Kill",
+            "+7-12 Life Per Kill",
+            "+2 To All Skills",
+            "+1-2 To Poison and Bone Spells (Necromancer Only)"
+        ]
+    },
+    {
+        "name": "Deathbit",
+        "unidItem": "Battle Dart",
+        "cLevel": 44,
+        "requirements": [
+            "Required Level: 44",
+            "Required Strength: 25",
+            "Required Dexterity: 52"
+        ],
+        "properties": [
+            "+130-180% EDmg",
+            "40% Deadly Strike",
+            "+200-450 To AR",
+            "7-9% LL Per Hit",
+            "4-6% ML Per Hit",
+            "Replenishes Quantity [1 in 4 sec.]"
+        ]
+    },
+    {
+        "name": "The Scalper",
+        "unidItem": "Francisca",
+        "cLevel": 57,
+        "requirements": [
+            "Required Level: 57",
+            "Required Strength: 25",
+            "Required Dexterity: 80"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "33% Chance Of OW",
+            "+4 To Mana Per Kill",
+            "20% IAS",
+            "25% Bonus To AR",
+            "4-6% LL Per Hit",
+            "Replenishes Quantity [1 in 3 sec.]"
+        ]
+    },
+    {
+        "name": "Warshrike",
+        "unidItem": "Winged Knife",
+        "cLevel": 75,
+        "requirements": [
+            "Required Level: 75",
+            "Required Strength: 45",
+            "Required Dexterity: 142"
+        ],
+        "properties": [
+            "+200-250% EDmg",
+            "50% Deadly Strike",
+            "+30% IAS",
+            "Piercing Attack [50]",
+            "25% Chance To Cast Level 9 Nova On Striking",
+            "Replenishes Quantity [1 in 3 sec.]"
+        ]
+    },
+    {
+        "name": "Gimmershred",
+        "unidItem": "Flying Axe",
+        "cLevel": 70,
+        "requirements": [
+            "Required Level: 70",
+            "Required Strength: 88",
+            "Required Dexterity: 108"
+        ],
+        "properties": [
+            "+160-210% EDmg",
+            "Adds 218-483 Fire Dmg",
+            "Adds 29-501 Lightning Dmg",
+            "Adds 176-397 Cold Dmg, 4 sec. Duration (Normal)",
+            "+30% IAS",
+            "Increased Stack Size [60]"
+        ]
+    },
+    {
+        "name": "Lacerator",
+        "unidItem": "Winged Axe",
+        "cLevel": 68,
+        "requirements": [
+            "Required Level: 68",
+            "Required Strength: 96",
+            "Required Dexterity: 122"
+        ],
+        "properties": [
+            "+150-210% EDmg",
+            "+30% IAS",
+            "33% Chance of OW",
+            "Prevent Monster Heal",
+            "Hit Causes Monster To Flee 50%",
+            "33% Chance To Cast Level 3 Amplify Dmg On Striking",
+            "Replenishes Quantity [1 in 4 sec.]"
+        ]
+    },
+    {
+        "name": "Rixot's Keen",
+        "unidItem": "Short Sword",
+        "cLevel": 2,
+        "requirements": [
+            "Required Level: 2"
+        ],
+        "properties": [
+            "+100% EDmg",
+            "+5 To Minimum Dmg",
+            "25% Chance of CB",
+            "20% Bonus to AR",
+            "+25 Def",
+            "+2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Blood Crescent",
+        "unidItem": "Scimitar",
+        "cLevel": 7,
+        "requirements": [
+            "Required Level: 7",
+            "Required Dexterity: 21"
+        ],
+        "properties": [
+            "+60-80% EDmg",
+            "33% Chance Of OW",
+            "15% IAS",
+            "15% LL Per Hit",
+            "All Res +15",
+            "+15 To Life",
+            "+4 To Light Radius"
+        ]
+    },
+    {
+        "name": "Skewer of Krintiz",
+        "unidItem": "Sabre",
+        "cLevel": 10,
+        "requirements": [
+            "Required Level: 10",
+            "Required Strength: 25",
+            "Required Dexterity: 25"
+        ],
+        "properties": [
+            "+50% EDmg",
+            "Adds 3-7 Dmg",
+            "Ignore Target's Def",
+            "7% ML Per Hit",
+            "+10 To Dex",
+            "+10 To Str"
+        ]
+    },
+    {
+        "name": "Gleamscythe",
+        "unidItem": "Falchion",
+        "cLevel": 13,
+        "requirements": [
+            "Required Level: 13",
+            "Required Strength: 33"
+        ],
+        "properties": [
+            "+60-100% EDmg",
+            "Adds 3-5 Cold Dmg - 2 Second Duration",
+            "20% IAS",
+            "+20 Def",
+            "+30 To Mana",
+            "+3 To Light Radius"
+        ]
+    },
+    {
+        "name": "Griswold's Edge",
+        "unidItem": "Broad Sword",
+        "cLevel": 17,
+        "requirements": [
+            "Required Level: 17",
+            "Required Strength: 48"
+        ],
+        "properties": [
+            "+80-120% EDmg",
+            "Adds (10-12) to (15-25) Fire Dmg",
+            "10% IAS",
+            "+100 to AR",
+            "+12 To Str",
+            "Knockback"
+        ]
+    },
+    {
+        "name": "Hellplague",
+        "unidItem": "Long Sword",
+        "cLevel": 22,
+        "requirements": [
+            "Required Level: 22",
+            "Required Strength: 55",
+            "Required Dexterity: 39"
+        ],
+        "properties": [
+            "+70-80% EDmg",
+            "+2 To Fire Skills",
+            "Adds 25-75 Fire Dmg",
+            "Adds 28-56 Poison Dmg Over 6 Seconds",
+            "5% LL Per Hit",
+            "5% ML Per Hit"
+        ]
+    },
+    {
+        "name": "Culwen's Point",
+        "unidItem": "War Sword",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 71",
+            "Required Dexterity: 45"
+        ],
+        "properties": [
+            "+70-80% EDmg",
+            "+1 to All skills",
+            "Poison Length Reduced By 50%",
+            "20% IAS",
+            "20% FHR",
+            "+60 to AR"
+        ]
+    },
+    {
+        "name": "Shadowfang",
+        "unidItem": "Two-Handed Sword",
+        "cLevel": 12,
+        "requirements": [
+            "Required Level: 12",
+            "Required Strength: 35",
+            "Required Dexterity: 27"
+        ],
+        "properties": [
+            "+100% EDmg",
+            "Adds 10-30 Cold Dmg, Cold Duration: 6 seconds",
+            "9% ML Per Hit",
+            "9% LL Per Hit",
+            "Cold Resist 20%",
+            "-2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Soulflay",
+        "unidItem": "Claymore",
+        "cLevel": 19,
+        "requirements": [
+            "Required Level: 19",
+            "Required Strength: 47"
+        ],
+        "properties": [
+            "+70-100% EDmg",
+            "+10% IAS",
+            "4% Life stolen per hit",
+            "4-10% Mana stolen per hit",
+            "All Res +5"
+        ]
+    },
+    {
+        "name": "Kinemil's Awl",
+        "unidItem": "Giant Sword",
+        "cLevel": 23,
+        "requirements": [
+            "Required Level: 23",
+            "Required Strength: 56",
+            "Required Dexterity: 34"
+        ],
+        "properties": [
+            "+80-100% EDmg",
+            "+100-150 To AR",
+            "Adds 6-(20-40) Fire Dmg",
+            "+20 To Mana",
+            "+6 To Holy Fire (Paladin Only)"
+        ]
+    },
+    {
+        "name": "Blacktongue",
+        "unidItem": "Bastard Sword",
+        "cLevel": 26,
+        "requirements": [
+            "Required Level: 26",
+            "Required Strength: 62"
+        ],
+        "properties": [
+            "+50-60% EDmg",
+            "+113 Poison Dmg Over 6 Seconds",
+            "Prevent Monster Heal",
+            "+50 To AR",
+            "Poison Resist +50%"
+        ]
+    },
+    {
+        "name": "Ripsaw",
+        "unidItem": "Flamberge",
+        "cLevel": 26,
+        "requirements": [
+            "Required Level: 26",
+            "Required Strength: 70",
+            "Required Dexterity: 49"
+        ],
+        "properties": [
+            "+80-100% EDmg",
+            "+15 To Max Dmg",
+            "80% Chance of OW",
+            "6% Mana stolen per hit"
+        ]
+    },
+    {
+        "name": "The Patriarch",
+        "unidItem": "Great Sword",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 100",
+            "Required Dexterity: 60"
+        ],
+        "properties": [
+            "+100-120% EDmg",
+            "Hit Blinds Target",
+            "+10 To Str",
+            "100% Extra Gold",
+            "Magic Dmg Reduced By 3",
+            "Dmg Reduced By 3"
+        ]
+    },
+    {
+        "name": "Bloodletter",
+        "unidItem": "Gladius",
+        "cLevel": 30,
+        "requirements": [
+            "Required Level: 30",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+140% EDmg",
+            "Adds 12-45 Dmg",
+            "+90 To AR",
+            "20% IAS",
+            "10% Slower Stamina Drain",
+            "8% LL Per Hit",
+            "+1-3 To Whirlwind (Barbarian Only)",
+            "+2-4 To Sword Mastery (Barbarian Only)"
+        ]
+    },
+    {
+        "name": "Coldsteel Eye",
+        "unidItem": "Cutlass",
+        "cLevel": 31,
+        "requirements": [
+            "Required Level: 31",
+            "Required Strength: 25",
+            "Required Dexterity: 52"
+        ],
+        "properties": [
+            "+200-250% EDmg",
+            "50% Chance Of Deadly Strike",
+            "20% IAS",
+            "6% ML Per Hit",
+            "Slows Target By 30%",
+            "Hit Blinds Target"
+        ]
+    },
+    {
+        "name": "Hexfire",
+        "unidItem": "Shamshir",
+        "cLevel": 33,
+        "requirements": [
+            "Required Level: 33",
+            "Required Strength: 58",
+            "Required Dexterity: 58"
+        ],
+        "properties": [
+            "+140-160% EDmg",
+            "Adds 35-40 Dmg",
+            "+3 To Fire Skills",
+            "Level 6 Hydra (36 Charges)",
+            "Ignore Target's Def",
+            "Fire Resist +25%",
+            "10% To Max Fire Resist"
+        ]
+    },
+    {
+        "name": "Blade of Ali Baba",
+        "unidItem": "Tulwar",
+        "cLevel": 35,
+        "requirements": [
+            "Required Level: 35",
+            "Required Strength: 70",
+            "Required Dexterity: 42"
+        ],
+        "properties": [
+            "+60-120% EDmg",
+            "+ (2.5 Per Character Level) 2-247 % Extra Gold",
+            "+ (1 Per Character Level) 1-99 % Better Chance of Getting Magic Items",
+            "+15 To Mana",
+            "+5-15 To Dex",
+            "Socketed (2)"
+        ]
+    },
+    {
+        "name": "Ginther's Rift",
+        "unidItem": "Dimensional Blade",
+        "cLevel": 37,
+        "requirements": [
+            "Required Level: 37",
+            "Required Strength: 85",
+            "Required Dexterity: 60"
+        ],
+        "properties": [
+            "+100-150% EDmg",
+            "Adds 50-120 Magic Dmg",
+            "30% IAS",
+            "Magic Dmg Reduced By 7-12",
+            "Repairs 1 Durability in 5 Seconds"
+        ]
+    },
+    {
+        "name": "Headstriker",
+        "unidItem": "Battle Sword",
+        "cLevel": 39,
+        "requirements": [
+            "Required Level: 39",
+            "Required Strength: 92",
+            "Required Dexterity: 43"
+        ],
+        "properties": [
+            "150% EDmg",
+            "+ (1 Per Character Level) 1-99 To Max Dmg",
+            "(1.5 Per Character Level) 1-148 % Deadly Strike",
+            "Prevent Monster Heal",
+            "+15 To Str"
+        ]
+    },
+    {
+        "name": "Plague Bearer",
+        "unidItem": "Rune Sword",
+        "cLevel": 41,
+        "requirements": [
+            "Required Level: 41",
+            "Required Strength: 103",
+            "Required Dexterity: 79"
+        ],
+        "properties": [
+            "150% EDmg",
+            "Adds 10-45 Dmg",
+            "+300 Poison Dmg Over 8 Seconds",
+            "5% Chance To Cast Level 4 Poison Nova On Striking",
+            "Poison Resist +45%",
+            "+5 To Rabies (Druid Only)"
+        ]
+    },
+    {
+        "name": "The Atlantean",
+        "unidItem": "Ancient Sword",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 127",
+            "Required Dexterity: 88"
+        ],
+        "properties": [
+            "+200-250% EDmg",
+            "+2 To Paladin Skill Levels",
+            "50% Bonus To AR",
+            "+75 Def",
+            "+8 To Vit",
+            "+12 To Dex",
+            "+16 To Str"
+        ]
+    },
+    {
+        "name": "Crainte Vomir",
+        "unidItem": "Espandon",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 73",
+            "Required Dexterity: 61"
+        ],
+        "properties": [
+            "+160-200% EDmg",
+            "50% IAS",
+            "Slows Target By 35%",
+            "-70 To Monster Def Per Hit",
+            "20% FRW",
+            "Dmg Reduced By 10%"
+        ]
+    },
+    {
+        "name": "Bing Sz Wang",
+        "unidItem": "Dacian Falx",
+        "cLevel": 43,
+        "requirements": [
+            "Required Level: 43",
+            "Required Strength: 64",
+            "Required Dexterity: 14"
+        ],
+        "properties": [
+            "+130-160% EDmg",
+            "Adds 50-140 Cold Dmg - 3 Second Duration",
+            "5% Chance To Cast Level 3 Frozen Orb On Striking",
+            "Freezes Target +2",
+            "Requirements -30%",
+            "+20 To Str"
+        ]
+    },
+    {
+        "name": "The Vile Husk",
+        "unidItem": "Tusk Sword",
+        "cLevel": 44,
+        "requirements": [
+            "Required Level: 44",
+            "Required Strength: 104",
+            "Required Dexterity: 71"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "+ (7.5 Per Character Level) 7-742% Dmg To Undead",
+            "+ (10 Per Character Level) 10-990 To AR against Undead",
+            "+250 Poison Dmg Over 6 Seconds",
+            "6% Chance To Cast Level 1 Amplify Dmg On Striking",
+            "Poison Resist +50%"
+        ]
+    },
+    {
+        "name": "Cloudcrack",
+        "unidItem": "Gothic Sword",
+        "cLevel": 45,
+        "requirements": [
+            "Required Level: 45",
+            "Required Strength: 113",
+            "Required Dexterity: 20"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "6% Chance To Cast Level 7 Fist of the Heavens On Striking",
+            "Adds 1-240 Lightning Dmg",
+            "10% To Max Lightning Resist",
+            "+30 Def",
+            "Attacker Takes Lightning Dmg Of 15",
+            "+2 To Defensive Auras (Paladin Only)",
+            "+2 To Offensive Auras (Paladin Only)",
+            "+2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Todesfaelle Flamme",
+        "unidItem": "Zweihander",
+        "cLevel": 46,
+        "requirements": [
+            "Required Level: 46",
+            "Required Strength: 125",
+            "Required Dexterity: 94"
+        ],
+        "properties": [
+            "+120-160% EDmg",
+            "Adds 50-200 Fire Dmg",
+            "10% Chance To Cast Level 6 Fire Ball On Attack",
+            "Level 10 Fire Wall (20 Charges)",
+            "Level 10 Enchant (45 Charges)",
+            "+10 Fire Absorb",
+            "Fire Resist +40%"
+        ]
+    },
+    {
+        "name": "Swordguard",
+        "unidItem": "Executioner Sword",
+        "cLevel": 48,
+        "requirements": [
+            "Required Level: 48",
+            "Required Strength: 85",
+            "Required Dexterity: 55"
+        ],
+        "properties": [
+            "+170-180% EDmg",
+            "+ (5 Per Character Level) 5-495 Def",
+            "30% Dmg Taken Goes To Mana",
+            "Requirements -50%",
+            "All Res +10-20",
+            "20% FHR",
+            "20% Increased Chance Of Blocking",
+            "+100 Def vs. Missiles",
+            "+200 Def vs. Melee"
+        ]
+    },
+    {
+        "name": "Djinn Slayer",
+        "unidItem": "Ataghan",
+        "cLevel": 65,
+        "requirements": [
+            "Required Level: 65",
+            "Required Strength: 138",
+            "Required Dexterity: 95"
+        ],
+        "properties": [
+            "+190-240% EDmg",
+            "+100-150% Dmg To Demons",
+            "Adds 250-500 Fire Dmg",
+            "3-6% ML Per Hit",
+            "+3-7 Lightning Absorb",
+            "+200-300 To AR Against Demons",
+            "Socketed (1-2)"
+        ]
+    },
+    {
+        "name": "Bloodmoon",
+        "unidItem": "Elegant Blade",
+        "cLevel": 61,
+        "requirements": [
+            "Required Level: 61",
+            "Required Strength: 109",
+            "Required Dexterity: 122"
+        ],
+        "properties": [
+            "+210-260% EDmg",
+            "10-15% LL Per Hit",
+            "50% Chance of OW",
+            "+7-13 Life Per Kill",
+            "Level 15 Blood Golem (9 charges)"
+        ]
+    },
+    {
+        "name": "Lightsabre",
+        "unidItem": "Phase Blade",
+        "cLevel": 58,
+        "requirements": [
+            "Required Level: 58",
+            "Required Strength: 25",
+            "Required Dexterity: 136"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "Adds 10-30 Dmg",
+            "Adds 60-120 Magic Dmg",
+            "Adds 1-200 Lightning Dmg",
+            "5-7% ML Per Hit",
+            "5% Chance To Cast Level 14-20 Chain Lightning On Attack",
+            "20% IAS",
+            "Ignore Target's Def",
+            "Lightning Absorb 25%",
+            "+7 To Light Radius"
+        ]
+    },
+    {
+        "name": "Azurewrath",
+        "unidItem": "Phase Blade",
+        "cLevel": 85,
+        "requirements": [
+            "Required Level: 85",
+            "Required Strength: 25",
+            "Required Dexterity: 136"
+        ],
+        "properties": [
+            "+230-270% EDmg",
+            "+30% IAS",
+            "Adds 250-500 Magic Dmg",
+            "Adds 250-500 Cold Dmg, 10 sec. Duration",
+            "+1 To All Skills",
+            "+5-10 To All Attributes",
+            "Level 10-13 Sanctuary Aura When Equipped",
+            "Indestructible",
+            "+3 To Light Radius",
+            "Ladder Only"
+        ]
+    },
+    {
+        "name": "Frostwind",
+        "unidItem": "Cryptic Sword",
+        "cLevel": 70,
+        "requirements": [
+            "Required Level: 70",
+            "Required Strength: 99",
+            "Required Dexterity: 109"
+        ],
+        "properties": [
+            "+180-230% EDmg",
+            "Adds 237-486 Cold Dmg, 6 sec. Duration",
+            "+7-14 To Arctic Blast",
+            "Freezes Target +4",
+            "Cold Absorb 7-15%",
+            "Half Freeze Duration",
+            "+25% IAS"
+        ]
+    },
+    {
+        "name": "Flamebellow",
+        "unidItem": "Balrog Blade",
+        "cLevel": 71,
+        "requirements": [
+            "Required Level: 71",
+            "Required Strength: 185",
+            "Required Dexterity: 87"
+        ],
+        "properties": [
+            "+170-240% EDmg",
+            "Adds 233-482 Fire Dmg",
+            "+3 To Fire Skills",
+            "+12-18 To Inferno",
+            "+10-20 To Str",
+            "+5-10 To Vit",
+            "12% Chance To Cast Level 16 Firestorm On Striking",
+            "Fire Absorb 20-30%"
+        ]
+    },
+    {
+        "name": "Doombringer",
+        "unidItem": "Champion Sword",
+        "cLevel": 69,
+        "requirements": [
+            "Required Level: 69",
+            "Required Strength: 163",
+            "Required Dexterity: 103"
+        ],
+        "properties": [
+            "+180-250% EDmg",
+            "Adds 30-100 Dmg",
+            "8% Chance To Cast Level 3 Weaken On Striking",
+            "40% Bonus To AR",
+            "Increase Max Life 20%",
+            "5-7% LL Per Hit",
+            "Indestructible"
+        ]
+    },
+    {
+        "name": "The Grandfather",
+        "unidItem": "Colossus Blade",
+        "cLevel": 81,
+        "requirements": [
+            "Required Level: 81",
+            "Required Strength: 189",
+            "Required Dexterity: 110"
+        ],
+        "properties": [
+            "+150-250% EDmg",
+            "+ (2.5 Per Character Level) 2-247 To Max Dmg",
+            "+50% Bonus To AR",
+            "+80 To Life",
+            "+20 To All Attributes",
+            "Indestructible"
+        ]
+    },
+    {
+        "name": "Bane Ash",
+        "unidItem": "Short Staff",
+        "cLevel": 5,
+        "requirements": [
+            "Required Level: 5"
+        ],
+        "properties": [
+            "+50-60% EDmg",
+            "+50% Dmg To Undead",
+            "20% IAS",
+            "+30 To Mana",
+            "Fire Resist +50%",
+            "Adds 4-6 Fire Dmg",
+            "+5 To Fire Bolt (Sorceress Only)",
+            "+2 To Warmth (Sorceress Only)"
+        ]
+    },
+    {
+        "name": "Serpent Lord",
+        "unidItem": "Long Staff",
+        "cLevel": 9,
+        "requirements": [
+            "Required Level: 9"
+        ],
+        "properties": [
+            "+30-40% EDmg (varies)",
+            "+50% Dmg To Undead",
+            "+12 Poison Dmg Over 3 Seconds",
+            "100% ML Per Hit",
+            "-50% Target Def",
+            "+10 to Mana",
+            "Poison Resist +50%",
+            "-1 To Light Radius"
+        ]
+    },
+    {
+        "name": "Spire of Lazarus",
+        "unidItem": "Gnarled Staff",
+        "cLevel": 18,
+        "requirements": [
+            "Required Level: 18"
+        ],
+        "properties": [
+            "+50% Dmg To Undead",
+            "Adds 1-28 Lightning Dmg",
+            "+1 To Sorceress Skill Levels",
+            "+2 To Lightning (Sorceress Only)",
+            "+1 To Chain Lightning (Sorceress Only)",
+            "+3 To Static Field (Sorceress Only)",
+            "Regenerate Mana 43%",
+            "+15 To Energy",
+            "Dmg Reduced By 5",
+            "Lightning Resist +75%"
+        ]
+    },
+    {
+        "name": "The Salamander",
+        "unidItem": "Battle Staff",
+        "cLevel": 21,
+        "requirements": [
+            "Required Level: 21"
+        ],
+        "properties": [
+            "+50% Dmg To Undead",
+            "Adds 15-32 Fire Dmg",
+            "Fire Resist +30%",
+            "+2 To Fire Skills",
+            "+3 To Warmth (Sorceress Only)",
+            "+2 To Fire Ball (Sorceress Only)",
+            "+1 To Fire Wall (Sorceress Only)"
+        ]
+    },
+    {
+        "name": "The Iron Jang Bong",
+        "unidItem": "War Staff",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28"
+        ],
+        "properties": [
+            "+100% EDmg",
+            "+50% Dmg To Undead",
+            "50% bonus to AR",
+            "20% FCR",
+            "+2 to Sorceress Skill Levels",
+            "+3 To Frost Nova (Sorceress Only)",
+            "+2 To Blaze (Sorceress Only)",
+            "+2 To Nova (Sorceress Only)",
+            "+30 Def"
+        ]
+    },
+    {
+        "name": "Razorswitch",
+        "unidItem": "Jo Staff",
+        "cLevel": 28,
+        "requirements": [
+            "Required Strength: 25",
+            "Required Level: 28"
+        ],
+        "properties": [
+            "+1 to All Skills",
+            "+30% FCR",
+            "+80 to Life",
+            "+175 to Mana",
+            "All Res + 50",
+            "Magic Dmg Reduced by 15",
+            "Attacker Takes Dmg of 15",
+            "+50% Dmg to Undead"
+        ]
+    },
+    {
+        "name": "Ribcracker",
+        "unidItem": "Quarterstaff",
+        "cLevel": 31,
+        "requirements": [
+            "Required Level: 31",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+200-300% EDmg",
+            "Adds 30-65 Dmg",
+            "+50% Dmg To Undead",
+            "50% Chance Of CB",
+            "50% IAS",
+            "50% FHR",
+            "+100% EDef",
+            "+100 Def",
+            "+15 To Dex"
+        ]
+    },
+    {
+        "name": "Chromatic Ire",
+        "unidItem": "Cedar Staff",
+        "cLevel": 35,
+        "requirements": [
+            "Required Level: 35",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+50% Dmg To Undead",
+            "20% FCR",
+            "+3 To Sorceress Skill Levels",
+            "Increase Max Life 20-25%",
+            "All Res +20-40",
+            "Attacker Takes Lightning Of 20",
+            "+1 To Cold Mastery (Sorceress Only)",
+            "+1 To Lightning Mastery (Sorceress Only)",
+            "+1 To Fire Mastery (Sorceress Only)"
+        ]
+    },
+    {
+        "name": "Warpspear",
+        "unidItem": "Gothic Staff",
+        "cLevel": 39,
+        "requirements": [
+            "Required Level: 39",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+50% Dmg To Undead",
+            "Ignore Target's Def",
+            "+250 Def vs. Missiles",
+            "+3 To Sorceress Skill Levels",
+            "+3 To Energy Shield (Sorceress Only)",
+            "+3 To Telekinesis (Sorceress Only)",
+            "+3 To Teleport (Sorceress Only)"
+        ]
+    },
+    {
+        "name": "Skull Collector",
+        "unidItem": "Rune Staff",
+        "cLevel": 41,
+        "requirements": [
+            "Required Level: 41",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+50% Dmg To Undead",
+            "+20 To Mana Per Kill",
+            "Increase Max Mana 20%",
+            "+ 1-99% MF(+1 Per Character Level)",
+            "+2 To All Skills"
+        ]
+    },
+    {
+        "name": "Ondal's Wisdom",
+        "unidItem": "Elder Staff",
+        "cLevel": 66,
+        "requirements": [
+            "Required Level: 66",
+            "Required Strength: 44",
+            "Required Dexterity: 37"
+        ],
+        "properties": [
+            "+2-4 To All Skills",
+            "+45% FCR",
+            "+450-550 Def",
+            "+40-50 To Energy",
+            "Magic Dmg Reduced by 5-8",
+            "+5% To Experience Gained",
+            "+50% Dmg To Undead"
+        ]
+    },
+    {
+        "name": "Mang Song's Lesson",
+        "unidItem": "Archon Staff",
+        "cLevel": 82,
+        "requirements": [
+            "Required Level: 82",
+            "Required Strength: 34"
+        ],
+        "properties": [
+            "+5 To All Skills",
+            "+30% FCR",
+            "-(7-15)% To Enemy Lightning Resistance",
+            "-(7-15)% To Enemy Cold Resistance",
+            "-(7-15)% To Enemy Fire Resistance",
+            "Regenerate Mana 10%",
+            "+50% Dmg To Undead"
+        ]
+    },
+    {
+        "name": "The Dragon Chang",
+        "unidItem": "Spear",
+        "cLevel": 8,
+        "requirements": [
+            "Required Level: 8",
+            "Required Dexterity: 20"
+        ],
+        "properties": [
+            "+100% Dmg To Undead",
+            "+10 to Minimum Dmg",
+            "Adds 3-6 Fire Dmg",
+            "+35 to AR",
+            "+2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Razortine",
+        "unidItem": "Trident",
+        "cLevel": 12,
+        "requirements": [
+            "Required Level: 12",
+            "Required Strength: 38",
+            "Required Dexterity: 24"
+        ],
+        "properties": [
+            "+30-50% EDmg",
+            "Slows Target By 25%",
+            "30% IAS",
+            "-50% target defense",
+            "+8 To Dex",
+            "+15 To Str"
+        ]
+    },
+    {
+        "name": "Bloodthief",
+        "unidItem": "Brandistock",
+        "cLevel": 17,
+        "requirements": [
+            "Required Dexterity: 50",
+            "Required Strength: 40",
+            "Required Level: 17"
+        ],
+        "properties": [
+            "+59% EDmg",
+            "9% Life stolen per hit",
+            "35% Chance of OW",
+            "+10 to Strength",
+            "+26 to Life"
+        ]
+    },
+    {
+        "name": "Lance of Yaggai",
+        "unidItem": "Spetum",
+        "cLevel": 22,
+        "requirements": [
+            "Required Level: 22",
+            "Required Strength: 54",
+            "Required Dexterity: 35"
+        ],
+        "properties": [
+            "Adds 1-60 Lightning Dmg",
+            "All Res +15",
+            "40% IAS",
+            "Attacker takes damage of 8"
+        ]
+    },
+    {
+        "name": "The Tannr Gorerod",
+        "unidItem": "Pike",
+        "cLevel": 27,
+        "requirements": [
+            "Required Level: 27",
+            "Required Strength: 60",
+            "Required Dexterity: 45"
+        ],
+        "properties": [
+            "+80-100% EDmg",
+            "Adds 23-54 Fire Dmg",
+            "+60 to AR",
+            "Fire Resist +15%",
+            "15% To Max Fire Resist",
+            "+30 to Life",
+            "+3 To Light Radius"
+        ]
+    },
+    {
+        "name": "The Impaler",
+        "unidItem": "War Spear",
+        "cLevel": 31,
+        "requirements": [
+            "Required Level: 31",
+            "Required Strength: 25",
+            "Required Dexterity: 25"
+        ],
+        "properties": [
+            "+140-170% EDmg",
+            "40% Chance Of OW",
+            "+20% IAS",
+            "Ignore Target's Def",
+            "+150 To AR",
+            "Prevent Monster Heal",
+            "+5 To Impale (Amazon Only)",
+            "+3 To Power Strike (Amazon Only)"
+        ]
+    },
+    {
+        "name": "Kelpie Snare",
+        "unidItem": "Fuscina",
+        "cLevel": 33,
+        "requirements": [
+            "Required Level: 33",
+            "Required Strength: 77",
+            "Required Dexterity: 25"
+        ],
+        "properties": [
+            "+140-180% EDmg",
+            "Adds 30-50 Dmg",
+            "Slows Target By 75%",
+            "+1-123 To Life (+1.25 Per Character Level)",
+            "Fire Resist +50%",
+            "+10 To Str"
+        ]
+    },
+    {
+        "name": "Soulfeast Tine",
+        "unidItem": "War Fork",
+        "cLevel": 35,
+        "requirements": [
+            "Required Level: 35",
+            "Required Strength: 64",
+            "Required Dexterity: 76"
+        ],
+        "properties": [
+            "+150-190% EDmg",
+            "+150-250 To AR",
+            "Requirements -20%",
+            "7% LL Per Hit",
+            "7% ML Per Hit",
+            "20% Stamina Drain"
+        ]
+    },
+    {
+        "name": "Hone Sundan",
+        "unidItem": "Yari",
+        "cLevel": 37,
+        "requirements": [
+            "Required Level: 37",
+            "Required Strength: 101"
+        ],
+        "properties": [
+            "+160-200% EDmg",
+            "Adds 20-40 Dmg",
+            "45% Chance of CB",
+            "Repairs 1 Durability In 10 Seconds",
+            "Socketed (3)"
+        ]
+    },
+    {
+        "name": "Spire of Honor",
+        "unidItem": "Lance",
+        "cLevel": 39,
+        "requirements": [
+            "Required Level: 39",
+            "Required Strength: 110",
+            "Required Dexterity: 88"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "Adds 20-40 Dmg",
+            "+ (1.5 Per Character Level) 1-148 % Dmg To Demons",
+            "20% FHR",
+            "Replenish Life +20",
+            "+25% Bonus To AR",
+            "+25% EDef",
+            "+3 To Combat Skills (Paladin Only)",
+            "+3 To Light Radius"
+        ]
+    },
+    {
+        "name": "Arioc's Needle",
+        "unidItem": "Hyperion Spear",
+        "cLevel": 81,
+        "requirements": [
+            "Required Level: 81",
+            "Required Strength: 155",
+            "Required Dexterity: 120"
+        ],
+        "properties": [
+            "+180-230% EDmg",
+            "50% Deadly Strike",
+            "+394 Poison Dmg Over 10 Seconds",
+            "+30% IAS",
+            "+2-4 To All Skills",
+            "Ignore Target's Def"
+        ]
+    },
+    {
+        "name": "Viperfork",
+        "unidItem": "Mancatcher",
+        "cLevel": 71,
+        "requirements": [
+            "Required Level: 71",
+            "Required Strength: 132",
+            "Required Dexterity: 134"
+        ],
+        "properties": [
+            "+190-240% EDmg",
+            "+200-250 To AR",
+            "+50% IAS",
+            "+325 Poison Dmg Over 10 Seconds",
+            "Poison Resist +30-50%",
+            "15% Chance To Cast Level 9 Poison Explosion On Striking"
+        ]
+    },
+    {
+        "name": "Steel Pillar",
+        "unidItem": "War Pike",
+        "cLevel": 69,
+        "requirements": [
+            "Required Level: 69",
+            "Required Strength: 165",
+            "Required Dexterity: 106"
+        ],
+        "properties": [
+            "+210-260% EDmg",
+            "25% Chance of CB",
+            "-20% Target Def",
+            "+25% IAS",
+            "+50-80% EDef",
+            "Indestructible"
+        ]
+    },
+    {
+        "name": "Knell Striker",
+        "unidItem": "Scepter",
+        "cLevel": 5,
+        "requirements": [
+            "Required Level: 5",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+70-80% EDmg",
+            "+50% Dmg to Undead",
+            "25% Chance Of CB",
+            "+35 To AR",
+            "Poison Resist +20%",
+            "Fire Resist +20%",
+            "+15 To Mana"
+        ]
+    },
+    {
+        "name": "Rusthandle",
+        "unidItem": "Grand Scepter",
+        "cLevel": 18,
+        "requirements": [
+            "Required Level: 18",
+            "Required Strength: 37"
+        ],
+        "properties": [
+            "+50-60% EDmg",
+            "Adds 3-7 damage",
+            "+100-110% Dmg to Undead",
+            "8% Life stolen per hit",
+            "+1 To Paladin Skill Levels",
+            "Magic damage reduced by 1",
+            "+3 To Thorns (Paladin Only)",
+            "+1-3 To Vengeance (Paladin Only)"
+        ]
+    },
+    {
+        "name": "Stormeye",
+        "unidItem": "War Scepter",
+        "cLevel": 30,
+        "requirements": [
+            "Required Level: 30",
+            "Required Strength: 55"
+        ],
+        "properties": [
+            "+80-120% EDmg",
+            "+50% Dmg to Undead",
+            "Adds 3-5 Cold Dmg, Cold Duration: 3 seconds",
+            "Adds 1-6 Lightning Dmg",
+            "Replenish Life +10",
+            "+1 To Fist of the Heavens (Paladin Only)",
+            "+3 To Holy Shock (Paladin Only)",
+            "+3-5 To Resist Lightning (Paladin Only)"
+        ]
+    },
+    {
+        "name": "Zakarum's Hand",
+        "unidItem": "Rune Scepter",
+        "cLevel": 37,
+        "requirements": [
+            "Required Level: 37",
+            "Required Strength: 58"
+        ],
+        "properties": [
+            "+180-220% EDmg",
+            "+50% Dmg to Undead",
+            "30% IAS",
+            "6% Chance To Cast Level 5 Blizzard On Striking",
+            "8% ML Per Hit",
+            "Ignore Target's Def",
+            "Regenerate Mana 10%",
+            "Heal Stamina Plus 15%",
+            "+2 To Holy Shock (Paladin Only)",
+            "+2 To Holy Freeze (Paladin Only)"
+        ]
+    },
+    {
+        "name": "The Fetid Sprinkler",
+        "unidItem": "Holy Water Sprinkler",
+        "cLevel": 38,
+        "requirements": [
+            "Required Level: 38",
+            "Required Strength: 76"
+        ],
+        "properties": [
+            "+160-190% EDmg",
+            "Adds 15-25 Dmg",
+            "+50% Dmg to Undead",
+            "+2 To Paladin Skill Levels",
+            "10% Chance To Cast Level 1 Confuse On Striking",
+            "5% Chance To Cast Level 1 Decrepify On Striking",
+            "+160 Poison Dmg Over 4 Seconds",
+            "+150-200 To AR"
+        ]
+    },
+    {
+        "name": "Hand of Blessed Light",
+        "unidItem": "Divine Scepter",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 103"
+        ],
+        "properties": [
+            "+130-160% EDmg",
+            "Adds 20-45 Dmg",
+            "+50% Dmg to Undead",
+            "+2 To Paladin Skill Levels",
+            "100% Bonus To AR",
+            "Regenerate Mana 15%",
+            "+50 Def",
+            "5% Chance To Cast Level 4 Fist of the Heavens On Striking",
+            "+2 To Fist Of The Heavens (Paladin Only)",
+            "+4 Holy Bolt (Paladin Only)",
+            "+4 To Light Radius"
+        ]
+    },
+    {
+        "name": "Heaven's Light",
+        "unidItem": "Mighty Scepter",
+        "cLevel": 61,
+        "requirements": [
+            "Required Level: 61",
+            "Required Strength: 125",
+            "Required Dexterity: 65"
+        ],
+        "properties": [
+            "+250-300% EDmg",
+            "+50% Dmg to Undead",
+            "-33% Target Def",
+            "+20% IAS",
+            "33% Chance of CB",
+            "+15-20 Life After Each Demon Kill",
+            "+2-3 To Paladin Skill Levels",
+            "+3 To Light Radius",
+            "Socketed (1-2)"
+        ]
+    },
+    {
+        "name": "The Redeemer",
+        "unidItem": "Mighty Scepter",
+        "cLevel": 72,
+        "requirements": [
+            "Required Level: 72",
+            "Required Strength: 50",
+            "Required Dexterity: 26"
+        ],
+        "properties": [
+            "+250-300% EDmg",
+            "Dmg +60-120",
+            "+50% Dmg to Undead",
+            "+200-250% Dmg To Demons",
+            "+2 To Paladin Skill Levels",
+            "-33% Target Def",
+            "+2-4 To Redemption (Paladin Only)",
+            "+2-4 To Holy Bolt (Paladin Only)",
+            "+3 To Light Radius",
+            "Requirements -60%"
+        ]
+    },
+    {
+        "name": "Astreon's Iron Ward",
+        "unidItem": "Caduceus",
+        "cLevel": 66,
+        "requirements": [
+            "Required Level: 66",
+            "Required Strength: 97",
+            "Required Dexterity: 70"
+        ],
+        "properties": [
+            "+240-290% EDmg",
+            "Dmg +40-85",
+            "+50% Dmg to Undead",
+            "Adds 80-240 Magic Dmg",
+            "33% Chance of CB",
+            "Slows Target By 25%",
+            "Dmg Reduced By 4-7",
+            "+2-4 To Combat Skills (Paladin Only)",
+            "+10% IAS",
+            "150-200% Bonus To AR"
+        ]
+    },
+    {
+        "name": "Dimoak's Hew",
+        "unidItem": "Bardiche",
+        "cLevel": 8,
+        "requirements": [
+            "Required Level: 8",
+            "Required Strength: 40"
+        ],
+        "properties": [
+            "+100% EDmg",
+            "+20% IAS",
+            "+15 Dex",
+            "-8 Def"
+        ]
+    },
+    {
+        "name": "Steelgoad",
+        "unidItem": "Voulge",
+        "cLevel": 14,
+        "requirements": [
+            "Required Level: 14",
+            "Required Strength: 50"
+        ],
+        "properties": [
+            "+60-80% EDmg",
+            "30% Deadly Strike",
+            "+30 to AR",
+            "All Res +5",
+            "Hit Causes monster to flee 75%"
+        ]
+    },
+    {
+        "name": "Soul Harvest",
+        "unidItem": "Scythe",
+        "cLevel": 19,
+        "requirements": [
+            "Required Level: 19",
+            "Required Strength: 41",
+            "Required Dexterity: 41"
+        ],
+        "properties": [
+            "+50-90% EDmg",
+            "30% chance of OW",
+            "10% ML Per Hit",
+            "+45 To AR",
+            "+5 To Energy",
+            "All Res +20"
+        ]
+    },
+    {
+        "name": "The Battlebranch",
+        "unidItem": "Poleaxe",
+        "cLevel": 25,
+        "requirements": [
+            "Required Strength: 62",
+            "Required Level: 25"
+        ],
+        "properties": [
+            "+30% IAS",
+            "+68% EDmg",
+            "+66 to AR",
+            "7% Life stolen per hit",
+            "+10 to Dex"
+        ]
+    },
+    {
+        "name": "Woestave",
+        "unidItem": "Halberd",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28",
+            "Required Strength: 75",
+            "Required Dexterity: 47"
+        ],
+        "properties": [
+            "+20-40% EDmg",
+            "50% Chance Of OW",
+            "Slows Target By 50%",
+            "Hit Blinds Target +3",
+            "-50 To Monster Def Per Hit",
+            "Freezes Target",
+            "Prevent Monster Heal",
+            "-3 To Light Radius"
+        ]
+    },
+    {
+        "name": "The Grim Reaper",
+        "unidItem": "War Scythe",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 80",
+            "Required Dexterity: 80"
+        ],
+        "properties": [
+            "+20% EDmg",
+            "+15 To Minimum Dmg",
+            "100% Deadly Strike",
+            "5% Mana stolen per hit",
+            "Prevent Monster Heal"
+        ]
+    },
+    {
+        "name": "The Meat Scraper",
+        "unidItem": "Lochaber Axe",
+        "cLevel": 41,
+        "requirements": [
+            "Required Level: 41",
+            "Required Strength: 80"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "50% Chance Of OW",
+            "30% IAS",
+            "10% LL Per Hit",
+            "25% MF",
+            "+3 To Masteries (Barbarian Only)"
+        ]
+    },
+    {
+        "name": "Blackleach Blade",
+        "unidItem": "Bill",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 72"
+        ],
+        "properties": [
+            "+100-140% EDmg",
+            "+ (1.25 Per Character Level) 1-123 To Max Dmg",
+            "5% Chance To Cast Level 5 Weaken On Striking",
+            "Requirements -25%",
+            "-2 To Light Radius",
+            "8% LL Per Hit"
+        ]
+    },
+    {
+        "name": "Athena's Wrath",
+        "unidItem": "Battle Scythe",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 82",
+            "Required Dexterity: 82"
+        ],
+        "properties": [
+            "+150-180% EDmg",
+            "+ (1 Per Character Level) 1-99 To Max Dmg",
+            "+ (1 Per Character Level) 1-99 To Life",
+            "30% IAS",
+            "+1-3 To Druid Skill Levels",
+            "+15 To Dex"
+        ]
+    },
+    {
+        "name": "Pierre Tombale Couant",
+        "unidItem": "Partizan",
+        "cLevel": 43,
+        "requirements": [
+            "Required Level: 43",
+            "Required Strength: 113",
+            "Required Dexterity: 67"
+        ],
+        "properties": [
+            "+160-220% EDmg",
+            "Adds 12-20 Dmg",
+            "55% Deadly Strike",
+            "+100-200 To AR",
+            "+3 To Barbarian Skill Levels",
+            "6% ML Per Hit",
+            "30% FHR"
+        ]
+    },
+    {
+        "name": "Husoldal Evo",
+        "unidItem": "Bec-De-Corbin",
+        "cLevel": 44,
+        "requirements": [
+            "Required Level: 44",
+            "Required Strength: 133",
+            "Required Dexterity: 91"
+        ],
+        "properties": [
+            "+160-200% EDmg",
+            "Adds 20-32 Dmg",
+            "20% IAS",
+            "+200-250 To AR",
+            "Prevent Monster Heal",
+            "Replenish Life +20"
+        ]
+    },
+    {
+        "name": "Grim's Burning Dead",
+        "unidItem": "Grim Scythe",
+        "cLevel": 45,
+        "requirements": [
+            "Required Level: 45",
+            "Required Strength: 70",
+            "Required Dexterity: 70"
+        ],
+        "properties": [
+            "+140-180% EDmg",
+            "Adds 131-232 Fire Dmg",
+            "+3 To Necromancer Skill Levels",
+            "-50% Target Def",
+            "+20% EDef",
+            "+200-250 To AR",
+            "Fire Resist +45%",
+            "Requirements -50%",
+            "Attacker Takes Dmg of 8"
+        ]
+    },
+    {
+        "name": "Bonehew",
+        "unidItem": "Ogre Axe",
+        "cLevel": 64,
+        "requirements": [
+            "Required Level: 64",
+            "Required Strength: 195",
+            "Required Dexterity: 75"
+        ],
+        "properties": [
+            "+270-320% EDmg",
+            "Level 14 Corpse Explosion (30 charges)",
+            "Prevent Monster Heal",
+            "30% IAS",
+            "50% Chance To Cast Level 16 Bone Spear On Striking",
+            "Socketed (2)"
+        ]
+    },
+    {
+        "name": "The Reaper's Toll",
+        "unidItem": "Thresher",
+        "cLevel": 75,
+        "requirements": [
+            "Required Level: 75",
+            "Required Strength: 114",
+            "Required Dexterity: 89"
+        ],
+        "properties": [
+            "+190-240% EDmg",
+            "Ignore Target's Def",
+            "Adds 4-44 Cold Dmg",
+            "11-15% LL Per Hit",
+            "33% Deadly Strike",
+            "33% Chance To Cast Level 1 Decrepify On Striking",
+            "Requirements -25%"
+        ]
+    },
+    {
+        "name": "Tomb Reaver",
+        "unidItem": "Cryptic Axe",
+        "cLevel": 84,
+        "requirements": [
+            "Required Level: 84",
+            "Required Strength: 165",
+            "Required Dexterity: 103"
+        ],
+        "properties": [
+            "+200-280% EDmg",
+            "+150-230% Dmg To Undead",
+            "+60% IAS",
+            "+250-350 To AR Against Undead",
+            "All Res +30-50",
+            "10% Reanimate As: Returned",
+            "+10-14 Life Per Kill",
+            "+50-80% Better Chance of Getting Magic Items",
+            "+4 To Light Radius",
+            "Socketed (1-3)"
+        ]
+    },
+    {
+        "name": "Stormspire",
+        "unidItem": "Giant Thresher",
+        "cLevel": 70,
+        "requirements": [
+            "Required Level: 70",
+            "Required Strength: 188",
+            "Required Dexterity: 140"
+        ],
+        "properties": [
+            "150-250% EDmg",
+            "Adds 1-237 Lightning Dmg",
+            "2% Chance To Cast Level 20 Charged Bolt When Struck",
+            "5% Chance To Cast Level 5 Chain Lightning When Struck",
+            "30% IAS",
+            "Lightning Resist +50%",
+            "+10 To Str",
+            "Attacker Takes Lightning Dmg of 27",
+            "Indestructible"
+        ]
+    },
+    {
+        "name": "The Oculus",
+        "unidItem": "Swirling Crystal",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42"
+        ],
+        "properties": [
+            "+3 To Sorceress Skill Levels",
+            "+5 To Mana Per Kill",
+            "All Res +20",
+            "25% Chance To Cast Level 1 Teleport When Struck",
+            "+30% FCR",
+            "+20 To Vit",
+            "+20 To Energy",
+            "+20% EDef",
+            "50% MF"
+        ]
+    },
+    {
+        "name": "Eschuta's Temper",
+        "unidItem": "Eldritch Orb",
+        "cLevel": 72,
+        "requirements": [
+            "Required Level: 72"
+        ],
+        "properties": [
+            "+1-3 To Sorceress Skill Levels",
+            "+40% FCR",
+            "+10-20% To Fire Skill Dmg",
+            "+10-20% To Lightning Skill Dmg",
+            "+20-30 To Energy"
+        ]
+    },
+    {
+        "name": "Death's Fathom",
+        "unidItem": "Dimensional Shard",
+        "cLevel": 73,
+        "requirements": [
+            "Required Level: 73"
+        ],
+        "properties": [
+            "+3 To Sorceress Skill Levels",
+            "+20% FCR",
+            "+15-30% To Cold Skill Dmg",
+            "Lightning Resist +25-40%",
+            "Fire Resist +25-40%"
+        ]
+    },
+    {
+        "name": "Bartuc's Cut-Throat",
+        "unidItem": "Greater Talons",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 79",
+            "Required Dexterity: 79"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "Adds 25-50 Dmg",
+            "30% FHR",
+            "20% Bonus To AR",
+            "5-9% LL Per Hit",
+            "+20 To Str",
+            "+20 To Dex",
+            "+2 To Assassin Skill Levels",
+            "+1 To Martial Arts Skills (Assassin Only)"
+        ]
+    },
+    {
+        "name": "Jade Talon",
+        "unidItem": "Wrist Sword",
+        "cLevel": 66,
+        "requirements": [
+            "Required Level: 66",
+            "Required Strength: 105",
+            "Required Dexterity: 105"
+        ],
+        "properties": [
+            "+190-240% EDmg",
+            "+1-2 To Martial Arts (Assassin Only)",
+            "+1-2 To Shadow Disciplines (Assassin Only)",
+            "+30% FHR",
+            "10-15% ML Per Hit",
+            "All Res +40-50"
+        ]
+    },
+    {
+        "name": "Shadow Killer",
+        "unidItem": "Battle Cestus",
+        "cLevel": 78,
+        "requirements": [
+            "Required Level: 78",
+            "Required Strength: 100",
+            "Required Dexterity: 100"
+        ],
+        "properties": [
+            "+170-220% EDmg",
+            "-25% Target Def",
+            "Freezes Target +2",
+            "+10-15 To Mana Per Kill",
+            "33% Chance To Cast Level 8 Frost Nova On Striking",
+            "Indestructible",
+            "Ethereal (Cannot Be Repaired)"
+        ]
+    },
+    {
+        "name": "Firelizard's Talons",
+        "unidItem": "Feral Claws",
+        "cLevel": 67,
+        "requirements": [
+            "Required Level: 67",
+            "Required Strength: 113",
+            "Required Dexterity: 113"
+        ],
+        "properties": [
+            "+200-270% EDmg",
+            "Adds 236-480 Fire Dmg",
+            "+15% IAS",
+            "+1-3 To Martial Arts (Assassin Only)",
+            "+1-2 To Wake of Inferno (Assassin Only)",
+            "+1-2 To Wake of Fire (Assassin Only)",
+            "Fire Resist +40-70%"
+        ]
+    },
+    {
+        "name": "Demon's Arch",
+        "unidItem": "Balrog Spear",
+        "cLevel": 68,
+        "requirements": [
+            "Required Level: 68",
+            "Required Strength: 127",
+            "Required Dexterity: 95"
+        ],
+        "properties": [
+            "+160-210% EDmg",
+            "Adds 232-323 Fire Dmg",
+            "Adds 23-333 Lightning Dmg",
+            "+30% IAS",
+            "6-12% LL Per Hit",
+            "Replenishes Quantity [1 in 3 sec.]"
+        ]
+    },
+    {
+        "name": "Wraith Flight",
+        "unidItem": "Ghost Glaive",
+        "cLevel": 76,
+        "requirements": [
+            "Required Level: 76",
+            "Required Strength: 79",
+            "Required Dexterity: 127"
+        ],
+        "properties": [
+            "+150-190% EDmg",
+            "9-13% LL Per Hit",
+            "+15 To Mana Per Kill",
+            "Replenishes Quantity [1 in 2 sec.]",
+            "Ethereal (Cannot Be Repaired)"
+        ]
+    },
+    {
+        "name": "Gargoyle's Bite",
+        "unidItem": "Winged Harpoon",
+        "cLevel": 70,
+        "requirements": [
+            "Required Level: 70",
+            "Required Strength: 76",
+            "Required Dexterity: 145"
+        ],
+        "properties": [
+            "+180-230% EDmg",
+            "+293 Poison Dmg Over 10 Seconds",
+            "Level 11 Plague Javelin (60 charges)",
+            "9-15% LL Per Hit",
+            "Replenishes Quantity [1 in 3 sec.]"
+        ]
+    },
+    {
+        "name": "Felloak",
+        "unidItem": "Club",
+        "cLevel": 3,
+        "requirements": [
+            "Required Level: 3"
+        ],
+        "properties": [
+            "+70-80% EDmg",
+            "+50% Dmg To Undead",
+            "Adds 6-8 Fire Dmg",
+            "Knockback",
+            "Lightning Resist +60%",
+            "Fire Resist +20%"
+        ]
+    },
+    {
+        "name": "Stoutnail",
+        "unidItem": "Spiked Club",
+        "cLevel": 5,
+        "requirements": [
+            "Required Level: 5"
+        ],
+        "properties": [
+            "+100% EDmg",
+            "+50% Dmg To Undead",
+            "+7 To Vit",
+            "Attacker Takes Dmg of 3-10",
+            "Magic Dmg Reduced By 2"
+        ]
+    },
+    {
+        "name": "Crushflange",
+        "unidItem": "Mace",
+        "cLevel": 9,
+        "requirements": [
+            "Required Level: 9",
+            "Required Strength: 27"
+        ],
+        "properties": [
+            "+50-60% EDmg",
+            "+50% Dmg to Undead",
+            "33% Chance Of CB",
+            "Knockback",
+            "Fire Resist +50%",
+            "+15 To Str",
+            "+2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Bloodrise",
+        "unidItem": "Morning Star",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15",
+            "Required Strength: 36"
+        ],
+        "properties": [
+            "+120% EDmg",
+            "+50% Dmg To Undead",
+            "25% Chance Of OW",
+            "10% IAS",
+            "5% LL Per Hit",
+            "50% bonus to AR",
+            "+3 To Sacrifice (Paladin Only)",
+            "+2 To Light Radius"
+        ]
+    },
+    {
+        "name": "The General's Tan Do Li Ga",
+        "unidItem": "Flail",
+        "cLevel": 21,
+        "requirements": [
+            "Required Level: 21",
+            "Required Strength: 41",
+            "Required Dexterity: 35"
+        ],
+        "properties": [
+            "+50-60% EDmg",
+            "+50% Dmg To Undead",
+            "Adds 1-20 Dmg",
+            "20% IAS",
+            "5% ML Per Hit",
+            "Slows Target By 50%",
+            "+25 Def"
+        ]
+    },
+    {
+        "name": "Ironstone",
+        "unidItem": "War Hammer",
+        "cLevel": 53,
+        "requirements": [
+            "Required Strength: 53",
+            "Required Level: 27"
+        ],
+        "properties": [
+            "+111% EDmg",
+            "+138 to AR",
+            "Adds 1-10 Lightning Dmg",
+            "+10 to Strength",
+            "+50% Dmg to Undead"
+        ]
+    },
+    {
+        "name": "Bonesnap",
+        "unidItem": "Maul",
+        "cLevel": 24,
+        "requirements": [
+            "Required Level: 24",
+            "Required Strength: 69"
+        ],
+        "properties": [
+            "+200-300% EDmg",
+            "+100% Dmg To Undead",
+            "40% chance of CB",
+            "Cold Resist +30%",
+            "Fire Resist +30%"
+        ]
+    },
+    {
+        "name": "Steeldriver",
+        "unidItem": "Great Maul",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 50"
+        ],
+        "properties": [
+            "+150-250% EDmg",
+            "+50% Dmg To Undead",
+            "40% IAS",
+            "Requirements -50%",
+            "Heal Stamina plus 25%"
+        ]
+    },
+    {
+        "name": "Dark Clan Crusher",
+        "unidItem": "Cudgel",
+        "cLevel": 34,
+        "requirements": [
+            "Required Level: 34",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+195% EDmg",
+            "+200% Dmg To Demons",
+            "+50% Dmg to Undead",
+            "+200 To AR Against Demons",
+            "+20-25% Bonus To AR",
+            "+15 Life After Each Demon Kill",
+            "+2 To Druid Skill Levels"
+        ]
+    },
+    {
+        "name": "Fleshrender",
+        "unidItem": "Barbed Club",
+        "cLevel": 38,
+        "requirements": [
+            "Required Level: 38",
+            "Required Strength: 30"
+        ],
+        "properties": [
+            "+130-200% EDmg",
+            "Adds 35-50 Dmg",
+            "+50% Dmg to Undead",
+            "20% Deadly Strike",
+            "20% Chance of CB",
+            "25% Chance of OW",
+            "+1 To Druid Skills",
+            "+2 To Shape Shifting Skills (Druid Only)",
+            "Prevent Monster Heal"
+        ]
+    },
+    {
+        "name": "Sureshrill Frost",
+        "unidItem": "Flanged Mace",
+        "cLevel": 39,
+        "requirements": [
+            "Required Level: 39",
+            "Required Strength: 61"
+        ],
+        "properties": [
+            "+150-180% EDmg",
+            "Adds 5-10 Dmg",
+            "+50% Dmg to Undead",
+            "Adds 63-112 Cold Dmg, 5 sec. Cold Duration (Normal)",
+            "Freezes Target +3",
+            "Level 9 Frozen Orb (50 Charges)",
+            "Cannot Be Frozen"
+        ]
+    },
+    {
+        "name": "Moonfall",
+        "unidItem": "Jagged Star",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 74"
+        ],
+        "properties": [
+            "+120-150% EDmg",
+            "Adds 10-15 Dmg",
+            "+50% Dmg to Undead",
+            "Adds 55-115 Fire Dmg",
+            "5% Chance To Cast Level 6 Meteor On Striking",
+            "Level 11 Meteor (60 Charges)",
+            "Magic Dmg Reduced By 9-12",
+            "+2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Baezil's Vortex",
+        "unidItem": "Knout",
+        "cLevel": 45,
+        "requirements": [
+            "Required Level: 45",
+            "Required Strength: 82",
+            "Required Dexterity: 73"
+        ],
+        "properties": [
+            "+160-200% EDmg",
+            "+50% Dmg to Undead",
+            "Adds 1-150 Lightning Dmg",
+            "20% IAS",
+            "5% Chance To Cast Level 8 Nova On Striking",
+            "Level 15 Nova (80 Charges)",
+            "Lightning Resist +25%",
+            "+100 To Mana"
+        ]
+    },
+    {
+        "name": "Earthshaker",
+        "unidItem": "Battle Hammer",
+        "cLevel": 43,
+        "requirements": [
+            "Required Level: 43",
+            "Required Strength: 100"
+        ],
+        "properties": [
+            "+180% EDmg",
+            "+50% Dmg to Undead",
+            "5% Chance To Cast Level 7 Fissure On Striking",
+            "+30% IAS",
+            "Hit Blinds Target",
+            "Knockback",
+            "+3 To Elemental Skills (Druid Only)"
+        ]
+    },
+    {
+        "name": "Bloodtree Stump",
+        "unidItem": "War Club",
+        "cLevel": 48,
+        "requirements": [
+            "Required Level: 48",
+            "Required Strength: 124"
+        ],
+        "properties": [
+            "+180-220% EDmg",
+            "+50% Dmg to Undead",
+            "50% Chance Of CB",
+            "All Res +20",
+            "+25 To Str",
+            "+2 To Masteries (Barbarian Only)",
+            "+3 To Mace Mastery (Barbarian Only)"
+        ]
+    },
+    {
+        "name": "The Gavel of Pain",
+        "unidItem": "Martel de Fer",
+        "cLevel": 45,
+        "requirements": [
+            "Required Level: 45",
+            "Required Strength: 169"
+        ],
+        "properties": [
+            "+130-160% EDmg",
+            "Adds 12-30 Dmg",
+            "+50% Dmg to Undead",
+            "5% Chance To Cast Level 1 Iron Maiden When Struck",
+            "5% Chance To Cast Level 1 Amplify Dmg On Striking",
+            "Level 8 Amplify Dmg (3 Charges)",
+            "Attacker Takes Dmg of 26",
+            "Indestructible"
+        ]
+    },
+    {
+        "name": "Nord's Tenderizer",
+        "unidItem": "Truncheon",
+        "cLevel": 68,
+        "requirements": [
+            "Required Level: 68",
+            "Required Strength: 88",
+            "Required Dexterity: 43"
+        ],
+        "properties": [
+            "+270-330% EDmg",
+            "+50% Dmg to Undead",
+            "Adds 205-455 Cold Dmg, 5 sec. Duration (Normal)",
+            "Freezes Target +2-4",
+            "Cold Absorb 5-15%",
+            "+25% IAS",
+            "Level 16 Blizzard (12 charges)",
+            "+150-180% Bonus To AR"
+        ]
+    },
+    {
+        "name": "Demon Limb",
+        "unidItem": "Tyrant Club",
+        "cLevel": 63,
+        "requirements": [
+            "Required Level: 63",
+            "Required Strength: 133"
+        ],
+        "properties": [
+            "+180-230% EDmg",
+            "+50% Dmg to Undead",
+            "+123% Dmg To Demons",
+            "Adds 222-333 Fire Dmg",
+            "7-13% LL Per Hit",
+            "Fire Resist +15-20%",
+            "Level 23 Enchant (20 Charges)",
+            "Repairs 1 Durability in 20 Seconds"
+        ]
+    },
+    {
+        "name": "Baranar's Star",
+        "unidItem": "Devil Star",
+        "cLevel": 65,
+        "requirements": [
+            "Required Level: 65",
+            "Required Strength: 153",
+            "Required Dexterity: 44"
+        ],
+        "properties": [
+            "+200% EDmg",
+            "+50% Dmg to Undead",
+            "Adds 1-200 Fire Dmg",
+            "Adds 1-200 Lightning Dmg",
+            "Adds 1-200 Cold Dmg, Duration 0-7 sec.",
+            "50% IAS",
+            "200% Bonus To AR",
+            "+15 To Dex",
+            "+15 To Str"
+        ]
+    },
+    {
+        "name": "Horizon's Tornado",
+        "unidItem": "Scourge",
+        "cLevel": 64,
+        "requirements": [
+            "Required Level: 64",
+            "Required Strength: 100",
+            "Required Dexterity: 62"
+        ],
+        "properties": [
+            "+230-280% EDmg",
+            "+50% Dmg to Undead",
+            "+50% IAS",
+            "Slows Target By 20%",
+            "20% Chance To Cast Level 15 Tornado On Striking",
+            "Requirements -20%"
+        ]
+    },
+    {
+        "name": "Stormlash",
+        "unidItem": "Scourge",
+        "cLevel": 82,
+        "requirements": [
+            "Required Level: 82",
+            "Required Strength: 125",
+            "Required Dexterity: 77"
+        ],
+        "properties": [
+            "+240-300% EDmg",
+            "+50% Dmg to Undead",
+            "Adds 1-473 Lightning Dmg",
+            "+30% IAS",
+            "+33% Chance of CB",
+            "20% Chance To Cast Level 18 Tornado On Striking",
+            "15% Chance To Cast Level 10 Static Field On Striking",
+            "+3-9 Lightning Absorb",
+            "Attacker Takes Lightning Dmg of 30"
+        ]
+    },
+    {
+        "name": "Stone Crusher",
+        "unidItem": "Legendary Mallet",
+        "cLevel": 68,
+        "requirements": [
+            "Required Level: 68",
+            "Required Strength: 189"
+        ],
+        "properties": [
+            "+280-320% EDmg",
+            "Dmg +10-30",
+            "50% Dmg to Undead",
+            "-25% Target Def",
+            "40% Chance of CB",
+            "-100 To Monster Def Per Hit",
+            "+20-30 To Str"
+        ]
+    },
+    {
+        "name": "Schaefer's Hammer",
+        "unidItem": "Legendary Mallet",
+        "cLevel": 79,
+        "requirements": [
+            "Required Level: 79",
+            "Required Strength: 189"
+        ],
+        "properties": [
+            "+100-130% EDmg",
+            "+ (2 Per Character Level) 2-198 To Max Dmg",
+            "Adds 50-200 Lightning Dmg",
+            "+50% Dmg to Undead",
+            "20% Chance To Cast Level 10 Static Field On Striking",
+            "20% IAS",
+            "+ (8 Per Character Level) 8-792 To AR",
+            "Lightning Resist +75%",
+            "+50 To Life",
+            "+1 To Light Radius",
+            "Indestructible"
+        ]
+    },
+    {
+        "name": "Windhammer",
+        "unidItem": "Ogre Maul",
+        "cLevel": 68,
+        "requirements": [
+            "Required Level: 68",
+            "Required Strength: 225"
+        ],
+        "properties": [
+            "+180-230% EDmg",
+            "50% Chance of CB",
+            "60% IAS",
+            "33% Chance To Cast Level 22 Twister On Striking",
+            "+50% Dmg to Undead"
+        ]
+    },
+    {
+        "name": "Earth Shifter",
+        "unidItem": "Thunder Maul",
+        "cLevel": 69,
+        "requirements": [
+            "Required Level: 69",
+            "Required Strength: 253"
+        ],
+        "properties": [
+            "+250-300% EDmg",
+            "+50% Dmg to Undead",
+            "+7 To Elemental Skills (Druid Only)",
+            "25% Chance To Cast Level 14 Fissure On Striking",
+            "10% IAS",
+            "33% Chance of CB",
+            "10% FCR",
+            "Level 14 Volcano (30 charges)"
+        ]
+    },
+    {
+        "name": "The Cranium Basher",
+        "unidItem": "Thunder Maul",
+        "cLevel": 87,
+        "requirements": [
+            "Required Level: 87",
+            "Required Strength: 253"
+        ],
+        "properties": [
+            "+200-240% EDmg",
+            "+20 To Minimum Dmg",
+            "+50% Dmg to Undead",
+            "75% Chance Of CB",
+            "4% Chance To Cast Level 1 Amplify Dmg On Striking",
+            "20% IAS",
+            "All Res +25",
+            "+25 To Str",
+            "+20 To Max Dmg (not shown)",
+            "Indestructible"
+        ]
+    },
+    {
+        "name": "Gull",
+        "unidItem": "Dagger",
+        "cLevel": 4,
+        "requirements": [
+            "Required Level: 4"
+        ],
+        "properties": [
+            "Adds 1-15 damage",
+            "100% Better Chance of Getting Magic Items",
+            "-5 to Mana"
+        ]
+    },
+    {
+        "name": "The Diggler",
+        "unidItem": "Dirk",
+        "cLevel": 11,
+        "requirements": [
+            "Required Level: 11",
+            "Required Dexterity: 25"
+        ],
+        "properties": [
+            "+50% EDmg",
+            "Ignore Target's Def",
+            "30% IAS",
+            "Cold Resist +25%",
+            "Fire Resist +25%",
+            "+10 To Dex"
+        ]
+    },
+    {
+        "name": "The Jade Tan Do",
+        "unidItem": "Kris",
+        "cLevel": 19,
+        "requirements": [
+            "Required Level: 19",
+            "Required Dexterity: 45"
+        ],
+        "properties": [
+            "+100-150 to AR",
+            "+180 Poison Dmg Over 4 Seconds",
+            "Poison Resist +95%",
+            "+20% To Max Poison Resist",
+            "Cannot Be Frozen"
+        ]
+    },
+    {
+        "name": "Spectral Shard",
+        "unidItem": "Blade",
+        "cLevel": 25,
+        "requirements": [
+            "Required Level: 25",
+            "Required Strength: 35",
+            "Required Dexterity: 51"
+        ],
+        "properties": [
+            "50% FCR",
+            "+55 To AR",
+            "All Res +10",
+            "+50 To Mana"
+        ]
+    },
+    {
+        "name": "Spineripper",
+        "unidItem": "Poignard",
+        "cLevel": 32,
+        "requirements": [
+            "Required Level: 32",
+            "Required Strength: 25"
+        ],
+        "properties": [
+            "+200-240% EDmg",
+            "Adds 15-27 Dmg",
+            "15% IAS",
+            "+1 To Necromancer Skill Levels",
+            "Prevent Monster Heal",
+            "Ignore Target's Def",
+            "8% LL Per Hit",
+            "+10 To Dex"
+        ]
+    },
+    {
+        "name": "Heart Carver",
+        "unidItem": "Rondel",
+        "cLevel": 36,
+        "requirements": [
+            "Required Level: 36",
+            "Required Strength: 25",
+            "Required Dexterity: 58"
+        ],
+        "properties": [
+            "+190-240% EDmg",
+            "Adds 15-35 Dmg",
+            "35% Deadly Strike",
+            "Ignore Target's Def",
+            "+4 To Grim Ward (Barbarian Only)",
+            "+4 To Find Item (Barbarian Only)",
+            "+4 To Find Potion (Barbarian Only)"
+        ]
+    },
+    {
+        "name": "Blackbog's Sharp",
+        "unidItem": "Cinquedeas",
+        "cLevel": 38,
+        "requirements": [
+            "Required Level 38",
+            "Required Strength: 25",
+            "Required Dexterity: 88"
+        ],
+        "properties": [
+            "+488 Poison Dmg Over 10 Seconds",
+            "Adds 15-45 Dmg",
+            "30% IAS",
+            "Slows Target By 50%",
+            "+50 Def",
+            "+4 To Poison Nova (Necromancer Only)",
+            "+4 To Poison Explosion (Necromancer Only)",
+            "+5 To Poison Dagger (Necromancer Only)"
+        ]
+    },
+    {
+        "name": "Stormspike",
+        "unidItem": "Stiletto",
+        "cLevel": 41,
+        "requirements": [
+            "Required Level 41",
+            "Required Strength: 47",
+            "Required Dexterity: 97"
+        ],
+        "properties": [
+            "+150% EDmg",
+            "Adds 1-120 Lightning Dmg",
+            "25% Chance To Cast Level 3 Charged Bolt When Struck",
+            "Lightning Resist +(1 Per Character Level) 1-99%",
+            "Attacker Takes Lightning Dmg of 20"
+        ]
+    },
+    {
+        "name": "Wizardspike",
+        "unidItem": "Bone Knife",
+        "cLevel": 61,
+        "requirements": [
+            "Required Level: 61",
+            "Required Strength: 38",
+            "Required Dexterity: 75"
+        ],
+        "properties": [
+            "+ (2 Per Character Level) 2-198 To Mana",
+            "50% FCR",
+            "Regenerate Mana 15%",
+            "Increase Max Mana 15%",
+            "All Res +75",
+            "Indestructible"
+        ]
+    },
+    {
+        "name": "Fleshripper",
+        "unidItem": "Fanged Knife",
+        "cLevel": 68,
+        "requirements": [
+            "Required Level: 68",
+            "Required Strength: 42",
+            "Required Dexterity: 86"
+        ],
+        "properties": [
+            "+200-300% EDmg",
+            "-50% Target Def",
+            "25% Chance of CB",
+            "33% Deadly Strike",
+            "50% Chance of OW",
+            "Prevent Monster Heal",
+            "Slows Target By 20%"
+        ]
+    },
+    {
+        "name": "Ghostflame",
+        "unidItem": "Legend Spike",
+        "cLevel": 66,
+        "requirements": [
+            "Required Level: 66",
+            "Required Strength: 55",
+            "Required Dexterity: 57"
+        ],
+        "properties": [
+            "+190-240% EDmg",
+            "Ignore Target's Def",
+            "+108 Magic Dmg",
+            "10-15% ML Per Hit",
+            "+2 To Light Radius",
+            "Indestructible",
+            "Ethereal (Cannot Be Repaired)"
+        ]
+    },
+    {
+        "name": "Leadcrow",
+        "unidItem": "Light Crossbow",
+        "cLevel": 9,
+        "requirements": [
+            "Required Level: 9",
+            "Required Strength: 21",
+            "Required Dexterity: 27"
+        ],
+        "properties": [
+            "+70% EDmg",
+            "25% Deadly Strike",
+            "+40 to AR",
+            "Poison Resist +30%",
+            "+10 to Life",
+            "+10 to Dex"
+        ]
+    },
+    {
+        "name": "Ichorsting",
+        "unidItem": "Crossbow",
+        "cLevel": 18,
+        "requirements": [
+            "Required Level: 18",
+            "Required Strength: 40",
+            "Required Dexterity: 33"
+        ],
+        "properties": [
+            "+50% EDmg",
+            "Adds 30 Poison Dmg Over 3 Seconds",
+            "20% IAS",
+            "Piercing Attack (50)",
+            "+50 to AR",
+            "+20 to Dex"
+        ]
+    },
+    {
+        "name": "Hellcast",
+        "unidItem": "Heavy Crossbow",
+        "cLevel": 27,
+        "requirements": [
+            "Required Level: 27",
+            "Required Strength: 60",
+            "Required Dexterity: 40"
+        ],
+        "properties": [
+            "+70-80% EDmg",
+            "Fires Explosive Arrows Or Bolts [Level 5]",
+            "Adds 15-35 Fire Dmg",
+            "20% IAS",
+            "+70 to AR",
+            "15% To Max Fire Resist",
+            "Fire Resist +15%"
+        ]
+    },
+    {
+        "name": "Doomslinger",
+        "unidItem": "Repeating Crossbow",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28",
+            "Required Strength: 40",
+            "Required Dexterity: 50"
+        ],
+        "properties": [
+            "+60-100% EDmg",
+            "Piercing Attack (35)",
+            "30% IAS",
+            "+1 To Amazon Skill Levels",
+            "+15 To Life"
+        ]
+    },
+    {
+        "name": "Langer Briser",
+        "unidItem": "Arbalest",
+        "cLevel": 32,
+        "requirements": [
+            "Required Level: 32",
+            "Required Strength: 52",
+            "Required Dexterity: 61"
+        ],
+        "properties": [
+            "+170-200% EDmg",
+            "+10-30 To Max Dmg",
+            "33% Chance Of OW",
+            "Adds 1-212 Lightning Dmg",
+            "+30 To Life",
+            "Knockback",
+            "30-60% MF"
+        ]
+    },
+    {
+        "name": "Pus Spitter",
+        "unidItem": "Siege Crossbow",
+        "cLevel": 36,
+        "requirements": [
+            "Required Level: 36",
+            "Required Strength: 32",
+            "Required Dexterity: 28"
+        ],
+        "properties": [
+            "+150-220% EDmg",
+            "+150 Poison Dmg Over 8 Seconds",
+            "Requirements -60%",
+            "9% Chance To Cast Level 6 Poison Nova When Struck",
+            "4% Chance To Cast Level 1 Lower Resist On Striking",
+            "+ (5 Per Character Level) 5-495 To AR",
+            "10% IAS",
+            "+2 To Necromancer Skill Levels"
+        ]
+    },
+    {
+        "name": "Buriza-Do Kyanon",
+        "unidItem": "Ballista",
+        "cLevel": 41,
+        "requirements": [
+            "Required Level: 41",
+            "Required Strength: 110",
+            "Required Dexterity: 80"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "+ (2.5 Per Character Level) 2-247 To Max Dmg",
+            "Adds 32-196 Cold Dmg - 8 Second Duration",
+            "Piercing Attack (100)",
+            "Freezes Target +3",
+            "+75-150 Def",
+            "+35 to Dex",
+            "80% IAS"
+        ]
+    },
+    {
+        "name": "Demon Machine",
+        "unidItem": "Chu-Ko-Nu",
+        "cLevel": 49,
+        "requirements": [
+            "Required Level: 49",
+            "Required Strength: 80",
+            "Required Dexterity: 95"
+        ],
+        "properties": [
+            "+123% EDmg",
+            "+66 To Max Dmg",
+            "Fires Explosive Bolts [Level 6]",
+            "+632 To AR",
+            "Piercing Attack (66)",
+            "+321 Def",
+            "+36 To Mana"
+        ]
+    },
+    {
+        "name": "Hellrack",
+        "unidItem": "Colossus Crossbow",
+        "cLevel": 76,
+        "requirements": [
+            "Required Level: 76",
+            "Required Strength: 163",
+            "Required Dexterity: 77"
+        ],
+        "properties": [
+            "+180-230% EDmg",
+            "100-150% Bonus To AR",
+            "Adds 63-324 Fire Dmg",
+            "Adds 63-324 Lightning Dmg",
+            "Adds 63-324 Cold Dmg",
+            "+20% IAS",
+            "Level 18 Immolation Arrow (150 charges)",
+            "Socketed (2)"
+        ]
+    },
+    {
+        "name": "Gut Siphon",
+        "unidItem": "Demon Crossbow",
+        "cLevel": 71,
+        "requirements": [
+            "Required Level: 71",
+            "Required Strength: 141",
+            "Required Dexterity: 98"
+        ],
+        "properties": [
+            "+160-220% EDmg",
+            "Piercing Attack [33]",
+            "12-18% LL Per Hit",
+            "33% Chance of OW",
+            "Slows Target by 25%"
+        ]
+    },
+    {
+        "name": "Pluckeye",
+        "unidItem": "Short Bow",
+        "cLevel": 7,
+        "requirements": [
+            "Required Level: 7",
+            "Required Dexterity: 15"
+        ],
+        "properties": [
+            "+100% EDmg",
+            "+28 to AR",
+            "3% ML Per Hit",
+            "+10 to Life",
+            "+2 To Mana Per Kill",
+            "+2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Witherstring",
+        "unidItem": "Hunter's Bow",
+        "cLevel": 13,
+        "requirements": [
+            "Required Level: 13",
+            "Required Dexterity: 28"
+        ],
+        "properties": [
+            "+40-50% EDmg",
+            "Fires Magic Arrows [Level 3]",
+            "Adds 1-3 Dmg",
+            "30% IAS",
+            "+50 To AR"
+        ]
+    },
+    {
+        "name": "Raven Claw",
+        "unidItem": "Long Bow",
+        "cLevel": 19,
+        "requirements": [
+            "Required Dexterity: 19",
+            "Required Strength: 22",
+            "Required Level: 15"
+        ],
+        "properties": [
+            "Fires Explosive Arrows or Bolts",
+            "+65% EDmg",
+            "50% Bonus to AR",
+            "+3 To Str",
+            "+3 to Dex"
+        ]
+    },
+    {
+        "name": "Rogue's Bow",
+        "unidItem": "Composite Bow",
+        "cLevel": 20,
+        "requirements": [
+            "Required Level: 20",
+            "Required Strength: 25",
+            "Required Dexterity: 35"
+        ],
+        "properties": [
+            "+40-60% EDmg",
+            "+100% Dmg to Undead",
+            "30% Deadly Strike",
+            "50% IAS",
+            "+60 to AR",
+            "All Res +10"
+        ]
+    },
+    {
+        "name": "Stormstrike",
+        "unidItem": "Short Battle Bow",
+        "cLevel": 25,
+        "requirements": [
+            "Required Level: 25",
+            "Required Strength: 30",
+            "Required Dexterity: 40"
+        ],
+        "properties": [
+            "+70-90% EDmg",
+            "Adds 1-30 Lightning damage",
+            "Piercing Attack (25)",
+            "+28 to AR",
+            "Lightning Resist +25%",
+            "+8 to Strength"
+        ]
+    },
+    {
+        "name": "Wizendraw",
+        "unidItem": "Long Battle Bow",
+        "cLevel": 26,
+        "requirements": [
+            "Required Level: 26",
+            "Required Strength: 40",
+            "Required Dexterity: 50"
+        ],
+        "properties": [
+            "+70-80% EDmg",
+            "+50-100 To AR",
+            "Fires Magic Arrows [Level 5]",
+            "20% IAS",
+            "Cold Resist 26%",
+            "+15 to Energy",
+            "+30 to Mana",
+            "-(20-35)% To Enemy Cold Resistance"
+        ]
+    },
+    {
+        "name": "Hellclap",
+        "unidItem": "Short War Bow",
+        "cLevel": 27,
+        "requirements": [
+            "Required Level: 27",
+            "Required Strength: 35",
+            "Required Dexterity: 55"
+        ],
+        "properties": [
+            "+70-90% EDmg",
+            "Adds 15-(30-50) Fire Dmg",
+            "10% IAS",
+            "+50-75 to AR",
+            "+1 To Fire Skills",
+            "Fire Resist +40%",
+            "+12 to Dex"
+        ]
+    },
+    {
+        "name": "Blastbark",
+        "unidItem": "Long War Bow",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28",
+            "Required Strength: 50",
+            "Required Dexterity: 65"
+        ],
+        "properties": [
+            "+70-130% EDmg",
+            "+1 To Amazon Skill Levels",
+            "3% Mana stolen per hit",
+            "+5 to Strength",
+            "+2 To Exploding Arrow (Amazon Only)"
+        ]
+    },
+    {
+        "name": "Skystrike",
+        "unidItem": "Edge Bow",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28",
+            "Required Strength: 25",
+            "Required Dexterity: 43"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "Adds 1-250 Lightning Dmg",
+            "2% Chance To Cast Level 6 Meteor On Striking",
+            "30% IAS",
+            "+100 To AR",
+            "+1 To Amazon Skill Levels",
+            "+10 to Energy"
+        ]
+    },
+    {
+        "name": "Riphook",
+        "unidItem": "Razor Bow",
+        "cLevel": 31,
+        "requirements": [
+            "Required Level: 31",
+            "Required Strength: 25",
+            "Required Dexterity: 62"
+        ],
+        "properties": [
+            "180-220% EDmg",
+            "Slows Target By 30%",
+            "30% Chance of OW",
+            "30% IAS",
+            "7-10% LL Per Hit",
+            "+35 To Mana"
+        ]
+    },
+    {
+        "name": "Kuko Shakaku",
+        "unidItem": "Cedar Bow",
+        "cLevel": 33,
+        "requirements": [
+            "Required Level: 33",
+            "Required Strength: 53",
+            "Required Dexterity: 49"
+        ],
+        "properties": [
+            "+150-180% EDmg",
+            "Fires Explosive Arrows Or Bolts [Level 7]",
+            "Piercing Attack (50)",
+            "Adds 40-180 Fire Dmg",
+            "+3 To Immolation Arrow (Amazon Only)",
+            "+3 To Bow and Crossbow Skills (Amazon Only)"
+        ]
+    },
+    {
+        "name": "Endlesshail",
+        "unidItem": "Double Bow",
+        "cLevel": 36,
+        "requirements": [
+            "Required Level: 36",
+            "Required Strength: 58",
+            "Required Dexterity: 73"
+        ],
+        "properties": [
+            "+180-220% EDmg",
+            "Adds 15-30 Cold Dmg - 3 Second Duration",
+            "Cold Resist +35%",
+            "+50 Def vs. Missiles",
+            "+40 To Mana",
+            "+3-5 To Strafe (Amazon Only)"
+        ]
+    },
+    {
+        "name": "Witchwild String",
+        "unidItem": "Short Siege Bow",
+        "cLevel": 39,
+        "requirements": [
+            "Required Level: 39",
+            "Required Strength: 65",
+            "Required Dexterity: 80"
+        ],
+        "properties": [
+            "+150-170% EDmg",
+            "Fires Magic Arrows [Level 20]",
+            "2% Chance To Cast Level 5 Amplify Dmg On Striking",
+            "+1-99 % Deadly Strike (+1 Per Character Level)",
+            "All Res +40",
+            "Socketed (2)"
+        ]
+    },
+    {
+        "name": "Cliffkiller",
+        "unidItem": "Large Siege Bow",
+        "cLevel": 41,
+        "requirements": [
+            "Required Level: 41",
+            "Required Strength: 80",
+            "Required Dexterity: 95"
+        ],
+        "properties": [
+            "+190-230% EDmg",
+            "Adds (5-10)-(20-30) Dmg",
+            "+2 To Amazon Skill Levels",
+            "+80 Def vs. Missiles",
+            "+50 To Life",
+            "Knockback"
+        ]
+    },
+    {
+        "name": "Magewrath",
+        "unidItem": "Rune Bow",
+        "cLevel": 43,
+        "requirements": [
+            "Required Level: 43",
+            "Required Strength: 73",
+            "Required Dexterity: 103"
+        ],
+        "properties": [
+            "+120-150% EDmg",
+            "Adds 25-50 Dmg",
+            "+200-250 To AR",
+            "+1 To Amazon Skill Levels",
+            "Hit Blinds Target (Same effect as Dim Vision",
+            "15% ML Per Hit",
+            "Magic Dmg Reduced By 9-13",
+            "+10 To Dex",
+            "+3 Guided Arrow (Amazon Only)"
+        ]
+    },
+    {
+        "name": "Goldstrike Arch",
+        "unidItem": "Gothic Bow",
+        "cLevel": 46,
+        "requirements": [
+            "Required Level: 46",
+            "Required Strength: 95",
+            "Required Dexterity: 118"
+        ],
+        "properties": [
+            "+200-250% EDmg",
+            "+100-200% Dmg To Demons",
+            "+100-200% Dmg To Undead",
+            "50% IAS",
+            "5% Chance To Cast Level 7 Fist of the Heavens On Striking",
+            "Replenish Life +12",
+            "+100-150% Bonus To AR"
+        ]
+    },
+    {
+        "name": "Eaglehorn",
+        "unidItem": "Crusader Bow",
+        "cLevel": 69,
+        "requirements": [
+            "Required Level: 69",
+            "Required Strength: 97",
+            "Required Dexterity: 121"
+        ],
+        "properties": [
+            "+200% EDmg",
+            "+2-198% Enhanced Max Dmg (+2 Per Character Level)",
+            "+1 To Amazon Skill Levels",
+            "+6-594 To AR (+6 Per Character Level)",
+            "+25 To Dex",
+            "Ignores Target's Def"
+        ]
+    },
+    {
+        "name": "Widowmaker",
+        "unidItem": "Ward Bow",
+        "cLevel": 65,
+        "requirements": [
+            "Required Level: 65",
+            "Required Strength: 72",
+            "Required Dexterity: 146"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "Ignore Target's Def",
+            "33% Deadly Strike",
+            "+3-5 To Guided Arrow",
+            "Fires Magic Arrows [Level 11]"
+        ]
+    },
+    {
+        "name": "Windforce",
+        "unidItem": "Hydra Bow",
+        "cLevel": 73,
+        "requirements": [
+            "Required Level: 73",
+            "Required Strength: 134",
+            "Required Dexterity: 167"
+        ],
+        "properties": [
+            "+250% EDmg",
+            "+3-309 To Max Dmg (+3.125 Per Character Level)",
+            "20% IAS",
+            "6-8% ML Per Hit",
+            "Heal Stamina Plus 30%",
+            "+10 To Str",
+            "+5 To Dex",
+            "Knockback"
+        ]
+    },
+    {
+        "name": "The Gnasher",
+        "unidItem": "Hand Axe",
+        "cLevel": 5,
+        "requirements": [
+            "Required Level: 5"
+        ],
+        "properties": [
+            "+60-70% EDmg",
+            "20% Chance of CB",
+            "50% Chance of OW",
+            "+8 To Str"
+        ]
+    },
+    {
+        "name": "Deathspade",
+        "unidItem": "Axe",
+        "cLevel": 9,
+        "requirements": [
+            "Required Level: 9",
+            "Required Strength: 32"
+        ],
+        "properties": [
+            "+60-70% EDmg",
+            "+8 To Minimum Dmg",
+            "15% Bonus to AR",
+            "Hit Blinds Target",
+            "+4 points of Mana after each kill"
+        ]
+    },
+    {
+        "name": "Bladebone",
+        "unidItem": "Double Axe",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15",
+            "Required Strength: 43"
+        ],
+        "properties": [
+            "+30-50% EDmg",
+            "+100% Dmg To Undead",
+            "Adds 8-12 Fire Dmg",
+            "20% Increased Attack Rate",
+            "+40 to AR Against Undead",
+            "+20 Def"
+        ]
+    },
+    {
+        "name": "Skull Splitter",
+        "unidItem": "Military Pick",
+        "cLevel": 21,
+        "requirements": [
+            "Required Level: 21",
+            "Required Strength: 49",
+            "Required Dexterity: 33"
+        ],
+        "properties": [
+            "+60-100% EDmg",
+            "Adds 1-(12-15) Lightning Dmg",
+            "+50-100 To AR",
+            "15% Chance Of OW",
+            "Hit Blinds Target +2",
+            "Regenerate Mana 20%"
+        ]
+    },
+    {
+        "name": "Rakescar",
+        "unidItem": "War Axe",
+        "cLevel": 27,
+        "requirements": [
+            "Required Level: 27",
+            "Required Strength: 67"
+        ],
+        "properties": [
+            "+75-150% EDmg",
+            "+38 Poison Dmg Over 3 Seconds",
+            "30% IAS",
+            "+50 To AR",
+            "Poison Resist +50%"
+        ]
+    },
+    {
+        "name": "Axe of Fechmar",
+        "unidItem": "Large Axe",
+        "cLevel": 8,
+        "requirements": [
+            "Required Level: 8",
+            "Required Strength: 35"
+        ],
+        "properties": [
+            "+70-90% EDmg",
+            "Freezes Target +3",
+            "Cold Resist +50%",
+            "+2 To Light Radius"
+        ]
+    },
+    {
+        "name": "Goreshovel",
+        "unidItem": "Broad Axe",
+        "cLevel": 14,
+        "requirements": [
+            "Required Level: 14",
+            "Required Strength: 48"
+        ],
+        "properties": [
+            "+40-50% EDmg",
+            "+9 To Max Dmg",
+            "60% Chance of OW",
+            "30% IAS",
+            "+25 To Str"
+        ]
+    },
+    {
+        "name": "The Chieftain",
+        "unidItem": "Battle Axe",
+        "cLevel": 19,
+        "requirements": [
+            "Required Level: 19",
+            "Required Strength: 54"
+        ],
+        "properties": [
+            "+100% EDmg",
+            "20% IAS",
+            "Adds 1-40 Lightning Dmg",
+            "All Res +10-20",
+            "+6 To Mana Per Kill"
+        ]
+    },
+    {
+        "name": "Brainhew",
+        "unidItem": "Great Axe",
+        "cLevel": 25,
+        "requirements": [
+            "Required Level: 25",
+            "Required Strength: 63",
+            "Required Dexterity: 39"
+        ],
+        "properties": [
+            "+50-80% EDmg",
+            "+14 To Minimum Dmg",
+            "Adds 15-35 Fire Dmg",
+            "10-13% ML Per Hit",
+            "+25 To Mana",
+            "+4 To Light Radius"
+        ]
+    },
+    {
+        "name": "Humongous",
+        "unidItem": "Giant Axe",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Strength: 84"
+        ],
+        "properties": [
+            "+80-120% EDmg",
+            "Adds 8-(15-25) damage",
+            "33% chance of CB",
+            "Requirements 20%",
+            "+20-30 to Strength"
+        ]
+    },
+    {
+        "name": "Coldkill",
+        "unidItem": "Hatchet",
+        "cLevel": 36,
+        "requirements": [
+            "Required Level: 36",
+            "Required Strength: 25",
+            "Required Dexterity: 25"
+        ],
+        "properties": [
+            "+150-190% EDmg",
+            "30% IAS",
+            "10% Chance To Cast Level 10 Ice Blast On Striking",
+            "10% Chance To Cast Level 5 Frost Nova When Struck",
+            "+40 Cold Dmg - 2 Second Duration",
+            "15% To Max Cold Resist",
+            "Cold Resist +15%"
+        ]
+    },
+    {
+        "name": "Butcher's Pupil",
+        "unidItem": "Cleaver",
+        "cLevel": 39,
+        "requirements": [
+            "Required Level: 39",
+            "Required Strength: 68"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "Adds 30-50 Dmg",
+            "35% Deadly Strike",
+            "25% Chance of OW",
+            "30% IAS",
+            "Indestructible"
+        ]
+    },
+    {
+        "name": "Islestrike",
+        "unidItem": "Twin Axe",
+        "cLevel": 43,
+        "requirements": [
+            "Required Level: 43",
+            "Required Strength: 85"
+        ],
+        "properties": [
+            "+170-190% EDmg",
+            "25% Chance of CB",
+            "+2 To Druid Skill Levels",
+            "+50 Def vs. Missiles",
+            "+10 To All Attributes",
+            "+1 Fury (Druid Only)",
+            "+1 Maul (Druid Only)"
+        ]
+    },
+    {
+        "name": "Pompeii's Wrath",
+        "unidItem": "Crowbill",
+        "cLevel": 45,
+        "requirements": [
+            "Required Level: 45",
+            "Required Strength: 94",
+            "Required Dexterity: 70"
+        ],
+        "properties": [
+            "+140-170% EDmg",
+            "Adds 35-150 Fire Dmg",
+            "Slows Target By 50%",
+            "4% Chance To Cast Level 8 Volcano On Striking",
+            "Knockback"
+        ]
+    },
+    {
+        "name": "Guardian Naga",
+        "unidItem": "Naga",
+        "cLevel": 48,
+        "requirements": [
+            "Required Level: 48",
+            "Required Strength: 121"
+        ],
+        "properties": [
+            "+150-180% EDmg",
+            "+20 To Max Dmg",
+            "+250 Poison Dmg Over 10 Seconds",
+            "5% Chance To Cast Level 8 Poison Nova On Striking",
+            "Poison Resist +30%",
+            "Attacker Takes Dmg of 15"
+        ]
+    },
+    {
+        "name": "Warlord's Trust",
+        "unidItem": "Military Axe",
+        "cLevel": 35,
+        "requirements": [
+            "Required Level: 35",
+            "Required Strength: 73"
+        ],
+        "properties": [
+            "+175% EDmg",
+            "Repairs 1 Durability In 4 Seconds",
+            "+ (0.5 Per Character Level) 0-49 To Vit",
+            "Replenish Life +20",
+            "All Res +10",
+            "+75 Def"
+        ]
+    },
+    {
+        "name": "Spellsteel",
+        "unidItem": "Bearded Axe",
+        "cLevel": 39,
+        "requirements": [
+            "Required Level: 39",
+            "Required Strength: 37"
+        ],
+        "properties": [
+            "+165% EDmg",
+            "10% FCR",
+            "Requirements -60%",
+            "Regenerate Mana 25%",
+            "+100 To Mana",
+            "Level 12 Firestorm (60 Charges)",
+            "Level 10 Holy Bolt (100 Charges)",
+            "Level 3 Decrepify (30 Charges)",
+            "Level 1 Teleport (20 Charges)",
+            "Magic Dmg Reduced By 12-15"
+        ]
+    },
+    {
+        "name": "Stormrider",
+        "unidItem": "Tabar",
+        "cLevel": 41,
+        "requirements": [
+            "Required Level: 41",
+            "Required Strength: 101"
+        ],
+        "properties": [
+            "+100% EDmg",
+            "Adds 35-75 Dmg",
+            "Adds 1-200 Lightning Dmg",
+            "15% Chance To Cast Level 5 Charged Bolt When Struck",
+            "10% Chance To Cast Level 13-20 Charged Bolt On Striking",
+            "5% Chance To Cast Level 10 Chain Lightning On Striking",
+            "Attacker Takes Lightning Dmg Of 15"
+        ]
+    },
+    {
+        "name": "Boneslayer Blade",
+        "unidItem": "Gothic Axe",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 115",
+            "Required Dexterity: 79"
+        ],
+        "properties": [
+            "+180-220% EDmg",
+            "+ (5 Per Character Level) 5-495 To AR Against Undead",
+            "+ (2.5 Per Character Level) 2-247 % Dmg To Undead",
+            "50% Chance To Cast Level 12-28 Holy Bolt When Struck",
+            "Level 20 Holy Bolt (200 Charges)",
+            "20% IAS",
+            "35% Bonus To AR",
+            "+8 To Str"
+        ]
+    },
+    {
+        "name": "The Minotaur",
+        "unidItem": "Ancient Axe",
+        "cLevel": 45,
+        "requirements": [
+            "Required Level: 45",
+            "Required Strength: 125"
+        ],
+        "properties": [
+            "+140-200% EDmg",
+            "Adds 20-30 Dmg",
+            "Slows Target By 50%",
+            "30% Chance of CB",
+            "Hit Blinds Target +2",
+            "Half Freeze Duration",
+            "+15-20 To Str"
+        ]
+    },
+    {
+        "name": "Razor's Edge",
+        "unidItem": "Tomahawk",
+        "cLevel": 67,
+        "requirements": [
+            "Required Level: 67",
+            "Required Strength: 125",
+            "Required Dexterity: 67"
+        ],
+        "properties": [
+            "+175-225% EDmg",
+            "+40% IAS",
+            "-33% Target Def",
+            "50% Deadly Strike",
+            "50% Chance of OW"
+        ]
+    },
+    {
+        "name": "Rune Master",
+        "unidItem": "Ettin Axe",
+        "cLevel": 72,
+        "requirements": [
+            "Required Level: 72",
+            "Required Strength: 145",
+            "Required Dexterity: 45"
+        ],
+        "properties": [
+            "+220-270% EDmg",
+            "+5% To Max Cold Resist",
+            "Cannot Be Frozen",
+            "Socketed (3-5)"
+        ]
+    },
+    {
+        "name": "Cranebeak",
+        "unidItem": "War Spike",
+        "cLevel": 63,
+        "requirements": [
+            "Required Level: 63",
+            "Required Strength: 133",
+            "Required Dexterity: 54"
+        ],
+        "properties": [
+            "+240-300% EDmg",
+            "+40% IAS",
+            "-25% Target Def",
+            "Adds 1-305 Lightning Dmg",
+            "20-50% Better Chance of Getting Magic Items",
+            "Level 8 Raven (15 charges)"
+        ]
+    },
+    {
+        "name": "Death Cleaver",
+        "unidItem": "Berserker Axe",
+        "cLevel": 70,
+        "requirements": [
+            "Required Level: 70",
+            "Required Strength: 138",
+            "Required Dexterity: 59"
+        ],
+        "properties": [
+            "+230-280% EDmg",
+            "+40% IAS",
+            "-33% Target Def",
+            "66% Deadly Strike",
+            "+6-9 Life Per Kill"
+        ]
+    },
+    {
+        "name": "Ethereal Edge",
+        "unidItem": "Silver-Edged Axe",
+        "cLevel": 74,
+        "requirements": [
+            "Required Level: 74",
+            "Required Strength: 156",
+            "Required Dexterity: 55"
+        ],
+        "properties": [
+            "+150-180% EDmg",
+            "+150-200% Dmg To Demons",
+            "+270-350 To AR",
+            "+25% IAS",
+            "+10-12 Fire Absorb",
+            "+5-10 Life After Each Demon Kill",
+            "Indestructible",
+            "Ethereal (Cannot Be Repaired)"
+        ]
+    },
+    {
+        "name": "Hellslayer",
+        "unidItem": "Decapitator",
+        "cLevel": 66,
+        "requirements": [
+            "Required Level: 66",
+            "Required Strength: 189",
+            "Required Dexterity: 33"
+        ],
+        "properties": [
+            "+100% EDmg",
+            "+ (3 Per Character Level) 3-297% Enhanced Max Dmg",
+            "Adds 150-250 Fire Dmg",
+            "+ (0.5 Per Character Level) 0-49 To Str",
+            "+ (0.5 Per Character Level) 0-49 To Vit",
+            "+25 To Life",
+            "10% Chance To Cast Level 16-20 Fire Ball On Attack"
+        ]
+    },
+    {
+        "name": "Messerschmidt's Reaver",
+        "unidItem": "Champion Axe",
+        "cLevel": 70,
+        "requirements": [
+            "Required Level: 70",
+            "Required Strength: 167",
+            "Required Dexterity: 59"
+        ],
+        "properties": [
+            "+200% EDmg",
+            "+ (2.5 Per Character Level) 2-247% Enhanced Max Dmg",
+            "Adds 20-240 Fire Dmg",
+            "100% Bonus To AR",
+            "+15 To All Attributes"
+        ]
+    },
+    {
+        "name": "Executioner's Justice",
+        "unidItem": "Glorious Axe",
+        "cLevel": 75,
+        "requirements": [
+            "Required Level: 75",
+            "Required Strength: 164",
+            "Required Dexterity: 55"
+        ],
+        "properties": [
+            "+240-290% EDmg",
+            "25% Chance Of CB",
+            "30% IAS",
+            "-33% Target Def",
+            "50% Chance To Cast Level 6 Decrepify When You Kill An Enemy"
+        ]
+    },
+    {
+        "name": "Lycander's Aim",
+        "unidItem": "Ceremonial Bow",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 73",
+            "Required Dexterity: 110"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "Adds 25-50 Dmg",
+            "+20% IAS",
+            "+2 To Amazon Skill Levels",
+            "5-8% ML Per Hit",
+            "+20 To Energy",
+            "+20 To Dex",
+            "+20% EDef",
+            "+2 To Bow and Crossbow Skills (Amazon Only)"
+        ]
+    },
+    {
+        "name": "Lycander's Flank",
+        "unidItem": "Ceremonial Pike",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 115",
+            "Required Dexterity: 98"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "Adds 25-50 Dmg",
+            "+2 To Amazon Skill Levels",
+            "+30% IAS",
+            "5-9% LL Per Hit",
+            "+20 To Str",
+            "+20 To Vit",
+            "+20% EDef",
+            "+2 To Javelin and Spear Skills (Amazon Only)"
+        ]
+    },
+    {
+        "name": "Titan's Revenge",
+        "unidItem": "Ceremonial Javelin",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Strength: 25",
+            "Required Dexterity: 109"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "Adds 25-50 Dmg",
+            "+2 To Amazon Skill Levels",
+            "5-9% LL Per Hit",
+            "+30% FRW",
+            "+20 To Str",
+            "+20 To Dex",
+            "Replenishes Quantity [1 in 3 sec.]",
+            "Increased Stack Size [60]",
+            "+2 To Javelin and Spear Skills (Amazon Only)"
+        ]
+    },
+    {
+        "name": "Blood Raven's Charge",
+        "unidItem": "Matriarchal Bow",
+        "cLevel": 71,
+        "requirements": [
+            "Required Level: 71",
+            "Required Strength: 87",
+            "Required Dexterity: 187"
+        ],
+        "properties": [
+            "+180-230% EDmg",
+            "200-300% Bonus To AR",
+            "Fires Explosive Arrows Or Bolts [Level 13]",
+            "Level 5 Revive (30 charges)",
+            "+2-4 To Bow and Crossbow Skills (Amazon Only)"
+        ]
+    },
+    {
+        "name": "Stoneraven",
+        "unidItem": "Matriarchal Spear",
+        "cLevel": 64,
+        "requirements": [
+            "Required Level: 64",
+            "Required Strength: 114",
+            "Required Dexterity: 142"
+        ],
+        "properties": [
+            "+230-280% EDmg",
+            "Adds 101-187 Magic Dmg",
+            "+400-600 Def",
+            "All Res +30-50",
+            "+1-3 To Javelin and Spear Skills (Amazon Only)"
+        ]
+    },
+    {
+        "name": "Thunderstroke",
+        "unidItem": "Matriarchal Javelin",
+        "cLevel": 69,
+        "requirements": [
+            "Required Level: 69",
+            "Required Strength: 107",
+            "Required Dexterity: 151"
+        ],
+        "properties": [
+            "+150-200% EDmg",
+            "Adds 1-511 Lightning Dmg",
+            "+15% IAS",
+            "-15% To Enemy Lightning Resistance",
+            "20% Chance To Cast Level 14 Lightning On Striking",
+            "+2-4 To Javelin and Spear Skills (Amazon Only)",
+            "+3 To Lightning Bolt (Amazon Only)"
+        ]
+    }
+]

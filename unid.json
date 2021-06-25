@@ -1,0 +1,1063 @@
+{
+    "Slayer Guard": [
+        "Arreat's Face"
+    ],
+    "Fury Visor": [
+        "Wolfhowl"
+    ],
+    "Destroyer Helm": [
+        "Demonhorn's Edge"
+    ],
+    "Conqueror Crown": [
+        "Halaberd's Reign"
+    ],
+    "Sash": [
+        "Lenymo"
+    ],
+    "Light Belt": [
+        "Snakecord"
+    ],
+    "Belt": [
+        "Nightsmoke"
+    ],
+    "Heavy Belt": [
+        "Goldwrap"
+    ],
+    "Plated Belt": [
+        "Bladebuckle"
+    ],
+    "Demonhide Sash": [
+        "String of Ears"
+    ],
+    "Sharkskin Belt": [
+        "Razortail"
+    ],
+    "Mesh Belt": [
+        "Gloom's Trap"
+    ],
+    "Battle Belt": [
+        "Snowclash"
+    ],
+    "War Belt": [
+        "Thundergod's Vigor"
+    ],
+    "Spiderweb Sash": [
+        "Arachnid Mesh"
+    ],
+    "Vampirefang Belt": [
+        "Nosferatu's Coil"
+    ],
+    "Mithril Coil": [
+        "Verdungo's Hearty Cord"
+    ],
+    "Hierophant Trophy": [
+        "Homunculus"
+    ],
+    "Bloodlord Skull": [
+        "Darkforce Spawn"
+    ],
+    "Succubus Skull": [
+        "Boneflame"
+    ],
+    "Buckler": [
+        "Pelta Lunata"
+    ],
+    "Small Shield": [
+        "Umbral Disk"
+    ],
+    "Large Shield": [
+        "Stormguild"
+    ],
+    "Kite Shield": [
+        "Steelclash"
+    ],
+    "Spiked Shield": [
+        "Swordback Hold"
+    ],
+    "Tower Shield": [
+        "Bverrit Keep"
+    ],
+    "Bone Shield": [
+        "Wall of the Eyeless"
+    ],
+    "Gothic Shield": [
+        "The Ward"
+    ],
+    "Defender": [
+        "Visceratuant"
+    ],
+    "Round Shield": [
+        "Moser's Blessed Circle"
+    ],
+    "Scutum": [
+        "Stormchaser"
+    ],
+    "Dragon Shield": [
+        "Tiamat's Rebuke"
+    ],
+    "Barbed Shield": [
+        "Lance Guard"
+    ],
+    "Pavise": [
+        "Gerke's Sanctuary"
+    ],
+    "Grim Shield": [
+        "Lidless Wall"
+    ],
+    "Ancient Shield": [
+        "Radament's Sphere"
+    ],
+    "Luna": [
+        "Blackoak Shield"
+    ],
+    "Monarch": [
+        "Stormshield"
+    ],
+    "Blade Barrier": [
+        "Spike Thorn"
+    ],
+    "Aegis": [
+        "Medusa's Gaze"
+    ],
+    "Troll Nest": [
+        "Head Hunter's Glory"
+    ],
+    "Ward": [
+        "Spirit Ward"
+    ],
+    "Gilded Shield": [
+        "Herald of Zakarum"
+    ],
+    "Sacred Rondache": [
+        "Alma Negra"
+    ],
+    "Zakarum Shield": [
+        "Dragonscale"
+    ],
+    "Cap": [
+        "Biggin's Bonnet"
+    ],
+    "Skull Cap": [
+        "Tarnhelm"
+    ],
+    "Helm": [
+        "Coif of Glory"
+    ],
+    "Full Helm": [
+        "Duskdeep"
+    ],
+    "Great Helm": [
+        "Howltusk"
+    ],
+    "Mask": [
+        "The Face of Horror"
+    ],
+    "Crown": [
+        "Undead Crown"
+    ],
+    "Bone Helm": [
+        "Wormskull"
+    ],
+    "War Hat": [
+        "Peasant Crown"
+    ],
+    "Sallet": [
+        "Rockstopper"
+    ],
+    "Casque": [
+        "Stealskull"
+    ],
+    "Basinet": [
+        "Darksight Helm"
+    ],
+    "Winged Helm": [
+        "Valkyrie Wing"
+    ],
+    "Death Mask": [
+        "Blackhorn's Face"
+    ],
+    "Grand Crown": [
+        "Crown of Thieves"
+    ],
+    "Grim Helm": [
+        "Vampire Gaze"
+    ],
+    "Shako": [
+        "Harlequin Crest"
+    ],
+    "Armet": [
+        "Steel Shade"
+    ],
+    "Spired Helm": [
+        "Veil of Steel",
+        "Nightwing's Veil"
+    ],
+    "Demonhead": [
+        "Andariel's Visage"
+    ],
+    "Corona": [
+        "Crown of Ages"
+    ],
+    "Bone Visage": [
+        "Giant Skull"
+    ],
+    "Leather Gloves": [
+        "The Hand of Broc"
+    ],
+    "Heavy Gloves": [
+        "Bloodfist"
+    ],
+    "Chain Gloves": [
+        "Chance Guards"
+    ],
+    "Light Gauntlets": [
+        "Magefist"
+    ],
+    "Gauntlets": [
+        "Frostburn"
+    ],
+    "Demonhide Gloves": [
+        "Venom Grip"
+    ],
+    "Sharkskin Gloves": [
+        "Gravepalm"
+    ],
+    "Heavy Bracers": [
+        "Ghoulhide"
+    ],
+    "Battle Gauntlets": [
+        "Lava Gout"
+    ],
+    "War Gauntlets": [
+        "Hellmouth"
+    ],
+    "Vampirebone Gloves": [
+        "Dracul's Grasp"
+    ],
+    "Vambraces": [
+        "Soul Drainer"
+    ],
+    "Ogre Gauntlets": [
+        "Steelrend"
+    ],
+    "Totemic Mask": [
+        "Jalal's Mane"
+    ],
+    "Blood Spirit": [
+        "Cerebus' Bite"
+    ],
+    "Sky Spirit": [
+        "Ravenlore"
+    ],
+    "Earth Spirit": [
+        "Spirit Keeper"
+    ],
+    "Tiara": [
+        "Kira's Guardian"
+    ],
+    "Diadem": [
+        "Griffon's Eye"
+    ],
+    "Boots": [
+        "Hotspur"
+    ],
+    "Heavy Boots": [
+        "Gorefoot"
+    ],
+    "Chain Boots": [
+        "Treads of Cthon"
+    ],
+    "Light Plated Boots": [
+        "Goblin Toe"
+    ],
+    "Greaves": [
+        "Tearhaunch"
+    ],
+    "Demonhide Boots": [
+        "Infernostride"
+    ],
+    "Sharkskin Boots": [
+        "Waterwalk"
+    ],
+    "Mesh Boots": [
+        "Silkweave"
+    ],
+    "Battle Boots": [
+        "War Traveler"
+    ],
+    "War Boots": [
+        "Gore Rider"
+    ],
+    "Scarabshell Boots": [
+        "Sandstorm Trek"
+    ],
+    "Boneweave Boots": [
+        "Marrowwalk"
+    ],
+    "Myrmidon Greaves": [
+        "Shadow Dancer"
+    ],
+    "Quilted Armor": [
+        "Greyform"
+    ],
+    "Leather Armor": [
+        "Blinkbat's Form"
+    ],
+    "Hard Leather Armor": [
+        "The Centurion"
+    ],
+    "Studded Leather": [
+        "Twitchthroe"
+    ],
+    "Ring Mail": [
+        "Darkglow"
+    ],
+    "Scale Mail": [
+        "Hawkmail"
+    ],
+    "Breast Plate": [
+        "Venom Ward"
+    ],
+    "Chain Mail": [
+        "Sparking Mail"
+    ],
+    "Splint Mail": [
+        "Iceblink"
+    ],
+    "Light Plate": [
+        "Heavenly Garb"
+    ],
+    "Plate Mail": [
+        "Boneflesh"
+    ],
+    "Field Plate": [
+        "Rockfleece"
+    ],
+    "Gothic Plate": [
+        "Rattlecage"
+    ],
+    "Full Plate Mail": [
+        "Goldskin"
+    ],
+    "Ancient Armor": [
+        "Silks of the Victor"
+    ],
+    "Ghost Armor": [
+        "The Spirit Shroud"
+    ],
+    "Serpentskin Armor": [
+        "Skin of the Vipermagi"
+    ],
+    "Demonhide Armor": [
+        "Skin of the Flayed One"
+    ],
+    "Trellised Armor": [
+        "Iron Pelt"
+    ],
+    "Tigulated Mail": [
+        "Crow Caw"
+    ],
+    "Linked Mail": [
+        "Spirit Forge"
+    ],
+    "Cuirass": [
+        "Duriel's Shell"
+    ],
+    "Mesh Armor": [
+        "Shaftstop"
+    ],
+    "Russet Armor": [
+        "Skullder's Ire"
+    ],
+    "Mage Plate": [
+        "Que-Hegan's Wisdom"
+    ],
+    "Templar Coat": [
+        "Guardian Angel"
+    ],
+    "Sharktooth Armor": [
+        "Toothrow"
+    ],
+    "Embossed Plate": [
+        "Atma's Wail"
+    ],
+    "Chaos Armor": [
+        "Black Hades"
+    ],
+    "Ornate Plate": [
+        "Corpsemourn"
+    ],
+    "Dusk Shroud": [
+        "Ormus' Robes"
+    ],
+    "Wire Fleece": [
+        "The Gladiator's Bane"
+    ],
+    "Balrog Skin": [
+        "Arkaine's Valor"
+    ],
+    "Kraken Shell": [
+        "Leviathan"
+    ],
+    "Shadow Plate": [
+        "Steel Carapace"
+    ],
+    "Sacred Armor": [
+        "Templar's Might",
+        "Tyrael's Might"
+    ],
+    "Grand Charm": [
+        "Gheed's Fortune"
+    ],
+    "Small Charm": [
+        "Annihilus"
+    ],
+    "Large Charm": [
+        "Hellfire Torch"
+    ],
+    "Amulet": [
+        "Nokozan Relic",
+        "The Eye of Etlich",
+        "The Mahim-Oak Curio",
+        "Saracen's Chance",
+        "The Cat's Eye",
+        "Crescent Moon",
+        "Atma's Scarab",
+        "The Rising Sun",
+        "Highlord's Wrath",
+        "Mara's Kaleidoscope",
+        "Seraph's Hymn",
+        "Metalgrid"
+    ],
+    "Ring": [
+        "Nagelring",
+        "Manald Heal",
+        "Stone of Jordan",
+        "Dwarf Star",
+        "Raven Frost",
+        "Bul-Kathos' Wedding Band",
+        "Carrion Wind",
+        "Nature's Peace",
+        "Wisp Projector"
+    ],
+    "Wand": [
+        "Torch of Iro"
+    ],
+    "Yew Wand": [
+        "Maelstrom"
+    ],
+    "Bone Wand": [
+        "Gravenspine"
+    ],
+    "Grim Wand": [
+        "Ume's Lament"
+    ],
+    "Burnt Wand": [
+        "Suicide Branch"
+    ],
+    "Petrified Wand": [
+        "Carin Shard"
+    ],
+    "Tomb Wand": [
+        "Arm of King Leoric"
+    ],
+    "Grave Wand": [
+        "Blackhand Key"
+    ],
+    "Lich Wand": [
+        "Boneshade"
+    ],
+    "Unearthed Wand": [
+        "Death's Web"
+    ],
+    "Battle Dart": [
+        "Deathbit"
+    ],
+    "Francisca": [
+        "The Scalper"
+    ],
+    "Winged Knife": [
+        "Warshrike"
+    ],
+    "Flying Axe": [
+        "Gimmershred"
+    ],
+    "Winged Axe": [
+        "Lacerator"
+    ],
+    "Short Sword": [
+        "Rixot's Keen"
+    ],
+    "Scimitar": [
+        "Blood Crescent"
+    ],
+    "Sabre": [
+        "Skewer of Krintiz"
+    ],
+    "Falchion": [
+        "Gleamscythe"
+    ],
+    "Broad Sword": [
+        "Griswold's Edge"
+    ],
+    "Long Sword": [
+        "Hellplague"
+    ],
+    "War Sword": [
+        "Culwen's Point"
+    ],
+    "Two-Handed Sword": [
+        "Shadowfang"
+    ],
+    "Claymore": [
+        "Soulflay"
+    ],
+    "Giant Sword": [
+        "Kinemil's Awl"
+    ],
+    "Bastard Sword": [
+        "Blacktongue"
+    ],
+    "Flamberge": [
+        "Ripsaw"
+    ],
+    "Great Sword": [
+        "The Patriarch"
+    ],
+    "Gladius": [
+        "Bloodletter"
+    ],
+    "Cutlass": [
+        "Coldsteel Eye"
+    ],
+    "Shamshir": [
+        "Hexfire"
+    ],
+    "Tulwar": [
+        "Blade of Ali Baba"
+    ],
+    "Dimensional Blade": [
+        "Ginther's Rift"
+    ],
+    "Battle Sword": [
+        "Headstriker"
+    ],
+    "Rune Sword": [
+        "Plague Bearer"
+    ],
+    "Ancient Sword": [
+        "The Atlantean"
+    ],
+    "Espandon": [
+        "Crainte Vomir"
+    ],
+    "Dacian Falx": [
+        "Bing Sz Wang"
+    ],
+    "Tusk Sword": [
+        "The Vile Husk"
+    ],
+    "Gothic Sword": [
+        "Cloudcrack"
+    ],
+    "Zweihander": [
+        "Todesfaelle Flamme"
+    ],
+    "Executioner Sword": [
+        "Swordguard"
+    ],
+    "Ataghan": [
+        "Djinn Slayer"
+    ],
+    "Elegant Blade": [
+        "Bloodmoon"
+    ],
+    "Phase Blade": [
+        "Lightsabre",
+        "Azurewrath"
+    ],
+    "Cryptic Sword": [
+        "Frostwind"
+    ],
+    "Balrog Blade": [
+        "Flamebellow"
+    ],
+    "Champion Sword": [
+        "Doombringer"
+    ],
+    "Colossus Blade": [
+        "The Grandfather"
+    ],
+    "Short Staff": [
+        "Bane Ash"
+    ],
+    "Long Staff": [
+        "Serpent Lord"
+    ],
+    "Gnarled Staff": [
+        "Spire of Lazarus"
+    ],
+    "Battle Staff": [
+        "The Salamander"
+    ],
+    "War Staff": [
+        "The Iron Jang Bong"
+    ],
+    "Jo Staff": [
+        "Razorswitch"
+    ],
+    "Quarterstaff": [
+        "Ribcracker"
+    ],
+    "Cedar Staff": [
+        "Chromatic Ire"
+    ],
+    "Gothic Staff": [
+        "Warpspear"
+    ],
+    "Rune Staff": [
+        "Skull Collector"
+    ],
+    "Elder Staff": [
+        "Ondal's Wisdom"
+    ],
+    "Archon Staff": [
+        "Mang Song's Lesson"
+    ],
+    "Spear": [
+        "The Dragon Chang"
+    ],
+    "Trident": [
+        "Razortine"
+    ],
+    "Brandistock": [
+        "Bloodthief"
+    ],
+    "Spetum": [
+        "Lance of Yaggai"
+    ],
+    "Pike": [
+        "The Tannr Gorerod"
+    ],
+    "War Spear": [
+        "The Impaler"
+    ],
+    "Fuscina": [
+        "Kelpie Snare"
+    ],
+    "War Fork": [
+        "Soulfeast Tine"
+    ],
+    "Yari": [
+        "Hone Sundan"
+    ],
+    "Lance": [
+        "Spire of Honor"
+    ],
+    "Hyperion Spear": [
+        "Arioc's Needle"
+    ],
+    "Mancatcher": [
+        "Viperfork"
+    ],
+    "War Pike": [
+        "Steel Pillar"
+    ],
+    "Scepter": [
+        "Knell Striker"
+    ],
+    "Grand Scepter": [
+        "Rusthandle"
+    ],
+    "War Scepter": [
+        "Stormeye"
+    ],
+    "Rune Scepter": [
+        "Zakarum's Hand"
+    ],
+    "Holy Water Sprinkler": [
+        "The Fetid Sprinkler"
+    ],
+    "Divine Scepter": [
+        "Hand of Blessed Light"
+    ],
+    "Mighty Scepter": [
+        "Heaven's Light",
+        "The Redeemer"
+    ],
+    "Caduceus": [
+        "Astreon's Iron Ward"
+    ],
+    "Bardiche": [
+        "Dimoak's Hew"
+    ],
+    "Voulge": [
+        "Steelgoad"
+    ],
+    "Scythe": [
+        "Soul Harvest"
+    ],
+    "Poleaxe": [
+        "The Battlebranch"
+    ],
+    "Halberd": [
+        "Woestave"
+    ],
+    "War Scythe": [
+        "The Grim Reaper"
+    ],
+    "Lochaber Axe": [
+        "The Meat Scraper"
+    ],
+    "Bill": [
+        "Blackleach Blade"
+    ],
+    "Battle Scythe": [
+        "Athena's Wrath"
+    ],
+    "Partizan": [
+        "Pierre Tombale Couant"
+    ],
+    "Bec-De-Corbin": [
+        "Husoldal Evo"
+    ],
+    "Grim Scythe": [
+        "Grim's Burning Dead"
+    ],
+    "Ogre Axe": [
+        "Bonehew"
+    ],
+    "Thresher": [
+        "The Reaper's Toll"
+    ],
+    "Cryptic Axe": [
+        "Tomb Reaver"
+    ],
+    "Giant Thresher": [
+        "Stormspire"
+    ],
+    "Swirling Crystal": [
+        "The Oculus"
+    ],
+    "Eldritch Orb": [
+        "Eschuta's Temper"
+    ],
+    "Dimensional Shard": [
+        "Death's Fathom"
+    ],
+    "Greater Talons": [
+        "Bartuc's Cut-Throat"
+    ],
+    "Wrist Sword": [
+        "Jade Talon"
+    ],
+    "Battle Cestus": [
+        "Shadow Killer"
+    ],
+    "Feral Claws": [
+        "Firelizard's Talons"
+    ],
+    "Balrog Spear": [
+        "Demon's Arch"
+    ],
+    "Ghost Glaive": [
+        "Wraith Flight"
+    ],
+    "Winged Harpoon": [
+        "Gargoyle's Bite"
+    ],
+    "Club": [
+        "Felloak"
+    ],
+    "Spiked Club": [
+        "Stoutnail"
+    ],
+    "Mace": [
+        "Crushflange"
+    ],
+    "Morning Star": [
+        "Bloodrise"
+    ],
+    "Flail": [
+        "The General's Tan Do Li Ga"
+    ],
+    "War Hammer": [
+        "Ironstone"
+    ],
+    "Maul": [
+        "Bonesnap"
+    ],
+    "Great Maul": [
+        "Steeldriver"
+    ],
+    "Cudgel": [
+        "Dark Clan Crusher"
+    ],
+    "Barbed Club": [
+        "Fleshrender"
+    ],
+    "Flanged Mace": [
+        "Sureshrill Frost"
+    ],
+    "Jagged Star": [
+        "Moonfall"
+    ],
+    "Knout": [
+        "Baezil's Vortex"
+    ],
+    "Battle Hammer": [
+        "Earthshaker"
+    ],
+    "War Club": [
+        "Bloodtree Stump"
+    ],
+    "Martel de Fer": [
+        "The Gavel of Pain"
+    ],
+    "Truncheon": [
+        "Nord's Tenderizer"
+    ],
+    "Tyrant Club": [
+        "Demon Limb"
+    ],
+    "Devil Star": [
+        "Baranar's Star"
+    ],
+    "Scourge": [
+        "Horizon's Tornado",
+        "Stormlash"
+    ],
+    "Legendary Mallet": [
+        "Stone Crusher",
+        "Schaefer's Hammer"
+    ],
+    "Ogre Maul": [
+        "Windhammer"
+    ],
+    "Thunder Maul": [
+        "Earth Shifter",
+        "The Cranium Basher"
+    ],
+    "Dagger": [
+        "Gull"
+    ],
+    "Dirk": [
+        "The Diggler"
+    ],
+    "Kris": [
+        "The Jade Tan Do"
+    ],
+    "Blade": [
+        "Spectral Shard"
+    ],
+    "Poignard": [
+        "Spineripper"
+    ],
+    "Rondel": [
+        "Heart Carver"
+    ],
+    "Cinquedeas": [
+        "Blackbog's Sharp"
+    ],
+    "Stiletto": [
+        "Stormspike"
+    ],
+    "Bone Knife": [
+        "Wizardspike"
+    ],
+    "Fanged Knife": [
+        "Fleshripper"
+    ],
+    "Legend Spike": [
+        "Ghostflame"
+    ],
+    "Light Crossbow": [
+        "Leadcrow"
+    ],
+    "Crossbow": [
+        "Ichorsting"
+    ],
+    "Heavy Crossbow": [
+        "Hellcast"
+    ],
+    "Repeating Crossbow": [
+        "Doomslinger"
+    ],
+    "Arbalest": [
+        "Langer Briser"
+    ],
+    "Siege Crossbow": [
+        "Pus Spitter"
+    ],
+    "Ballista": [
+        "Buriza-Do Kyanon"
+    ],
+    "Chu-Ko-Nu": [
+        "Demon Machine"
+    ],
+    "Colossus Crossbow": [
+        "Hellrack"
+    ],
+    "Demon Crossbow": [
+        "Gut Siphon"
+    ],
+    "Short Bow": [
+        "Pluckeye"
+    ],
+    "Hunter's Bow": [
+        "Witherstring"
+    ],
+    "Long Bow": [
+        "Raven Claw"
+    ],
+    "Composite Bow": [
+        "Rogue's Bow"
+    ],
+    "Short Battle Bow": [
+        "Stormstrike"
+    ],
+    "Long Battle Bow": [
+        "Wizendraw"
+    ],
+    "Short War Bow": [
+        "Hellclap"
+    ],
+    "Long War Bow": [
+        "Blastbark"
+    ],
+    "Edge Bow": [
+        "Skystrike"
+    ],
+    "Razor Bow": [
+        "Riphook"
+    ],
+    "Cedar Bow": [
+        "Kuko Shakaku"
+    ],
+    "Double Bow": [
+        "Endlesshail"
+    ],
+    "Short Siege Bow": [
+        "Witchwild String"
+    ],
+    "Large Siege Bow": [
+        "Cliffkiller"
+    ],
+    "Rune Bow": [
+        "Magewrath"
+    ],
+    "Gothic Bow": [
+        "Goldstrike Arch"
+    ],
+    "Crusader Bow": [
+        "Eaglehorn"
+    ],
+    "Ward Bow": [
+        "Widowmaker"
+    ],
+    "Hydra Bow": [
+        "Windforce"
+    ],
+    "Hand Axe": [
+        "The Gnasher"
+    ],
+    "Axe": [
+        "Deathspade"
+    ],
+    "Double Axe": [
+        "Bladebone"
+    ],
+    "Military Pick": [
+        "Skull Splitter"
+    ],
+    "War Axe": [
+        "Rakescar"
+    ],
+    "Large Axe": [
+        "Axe of Fechmar"
+    ],
+    "Broad Axe": [
+        "Goreshovel"
+    ],
+    "Battle Axe": [
+        "The Chieftain"
+    ],
+    "Great Axe": [
+        "Brainhew"
+    ],
+    "Giant Axe": [
+        "Humongous"
+    ],
+    "Hatchet": [
+        "Coldkill"
+    ],
+    "Cleaver": [
+        "Butcher's Pupil"
+    ],
+    "Twin Axe": [
+        "Islestrike"
+    ],
+    "Crowbill": [
+        "Pompeii's Wrath"
+    ],
+    "Naga": [
+        "Guardian Naga"
+    ],
+    "Military Axe": [
+        "Warlord's Trust"
+    ],
+    "Bearded Axe": [
+        "Spellsteel"
+    ],
+    "Tabar": [
+        "Stormrider"
+    ],
+    "Gothic Axe": [
+        "Boneslayer Blade"
+    ],
+    "Ancient Axe": [
+        "The Minotaur"
+    ],
+    "Tomahawk": [
+        "Razor's Edge"
+    ],
+    "Ettin Axe": [
+        "Rune Master"
+    ],
+    "War Spike": [
+        "Cranebeak"
+    ],
+    "Berserker Axe": [
+        "Death Cleaver"
+    ],
+    "Silver-Edged Axe": [
+        "Ethereal Edge"
+    ],
+    "Decapitator": [
+        "Hellslayer"
+    ],
+    "Champion Axe": [
+        "Messerschmidt's Reaver"
+    ],
+    "Glorious Axe": [
+        "Executioner's Justice"
+    ],
+    "Ceremonial Bow": [
+        "Lycander's Aim"
+    ],
+    "Ceremonial Pike": [
+        "Lycander's Flank"
+    ],
+    "Ceremonial Javelin": [
+        "Titan's Revenge"
+    ],
+    "Matriarchal Bow": [
+        "Blood Raven's Charge"
+    ],
+    "Matriarchal Spear": [
+        "Stoneraven"
+    ],
+    "Matriarchal Javelin": [
+        "Thunderstroke"
+    ]
+}

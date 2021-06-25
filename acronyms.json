@@ -8,5 +8,6 @@
     "LL": "Life Leech",
     "ML": "Mana Leech",
     "FCR": "Faster Cast Rate",
-    "FBR": "Faster Block Rate"
+    "FBR": "Faster Block Rate",
+    "FRW": "Faster Run/Walk"
 }
