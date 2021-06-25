@@ -44,9 +44,14 @@ declare module "@diablorun/diablorun-data" {
 
     export const difficulties: string[];
 
-    export const runewords: {
-        [name: string]: string;
-    };
+    export const runewords: [{
+        allowedItems: string;
+        isLadder: boolean;
+        name: string;
+        properties: string[];
+        runeword: string;
+        runes: string[];
+    }];
 
     export const recipes: {
         [name: string]: string;
@@ -61,6 +66,10 @@ declare module "@diablorun/diablorun-data" {
     };
 
     export const fhr: {
+        [name: string]: string;
+    };
+
+    export const acronyms: {
         [name: string]: string;
     };
 }
