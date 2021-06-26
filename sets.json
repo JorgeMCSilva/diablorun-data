@@ -1,0 +1,803 @@
+[
+    {
+        "name": "ANGELIC RAIMENT",
+        "additionalTrigger": [
+            "ANGELIC"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+10 Dex (2 Items)",
+            "+50 Mana (3 Items)",
+            "Complete Set Bonus",
+            "Half Freeze Duration",
+            "All Res +25",
+            "40% MF",
+            "Regen Mana +8%",
+            "+10 Dex",
+            "+50 Mana"
+        ],
+        "items": [
+            "Angelic Mantle",
+            "Angelic Sickle",
+            "Angelic Halo",
+            "Angelic Wings"
+        ]
+    },
+    {
+        "name": "ARCANNA'S TRICKS",
+        "additionalTrigger": [
+            "ARCANNA",
+            "ARCANNAS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+25 To Mana (2 Items)",
+            "+50 To Life (3 Items)",
+            "Complete Set Bonus",
+            "+50 To Mana",
+            "+50 To Life",
+            "20% FCR",
+            "5% ML Per Hit"
+        ],
+        "items": [
+            "Arcanna's Head",
+            "Arcanna's Flesh",
+            "Arcanna's Deathwand",
+            "Arcanna's Sign"
+        ]
+    },
+    {
+        "name": "ARCTIC GEAR",
+        "additionalTrigger": [
+            "ARCTIC"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+5 To Str (2 Items)",
+            "+50 To Life (3 Items)",
+            "Complete Set Bonus",
+            "+5 To Str",
+            "+50 To Life",
+            "Cannot Be Frozen",
+            "Adds 6-14 Cold Damage",
+            "Cold Duration: 4 seconds"
+        ],
+        "items": [
+            "Arctic Furs",
+            "Arctic Binding",
+            "Arctic Mitts",
+            "Arctic Horn"
+        ]
+    },
+    {
+        "name": "BERSERKER'S GARB",
+        "additionalTrigger": [
+            "BERSERKER",
+            "BERSERKERS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+50 To Life (2 Items)",
+            "Complete Set Bonus",
+            "+50 To Life",
+            "+75 Defense",
+            "Poison Length Reduced by 75%",
+            "Adds 5-9 Poison Damage over 3 Seconds"
+        ],
+        "items": [
+            "Berserker's Headgear",
+            "Berserker's Hauberk",
+            "Berserker's Hatchet"
+        ]
+    },
+    {
+        "name": "CATHAN'S TRAPS",
+        "additionalTrigger": [
+            "CATHAN",
+            "CATHANS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+15-20 Fire Damage (2 Items)",
+            "Resist Lightning +25% (3 Items)",
+            "Complete Set Bonus",
+            "+15-20 Fire Damage",
+            "Resist Lightning +25%",
+            "10% FCR",
+            "Magic Damage Reduced by 3",
+            "All Res +25",
+            "+60 to AR",
+            "+20 to Mana"
+        ],
+        "items": [
+            "Cathan's Visage",
+            "Cathan's Mesh",
+            "Cathan's Rule",
+            "Cathan's Sigil",
+            "Cathan's Seal"
+        ]
+    },
+    {
+        "name": "CIVERB'S VESTMENTS",
+        "additionalTrigger": [
+            "CIVERB",
+            "CIVERBS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "Fire Resist +15% (2 Items)",
+            "Complete Set Bonus",
+            "+200% Damage to Undead",
+            "+15 To Str",
+            "Fire Resist +15%",
+            "Lightning Resist +25%"
+        ],
+        "items": [
+            "Civerb's Cudgel",
+            "Civerb's Icon",
+            "Civerb's Ward"
+        ]
+    },
+    {
+        "name": "CLEGLAW'S BRACE",
+        "additionalTrigger": [
+            "CLEGLAW",
+            "CLEGLAWS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+50 Defense (2 Items)",
+            "Complete Set Bonus",
+            "+100 Defense",
+            "35% Chance of CB",
+            "6% ML Per Hit",
+            "20% Increased Attack Speed"
+        ],
+        "items": [
+            "Cleglaw's Tooth",
+            "Cleglaw's Pincers",
+            "Cleglaw's Claw"
+        ]
+    },
+    {
+        "name": "DEATH'S DISGUISE",
+        "additionalTrigger": [
+            "DEATH",
+            "DEATHS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+8% Life Steal (2 Items)",
+            "Complete Set Bonus",
+            "+8% Life Steal",
+            "40% Bonus to AR",
+            "All Res +25",
+            "+10 to Minimum Damage"
+        ],
+        "items": [
+            "Death's Touch",
+            "Death's Hand",
+            "Death's Guard"
+        ]
+    },
+    {
+        "name": "HSARU'S DEFENSE",
+        "additionalTrigger": [
+            "HSARU",
+            "HSARUS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "Attacker Takes Damage of 5 (2 Items)",
+            "Complete Set Bonus",
+            "Attacker Takes Damage of 5",
+            "Cannot be Frozen",
+            "Lightning Resist +25%",
+            "+5 to Max Damage"
+        ],
+        "items": [
+            "Hsarus' Iron Fist",
+            "Hsarus' Iron Stay",
+            "Hsarus' Iron Heel"
+        ]
+    },
+    {
+        "name": "INFERNAL TOOLS",
+        "additionalTrigger": [
+            "INFERNAL"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+8 Poison Damage Over 3 Seconds (2 Items)",
+            "Complete Set Bonus",
+            "+8 Poison Damage Over 3 Seconds",
+            "20% Chance of OW",
+            "+1 to Necromancer Skill Levels",
+            "20% Bonus to AR",
+            "6% ML Per Hit"
+        ],
+        "items": [
+            "Infernal Cranium",
+            "Infernal Sign",
+            "Infernal Torch"
+        ]
+    },
+    {
+        "name": "IRATHAS FINERY",
+        "additionalTrigger": [
+            "IRATHAS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+50 To Defense (2 Items)",
+            "20% Faster Run/Walk (3 Items)",
+            "Complete Set Bonus",
+            "+50 To Defense",
+            "20% Faster Run/Walk",
+            "+15 To Dex",
+            "10% To Maximum Poison Resist",
+            "10% To Maximum Cold Resist",
+            "10% To Maximum Lightning Resist",
+            "10% To Maximum Fire Resist",
+            "All Res +20"
+        ],
+        "items": [
+            "Iratha's Coil",
+            "Iratha's Collar",
+            "Iratha's Cord",
+            "Iratha's Cuff"
+        ]
+    },
+    {
+        "name": "ISENHARTS ARMORY",
+        "additionalTrigger": [
+            "ISENHARTS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+10 To Str (2 Items)",
+            "+10 To Dex (3 Items)",
+            "Complete Set Bonus",
+            "+10 To Str",
+            "+10 To Dex",
+            "20% Faster Run/Walk",
+            "+30% Increased Chance of Blocking",
+            "35% Bonus to AR",
+            "5% LL Per Hit",
+            "All Res +10"
+        ],
+        "items": [
+            "Isenhart's Lightbrand",
+            "Isenhart's Horns",
+            "Isenhart's Case",
+            "Isenhart's Parry"
+        ]
+    },
+    {
+        "name": "MILABREGA'S REGALIA",
+        "additionalTrigger": [
+            "MILABREGA",
+            "MILABREGAS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+75 To AR (2 Items)",
+            "+125 To AR (3 Items)",
+            "Complete Set Bonus",
+            "+200 To AR",
+            "+2 to Paladin Skill Levels",
+            "8% LL Per Hit",
+            "10% ML Per Hit",
+            "Poison Resist +15%"
+        ],
+        "items": [
+            "Milabrega's Diadem",
+            "Milabrega's Robe",
+            "Milabrega's Orb",
+            "Milabrega's Rod"
+        ]
+    },
+    {
+        "name": "SIGON'S COMPLETE STEEL",
+        "additionalTrigger": [
+            "SIGON",
+            "SIGONS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+10% LL Per Hit (2 Items)",
+            "+100 Defense (3 Items)",
+            "Complete Set Bonus",
+            "+10% LL Per Hit",
+            "+100 Defense",
+            "+20 To Mana",
+            "Fire Resist +12%",
+            "+24 To Max Fire Damage",
+            "Attacker Takes Damage of 12",
+            "Damage Reduced By 7"
+        ],
+        "items": [
+            "Sigon's Visor",
+            "Sigon's Shelter",
+            "Sigon's Sabot",
+            "Sigon's Guard",
+            "Sigon's Wrap",
+            "Sigon's Gage"
+        ]
+    },
+    {
+        "name": "TANCRED's BATTLEGEAR",
+        "additionalTrigger": [
+            "TANCRED",
+            "TANCREDS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+15 Lightning Damage (2 Items)",
+            "+5% LL Per Hit (3 Items)",
+            "Complete Set Bonus",
+            "+15 Lightning Damage",
+            "+5% LL Per Hit",
+            "Slows Targets by 35%",
+            "5% ML Per Hit",
+            "All Res +10",
+            "75% Extra Gold From Monsters"
+        ],
+        "items": [
+            "Tancred's Skull",
+            "Tancred's Spine",
+            "Tancred's Hobnails",
+            "Tancred's Crowbill",
+            "Tancred's Weird"
+        ]
+    },
+    {
+        "name": "VIDALA'S RIG",
+        "additionalTrigger": [
+            "VIDALA",
+            "VIDALAS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+75 To AR (2 Items)",
+            "+15 To Dex (3 Items)",
+            "Complete Set Bonus",
+            "+75 To AR",
+            "Adds 15-20 Cold Damage, 2 sec. Duration (Normal)",
+            "Piercing Attack [50]",
+            "Freezes Target",
+            "+15 To Dex",
+            "+10 To Str"
+        ],
+        "items": [
+            "Vidala's Barb",
+            "Vidala's Ambush",
+            "Vidala's Fetlock",
+            "Vidala's Snare"
+        ]
+    },
+    {
+        "name": "ALDUR'S WATCHTOWER",
+        "additionalTrigger": [
+            "ALDUR",
+            "ALDURS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "150% Bonus To AR (2 Items)",
+            "50% MFs (3 Items)",
+            "Complete Set Bonus",
+            "+3 To Druid Skills",
+            "+350% EDmg",
+            "150% Bonus To AR",
+            "50% MFs",
+            "10% ML Per Hit",
+            "All Res +50",
+            "+150 Defense",
+            "+150 To Mana",
+            "Display Aura"
+        ],
+        "items": [
+            "Aldur's Stony Gaze",
+            "Aldur's Advance",
+            "Aldur's Deception",
+            "Aldur's Rhythm"
+        ]
+    },
+    {
+        "name": "BUL-KATHOS' CHILDREN",
+        "additionalTrigger": [
+            "BUL-KATHOS",
+            "BULKATHOS"
+        ],
+        "details": [
+            "Complete Set Bonus",
+            "+2 To All Skill Levels",
+            "+200 To AR",
+            "+200% Damage To Demons",
+            "+200% Damage To Undead",
+            "+20 Fire Damage",
+            "+25 Defense"
+        ],
+        "items": [
+            "Bul-Kathos' Sacred Charge",
+            "Bul-Kathos' Tribal Guardian"
+        ]
+    },
+    {
+        "name": "COW KING'S LEATHERS",
+        "additionalTrigger": [
+            "COW KING"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "Poison Resist +25% (2 items)",
+            "Complete Set Bonus",
+            "Poison Resist +25%",
+            "25% Chance To Cast Level 5 Static Field When Struck",
+            "+100 Maximum Stamina",
+            "+20 To Str",
+            "+30% Increased Attack Speed",
+            "100% MFs",
+            "100% Extra Gold From Monsters"
+        ],
+        "items": [
+            "Cow King's Horns",
+            "Cow King's Hide",
+            "Cow King's Hooves"
+        ]
+    },
+    {
+        "name": "THE DISCIPLE",
+        "additionalTrigger": [
+            "DISCIPLE"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+150 Defense (2 Items)",
+            "+22 Poison Damage Over 3 Seconds (3 Items)",
+            "+10 To Str (4 Items)",
+            "Complete Set Bonus",
+            "+150 Defense",
+            "+22 Poison Damage Over 3 Seconds",
+            "+10 To Str",
+            "+2 To All Skills",
+            "All Res +50",
+            "+100 Mana"
+        ],
+        "items": [
+            "Telling of Beads",
+            "Laying of Hands",
+            "Dark Adherent",
+            "Rite of Passage",
+            "Credendum"
+        ]
+    },
+    {
+        "name": "GRISWOLD'S LEGACY",
+        "additionalTrigger": [
+            "GRISWOLD",
+            "GRISWOLDS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+20 To Str (2 Items)",
+            "+30 To Dex (3 Items)",
+            "Complete Set Bonus",
+            "+3 To Paladin Skill Levels",
+            "+30% Faster Hit Recovery",
+            "+200 To AR",
+            "+20 To Str",
+            "+30 To Dex",
+            "+150 To Life",
+            "All Res +50",
+            "Display Aura"
+        ],
+        "items": [
+            "Griswold's Heart",
+            "Griswold's Valor",
+            "Griswold's Redemption",
+            "Griswold's Honor"
+        ]
+    },
+    {
+        "name": "HEAVEN'S BRETHREN",
+        "additionalTrigger": [
+            "HEAVEN",
+            "HEAVENS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "Heal Stamina Plus 50% (2 Items)",
+            "Replenish Life +20 (3 Items)",
+            "Complete Set Bonus",
+            "+2 To All Skills",
+            "Replenish Life +20",
+            "Heal Stamina Plus 50%",
+            "All Res +50",
+            "Cannot Be Frozen",
+            "+5 To Light Radius"
+        ],
+        "items": [
+            "Haemosu's Adamant",
+            "Dangoon's Teaching",
+            "Taebaek's Glory",
+            "Ondal's Almighty"
+        ]
+    },
+    {
+        "name": "HWANIN'S MAJESTY",
+        "additionalTrigger": [
+            "HWANIN",
+            "HWANINS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+100 Defense (2 Items)",
+            "+200 Defense (3 Items)",
+            "Complete Set Bonus",
+            "+2 To All Skills",
+            "+30% Faster Run/Walk",
+            "20% LL Per Hit",
+            "+300 Defense",
+            "All Res +30"
+        ],
+        "items": [
+            "Hwanin's Splendor",
+            "Hwanin's Justice",
+            "Hwanin's Refuge",
+            "Hwanin's Blessing"
+        ]
+    },
+    {
+        "name": "IMMORTAL KING",
+        "additionalTrigger": [
+            "IMMORTAL",
+            "IK"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+50 To AR (2 Items)",
+            "Additional +75 To AR (3 Items)",
+            "Additional +125 To AR (4 Items)",
+            "Additional +200 To AR (5 Items)",
+            "Complete Set Bonus",
+            "+3 To Barbarian Skill Levels",
+            "+450 To AR",
+            "+150 To Life",
+            "All Res +50",
+            "Magic Damage Reduced By 10",
+            "Display Aura"
+        ],
+        "items": [
+            "Immortal King's Will",
+            "Immortal King's Stone Crusher",
+            "Immortal King's Soul Cage",
+            "Immortal King's Detail",
+            "Immortal King's Forge",
+            "Immortal King's Pillar"
+        ]
+    },
+    {
+        "name": "M'AVINA'S BATTLE HYMN",
+        "additionalTrigger": [
+            "MAVINA",
+            "M'AVINA",
+            "MAVINAS",
+            "M'AVINAS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+20 To Str (2 Items)",
+            "+30 To Dex (3 Items)",
+            "Complete Set Bonus",
+            "+3 To Amazon Skill Levels",
+            "+20 To Str",
+            "+30 To Dex",
+            "All Res +50",
+            "+100 Defense",
+            "+100 To AR",
+            "100% MFs",
+            "Display Aura"
+        ],
+        "items": [
+            "M'avina's True Sight",
+            "M'avina's Caster",
+            "M'avina's Embrace",
+            "M'avina's Icy Clutch",
+            "M'avina's Tenet"
+        ]
+    },
+    {
+        "name": "NATALYA'S ODIUM",
+        "additionalTrigger": [
+            "NATALYA",
+            "NATALYAS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "Magic Damage Reduced By 15 (2 Items)",
+            "+200 Defense (3 Items)",
+            "Complete Set Bonus",
+            "+3 To Assassin Skill Levels",
+            "+350 Defense",
+            "14% LL Per Hit",
+            "14% ML Per Hit",
+            "All Res +50",
+            "Damage Reduced by 30%",
+            "Magic Damage Reduced By 15",
+            "Fade"
+        ],
+        "items": [
+            "Natalya's Totem",
+            "Natalya's Mark",
+            "Natalya's Shadow",
+            "Natalya's Soul"
+        ]
+    },
+    {
+        "name": "NAJ'S ANCIENT VESTIGE",
+        "additionalTrigger": [
+            "NAJ",
+            "NAJS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+175 Defense (2 Items)",
+            "Complete Set Bonus",
+            "+175 Defense",
+            "+15 To Dex",
+            "All Res +50",
+            "+20 To Str",
+            "+100 To Mana",
+            "+1 To All Skills",
+            "Replenish Life +10"
+        ],
+        "items": [
+            "Naj's Circlet",
+            "Naj's Light Plate",
+            "Naj's Puzzler"
+        ]
+    },
+    {
+        "name": "ORPHAN'S CALL",
+        "additionalTrigger": [
+            "ORPHAN",
+            "ORPHANS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+35 Life (2 Items)",
+            "Attacker Takes Damage of 5 (3 Items)",
+            "Complete Set Bonus",
+            "+85 To Life",
+            "Attacker Takes Damage of 5",
+            "All Res +15",
+            "+100 Defense",
+            "+10 To Dex",
+            "+20 To Str",
+            "80% MFs"
+        ],
+        "items": [
+            "Guillaume's Face",
+            "Whitstan's Guard",
+            "Magnus' Skin",
+            "Wilhelm's Pride"
+        ]
+    },
+    {
+        "name": "SANDER'S FOLLY",
+        "additionalTrigger": [
+            "SANDER",
+            "SANDERS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+50 Defense (2 Items)",
+            "+75 To AR (3 Items)",
+            "Complete Set Bonus",
+            "+50 Defense",
+            "+75 To AR",
+            "+1 To All Skills",
+            "4% LL Per Hit",
+            "+50 To Mana",
+            "50% MFs"
+        ],
+        "items": [
+            "Sander's Paragon",
+            "Sander's Superstition",
+            "Sander's Taboo",
+            "Sander's Riprap"
+        ]
+    },
+    {
+        "name": "SAZABI'S GRAND TRIBUTE",
+        "additionalTrigger": [
+            "SAZABI",
+            "SAZABIS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+40% Faster Run/Walk (2 Items)",
+            "Complete Set Bonus",
+            "+40% Faster Run/Walk",
+            "15% LL Per Hit",
+            "Increase Maximum Life 27%",
+            "All Res +30"
+        ],
+        "items": [
+            "Sazabi's Mental Sheath",
+            "Sazabi's Cobalt Redeemer",
+            "Sazabi's Ghost Liberator"
+        ]
+    },
+    {
+        "name": "TAL RASHA'S WRAPPINGS",
+        "additionalTrigger": [
+            "TAL",
+            "TALS",
+            "TAL RASHA",
+            "TAL RASHAS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "Replenish Life +10 (2 Items)",
+            "65% MFs (3 Items)",
+            "25% Faster Hit Recovery (4 Items)",
+            "Complete Set Bonus",
+            "+3 To Sorceress Skill Levels",
+            "Replenish Life +10",
+            "65% MFs",
+            "25% Faster Hit Recovery",
+            "+150 To Life",
+            "All Res +50",
+            "+50 Defense vs. Missile",
+            "+150 Defense",
+            "Display Aura"
+        ],
+        "items": [
+            "Tal Rasha's Lidless Eye",
+            "Tal Rasha's Horadric Crest",
+            "Tal Rasha's Guardianship",
+            "Tal Rasha's Fine-Spun Cloth",
+            "Tal Rasha's Adjudication"
+        ]
+    },
+    {
+        "name": "TRANG-OUL'S AVATAR",
+        "additionalTrigger": [
+            "TRANG",
+            "TRANGS",
+            "TRANG-OUL",
+            "TRANG-OULS"
+        ],
+        "details": [
+            "Partial Set Bonus",
+            "+18 To Fire Ball (2 Items)",
+            "Regen Mana 15% (2 Items)",
+            "+13 To Fire Wall (3 Items)",
+            "Additional Regen Mana 15% (3 Items)",
+            "Additional Regen Mana 15% (4 Items)",
+            "+10 To Meteor (4 Items)",
+            "Complete Set Bonus",
+            "+3 To Necromancer Skill Levels",
+            "20% LL Per Hit",
+            "+3 To Fire Mastery",
+            "+10 To Meteor",
+            "+13 To Fire Wall",
+            "+18 To Fire Ball",
+            "+200 Defense",
+            "+100 To Mana",
+            "Regen Mana 60%",
+            "All Res +50",
+            "Transforms into Vampire"
+        ],
+        "items": [
+            "Trang-Oul's Guise",
+            "Trang-Oul's Scales",
+            "Trang-Oul's Wing",
+            "Trang-Oul's Girth",
+            "Trang-Oul's Claws"
+        ]
+    }
+]

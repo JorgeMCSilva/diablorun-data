@@ -1,13 +1,14 @@
 {
-    "OW": "Open Wounds",
     "CB": "Crushing Blow",
-    "MF": "Magic Find",
-    "EDmg": "Enhanced Damage",
     "EDef": "Enhanced Defense",
+    "EDmg": "Enhanced Damage",
+    "FBR": "Faster Block Rate",
+    "FCR": "Faster Cast Rate",
+    "FHR": "Faster Hit Recovery",
+    "FRW": "Faster Run/Walk",
     "IAS": "Increased Attack Speed",
     "LL": "Life Leech",
+    "MF": "Magic Find",
     "ML": "Mana Leech",
-    "FCR": "Faster Cast Rate",
-    "FBR": "Faster Block Rate",
-    "FRW": "Faster Run/Walk"
+    "OW": "Open Wounds"
 }

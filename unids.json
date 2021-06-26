@@ -12,34 +12,45 @@
         "Halaberd's Reign"
     ],
     "Sash": [
-        "Lenymo"
+        "Lenymo",
+        "Death's Guard (DEATH'S DISGUISE)"
     ],
     "Light Belt": [
-        "Snakecord"
+        "Snakecord",
+        "Arctic Binding (ARCTIC GEAR)"
     ],
     "Belt": [
-        "Nightsmoke"
+        "Nightsmoke",
+        "Hsarus' Iron Stay (HSARU'S DEFENSE)",
+        "Hwanin's Blessing (HWANIN'S MAJESTY)"
     ],
     "Heavy Belt": [
-        "Goldwrap"
+        "Goldwrap",
+        "Infernal Sign (INFERNAL TOOLS)",
+        "Iratha's Cord (IRATHAS FINERY)"
     ],
     "Plated Belt": [
-        "Bladebuckle"
+        "Bladebuckle",
+        "Sigon's Wrap (SIGON'S COMPLETE STEEL)"
     ],
     "Demonhide Sash": [
         "String of Ears"
     ],
     "Sharkskin Belt": [
-        "Razortail"
+        "Razortail",
+        "M'avina's Tenet (M'AVINA'S BATTLE HYMN)"
     ],
     "Mesh Belt": [
-        "Gloom's Trap"
+        "Gloom's Trap",
+        "Tal Rasha's Fine-Spun Cloth (TAL RASHA'S WRAPPINGS)"
     ],
     "Battle Belt": [
-        "Snowclash"
+        "Snowclash",
+        "Wilhelm's Pride (ORPHAN'S CALL)"
     ],
     "War Belt": [
-        "Thundergod's Vigor"
+        "Thundergod's Vigor",
+        "Immortal King's Detail (IMMORTAL KING)"
     ],
     "Spiderweb Sash": [
         "Arachnid Mesh"
@@ -48,7 +59,8 @@
         "Nosferatu's Coil"
     ],
     "Mithril Coil": [
-        "Verdungo's Hearty Cord"
+        "Verdungo's Hearty Cord",
+        "Credendum (THE DISCIPLE)"
     ],
     "Hierophant Trophy": [
         "Homunculus"
@@ -60,34 +72,41 @@
         "Boneflame"
     ],
     "Buckler": [
-        "Pelta Lunata"
+        "Pelta Lunata",
+        "Hsarus' Iron Fist (HSARU'S DEFENSE)"
     ],
     "Small Shield": [
-        "Umbral Disk"
+        "Umbral Disk",
+        "Cleglaw's Claw (CLEGLAW'S BRACE)"
     ],
     "Large Shield": [
-        "Stormguild"
+        "Stormguild",
+        "Civerb's Ward (CIVERB'S VESTMENTS)"
     ],
     "Kite Shield": [
-        "Steelclash"
+        "Steelclash",
+        "Milabrega's Orb (MILABREGA'S REGALIA)"
     ],
     "Spiked Shield": [
         "Swordback Hold"
     ],
     "Tower Shield": [
-        "Bverrit Keep"
+        "Bverrit Keep",
+        "Sigon's Guard (SIGON'S COMPLETE STEEL)"
     ],
     "Bone Shield": [
         "Wall of the Eyeless"
     ],
     "Gothic Shield": [
-        "The Ward"
+        "The Ward",
+        "Isenhart's Parry (ISENHARTS ARMORY)"
     ],
     "Defender": [
         "Visceratuant"
     ],
     "Round Shield": [
-        "Moser's Blessed Circle"
+        "Moser's Blessed Circle",
+        "Whitstan's Guard (ORPHAN'S CALL)"
     ],
     "Scutum": [
         "Stormchaser"
@@ -123,7 +142,8 @@
         "Head Hunter's Glory"
     ],
     "Ward": [
-        "Spirit Ward"
+        "Spirit Ward",
+        "Taebaek's Glory (HEAVEN'S BRETHREN)"
     ],
     "Gilded Shield": [
         "Herald of Zakarum"
@@ -135,31 +155,42 @@
         "Dragonscale"
     ],
     "Cap": [
-        "Biggin's Bonnet"
+        "Biggin's Bonnet",
+        "Infernal Cranium (INFERNAL TOOLS)",
+        "Sander's Paragon (SANDER'S FOLLY)"
     ],
     "Skull Cap": [
-        "Tarnhelm"
+        "Tarnhelm",
+        "Arcanna's Head (ARCANNA'S TRICKS)"
     ],
     "Helm": [
-        "Coif of Glory"
+        "Coif of Glory",
+        "Berserker's Headgear (BERSERKER'S GARB)"
     ],
     "Full Helm": [
-        "Duskdeep"
+        "Duskdeep",
+        "Isenhart's Horns (ISENHARTS ARMORY)"
     ],
     "Great Helm": [
-        "Howltusk"
+        "Howltusk",
+        "Sigon's Visor (SIGON'S COMPLETE STEEL)"
     ],
     "Mask": [
-        "The Face of Horror"
+        "The Face of Horror",
+        "Cathan's Visage (CATHAN'S TRAPS)"
     ],
     "Crown": [
-        "Undead Crown"
+        "Undead Crown",
+        "Iratha's Coil (IRATHAS FINERY)",
+        "Milabrega's Diadem (MILABREGA'S REGALIA)"
     ],
     "Bone Helm": [
-        "Wormskull"
+        "Wormskull",
+        "TANCRED'S Skull (TANCRED'S BATTLEGEAR)"
     ],
     "War Hat": [
-        "Peasant Crown"
+        "Peasant Crown",
+        "Cow King's Horns (COW KING'S LEATHERS)"
     ],
     "Sallet": [
         "Rockstopper"
@@ -168,19 +199,24 @@
         "Stealskull"
     ],
     "Basinet": [
-        "Darksight Helm"
+        "Darksight Helm",
+        "Sazabi's Mental Sheath (SAZABI'S GRAND TRIBUTE)"
     ],
     "Winged Helm": [
-        "Valkyrie Wing"
+        "Valkyrie Wing",
+        "Guillaume's Face (ORPHAN'S CALL)"
     ],
     "Death Mask": [
-        "Blackhorn's Face"
+        "Blackhorn's Face",
+        "Tal Rasha's Horadric Crest (TAL RASHA'S WRAPPINGS)"
     ],
     "Grand Crown": [
-        "Crown of Thieves"
+        "Crown of Thieves",
+        "Hwanin's Splendor (HWANIN'S MAJESTY)"
     ],
     "Grim Helm": [
-        "Vampire Gaze"
+        "Vampire Gaze",
+        "Natalya's Totem (NATALYA'S ODIUM)"
     ],
     "Shako": [
         "Harlequin Crest"
@@ -190,46 +226,59 @@
     ],
     "Spired Helm": [
         "Veil of Steel",
-        "Nightwing's Veil"
+        "Nightwing's Veil",
+        "Ondal's Almighty (HEAVEN'S BRETHREN)"
     ],
     "Demonhead": [
         "Andariel's Visage"
     ],
     "Corona": [
-        "Crown of Ages"
+        "Crown of Ages",
+        "Griswold's Valor (GRISWOLD'S LEGACY)"
     ],
     "Bone Visage": [
-        "Giant Skull"
+        "Giant Skull",
+        "Trang-Oul's Guise (TRANG-OUL'S AVATAR)"
     ],
     "Leather Gloves": [
-        "The Hand of Broc"
+        "The Hand of Broc",
+        "Death's Hand (DEATH'S DISGUISE)"
     ],
     "Heavy Gloves": [
-        "Bloodfist"
+        "Bloodfist",
+        "Sander's Taboo (SANDER'S FOLLY)"
     ],
     "Chain Gloves": [
-        "Chance Guards"
+        "Chance Guards",
+        "Cleglaw's Pincers (CLEGLAW'S BRACE)"
     ],
     "Light Gauntlets": [
-        "Magefist"
+        "Magefist",
+        "Arctic Mitts (ARCTIC GEAR)",
+        "Iratha's Cuff (IRATHAS FINERY)"
     ],
     "Gauntlets": [
-        "Frostburn"
+        "Frostburn",
+        "Sigon's Gage (SIGON'S COMPLETE STEEL)"
     ],
     "Demonhide Gloves": [
         "Venom Grip"
     ],
     "Sharkskin Gloves": [
-        "Gravepalm"
+        "Gravepalm",
+        "Magnus' Skin (ORPHAN'S CALL)"
     ],
     "Heavy Bracers": [
-        "Ghoulhide"
+        "Ghoulhide",
+        "Trang-Oul's Claws (TRANG-OUL'S AVATAR)"
     ],
     "Battle Gauntlets": [
-        "Lava Gout"
+        "Lava Gout",
+        "M'avina's Icy Clutch (M'AVINA'S BATTLE HYMN)"
     ],
     "War Gauntlets": [
-        "Hellmouth"
+        "Hellmouth",
+        "Immortal King's Forge (IMMORTAL KING)"
     ],
     "Vampirebone Gloves": [
         "Dracul's Grasp"
@@ -256,37 +305,48 @@
         "Kira's Guardian"
     ],
     "Diadem": [
-        "Griffon's Eye"
+        "Griffon's Eye",
+        "M'avina's True Sight (M'AVINA'S BATTLE HYMN)"
     ],
     "Boots": [
-        "Hotspur"
+        "Hotspur",
+        "TANCRED'S Hobnails (TANCRED'S BATTLEGEAR)"
     ],
     "Heavy Boots": [
-        "Gorefoot"
+        "Gorefoot",
+        "Cow King's Hooves (COW KING'S LEATHERS)",
+        "Sander's Riprap (SANDER'S FOLLY)"
     ],
     "Chain Boots": [
-        "Treads of Cthon"
+        "Treads of Cthon",
+        "Hsarus' Iron Heel (HSARU'S DEFENSE)"
     ],
     "Light Plated Boots": [
-        "Goblin Toe"
+        "Goblin Toe",
+        "Vidala's Fetlock (VIDALA'S RIG)"
     ],
     "Greaves": [
-        "Tearhaunch"
+        "Tearhaunch",
+        "Sigon's Sabot (SIGON'S COMPLETE STEEL)"
     ],
     "Demonhide Boots": [
-        "Infernostride"
+        "Infernostride",
+        "Rite of Passage (THE DISCIPLE)"
     ],
     "Sharkskin Boots": [
         "Waterwalk"
     ],
     "Mesh Boots": [
-        "Silkweave"
+        "Silkweave",
+        "Natalya's Soul (NATALYA'S ODIUM)"
     ],
     "Battle Boots": [
-        "War Traveler"
+        "War Traveler",
+        "Aldur's Advance (ALDUR'S WATCHTOWER)"
     ],
     "War Boots": [
-        "Gore Rider"
+        "Gore Rider",
+        "Immortal King's Pillar (IMMORTAL KING)"
     ],
     "Scarabshell Boots": [
         "Sandstorm Trek"
@@ -298,34 +358,42 @@
         "Shadow Dancer"
     ],
     "Quilted Armor": [
-        "Greyform"
+        "Greyform",
+        "Arctic Furs (ARCTIC GEAR)"
     ],
     "Leather Armor": [
-        "Blinkbat's Form"
+        "Blinkbat's Form",
+        "Vidala's Ambush (VIDALA'S RIG)"
     ],
     "Hard Leather Armor": [
         "The Centurion"
     ],
     "Studded Leather": [
-        "Twitchthroe"
+        "Twitchthroe",
+        "Cow King's Hide (COW KING'S LEATHERS)"
     ],
     "Ring Mail": [
-        "Darkglow"
+        "Darkglow",
+        "Angelic Mantle (ANGELIC RAIMENT)"
     ],
     "Scale Mail": [
         "Hawkmail"
     ],
     "Breast Plate": [
-        "Venom Ward"
+        "Venom Ward",
+        "Isenhart's Case (ISENHARTS ARMORY)"
     ],
     "Chain Mail": [
-        "Sparking Mail"
+        "Sparking Mail",
+        "Cathan's Mesh (CATHAN'S TRAPS)"
     ],
     "Splint Mail": [
-        "Iceblink"
+        "Iceblink",
+        "Berserker's Hauberk (BERSERKER'S GARB)"
     ],
     "Light Plate": [
-        "Heavenly Garb"
+        "Heavenly Garb",
+        "Arcanna's Flesh (ARCANNA'S TRICKS)"
     ],
     "Plate Mail": [
         "Boneflesh"
@@ -334,13 +402,16 @@
         "Rockfleece"
     ],
     "Gothic Plate": [
-        "Rattlecage"
+        "Rattlecage",
+        "Sigon's Shelter (SIGON'S COMPLETE STEEL)"
     ],
     "Full Plate Mail": [
-        "Goldskin"
+        "Goldskin",
+        "TANCRED'S Spine (TANCRED'S BATTLEGEAR)"
     ],
     "Ancient Armor": [
-        "Silks of the Victor"
+        "Silks of the Victor",
+        "Milabrega's Robe (MILABREGA'S REGALIA)"
     ],
     "Ghost Armor": [
         "The Spirit Shroud"
@@ -355,13 +426,15 @@
         "Iron Pelt"
     ],
     "Tigulated Mail": [
-        "Crow Caw"
+        "Crow Caw",
+        "Hwanin's Refuge (HWANIN'S MAJESTY)"
     ],
     "Linked Mail": [
         "Spirit Forge"
     ],
     "Cuirass": [
-        "Duriel's Shell"
+        "Duriel's Shell",
+        "Haemosu's Adamant (HEAVEN'S BRETHREN)"
     ],
     "Mesh Armor": [
         "Shaftstop"
@@ -382,29 +455,36 @@
         "Atma's Wail"
     ],
     "Chaos Armor": [
-        "Black Hades"
+        "Black Hades",
+        "Trang-Oul's Scales (TRANG-OUL'S AVATAR)"
     ],
     "Ornate Plate": [
-        "Corpsemourn"
+        "Corpsemourn",
+        "Griswold's Heart (GRISWOLD'S LEGACY)"
     ],
     "Dusk Shroud": [
-        "Ormus' Robes"
+        "Ormus' Robes",
+        "Dark Adherent (THE DISCIPLE)"
     ],
     "Wire Fleece": [
         "The Gladiator's Bane"
     ],
     "Balrog Skin": [
-        "Arkaine's Valor"
+        "Arkaine's Valor",
+        "Sazabi's Ghost Liberator (SAZABI'S GRAND TRIBUTE)"
     ],
     "Kraken Shell": [
-        "Leviathan"
+        "Leviathan",
+        "M'avina's Embrace (M'AVINA'S BATTLE HYMN)"
     ],
     "Shadow Plate": [
-        "Steel Carapace"
+        "Steel Carapace",
+        "Aldur's Deception (ALDUR'S WATCHTOWER)"
     ],
     "Sacred Armor": [
         "Templar's Might",
-        "Tyrael's Might"
+        "Tyrael's Might",
+        "Immortal King's Soul Cage (IMMORTAL KING)"
     ],
     "Grand Charm": [
         "Gheed's Fortune"
@@ -427,7 +507,16 @@
         "Highlord's Wrath",
         "Mara's Kaleidoscope",
         "Seraph's Hymn",
-        "Metalgrid"
+        "Metalgrid",
+        "Angelic Wings (ANGELIC RAIMENT)",
+        "Arcanna's Sign (ARCANNA'S TRICKS)",
+        "Cathan's Sigil (CATHAN'S TRAPS)",
+        "Civerb's Icon (CIVERB'S VESTMENTS)",
+        "Iratha's Collar (IRATHAS FINERY)",
+        "TANCRED'S Weird (TANCRED'S BATTLEGEAR)",
+        "Vidala's Snare (VIDALA'S RIG)",
+        "Telling of Beads (THE DISCIPLE)",
+        "Tal Rasha's Adjudication (TAL RASHA'S WRAPPINGS)"
     ],
     "Ring": [
         "Nagelring",
@@ -438,7 +527,9 @@
         "Bul-Kathos' Wedding Band",
         "Carrion Wind",
         "Nature's Peace",
-        "Wisp Projector"
+        "Wisp Projector",
+        "Angelic Halo (ANGELIC RAIMENT)",
+        "Cathan's Seal (CATHAN'S TRAPS)"
     ],
     "Wand": [
         "Torch of Iro"
@@ -447,10 +538,12 @@
         "Maelstrom"
     ],
     "Bone Wand": [
-        "Gravenspine"
+        "Gravenspine",
+        "Sander's Superstition (SANDER'S FOLLY)"
     ],
     "Grim Wand": [
-        "Ume's Lament"
+        "Ume's Lament",
+        "Infernal Torch (INFERNAL TOOLS)"
     ],
     "Burnt Wand": [
         "Suicide Branch"
@@ -492,19 +585,23 @@
         "Blood Crescent"
     ],
     "Sabre": [
-        "Skewer of Krintiz"
+        "Skewer of Krintiz",
+        "Angelic Sickle (ANGELIC RAIMENT)"
     ],
     "Falchion": [
         "Gleamscythe"
     ],
     "Broad Sword": [
-        "Griswold's Edge"
+        "Griswold's Edge",
+        "Isenhart's Lightbrand (ISENHARTS ARMORY)"
     ],
     "Long Sword": [
-        "Hellplague"
+        "Hellplague",
+        "Cleglaw's Tooth (CLEGLAW'S BRACE)"
     ],
     "War Sword": [
-        "Culwen's Point"
+        "Culwen's Point",
+        "Death's Touch (DEATH'S DISGUISE)"
     ],
     "Two-Handed Sword": [
         "Shadowfang"
@@ -577,7 +674,8 @@
         "Azurewrath"
     ],
     "Cryptic Sword": [
-        "Frostwind"
+        "Frostwind",
+        "Sazabi's Cobalt Redeemer (SAZABI'S GRAND TRIBUTE)"
     ],
     "Balrog Blade": [
         "Flamebellow"
@@ -586,7 +684,8 @@
         "Doombringer"
     ],
     "Colossus Blade": [
-        "The Grandfather"
+        "The Grandfather",
+        "Bul-Kathos' Sacred Charge (BUL-KATHOS' CHILDREN)"
     ],
     "Short Staff": [
         "Bane Ash"
@@ -598,10 +697,12 @@
         "Spire of Lazarus"
     ],
     "Battle Staff": [
-        "The Salamander"
+        "The Salamander",
+        "Cathan's Rule (CATHAN'S TRAPS)"
     ],
     "War Staff": [
-        "The Iron Jang Bong"
+        "The Iron Jang Bong",
+        "Arcanna's Deathwand (ARCANNA'S TRICKS)"
     ],
     "Jo Staff": [
         "Razorswitch"
@@ -619,7 +720,8 @@
         "Skull Collector"
     ],
     "Elder Staff": [
-        "Ondal's Wisdom"
+        "Ondal's Wisdom",
+        "Naj's Puzzler (NAJ'S ANCIENT VESTIGE)"
     ],
     "Archon Staff": [
         "Mang Song's Lesson"
@@ -667,10 +769,12 @@
         "Knell Striker"
     ],
     "Grand Scepter": [
-        "Rusthandle"
+        "Rusthandle",
+        "Civerb's Cudgel (CIVERB'S VESTMENTS)"
     ],
     "War Scepter": [
-        "Stormeye"
+        "Stormeye",
+        "Milabrega's Rod (MILABREGA'S REGALIA)"
     ],
     "Rune Scepter": [
         "Zakarum's Hand"
@@ -686,7 +790,8 @@
         "The Redeemer"
     ],
     "Caduceus": [
-        "Astreon's Iron Ward"
+        "Astreon's Iron Ward",
+        "Griswold's Redemption (GRISWOLD'S LEGACY)"
     ],
     "Bardiche": [
         "Dimoak's Hew"
@@ -710,7 +815,8 @@
         "The Meat Scraper"
     ],
     "Bill": [
-        "Blackleach Blade"
+        "Blackleach Blade",
+        "Hwanin's Justice (HWANIN'S MAJESTY)"
     ],
     "Battle Scythe": [
         "Athena's Wrath"
@@ -737,7 +843,8 @@
         "Stormspire"
     ],
     "Swirling Crystal": [
-        "The Oculus"
+        "The Oculus",
+        "Tal Rasha's Lidless Eye (TAL RASHA'S WRAPPINGS)"
     ],
     "Eldritch Orb": [
         "Eschuta's Temper"
@@ -800,7 +907,8 @@
         "Sureshrill Frost"
     ],
     "Jagged Star": [
-        "Moonfall"
+        "Moonfall",
+        "Aldur's Rhythm (ALDUR'S WATCHTOWER)"
     ],
     "Knout": [
         "Baezil's Vortex"
@@ -832,7 +940,8 @@
         "Schaefer's Hammer"
     ],
     "Ogre Maul": [
-        "Windhammer"
+        "Windhammer",
+        "Immortal King's Stone Crusher (IMMORTAL KING)"
     ],
     "Thunder Maul": [
         "Earth Shifter",
@@ -917,10 +1026,12 @@
         "Stormstrike"
     ],
     "Long Battle Bow": [
-        "Wizendraw"
+        "Wizendraw",
+        "Vidala's Barb (VIDALA'S RIG)"
     ],
     "Short War Bow": [
-        "Hellclap"
+        "Hellclap",
+        "Arctic Horn (ARCTIC GEAR)"
     ],
     "Long War Bow": [
         "Blastbark"
@@ -965,10 +1076,12 @@
         "Deathspade"
     ],
     "Double Axe": [
-        "Bladebone"
+        "Bladebone",
+        "Berserker's Hatchet (BERSERKER'S GARB)"
     ],
     "Military Pick": [
-        "Skull Splitter"
+        "Skull Splitter",
+        "TANCRED'S Crowbill (TANCRED'S BATTLEGEAR)"
     ],
     "War Axe": [
         "Rakescar"
@@ -1059,5 +1172,47 @@
     ],
     "Matriarchal Javelin": [
         "Thunderstroke"
+    ],
+    "Hunter's Guise": [
+        "Aldur's Stony Gaze (ALDUR'S WATCHTOWER)"
+    ],
+    "Mythical Sword": [
+        "Bul-Kathos' Tribal Guardian (BUL-KATHOS' CHILDREN)"
+    ],
+    "Bramble Mitts": [
+        "Laying of Hands (THE DISCIPLE)"
+    ],
+    "Vortex Shield": [
+        "Griswold's Honor (GRISWOLD'S LEGACY)"
+    ],
+    "Reinforced Mace": [
+        "Dangoon's Teaching (HEAVEN'S BRETHREN)"
+    ],
+    "Avenger Guard": [
+        "Immortal King's Will (IMMORTAL KING)"
+    ],
+    "Grand Matron Bow": [
+        "M'avina's Caster (M'AVINA'S BATTLE HYMN)"
+    ],
+    "Scissors Suwayyah": [
+        "Natalya's Mark (NATALYA'S ODIUM)"
+    ],
+    "Loricated Mail": [
+        "Natalya's Shadow (NATALYA'S ODIUM)"
+    ],
+    "Circlet": [
+        "Naj's Circlet (NAJ'S ANCIENT VESTIGE)"
+    ],
+    "Hellforge Plate": [
+        "Naj's Light Plate (NAJ'S ANCIENT VESTIGE)"
+    ],
+    "Lacquered Plate": [
+        "Tal Rasha's Guardianship (TAL RASHA'S WRAPPINGS)"
+    ],
+    "Cantor Trophy": [
+        "Trang-Oul's Wing (TRANG-OUL'S AVATAR)"
+    ],
+    "Troll Belt": [
+        "Trang-Oul's Girth (TRANG-OUL'S AVATAR)"
     ]
 }

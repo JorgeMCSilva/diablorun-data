@@ -73,7 +73,7 @@ declare module "@diablorun/diablorun-data" {
         [name: string]: string;
     };
 
-    export const unid: {
+    export const unids: {
         [name: string]: string[];
     };
 
@@ -84,4 +84,21 @@ declare module "@diablorun/diablorun-data" {
         requirements: string[];
         properties: string[];
     };
+
+    export const setItems: [{
+        name: string;
+        unidItem: string;
+        cLevel: number,
+        requirements: string[];
+        properties: string[];
+        setName: string;
+    }];
+
+    export const sets: {
+        name: string;
+        additionalTrigger: string[];
+        details: string[];
+        items: string[];
+    };
+
 }
