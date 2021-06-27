@@ -1,0 +1,2132 @@
+[
+    {
+        "name": "Angelic Mantle",
+        "unidItem": "Ring Mail",
+        "cLevel": 12,
+        "requirements": [
+            "Required Level: 12",
+            "Required Str: 36"
+        ],
+        "properties": [
+            "+40% EDef",
+            "Damage Reduced by 3",
+            "+150 Defense (2 Set Items)",
+            "Fire Resist +50% (3 Set Items)"
+        ],
+        "setName": "ANGELIC RAIMENT"
+    },
+    {
+        "name": "Angelic Sickle",
+        "unidItem": "Sabre",
+        "cLevel": 12,
+        "requirements": [
+            "Required Level: 12",
+            "Required Str: 25",
+            "Required Dex: 25"
+        ],
+        "properties": [
+            "+250% Damage to Undead",
+            "+75 To AR",
+            "+75% EDmg (2 Set Items)",
+            "30% Increased Attack Speed (3 Set Items)"
+        ],
+        "setName": "ANGELIC RAIMENT"
+    },
+    {
+        "name": "Angelic Halo",
+        "unidItem": "Ring",
+        "cLevel": 12,
+        "requirements": [
+            "Required Level: 12"
+        ],
+        "properties": [
+            "Replenish Life +6",
+            "+20 To Life",
+            "+ (12 Per Character Level) 144-1188 AR (2 Set Items)",
+            "+50% MFs (3 Set Items)"
+        ],
+        "setName": "ANGELIC RAIMENT"
+    },
+    {
+        "name": "Angelic Wings",
+        "unidItem": "Amulet",
+        "cLevel": 12,
+        "requirements": [
+            "Required Level: 12"
+        ],
+        "properties": [
+            "20% Damage Taken Goes to Mana",
+            "+3 To Light Radius",
+            "+75 Life (2 Set Items)",
+            "+1 To All Skills (3 Set Items)"
+        ],
+        "setName": "ANGELIC RAIMENT"
+    },
+    {
+        "name": "Arcanna's Head",
+        "unidItem": "Skull Cap",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15",
+            "Required Str: 15"
+        ],
+        "properties": [
+            "Replenish Life +4",
+            "Attacker Takes Damage of 2",
+            "+ (3 Per Character Level) 3-297 Defense (2 Set Items)",
+            "Lightning Resist +15% (3 Set Items)"
+        ],
+        "setName": "ARCANNA'S TRICKS"
+    },
+    {
+        "name": "Arcanna's Flesh",
+        "unidItem": "Light Plate",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15",
+            "Required Str: 41"
+        ],
+        "properties": [
+            "+2 To Light Radius",
+            "Damage Reduced By 3",
+            "+100 Defense (2 Set Items)",
+            "+10 Energy (3 Set Items)"
+        ],
+        "setName": "ARCANNA'S TRICKS"
+    },
+    {
+        "name": "Arcanna's Deathwand",
+        "unidItem": "War Staff",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15"
+        ],
+        "properties": [
+            "+1 to Sorceress Skill Levels",
+            "25% Deadly Strike",
+            "+50% Damage To Undead",
+            "+50 Mana (2 Set Items)",
+            "Regen Mana +5% (3 Set Items)"
+        ],
+        "setName": "ARCANNA'S TRICKS"
+    },
+    {
+        "name": "Arcanna's Sign",
+        "unidItem": "Amulet",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15"
+        ],
+        "properties": [
+            "Regen Mana 20%",
+            "+15 to Mana",
+            "+50% MF (2 Set Items)",
+            "Fire Resist +20% (3 Set Items)"
+        ],
+        "setName": "ARCANNA'S TRICKS"
+    },
+    {
+        "name": "Arctic Furs",
+        "unidItem": "Quilted Armor",
+        "cLevel": 2,
+        "requirements": [
+            "Required Level: 2",
+            "Required Str: 12"
+        ],
+        "properties": [
+            "+275-325% EDef (varies)",
+            "All Res +10",
+            "+ (3 Per Character Level) 3-297 Defense (2 Set Items)",
+            "Cold Resist +15% (3 Set Items)"
+        ],
+        "setName": "ARCTIC GEAR"
+    },
+    {
+        "name": "Arctic Binding",
+        "unidItem": "Light Belt",
+        "cLevel": 2,
+        "requirements": [
+            "Required Level: 2"
+        ],
+        "properties": [
+            "Cold Resist +40%",
+            "+30 Defense",
+            "+40% MFs (2 Set Items)",
+            "Cold Resist +10% (3 Set Items)"
+        ],
+        "setName": "ARCTIC GEAR"
+    },
+    {
+        "name": "Arctic Mitts",
+        "unidItem": "Light Gauntlets",
+        "cLevel": 2,
+        "requirements": [
+            "Required Level: 2",
+            "Required Str: 45"
+        ],
+        "properties": [
+            "+20 To Life",
+            "10% Increased Attack Speed",
+            "+50 To AR (2 Set Items)",
+            "+10 To Dex (3 Set Items)"
+        ],
+        "setName": "ARCTIC GEAR"
+    },
+    {
+        "name": "Arctic Horn",
+        "unidItem": "Short War Bow",
+        "cLevel": 2,
+        "requirements": [
+            "Required Level: 2",
+            "Required Str: 35",
+            "Required Dex: 55"
+        ],
+        "properties": [
+            "+50% EDmg",
+            "20% Bonus To AR",
+            "+ (8 Per Character Level) 8-792 AR (2 Set Items)",
+            "+20-30 Cold Damage, 3 sec. Duration (Normal) (3 Set Items)"
+        ],
+        "setName": "ARCTIC GEAR"
+    },
+    {
+        "name": "Berserker's Headgear",
+        "unidItem": "Helm",
+        "cLevel": 3,
+        "requirements": [
+            "Required Level: 3",
+            "Required Str: 26"
+        ],
+        "properties": [
+            "+15 Defense",
+            "Fire Resist +25%",
+            "+ (8 Per Character Level) 48-792 AR (2 Set Items)"
+        ],
+        "setName": "BERSERKER'S GARB"
+    },
+    {
+        "name": "Berserker's Hauberk",
+        "unidItem": "Splint Mail",
+        "cLevel": 3,
+        "requirements": [
+            "Required Level: 3",
+            "Required Str: 51"
+        ],
+        "properties": [
+            "+1 to Barbarian Skill Levels",
+            "Magic Damage Reduced by 2",
+            "+ (3 Per Character Level) 3-297 Defense (2 Set Items)"
+        ],
+        "setName": "BERSERKER'S GARB"
+    },
+    {
+        "name": "Berserker's Hatchet",
+        "unidItem": "Double Axe",
+        "cLevel": 3,
+        "requirements": [
+            "Required Level: 3",
+            "Required Str: 43"
+        ],
+        "properties": [
+            "30% Bonus To AR",
+            "5% ML Per Hit",
+            "+50% EDmg (2 Set Items)"
+        ],
+        "setName": "BERSERKER'S GARB"
+    },
+    {
+        "name": "Cathan's Visage",
+        "unidItem": "Mask",
+        "cLevel": 11,
+        "requirements": [
+            "Required Level: 11",
+            "Required Str: 23"
+        ],
+        "properties": [
+            "Cold Resist +25%",
+            "+20 to Mana",
+            "+ (2 Per Character Level) 2-198 Defense (2 Set Items)"
+        ],
+        "setName": "CATHAN'S TRAPS"
+    },
+    {
+        "name": "Cathan's Mesh",
+        "unidItem": "Chain Mail",
+        "cLevel": 11,
+        "requirements": [
+            "Required Level: 11",
+            "Required Str: 24"
+        ],
+        "properties": [
+            "+15 Defense",
+            "Requirements -50%",
+            "Attacker Takes Damage of 5 (2 Set Items)",
+            "Resist Fire +30% (3 Set Items)"
+        ],
+        "setName": "CATHAN'S TRAPS"
+    },
+    {
+        "name": "Cathan's Rule",
+        "unidItem": "Battle Staff",
+        "cLevel": 11,
+        "requirements": [
+            "Required Level: 11"
+        ],
+        "properties": [
+            "+1 to Fire Skills",
+            "+10 Maximum Fire Damage",
+            "+50% Damage To Undead",
+            "+50 Mana (2 Set Items)",
+            "All Res +10 (3 Set Items)"
+        ],
+        "setName": "CATHAN'S TRAPS"
+    },
+    {
+        "name": "Cathan's Sigil",
+        "unidItem": "Amulet",
+        "cLevel": 11,
+        "requirements": [
+            "Required Level: 11"
+        ],
+        "properties": [
+            "Attacker Takes Lightning Damage of 5",
+            "10% Faster Hit Recovery",
+            "+50 To AR (2 Set Items)",
+            "+25% Better Chance of Finding Magic Items (3 Set Items)"
+        ],
+        "setName": "CATHAN'S TRAPS"
+    },
+    {
+        "name": "Cathan's Seal",
+        "unidItem": "Ring",
+        "cLevel": 11,
+        "requirements": [
+            "Required Level: 11"
+        ],
+        "properties": [
+            "6% LL Per Hit",
+            "Damage Reduced by 2",
+            "+10 Str (2 Set Items)"
+        ],
+        "setName": "CATHAN'S TRAPS"
+    },
+    {
+        "name": "Civerb's Cudgel",
+        "unidItem": "Grand Scepter",
+        "cLevel": 9,
+        "requirements": [
+            "Required Level: 9",
+            "Required Str: 37"
+        ],
+        "properties": [
+            "+ (1 Per Character Level) 1-99 To Maximum Damage",
+            "+17-23 to Max Damage(varies)",
+            "+50% Damage To Undead",
+            "+75 to AR"
+        ],
+        "setName": "CIVERB'S VESTMENTS"
+    },
+    {
+        "name": "Civerb's Icon",
+        "unidItem": "Amulet",
+        "cLevel": 9,
+        "requirements": [
+            "Required Level: 9"
+        ],
+        "properties": [
+            "Replenish Life +4",
+            "Regen Mana 40%",
+            "Cold Resist +25% (2 Items)",
+            "+25 Defense (Complete Set)"
+        ],
+        "setName": "CIVERB'S VESTMENTS"
+    },
+    {
+        "name": "Civerb's Ward",
+        "unidItem": "Large Shield",
+        "cLevel": 9,
+        "requirements": [
+            "Required Level: 9",
+            "Required Str: 34"
+        ],
+        "properties": [
+            "+15 Defense",
+            "+15% Increased Block",
+            "+21-22 Mana (Civerb's Icon)(varies)",
+            "Poison Resist +25-26% (Civerb's Cudgel)(varies)"
+        ],
+        "setName": "CIVERB'S VESTMENTS"
+    },
+    {
+        "name": "Cleglaw's Tooth",
+        "unidItem": "Long Sword",
+        "cLevel": 4,
+        "requirements": [
+            "Required Level: 4",
+            "Required Str: 55",
+            "Required Dex: 39"
+        ],
+        "properties": [
+            "50% Deadly Strike",
+            "30% Bonus to AR",
+            "+ (1.25 Per Character Level) +1-123 To Maximum Damage (2 Items)"
+        ],
+        "setName": "CLEGLAW'S BRACE"
+    },
+    {
+        "name": "Cleglaw's Pincers",
+        "unidItem": "Chain Gloves",
+        "cLevel": 4,
+        "requirements": [
+            "Required Level: 4",
+            "Required Str: 25"
+        ],
+        "properties": [
+            "Slows Target by 25%",
+            "Knockback",
+            "+ (10 Per Character Level) 10-990 AR (2 Items)"
+        ],
+        "setName": "CLEGLAW'S BRACE"
+    },
+    {
+        "name": "Cleglaw's Claw",
+        "unidItem": "Small Shield",
+        "cLevel": 4,
+        "requirements": [
+            "Required Level: 4",
+            "Required Str: 22"
+        ],
+        "properties": [
+            "Poison Length Reduced by 75%",
+            "+17 Defense",
+            "All Res +15 (2 Items)"
+        ],
+        "setName": "CLEGLAW'S BRACE"
+    },
+    {
+        "name": "Death's Touch",
+        "unidItem": "War Sword",
+        "cLevel": 6,
+        "requirements": [
+            "Required Level: 6",
+            "Required Str: 71",
+            "Required Dex: 45"
+        ],
+        "properties": [
+            "+25% EDmg",
+            "4% LL Per Hit",
+            "Adds 25-75 Cold Damage, 3 sec. Duration (Normal) (2 Items)"
+        ],
+        "setName": "DEATH'S DISGUISE"
+    },
+    {
+        "name": "Death's Hand",
+        "unidItem": "Leather Gloves",
+        "cLevel": 6,
+        "requirements": [
+            "Required Level: 6"
+        ],
+        "properties": [
+            "Poison Length Reduced by 75%",
+            "Poison Resist 50%",
+            "30% Increased Attack Speed (2 Items)"
+        ],
+        "setName": "DEATH'S DISGUISE"
+    },
+    {
+        "name": "Death's Guard",
+        "unidItem": "Sash",
+        "cLevel": 6,
+        "requirements": [
+            "Required Level: 6"
+        ],
+        "properties": [
+            "Cannot be Frozen",
+            "+20 Defense",
+            "All Res +15 (2 Items)"
+        ],
+        "setName": "DEATH'S DISGUISE"
+    },
+    {
+        "name": "Hsarus' Iron Fist",
+        "unidItem": "Buckler",
+        "cLevel": 3,
+        "requirements": [
+            "Required Level: 3",
+            "Required Str: 12"
+        ],
+        "properties": [
+            "Damage Reduced by 2",
+            "+10 to Str",
+            "+ (2.5 Per Character Level) 2-247 Defense (2 Items)"
+        ],
+        "setName": "HSARU'S DEFENSE"
+    },
+    {
+        "name": "Hsarus' Iron Stay",
+        "unidItem": "Belt",
+        "cLevel": 3,
+        "requirements": [
+            "Required Level: 3",
+            "Required Str: 25"
+        ],
+        "properties": [
+            "Cold Resist +20%",
+            "+20 to Life",
+            "+ (2.5 Per Character Level) 2-247 Defense (2 Items)"
+        ],
+        "setName": "HSARU'S DEFENSE"
+    },
+    {
+        "name": "Hsarus' Iron Heel",
+        "unidItem": "Chain Boots",
+        "cLevel": 3,
+        "requirements": [
+            "Required Level: 3",
+            "Required Str: 30"
+        ],
+        "properties": [
+            "20% Faster Run/Walk",
+            "Fire Resist +25%",
+            "+ (10 Per Character Level) 10-990 AR (2 Items)"
+        ],
+        "setName": "HSARU'S DEFENSE"
+    },
+    {
+        "name": "Infernal Cranium",
+        "unidItem": "Cap",
+        "cLevel": 5,
+        "requirements": [
+            "Required Level: 5"
+        ],
+        "properties": [
+            "20% Damage Taken Goes to Mana",
+            "All Res +10",
+            "+ (2 Per Character Level) 2-198 Defense (2 Items)"
+        ],
+        "setName": "INFERNAL TOOLS"
+    },
+    {
+        "name": "Infernal Sign",
+        "unidItem": "Heavy Belt",
+        "cLevel": 5,
+        "requirements": [
+            "Required Level: 5",
+            "Required Str: 45"
+        ],
+        "properties": [
+            "+25 Defense",
+            "+20 to Life",
+            "Poison Resist +25% (2 Items)",
+            "Half Freeze Duration (3 Items)"
+        ],
+        "setName": "INFERNAL TOOLS"
+    },
+    {
+        "name": "Infernal Torch",
+        "unidItem": "Grim Wand",
+        "cLevel": 5,
+        "requirements": [
+            "Required Level: 5"
+        ],
+        "properties": [
+            "+1 To Necromancer Skill Levels",
+            "+8 to Min Damage",
+            "150% Damage to Undead",
+            "+ (10 Per Character Level) 10-990 AR (2 Items)"
+        ],
+        "setName": "INFERNAL TOOLS"
+    },
+    {
+        "name": "Iratha's Coil",
+        "unidItem": "Crown",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15",
+            "Required Str: 55"
+        ],
+        "properties": [
+            "Lightning Resist +30%",
+            "Fire Resist +30%",
+            "+ (2 Per Character Level) 2-198 Defense (2 Items)"
+        ],
+        "setName": "IRATHAS FINERY"
+    },
+    {
+        "name": "Iratha's Collar",
+        "unidItem": "Amulet",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15"
+        ],
+        "properties": [
+            "Poison Length Reduced by 75%",
+            "Poison Resist +30%",
+            "All Res +15 (2 Items)"
+        ],
+        "setName": "IRATHAS FINERY"
+    },
+    {
+        "name": "Iratha's Cord",
+        "unidItem": "Heavy Belt",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15",
+            "Required Str: 45"
+        ],
+        "properties": [
+            "+25 Defense",
+            "+5 To Minimum Damage",
+            "+10 To Dex (2 Items)"
+        ],
+        "setName": "IRATHAS FINERY"
+    },
+    {
+        "name": "Iratha's Cuff",
+        "unidItem": "Light Gauntlets",
+        "cLevel": 15,
+        "requirements": [
+            "Required Level: 15",
+            "Required Str: 45"
+        ],
+        "properties": [
+            "Half Freeze Duration",
+            "Cold Resist +30%",
+            "20% Increased Attack Speed (2 Items)"
+        ],
+        "setName": "IRATHAS FINERY"
+    },
+    {
+        "name": "Isenhart's Lightbrand",
+        "unidItem": "Broad Sword",
+        "cLevel": 8,
+        "requirements": [
+            "Required Level: 8",
+            "Required Str: 48"
+        ],
+        "properties": [
+            "+10 to Min Damage",
+            "20% Increased Attack Speed",
+            "+ (5 Per Character Level) 5-495 AR (2 Items)"
+        ],
+        "setName": "ISENHARTS ARMORY"
+    },
+    {
+        "name": "Isenhart's Horns",
+        "unidItem": "Full Helm",
+        "cLevel": 8,
+        "requirements": [
+            "Required Level: 8",
+            "Required Str: 41"
+        ],
+        "properties": [
+            "Damage Reduced by 2",
+            "+6 to Dex",
+            "All Res +8 (2 Items)"
+        ],
+        "setName": "ISENHARTS ARMORY"
+    },
+    {
+        "name": "Isenhart's Case",
+        "unidItem": "Breast Plate",
+        "cLevel": 8,
+        "requirements": [
+            "Required Level: 8",
+            "Required Str: 30"
+        ],
+        "properties": [
+            "Magic Damage Reduced by 2",
+            "+40 Defense",
+            "+ (2 Per Character Level) 2-198 Defense (2 Items)"
+        ],
+        "setName": "ISENHARTS ARMORY"
+    },
+    {
+        "name": "Isenhart's Parry",
+        "unidItem": "Gothic Shield",
+        "cLevel": 8,
+        "requirements": [
+            "Required Level: 8",
+            "Required Str: 60"
+        ],
+        "properties": [
+            "Attacker Takes Lightning Damage of 4",
+            "+40 Defense",
+            "All Res +8 (2 Items)"
+        ],
+        "setName": "ISENHARTS ARMORY"
+    },
+    {
+        "name": "Milabrega's Diadem",
+        "unidItem": "Crown",
+        "cLevel": 17,
+        "requirements": [
+            "Required Level: 17",
+            "Required Str: 55"
+        ],
+        "properties": [
+            "+15 to Mana",
+            "+15 to Life",
+            "Cold Resist +40% (2 Items)"
+        ],
+        "setName": "MILABREGA'S REGALIA"
+    },
+    {
+        "name": "Milabrega's Robe",
+        "unidItem": "Ancient Armor",
+        "cLevel": 17,
+        "requirements": [
+            "Required Level: 17",
+            "Required Str: 100"
+        ],
+        "properties": [
+            "Damage Reduced by 2",
+            "Attacker Takes Damage of 3",
+            "+100% EDef (2 Items)"
+        ],
+        "setName": "MILABREGA'S REGALIA"
+    },
+    {
+        "name": "Milabrega's Orb",
+        "unidItem": "Kite Shield",
+        "cLevel": 17,
+        "requirements": [
+            "Required Level: 17",
+            "Required Str: 47"
+        ],
+        "properties": [
+            "+25 Defense",
+            "20% MF",
+            "+50 Life (2 Items)",
+            "+50% EDef (3 Items)"
+        ],
+        "setName": "MILABREGA'S REGALIA"
+    },
+    {
+        "name": "Milabrega's Rod",
+        "unidItem": "War Scepter",
+        "cLevel": 17,
+        "requirements": [
+            "Required Level: 17",
+            "Required Str: 55"
+        ],
+        "properties": [
+            "+50% EDmg",
+            "+50% Damage to Undead",
+            "+1 to Paladin Skills",
+            "+2 to Light Radius"
+        ],
+        "setName": "MILABREGA'S REGALIA"
+    },
+    {
+        "name": "Sigon's Visor",
+        "unidItem": "Great Helm",
+        "cLevel": 6,
+        "requirements": [
+            "Required Level: 6",
+            "Required Str: 63"
+        ],
+        "properties": [
+            "+25 Defense",
+            "+30 to Mana",
+            "+ (8 Per Character Level) 8-792 To AR (2 Items)"
+        ],
+        "setName": "SIGON'S COMPLETE STEEL"
+    },
+    {
+        "name": "Sigon's Shelter",
+        "unidItem": "Gothic Plate",
+        "cLevel": 6,
+        "requirements": [
+            "Required Level: 6",
+            "Required Str: 70"
+        ],
+        "properties": [
+            "+25% EDef",
+            "Lightning Resist +30%",
+            "Attacker Takes Damage of 20 (2 Items)"
+        ],
+        "setName": "SIGON'S COMPLETE STEEL"
+    },
+    {
+        "name": "Sigon's Sabot",
+        "unidItem": "Greaves",
+        "cLevel": 6,
+        "requirements": [
+            "Required Level: 6",
+            "Required Str: 70"
+        ],
+        "properties": [
+            "20% Faster Run/Walk",
+            "Cold Resist +40%",
+            "+50 To AR (2 Items)",
+            "+50% MF (3 Items)"
+        ],
+        "setName": "SIGON'S COMPLETE STEEL"
+    },
+    {
+        "name": "Sigon's Guard",
+        "unidItem": "Tower Shield",
+        "cLevel": 6,
+        "requirements": [
+            "Required Level: 6",
+            "Required Str: 75"
+        ],
+        "properties": [
+            "+1 to All Skills",
+            "+20% Increased Chance To Block"
+        ],
+        "setName": "SIGON'S COMPLETE STEEL"
+    },
+    {
+        "name": "Sigon's Wrap",
+        "unidItem": "Plated Belt",
+        "cLevel": 6,
+        "requirements": [
+            "Required Level: 6",
+            "Required Str: 60"
+        ],
+        "properties": [
+            "Fire Resist +20%",
+            "+20 to Life",
+            "+ (2 Per Character Level) 2-198 To Defense (2 Items)"
+        ],
+        "setName": "SIGON'S COMPLETE STEEL"
+    },
+    {
+        "name": "Sigon's Gage",
+        "unidItem": "Gauntlets",
+        "cLevel": 6,
+        "requirements": [
+            "Required Level: 6",
+            "Required Str: 60"
+        ],
+        "properties": [
+            "+20 to AR",
+            "+10 to Str",
+            "30% Increased Attack Speed (2 Items)"
+        ],
+        "setName": "SIGON'S COMPLETE STEEL"
+    },
+    {
+        "name": "Tancred's Skull",
+        "unidItem": "Bone Helm",
+        "cLevel": 20,
+        "requirements": [
+            "Required Level: 20",
+            "Required Str: 25"
+        ],
+        "properties": [
+            "+10% EDmg",
+            "+40 to AR",
+            "All Res +10 (2 Items)"
+        ],
+        "setName": "TANCRED's BATTLEGEAR"
+    },
+    {
+        "name": "Tancred's Spine",
+        "unidItem": "Full Plate Mail",
+        "cLevel": 20,
+        "requirements": [
+            "Required Level: 20",
+            "Required Str: 80"
+        ],
+        "properties": [
+            "+40 to Life",
+            "+15 to Str",
+            "+ (2 Per Character Level) 2-198 Defense (2 Items)"
+        ],
+        "setName": "TANCRED's BATTLEGEAR"
+    },
+    {
+        "name": "Tancred's Hobnails",
+        "unidItem": "Boots",
+        "cLevel": 20,
+        "requirements": [
+            "Required Level: 20"
+        ],
+        "properties": [
+            "Heal Stamina Plus 25%",
+            "+10 to Dex",
+            "30% Faster Run/Walk (2 Items)",
+            "+10 To Str (3 Items)"
+        ],
+        "setName": "TANCRED's BATTLEGEAR"
+    },
+    {
+        "name": "Tancred's Crowbill",
+        "unidItem": "Military Pick",
+        "cLevel": 20,
+        "requirements": [
+            "Required Level: 20",
+            "Required Str: 49",
+            "Required Dex: 33"
+        ],
+        "properties": [
+            "+80% EDmg",
+            "+75 to AR",
+            "+20 To Mana (2 Items)",
+            "20% Increased Attack Speed (3 Items)"
+        ],
+        "setName": "TANCRED's BATTLEGEAR"
+    },
+    {
+        "name": "Tancred's Weird",
+        "unidItem": "Amulet",
+        "cLevel": 20,
+        "requirements": [
+            "Required Level: 20"
+        ],
+        "properties": [
+            "Damage Reduced by 2",
+            "Magic Damage Reduced by 1",
+            "+78% MFs (2 Items)",
+            "+60 To AR (3 Items)"
+        ],
+        "setName": "TANCRED's BATTLEGEAR"
+    },
+    {
+        "name": "Vidala's Barb",
+        "unidItem": "Long Battle Bow",
+        "cLevel": 14,
+        "requirements": [
+            "Required Level: 14",
+            "Required Str: 40",
+            "Required Dex: 50"
+        ],
+        "properties": [
+            "Adds 1-20 Lightning Damage",
+            "+ (8 Per Character Level) 8-792 To AR (2 Items)"
+        ],
+        "setName": "VIDALA'S RIG"
+    },
+    {
+        "name": "Vidala's Ambush",
+        "unidItem": "Leather Armor",
+        "cLevel": 14,
+        "requirements": [
+            "Required Level: 14",
+            "Required Str: 15"
+        ],
+        "properties": [
+            "+50 Defense",
+            "+11 to Dex",
+            "+24% Fire Resist (2 Items)",
+            "+ (2.5 Per Character Level) +2-247 Defense (3 Items)"
+        ],
+        "setName": "VIDALA'S RIG"
+    },
+    {
+        "name": "Vidala's Fetlock",
+        "unidItem": "Light Plated Boots",
+        "cLevel": 14,
+        "requirements": [
+            "Required Level: 14",
+            "Required Str: 50"
+        ],
+        "properties": [
+            "30% Faster Run/Walk",
+            "+150 to Maximum Stamina",
+            "All Res +8 (2 Items)"
+        ],
+        "setName": "VIDALA'S RIG"
+    },
+    {
+        "name": "Vidala's Snare",
+        "unidItem": "Amulet",
+        "cLevel": 14,
+        "requirements": [
+            "Required Level: 14"
+        ],
+        "properties": [
+            "Cold Resist 20%",
+            "+15 To Life",
+            "50% MFs (2 Items)"
+        ],
+        "setName": "VIDALA'S RIG"
+    },
+    {
+        "name": "Aldur's Stony Gaze",
+        "unidItem": "Hunter's Guise",
+        "cLevel": 36,
+        "requirements": [
+            "Required Level: 36",
+            "Required Str: 56"
+        ],
+        "properties": [
+            "+90 Defense",
+            "25% Faster Hit Recovery",
+            "Regen Mana 17%",
+            "Cold Resist +40-50% (varies)",
+            "Socketed (2)",
+            "+5 To Light Radius",
+            "+15 To Energy (2 Item)",
+            "+15 To Energy (3 Items)",
+            "+15 To Energy (Completed Set)"
+        ],
+        "setName": "ALDUR'S WATCHTOWER"
+    },
+    {
+        "name": "Aldur's Advance",
+        "unidItem": "Battle Boots",
+        "cLevel": 45,
+        "requirements": [
+            "Required Level: 45",
+            "Required Str: 95"
+        ],
+        "properties": [
+            "Indestructible",
+            "40% Faster Run/Walk",
+            "+180 Maximum Stamina",
+            "10% Damage Taken Goes To Mana",
+            "Heal Stamina Plus +32%",
+            "+50 To Life",
+            "Fire Resist +40-50% (varies)",
+            "+15 To Dex (2 Item)",
+            "+15 To Dex (3 Items)",
+            "+15 To Dex (Completed Set)"
+        ],
+        "setName": "ALDUR'S WATCHTOWER"
+    },
+    {
+        "name": "Aldur's Deception",
+        "unidItem": "Shadow Plate",
+        "cLevel": 76,
+        "requirements": [
+            "Required Level: 76",
+            "Required Str: 115"
+        ],
+        "properties": [
+            "+300 Defense",
+            "Requirements -50%",
+            "Lightning Resist +40-50% (varies)",
+            "+15 To Dex",
+            "+20 To Str",
+            "+1 To Elemental Skills",
+            "+1 To Shape Shifting Skills",
+            "+15 To Vitality (2 Item)",
+            "+15 To Vitality (3 Items)",
+            "+15 To Vitality (Completed Set)"
+        ],
+        "setName": "ALDUR'S WATCHTOWER"
+    },
+    {
+        "name": "Aldur's Rhythm",
+        "unidItem": "Jagged Star",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Str: 74"
+        ],
+        "properties": [
+            "+200% Damage To Demons",
+            "+50% Damage To Undead",
+            "Adds 40-62 Damage",
+            "Adds 50-75 Lightning Damage",
+            "30% Increased Attack Speed",
+            "10% LL Per Hit",
+            "5% ML Per Hit",
+            "Socketed (2-3) (varies)",
+            "+15 To Str (2 Item)",
+            "+15 To Str (3 Items)",
+            "+15 To Str (Completed Set)"
+        ],
+        "setName": "ALDUR'S WATCHTOWER"
+    },
+    {
+        "name": "Bul-Kathos' Sacred Charge",
+        "unidItem": "Colossus Blade",
+        "cLevel": 63,
+        "requirements": [
+            "Required Level: 63",
+            "Required Str: 189",
+            "Required Dex: 110"
+        ],
+        "properties": [
+            "+200% EDmg",
+            "35% Chance of CB",
+            "All Res +20",
+            "+20% Increased Attack Speed",
+            "Knockback"
+        ],
+        "setName": "BUL-KATHOS' CHILDREN"
+    },
+    {
+        "name": "Bul-Kathos' Tribal Guardian",
+        "unidItem": "Mythical Sword",
+        "cLevel": 66,
+        "requirements": [
+            "Required Level: 66",
+            "Required Str: 147",
+            "Required Dex: 124"
+        ],
+        "properties": [
+            "+200% EDmg",
+            "+50 Poison Damage Over 2 Seconds",
+            "Fire Resist +50%",
+            "+20 To Str",
+            "+20% Increased Attack Speed"
+        ],
+        "setName": "BUL-KATHOS' CHILDREN"
+    },
+    {
+        "name": "Cow King's Horns",
+        "unidItem": "War Hat",
+        "cLevel": 25,
+        "requirements": [
+            "Required Level: 25",
+            "Required Str: 20"
+        ],
+        "properties": [
+            "+75 Defense",
+            "Half Freeze Duration",
+            "Attacker Takes Damage of 10",
+            "35% Damage Taken Goes To Mana"
+        ],
+        "setName": "COW KING'S LEATHERS"
+    },
+    {
+        "name": "Cow King's Hide",
+        "unidItem": "Studded Leather",
+        "cLevel": 18,
+        "requirements": [
+            "Required Level: 18",
+            "Required Str: 27"
+        ],
+        "properties": [
+            "+60% EDef",
+            "18% Chance To Cast Level 5 Chain Lightning When Struck",
+            "All Res +18",
+            "+30 To Life"
+        ],
+        "setName": "COW KING'S LEATHERS"
+    },
+    {
+        "name": "Cow King's Hooves",
+        "unidItem": "Heavy Boots",
+        "cLevel": 13,
+        "requirements": [
+            "Required Level: 13",
+            "Required Str: 18"
+        ],
+        "properties": [
+            "+25-35 Defense (varies)",
+            "+30% Faster Run/Walk",
+            "Adds 25-35 Fire Damage",
+            "+20 To Dex",
+            "25% MFs"
+        ],
+        "setName": "COW KING'S LEATHERS"
+    },
+    {
+        "name": "Telling of Beads",
+        "unidItem": "Amulet",
+        "cLevel": 30,
+        "requirements": [
+            "Required Level: 30"
+        ],
+        "properties": [
+            "+1 To All Skills",
+            "Poison Resist +35-50% (varies)",
+            "Cold Resist +18%",
+            "Attacker Takes Damage of 8-10 (varies)"
+        ],
+        "setName": "THE DISCIPLE"
+    },
+    {
+        "name": "Laying of Hands",
+        "unidItem": "Bramble Mitts",
+        "cLevel": 63,
+        "requirements": [
+            "Required Level: 63",
+            "Required Str: 50"
+        ],
+        "properties": [
+            "+25 Defense",
+            "+20% Increased Attack Speed",
+            "+350% Damage To Demons",
+            "Fire Resist +50%",
+            "10% Chance To Cast Level 3 Holy Bolt On Striking"
+        ],
+        "setName": "THE DISCIPLE"
+    },
+    {
+        "name": "Dark Adherent",
+        "unidItem": "Dusk Shroud",
+        "cLevel": 49,
+        "requirements": [
+            "Required Level: 49",
+            "Required Str: 77"
+        ],
+        "properties": [
+            "+305-415 Defense (varies)",
+            "Fire Resist +24%",
+            "25% Chance To Cast Level 3 Nova When Struck",
+            "Adds 24-34 Poison Damage Over 2 Seconds"
+        ],
+        "setName": "THE DISCIPLE"
+    },
+    {
+        "name": "Rite of Passage",
+        "unidItem": "Demonhide Boots",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Str: 20"
+        ],
+        "properties": [
+            "+25 Defense",
+            "30% Faster Run/Walk",
+            "+15-25 Maximum Stamina (varies)",
+            "Half Freeze Duration"
+        ],
+        "setName": "THE DISCIPLE"
+    },
+    {
+        "name": "Credendum",
+        "unidItem": "Mithril Coil",
+        "cLevel": 65,
+        "requirements": [
+            "Required Level: 65",
+            "Required Str: 106"
+        ],
+        "properties": [
+            "+50 Defense",
+            "All Res +15",
+            "+10 To Dex",
+            "+10 To Str"
+        ],
+        "setName": "THE DISCIPLE"
+    },
+    {
+        "name": "Griswold's Heart",
+        "unidItem": "Ornate Plate",
+        "cLevel": 45,
+        "requirements": [
+            "Required Level: 45",
+            "Required Str: 102"
+        ],
+        "properties": [
+            "+500 Defense",
+            "Requirements -40%",
+            "+20 To Str",
+            "+2 To Defensive Aura Skills",
+            "Socketed (3)"
+        ],
+        "setName": "GRISWOLD'S LEGACY"
+    },
+    {
+        "name": "Griswold's Valor",
+        "unidItem": "Corona",
+        "cLevel": 69,
+        "requirements": [
+            "Required Level: 69",
+            "Required Str: 105"
+        ],
+        "properties": [
+            "+50-75% EDef (varies)",
+            "All Res +5",
+            "20-30% MFs (varies)",
+            "Requirements -40%",
+            "+ (0.25 Per Character Level) 0-24 Absorbs Cold Damage",
+            "Socketed (2)",
+            "+2 To Offensive Auras (2 Items)"
+        ],
+        "setName": "GRISWOLD'S LEGACY"
+    },
+    {
+        "name": "Griswold's Redemption",
+        "unidItem": "Caduceus",
+        "cLevel": 66,
+        "requirements": [
+            "Required Level: 66",
+            "Required Str: 78",
+            "Required Dex: 56"
+        ],
+        "properties": [
+            "+200-240% EDmg (varies)",
+            "+250% Damage To Undead",
+            "Requirements -20%",
+            "40% Increased Attack Speed",
+            "Socketed (3-4) (varies)",
+            "+2 To Combat Skills (2 Items)",
+            "Adds 10-20 Damage (3 Items)",
+            "Adds 10-20 Damage (Complete Set)"
+        ],
+        "setName": "GRISWOLD'S LEGACY"
+    },
+    {
+        "name": "Griswold's Honor",
+        "unidItem": "Vortex Shield",
+        "cLevel": 68,
+        "requirements": [
+            "Required Level: 68",
+            "Required Str: 148"
+        ],
+        "properties": [
+            "65% Faster Block Rate",
+            "20% Increased Chance of Blocking",
+            "+108 Defense",
+            "All Res +45",
+            "Socketed (3)"
+        ],
+        "setName": "GRISWOLD'S LEGACY"
+    },
+    {
+        "name": "Haemosu's Adamant",
+        "unidItem": "Cuirass",
+        "cLevel": 44,
+        "requirements": [
+            "Required Level: 44",
+            "Required Str: 52"
+        ],
+        "properties": [
+            "+500 Defense",
+            "+40 Defense Vs. Melee",
+            "+35 Defense Vs. Missile",
+            "Requirements -20%",
+            "+75 To Life"
+        ],
+        "setName": "HEAVEN'S BRETHREN"
+    },
+    {
+        "name": "Dangoon's Teaching",
+        "unidItem": "Reinforced Mace",
+        "cLevel": 68,
+        "requirements": [
+            "Required Level: 68",
+            "Required Str: 145",
+            "Required Dex: 46"
+        ],
+        "properties": [
+            "+ (1.5 Per Character Level) +1-148 To Maximum Damage",
+            "+50% Damage To Undead",
+            "+40% Increased Attack Speed",
+            "10% Chance To Cast Level 3 Frost Nova On Striking",
+            "Adds 20-30 Fire Damage"
+        ],
+        "setName": "HEAVEN'S BRETHREN"
+    },
+    {
+        "name": "Taebaek's Glory",
+        "unidItem": "Ward",
+        "cLevel": 81,
+        "requirements": [
+            "Required Level: 81",
+            "Required Str: 185"
+        ],
+        "properties": [
+            "+50 Defense",
+            "+25% Increased Chance Of Blocking",
+            "Lightning Resist +30%",
+            "Indestructible",
+            "30% Faster Block Rate",
+            "+100 To Mana",
+            "Attacker Takes Damage of 30"
+        ],
+        "setName": "HEAVEN'S BRETHREN"
+    },
+    {
+        "name": "Ondal's Almighty",
+        "unidItem": "Spired Helm",
+        "cLevel": 69,
+        "requirements": [
+            "Required Level: 69",
+            "Required Str: 116"
+        ],
+        "properties": [
+            "10% Chance To Cast Level 3 Weaken On Striking",
+            "24% Faster Hit Recovery",
+            "Requirements -40%",
+            "+50 Defense",
+            "+15 To Dex",
+            "+10 To Str"
+        ],
+        "setName": "HEAVEN'S BRETHREN"
+    },
+    {
+        "name": "Hwanin's Splendor",
+        "unidItem": "Grand Crown",
+        "cLevel": 45,
+        "requirements": [
+            "Required Level: 45",
+            "Required Str: 103"
+        ],
+        "properties": [
+            "+100% EDef",
+            "Replenish Life +20",
+            "Magic Damage Reduced By 10",
+            "Cold Resist +37%"
+        ],
+        "setName": "HWANIN'S MAJESTY"
+    },
+    {
+        "name": "Hwanin's Justice",
+        "unidItem": "Bill",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28",
+            "Required Str: 95"
+        ],
+        "properties": [
+            "+200% EDmg",
+            "Adds 5-25 Lightning Damage",
+            "40% Increased Attack Speed",
+            "+330 To AR",
+            "Indestructible",
+            "10% Chance To Cast Level 3 Ice Blast On Striking"
+        ],
+        "setName": "HWANIN'S MAJESTY"
+    },
+    {
+        "name": "Hwanin's Refuge",
+        "unidItem": "Tigulated Mail",
+        "cLevel": 30,
+        "requirements": [
+            "Required Level: 30",
+            "Required Str: 86"
+        ],
+        "properties": [
+            "+200 Defense",
+            "10% Chance To Cast Level 3 Static Field When Struck",
+            "Poison Resist +27%",
+            "+100 To Life"
+        ],
+        "setName": "HWANIN'S MAJESTY"
+    },
+    {
+        "name": "Hwanin's Blessing",
+        "unidItem": "Belt",
+        "cLevel": 35,
+        "requirements": [
+            "Required Level: 35",
+            "Required Str: 25"
+        ],
+        "properties": [
+            "+ (1.5 Per Character Level) 1-148 Defense",
+            "Adds 3-33 Lightning Damage",
+            "Prevent Monster Heal",
+            "12% Damage Taken Goes To Mana"
+        ],
+        "setName": "HWANIN'S MAJESTY"
+    },
+    {
+        "name": "Immortal King's Will",
+        "unidItem": "Avenger Guard",
+        "cLevel": 47,
+        "requirements": [
+            "Required Level: 47",
+            "Required Str: 65"
+        ],
+        "properties": [
+            "+4 To Light Radius",
+            "+125 Defense",
+            "37% Extra Gold From Monsters",
+            "25-40% Better Chance Of Finding Magic Items (varies)",
+            "+2 To Warcries Skills",
+            "Socketed (2)"
+        ],
+        "setName": "IMMORTAL KING"
+    },
+    {
+        "name": "Immortal King's Stone Crusher",
+        "unidItem": "Ogre Maul",
+        "cLevel": 76,
+        "requirements": [
+            "Required Level: 76",
+            "Required Str: 225"
+        ],
+        "properties": [
+            "+200% EDmg",
+            "+200% Damage To Demons",
+            "+250% Damage To Undead",
+            "40% Increased Attack Speed",
+            "Indestructible",
+            "35-40% Chance Of CB (varies)",
+            "Socketed (2)",
+            "Adds 211-397 Fire Damage (2 items)",
+            "Adds 7-477 Lightning Damage (3 Items)",
+            "Adds 127-364 Cold Damage, 6 sec. Duration (Normal) (4 Items)",
+            "+204 Poison Damage Over 6 Seconds (5 Items)",
+            "Adds 250-361 Magic Damage (Complete Set)"
+        ],
+        "setName": "IMMORTAL KING"
+    },
+    {
+        "name": "Immortal King's Soul Cage",
+        "unidItem": "Sacred Armor",
+        "cLevel": 76,
+        "requirements": [
+            "Required Level: 76",
+            "Required Str: 232"
+        ],
+        "properties": [
+            "+400 Defense",
+            "5% Chance To Cast Level 5 Enchant When Struck",
+            "Poison Resist +50%",
+            "+2 To Combat Skills",
+            "+25% Faster Hit Recovery (2 Items)",
+            "Cold Resist +40% (3 Items)",
+            "Fire Resist +40% (4 Items)",
+            "Lightning Resist +40% (5 Items)",
+            "+50% EDef (Complete Set)"
+        ],
+        "setName": "IMMORTAL KING"
+    },
+    {
+        "name": "Immortal King's Detail",
+        "unidItem": "War Belt",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Str: 110"
+        ],
+        "properties": [
+            "+36 Defense",
+            "Lightning Resist +31%",
+            "Fire Resist +28%",
+            "+25 To Str",
+            "+105 Defense (2 items)",
+            "+25% Faster Hit Recovery (3 Items)",
+            "+100% EDef (4 Items)",
+            "Damage Reduced By 20% (5 Items)",
+            "+2 To Masteries (Complete Set)"
+        ],
+        "setName": "IMMORTAL KING"
+    },
+    {
+        "name": "Immortal King's Forge",
+        "unidItem": "War Gauntlets",
+        "cLevel": 30,
+        "requirements": [
+            "Required Level: 30",
+            "Required Str: 110"
+        ],
+        "properties": [
+            "+65 Defense",
+            "12% Chance To Cast Level 4 Charged Bolt When Struck",
+            "+20 To Dex",
+            "+20 To Str",
+            "+25% Increased Attack Speed (2 items)",
+            "+120 Defense (3 Items)",
+            "10% LL Per Hit (4 Items)",
+            "10% ML Per Hit (5 Items)",
+            "Freezes Target +2 (Complete Set)"
+        ],
+        "setName": "IMMORTAL KING"
+    },
+    {
+        "name": "Immortal King's Pillar",
+        "unidItem": "War Boots",
+        "cLevel": 31,
+        "requirements": [
+            "Required Level: 31",
+            "Required Str: 125"
+        ],
+        "properties": [
+            "+75 Defense",
+            "40% Faster Run/Walk",
+            "+110 To AR",
+            "+44 To Life",
+            "25% MFs (2 items)",
+            "+2 To Combat Skills (3 Items)",
+            "+160 Defense (4 Items)",
+            "Half Freeze Duration (5 Items)"
+        ],
+        "setName": "IMMORTAL KING"
+    },
+    {
+        "name": "M'avina's True Sight",
+        "unidItem": "Diadem",
+        "cLevel": 64,
+        "requirements": [
+            "Required Level: 64"
+        ],
+        "properties": [
+            "+150 Defense",
+            "Replenish Life +10",
+            "+25 To Mana",
+            "+30% Increased Attack Speed",
+            "+1 To All Skills (2 Items)",
+            "50% Bonus To AR (3 Items)",
+            "All Res +25 (4 Items)"
+        ],
+        "setName": "M'AVINA'S BATTLE HYMN"
+    },
+    {
+        "name": "M'avina's Caster",
+        "unidItem": "Grand Matron Bow",
+        "cLevel": 70,
+        "requirements": [
+            "Required Level: 70",
+            "Required Str: 108",
+            "Required Dex: 152"
+        ],
+        "properties": [
+            "+188% EDmg",
+            "+40% Increased Attack Speed",
+            "+50 To AR",
+            "Fires Magic Arrows [Level 1]",
+            "Adds 114-377 Magic Damage (2 Items)",
+            "10% Chance To Cast Level 15 Nova On Striking (3 Items)",
+            "+2 To Bow and Crossbow Skills (4 Items)"
+        ],
+        "setName": "M'AVINA'S BATTLE HYMN"
+    },
+    {
+        "name": "M'avina's Embrace",
+        "unidItem": "Kraken Shell",
+        "cLevel": 70,
+        "requirements": [
+            "Required Level: 70",
+            "Required Str: 122"
+        ],
+        "properties": [
+            "Requirements -30%",
+            "10% Chance To Cast Level 3 Glacial Spike When Struck",
+            "Magic Damage Reduced By 5-12 (varies)",
+            "+ (4 Per Character Level) 4-396 Defense",
+            "+2 To Passive And Magic Skills",
+            "+350 Defense",
+            "+30% Faster Hit Recovery (3 Items)"
+        ],
+        "setName": "M'AVINA'S BATTLE HYMN"
+    },
+    {
+        "name": "M'avina's Icy Clutch",
+        "unidItem": "Battle Gauntlets",
+        "cLevel": 32,
+        "requirements": [
+            "Required Level: 32",
+            "Required Str: 88"
+        ],
+        "properties": [
+            "+45-50 Defense (varies)",
+            "6-18 Cold Damage, 6 sec. Duration (Normal)",
+            "Half Freeze Duration",
+            "56% Extra Gold From Monsters",
+            "+10 To Str",
+            "+15 To Dex",
+            "Adds 131-252 Cold Damage, 4 sec. Duration (Normal) (4 Items)",
+            "+20% To Cold Skill Damage (Complete Set)"
+        ],
+        "setName": "M'AVINA'S BATTLE HYMN"
+    },
+    {
+        "name": "M'avina's Tenet",
+        "unidItem": "Sharkskin Belt",
+        "cLevel": 45,
+        "requirements": [
+            "Required Level: 45",
+            "Required Str: 20"
+        ],
+        "properties": [
+            "+50 Defense",
+            "+20% Faster Run/Walk",
+            "+5 To Light Radius",
+            "5% ML Per Hit",
+            "All Res +25 (4 Items)"
+        ],
+        "setName": "M'AVINA'S BATTLE HYMN"
+    },
+    {
+        "name": "Natalya's Totem",
+        "unidItem": "Grim Helm",
+        "cLevel": 59,
+        "requirements": [
+            "Required Level: 59",
+            "Required Str: 58"
+        ],
+        "properties": [
+            "+135-175 Defense (varies)",
+            "All Res +10-20 (varies)",
+            "+20-30 To Dex (varies)",
+            "+10-20 To Str (varies)",
+            "Magic Damage Reduced By 3"
+        ],
+        "setName": "NATALYA'S ODIUM"
+    },
+    {
+        "name": "Natalya's Mark",
+        "unidItem": "Scissors Suwayyah",
+        "cLevel": 79,
+        "requirements": [
+            "Required Level: 79",
+            "Required Str: 118",
+            "Required Dex: 118"
+        ],
+        "properties": [
+            "+200% EDmg",
+            "+200% Damage To Undead",
+            "+200% Damage To Demons",
+            "Adds 12-17 Fire Damage",
+            "Ignores Target's Defense",
+            "40% Increased Attack Speed",
+            "+50 Cold Damage, 4 sec. Duration (Normal)"
+        ],
+        "setName": "NATALYA'S ODIUM"
+    },
+    {
+        "name": "Natalya's Shadow",
+        "unidItem": "Loricated Mail",
+        "cLevel": 73,
+        "requirements": [
+            "Required Level: 73",
+            "Required Str: 149"
+        ],
+        "properties": [
+            "+150-225 Defense (varies)",
+            "+ (1 Per Character Level) 1-99 To Life",
+            "Poison Length Reduced By 75%",
+            "Poison Resist +25%",
+            "+2 To Shadow Disciplines Skills",
+            "Socketed (1-3) (varies)"
+        ],
+        "setName": "NATALYA'S ODIUM"
+    },
+    {
+        "name": "Natalya's Soul",
+        "unidItem": "Mesh Boots",
+        "cLevel": 25,
+        "requirements": [
+            "Required Level: 25",
+            "Required Str: 65"
+        ],
+        "properties": [
+            "+75-125 Defense (varies)",
+            "+40% Faster Run/Walk",
+            "Heal Stamina Plus (0.25 Per Character Level) 0-24%",
+            "Cold Resist +15-25% (varies)",
+            "Lightning Resist +15-25% (varies)"
+        ],
+        "setName": "NATALYA'S ODIUM"
+    },
+    {
+        "name": "Naj's Circlet",
+        "unidItem": "Circlet",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28"
+        ],
+        "properties": [
+            "+75 Defense",
+            "+25-35 Fire Damage",
+            "12% Chance To Cast Level 5 Chain Lightning When Struck",
+            "+15 To Str",
+            "+5 To Light Radius"
+        ],
+        "setName": "NAJ'S ANCIENT VESTIGE"
+    },
+    {
+        "name": "Naj's Light Plate",
+        "unidItem": "Hellforge Plate",
+        "cLevel": 71,
+        "requirements": [
+            "Required Level: 71",
+            "Required Str: 79"
+        ],
+        "properties": [
+            "+300 Defense",
+            "Requirements -60%",
+            "45% Damage Taken Goes To Mana",
+            "+1 To All Skills",
+            "All Res +25",
+            "+65 To Life"
+        ],
+        "setName": "NAJ'S ANCIENT VESTIGE"
+    },
+    {
+        "name": "Naj's Puzzler",
+        "unidItem": "Elder Staff",
+        "cLevel": 78,
+        "requirements": [
+            "Required Level: 78",
+            "Required Str: 44",
+            "Required Dex: 37"
+        ],
+        "properties": [
+            "+150% EDmg",
+            "+50% Damage To Undead",
+            "Adds 6-45 Lightning Damage",
+            "+30% FCR",
+            "+1 To All Skills",
+            "+70 To Mana",
+            "+35 To Energy",
+            "Level 11 Teleport (69 Charges)"
+        ],
+        "setName": "NAJ'S ANCIENT VESTIGE"
+    },
+    {
+        "name": "Guillaume's Face",
+        "unidItem": "Winged Helm",
+        "cLevel": 34,
+        "requirements": [
+            "Required Level: 34",
+            "Required Str: 115"
+        ],
+        "properties": [
+            "+120% EDef",
+            "+30% Faster Hit Recovery",
+            "15% Deadly Strike",
+            "35% Chance of CB",
+            "+15 To Str"
+        ],
+        "setName": "ORPHAN'S CALL"
+    },
+    {
+        "name": "Whitstan's Guard",
+        "unidItem": "Round Shield",
+        "cLevel": 29,
+        "requirements": [
+            "Required Level: 29",
+            "Required Str: 53"
+        ],
+        "properties": [
+            "+175% EDef",
+            "Half Freeze Duration",
+            "40% Faster Block Rate",
+            "+55% Increased Chance Of Blocking",
+            "+5 To Light Radius"
+        ],
+        "setName": "ORPHAN'S CALL"
+    },
+    {
+        "name": "Magnus' Skin",
+        "unidItem": "Sharkskin Gloves",
+        "cLevel": 37,
+        "requirements": [
+            "Required Level: 37",
+            "Required Str: 20"
+        ],
+        "properties": [
+            "+50% EDef",
+            "+20% Increased Attack Speed",
+            "+100 To AR",
+            "+3 To Light Radius",
+            "Fire Resist +15%"
+        ],
+        "setName": "ORPHAN'S CALL"
+    },
+    {
+        "name": "Wilhelm's Pride",
+        "unidItem": "Battle Belt",
+        "cLevel": 42,
+        "requirements": [
+            "Required Level: 42",
+            "Required Str: 88"
+        ],
+        "properties": [
+            "+75% EDef",
+            "5% LL Per Hit",
+            "5% ML Per Hit",
+            "Cold Resist +10%"
+        ],
+        "setName": "ORPHAN'S CALL"
+    },
+    {
+        "name": "Sander's Paragon",
+        "unidItem": "Cap",
+        "cLevel": 25,
+        "requirements": [
+            "Required Level: 25"
+        ],
+        "properties": [
+            "+ (1 Per Character Level) 1-99 Defense",
+            "Attacker Takes Damage of 8",
+            "35% MFs"
+        ],
+        "setName": "SANDER'S FOLLY"
+    },
+    {
+        "name": "Sander's Superstition",
+        "unidItem": "Bone Wand",
+        "cLevel": 25,
+        "requirements": [
+            "Required Level: 25"
+        ],
+        "properties": [
+            "+75% EDmg",
+            "+50% Damage To Undead",
+            "+20% FCR",
+            "+25 To Mana",
+            "8% ML Per Hit",
+            "25-75 Cold Damage, 2 sec. Duration (Normal)"
+        ],
+        "setName": "SANDER'S FOLLY"
+    },
+    {
+        "name": "Sander's Taboo",
+        "unidItem": "Heavy Gloves",
+        "cLevel": 28,
+        "requirements": [
+            "Required Level: 28"
+        ],
+        "properties": [
+            "Adds 9-11 Poison Damage Over 3 Seconds",
+            "+20-25 Defense",
+            "+40 To Life",
+            "+20% Increased Attack Speed"
+        ],
+        "setName": "SANDER'S FOLLY"
+    },
+    {
+        "name": "Sander's Riprap",
+        "unidItem": "Heavy Boots",
+        "cLevel": 20,
+        "requirements": [
+            "Required Level: 20",
+            "Required Str: 18"
+        ],
+        "properties": [
+            "+40% Faster Run/Walk",
+            "+100 To AR",
+            "+10 To Dex",
+            "+5 To Str"
+        ],
+        "setName": "SANDER'S FOLLY"
+    },
+    {
+        "name": "Sazabi's Mental Sheath",
+        "unidItem": "Basinet",
+        "cLevel": 43,
+        "requirements": [
+            "Required Level: 43",
+            "Required Str: 82"
+        ],
+        "properties": [
+            "+1 To All Skills",
+            "Lightning Resist +15-20% (varies)",
+            "Fire Resist +15-20% (varies)",
+            "+100 Defense"
+        ],
+        "setName": "SAZABI'S GRAND TRIBUTE"
+    },
+    {
+        "name": "Sazabi's Cobalt Redeemer",
+        "unidItem": "Cryptic Sword",
+        "cLevel": 73,
+        "requirements": [
+            "Required Level: 73",
+            "Required Str: 99",
+            "Required Dex: 109"
+        ],
+        "properties": [
+            "+150% EDmg",
+            "+318% Damage To Demons",
+            "Adds 25-35 Cold Damage, 2 sec. Duration (Normal)",
+            "+40% Increased Attack Speed",
+            "Indestructible",
+            "+15 To Dex",
+            "+5 To Str"
+        ],
+        "setName": "SAZABI'S GRAND TRIBUTE"
+    },
+    {
+        "name": "Sazabi's Ghost Liberator",
+        "unidItem": "Balrog Skin",
+        "cLevel": 67,
+        "requirements": [
+            "Required Level: 67",
+            "Required Str: 165"
+        ],
+        "properties": [
+            "+400 Defense",
+            "+30% Faster Hit Recovery",
+            "+300 To AR Against Demons",
+            "+25 To Str",
+            "+50-75 To Life (varies)"
+        ],
+        "setName": "SAZABI'S GRAND TRIBUTE"
+    },
+    {
+        "name": "Tal Rasha's Lidless Eye",
+        "unidItem": "Swirling Crystal",
+        "cLevel": 65,
+        "requirements": [
+            "Required Level: 65"
+        ],
+        "properties": [
+            "20% FCR",
+            "+77 To Mana",
+            "+57 To Life",
+            "+10 To Energy",
+            "+1-2 To Lightning Mastery (varies)",
+            "+1-2 To Fire Mastery (varies)",
+            "+1-2 To Cold Mastery (varies)",
+            "+1 To Sorceress Skill Levels (2 Items)",
+            "-15% To Enemy Fire Resistance (3 Items)",
+            "-15% To Enemy Lightning Resistance (4 Items)",
+            "+15% To Cold Skills Damage (Complete Set)"
+        ],
+        "setName": "TAL RASHA'S WRAPPINGS"
+    },
+    {
+        "name": "Tal Rasha's Horadric Crest",
+        "unidItem": "Death Mask",
+        "cLevel": 66,
+        "requirements": [
+            "Required Level: 66",
+            "Required Str: 55"
+        ],
+        "properties": [
+            "10% LL Per Hit",
+            "10% ML Per Hit",
+            "All Res +15",
+            "+45 Defense",
+            "+30 To Mana",
+            "+60 To Life"
+        ],
+        "setName": "TAL RASHA'S WRAPPINGS"
+    },
+    {
+        "name": "Tal Rasha's Guardianship",
+        "unidItem": "Lacquered Plate",
+        "cLevel": 71,
+        "requirements": [
+            "Required Level: 71",
+            "Required Str: 84"
+        ],
+        "properties": [
+            "+400 Defense",
+            "Requirements -60%",
+            "Magic Damage Reduced By 15",
+            "Cold Resist +40%",
+            "Lightning Resist +40%",
+            "Fire Resist +40%",
+            "88% MFs",
+            "+10% FCR (2 Items)"
+        ],
+        "setName": "TAL RASHA'S WRAPPINGS"
+    },
+    {
+        "name": "Tal Rasha's Fine-Spun Cloth",
+        "unidItem": "Mesh Belt",
+        "cLevel": 53,
+        "requirements": [
+            "Required Level: 53",
+            "Required Str: 47"
+        ],
+        "properties": [
+            "Requirements -20%",
+            "37% Damage Taken Goes To Mana",
+            "+30 To Mana",
+            "+20 To Dex",
+            "10-15% MFs (varies)",
+            "+60 Defense (2 Items)",
+            "+10% FCR (3 Items)"
+        ],
+        "setName": "TAL RASHA'S WRAPPINGS"
+    },
+    {
+        "name": "Tal Rasha's Adjudication",
+        "unidItem": "Amulet",
+        "cLevel": 67,
+        "requirements": [
+            "Required Level: 67"
+        ],
+        "properties": [
+            "+2 To Sorceress Skill Levels",
+            "Lightning Resist +33%",
+            "Adds 3-32 Lightning Damage",
+            "+42 To Mana",
+            "+50 To Life",
+            "+10% FCR (4 Items)"
+        ],
+        "setName": "TAL RASHA'S WRAPPINGS"
+    },
+    {
+        "name": "Trang-Oul's Guise",
+        "unidItem": "Bone Visage",
+        "cLevel": 65,
+        "requirements": [
+            "Required Level: 65",
+            "Required Str: 106"
+        ],
+        "properties": [
+            "25% Faster Hit Recovery",
+            "Replenish Life +5",
+            "+80-100 Defense (varies)",
+            "+150 To Mana",
+            "Attacker Takes Damage of 20"
+        ],
+        "setName": "TRANG-OUL'S AVATAR"
+    },
+    {
+        "name": "Trang-Oul's Scales",
+        "unidItem": "Chaos Armor",
+        "cLevel": 49,
+        "requirements": [
+            "Required Level: 49",
+            "Required Str: 84"
+        ],
+        "properties": [
+            "+150% EDef",
+            "Requirements -40%",
+            "40% Faster Run/Walk",
+            "Poison Resist +40%",
+            "+100 Defense vs. Missile",
+            "+2 To Summoning Skills",
+            "Lightning Resist +50% (3 Items)",
+            "Damage Reduced By 25% (Complete Set)"
+        ],
+        "setName": "TRANG-OUL'S AVATAR"
+    },
+    {
+        "name": "Trang-Oul's Wing",
+        "unidItem": "Cantor Trophy",
+        "cLevel": 54,
+        "requirements": [
+            "Required Level: 54",
+            "Required Str: 50"
+        ],
+        "properties": [
+            "+125 Defense",
+            "+30% Increased Chance Of Blocking",
+            "Poison Resist +40%",
+            "Fire Resist +38-45% (varies)",
+            "+15 To Dex",
+            "+25 To Str",
+            "+2 To Poison And Bone Skills",
+            "-25% To Enemy Poison Resistance (3 Items)",
+            "Replenish Life +15 (4 Items)"
+        ],
+        "setName": "TRANG-OUL'S AVATAR"
+    },
+    {
+        "name": "Trang-Oul's Girth",
+        "unidItem": "Troll Belt",
+        "cLevel": 62,
+        "requirements": [
+            "Required Level: 62",
+            "Required Str: 91"
+        ],
+        "properties": [
+            "+75-100 Defense (varies)",
+            "Requirements -40%",
+            "Cannot Be Frozen",
+            "Replenish Life +5",
+            "+25-50 To Mana (varies)",
+            "+30 Maximum Stamina",
+            "+66 To Life",
+            "Cold Resist +40% (3 Items)"
+        ],
+        "setName": "TRANG-OUL'S AVATAR"
+    },
+    {
+        "name": "Trang-Oul's Claws",
+        "unidItem": "Heavy Bracers",
+        "cLevel": 45,
+        "requirements": [
+            "Required Level: 45",
+            "Required Str: 58"
+        ],
+        "properties": [
+            "+20% FCR",
+            "Cold Resist +30%",
+            "+30 Defense",
+            "+25% Poison Skill Damage",
+            "+2 To Curses "
+        ],
+        "setName": "TRANG-OUL'S AVATAR"
+    }
+]

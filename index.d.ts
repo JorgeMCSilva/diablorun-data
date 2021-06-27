@@ -72,4 +72,33 @@ declare module "@diablorun/diablorun-data" {
     export const acronyms: {
         [name: string]: string;
     };
+
+    export const unids: {
+        [name: string]: string[];
+    };
+
+    export const uniques: {
+        name: string;
+        unidItem: string;
+        cLevel: number,
+        requirements: string[];
+        properties: string[];
+    };
+
+    export const setItems: [{
+        name: string;
+        unidItem: string;
+        cLevel: number,
+        requirements: string[];
+        properties: string[];
+        setName: string;
+    }];
+
+    export const sets: {
+        name: string;
+        additionalTrigger: string[];
+        details: string[];
+        items: string[];
+    };
+
 }
