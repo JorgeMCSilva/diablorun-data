@@ -1,5 +1,4 @@
 {
-    "": "Please utilize the command as the following example !fbr barbarian",
     "help": "Please utilize the command as the following example !fbr barbarian",
     "amazon": "Please provide additional options. 1hand or other",
     "amazon 1hand": "Amazon hit by 1hand -> %FBR Frames => 0% 17 - 4% 16 - 6% 15 - 11% 14 - 15% 13 - 23% 12 - 29% 11 - 40% 10 - 56% 9 - 80% 8 - 120% 7 - 200% 6 - 480% 5",

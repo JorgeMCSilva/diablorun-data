@@ -1,0 +1,6366 @@
+[
+    {
+        "properties": [
+            "Def: 20-30",
+            "Durability: 35",
+            "Required Level: 16",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Circlet"
+    },
+    {
+        "properties": [
+            "Def: 30-40",
+            "Durability: 30",
+            "Required Level: 39",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Coronet"
+    },
+    {
+        "properties": [
+            "Def: 40-50",
+            "Durability: 25",
+            "Required Level: 52",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Tiara"
+    },
+    {
+        "properties": [
+            "Def: 50-60",
+            "Durability: 20",
+            "Required Level: 64",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Diadem"
+    },
+    {
+        "properties": [
+            "Def: 3-5",
+            "Durability: 12",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Cap"
+    },
+    {
+        "properties": [
+            "Def: 8-11",
+            "Min Str: 15",
+            "Durability: 18",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Skull Cap"
+    },
+    {
+        "properties": [
+            "Def: 15-18",
+            "Min Str: 26",
+            "Durability: 24",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Helm"
+    },
+    {
+        "properties": [
+            "Def: 23-26",
+            "Min Str: 41",
+            "Durability: 30",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Full Helm"
+    },
+    {
+        "properties": [
+            "Def: 30-35",
+            "Min Str: 63",
+            "Durability: 40",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Great Helm"
+    },
+    {
+        "properties": [
+            "Def: 9-27",
+            "Min Str: 23",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Mask"
+    },
+    {
+        "properties": [
+            "Def: 25-45",
+            "Min Str: 55",
+            "Durability: 50",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Crown"
+    },
+    {
+        "properties": [
+            "Def: 33-36",
+            "Min Str: 25",
+            "Durability: 40",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Bone Helm"
+    },
+    {
+        "properties": [
+            "Def: 45-53",
+            "Level: 22",
+            "Min Str: 20",
+            "Durability: 12",
+            "Soc(s): 2"
+        ],
+        "baseItem": "War Hat",
+        "cLevel": 22
+    },
+    {
+        "properties": [
+            "Def: 52-62",
+            "Level: 25",
+            "Min Str: 43",
+            "Durability: 18",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Sallet",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 63-72",
+            "Level: 25",
+            "Min Str: 59",
+            "Durability: 24",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Casque",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 75-84",
+            "Level: 25",
+            "Min Str: 82",
+            "Durability: 30",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Basinet",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 85-98",
+            "Level: 25",
+            "Min Str: 115",
+            "Durability: 40",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Winged Helm",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 54-86",
+            "Level: 25",
+            "Min Str: 55",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Death Mask",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 78-113",
+            "Level: 25",
+            "Min Str: 103",
+            "Durability: 50",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Grand Crown",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 60-125",
+            "Level: 25",
+            "Min Str: 58",
+            "Durability: 40",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Grim Helm",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 98-141",
+            "Level: 43",
+            "Min Str: 50",
+            "Durability: 12",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Shako",
+        "cLevel": 43
+    },
+    {
+        "properties": [
+            "Def: 101-145",
+            "Level: 47",
+            "Min Str: 84",
+            "Durability: 18",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Hydraskull",
+        "cLevel": 47
+    },
+    {
+        "properties": [
+            "Def: 105-149",
+            "Level: 51",
+            "Min Str: 109",
+            "Durability: 24",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Armet",
+        "cLevel": 51
+    },
+    {
+        "properties": [
+            "Def: 110-154",
+            "Level: 40",
+            "Min Str: 142",
+            "Durability: 30",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Giant Conch",
+        "cLevel": 40
+    },
+    {
+        "properties": [
+            "Def: 114-159",
+            "Level: 59",
+            "Min Str: 192",
+            "Durability: 40",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Spired Helm",
+        "cLevel": 59
+    },
+    {
+        "properties": [
+            "Def: 101-154",
+            "Level: 55",
+            "Min Str: 102",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Demonhead",
+        "cLevel": 55
+    },
+    {
+        "properties": [
+            "Def: 111-165",
+            "Level: 66",
+            "Min Str: 174",
+            "Durability: 50",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Corona",
+        "cLevel": 66
+    },
+    {
+        "properties": [
+            "Def: 100-157",
+            "Level: 63",
+            "Min Str: 106",
+            "Durability: 40",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Bone Visage",
+        "cLevel": 63
+    },
+    {
+        "properties": [
+            "Def: 361-467",
+            "Level: 49",
+            "Min Str: 77",
+            "Durability: 20",
+            "Soc(s): 4",
+            "Type: Light"
+        ],
+        "baseItem": "Dusk Shroud",
+        "cLevel": 49
+    },
+    {
+        "properties": [
+            "Def: 364-470",
+            "Level: 50",
+            "Min Str: 84",
+            "Durability: 24",
+            "Soc(s): 4",
+            "Type: Light"
+        ],
+        "baseItem": "Wyrmhide",
+        "cLevel": 50
+    },
+    {
+        "properties": [
+            "Def: 369-474",
+            "Level: 51",
+            "Min Str: 95",
+            "Durability: 28",
+            "Soc(s): 4",
+            "Type: Light"
+        ],
+        "baseItem": "Scarab Husk",
+        "cLevel": 51
+    },
+    {
+        "properties": [
+            "Def: 375-481",
+            "Level: 53",
+            "Min Str: 111",
+            "Durability: 32",
+            "Soc(s): 4",
+            "Type: Light"
+        ],
+        "baseItem": "Wire Fleece",
+        "cLevel": 53
+    },
+    {
+        "properties": [
+            "Def: 383-489",
+            "Level: 54",
+            "Min Str: 131",
+            "Durability: 26",
+            "Soc(s): 4",
+            "Type: Medium"
+        ],
+        "baseItem": "Diamond Mail",
+        "cLevel": 54
+    },
+    {
+        "properties": [
+            "Def: 390-496",
+            "Level: 55",
+            "Min Str: 149",
+            "Durability: 36",
+            "Soc(s): 4",
+            "Type: Heavy"
+        ],
+        "baseItem": "Loricated Mail",
+        "cLevel": 55
+    },
+    {
+        "properties": [
+            "Def: 395-501",
+            "Level: 56",
+            "Min Str: 118",
+            "Durability: 50",
+            "Soc(s): 4",
+            "Type: Light"
+        ],
+        "baseItem": "Great Hauberk",
+        "cLevel": 56
+    },
+    {
+        "properties": [
+            "Def: 399-505",
+            "Level: 47",
+            "Min Str: 158",
+            "Durability: 45",
+            "Soc(s): 4",
+            "Type: Medium"
+        ],
+        "baseItem": "Boneweave",
+        "cLevel": 47
+    },
+    {
+        "properties": [
+            "Def: 410-517",
+            "Level: 57",
+            "Min Str: 165",
+            "Durability: 30",
+            "Soc(s): 4",
+            "Type: Medium"
+        ],
+        "baseItem": "Balrog Skin",
+        "cLevel": 57
+    },
+    {
+        "properties": [
+            "Def: 410-524",
+            "Level: 63",
+            "Min Str: 103",
+            "Durability: 60",
+            "Soc(s): 4",
+            "Type: Light"
+        ],
+        "baseItem": "Archon Plate",
+        "cLevel": 63
+    },
+    {
+        "properties": [
+            "Def: 417-523",
+            "Level: 61",
+            "Min Str: 174",
+            "Durability: 48",
+            "Soc(s): 4",
+            "Type: Medium"
+        ],
+        "baseItem": "Kraken Shell",
+        "cLevel": 61
+    },
+    {
+        "properties": [
+            "Def: 421-530",
+            "Level: 59",
+            "Min Str: 196",
+            "Durability: 60",
+            "Soc(s): 4",
+            "Type: Heavy"
+        ],
+        "baseItem": "Hellforge Plate",
+        "cLevel": 59
+    },
+    {
+        "properties": [
+            "Def: 433-541",
+            "Level: 62",
+            "Min Str: 208",
+            "Durability: 55",
+            "Soc(s): 4",
+            "Type: Medium"
+        ],
+        "baseItem": "Lacquered Plate",
+        "cLevel": 62
+    },
+    {
+        "properties": [
+            "Def: 446-557",
+            "Level: 64",
+            "Min Str: 230",
+            "Durability: 70",
+            "Soc(s): 4",
+            "Type: Heavy"
+        ],
+        "baseItem": "Shadow Plate",
+        "cLevel": 64
+    },
+    {
+        "properties": [
+            "Def: 487-600",
+            "Level: 66",
+            "Min Str: 232",
+            "Durability: 60",
+            "Soc(s): 4",
+            "Type: Medium"
+        ],
+        "baseItem": "Sacred Armor",
+        "cLevel": 66
+    },
+    {
+        "properties": [
+            "Def: 102-117",
+            "Level: 22",
+            "Min Str: 38",
+            "Durability: 20",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Ghost Armor",
+        "cLevel": 22
+    },
+    {
+        "properties": [
+            "Def: 111-126",
+            "Level: 24",
+            "Min Str: 43",
+            "Durability: 24",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Serpentskin Armor",
+        "cLevel": 24
+    },
+    {
+        "properties": [
+            "Def: 122-136",
+            "Level: 25",
+            "Min Str: 50",
+            "Durability: 28",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Demonhide Armor",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 138-153",
+            "Level: 25",
+            "Min Str: 61",
+            "Durability: 32",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Trellised Armor",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 158-172",
+            "Level: 25",
+            "Min Str: 74",
+            "Durability: 26",
+            "Soc(s): 3",
+            "Type: Medium"
+        ],
+        "baseItem": "Linked Mail",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 176-190",
+            "Level: 25",
+            "Min Str: 86",
+            "Durability: 36",
+            "Soc(s): 3",
+            "Type: Heavy"
+        ],
+        "baseItem": "Tigulated Mail",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 188-202",
+            "Level: 25",
+            "Min Str: 65",
+            "Durability: 50",
+            "Soc(s): 3",
+            "Type: Light"
+        ],
+        "baseItem": "Cuirass",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 198-213",
+            "Level: 25",
+            "Min Str: 92",
+            "Durability: 45",
+            "Soc(s): 3",
+            "Type: Medium"
+        ],
+        "baseItem": "Mesh Armor",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 225-243",
+            "Level: 25",
+            "Min Str: 97",
+            "Durability: 30",
+            "Soc(s): 3",
+            "Type: Medium"
+        ],
+        "baseItem": "Russet Armor",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 225-261",
+            "Level: 25",
+            "Min Str: 55",
+            "Durability: 60",
+            "Soc(s): 3",
+            "Type: Light"
+        ],
+        "baseItem": "Mage Plate",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 242-258",
+            "Level: 25",
+            "Min Str: 103",
+            "Durability: 48",
+            "Soc(s): 3",
+            "Type: Medium"
+        ],
+        "baseItem": "Sharktooth Armor",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 252-274",
+            "Level: 25",
+            "Min Str: 118",
+            "Durability: 60",
+            "Soc(s): 3",
+            "Type: Heavy"
+        ],
+        "baseItem": "Templar Coat",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 282-303",
+            "Level: 25",
+            "Min Str: 125",
+            "Durability: 55",
+            "Soc(s): 4",
+            "Type: Medium"
+        ],
+        "baseItem": "Embossed Plate",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 315-342",
+            "Level: 25",
+            "Min Str: 140",
+            "Durability: 70",
+            "Soc(s): 4",
+            "Type: Heavy"
+        ],
+        "baseItem": "Chaos Armor",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 417-450",
+            "Level: 25",
+            "Min Str: 170",
+            "Durability: 60",
+            "Soc(s): 4",
+            "Type: Medium"
+        ],
+        "baseItem": "Ornate Plate",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 8-11",
+            "Min Str: 12",
+            "Durability: 20",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Quilted Armor"
+    },
+    {
+        "properties": [
+            "Def: 14-17",
+            "Min Str: 15",
+            "Durability: 24",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Leather Armor"
+    },
+    {
+        "properties": [
+            "Def: 21-24",
+            "Min Str: 20",
+            "Durability: 28",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Hard Leather Armor"
+    },
+    {
+        "properties": [
+            "Def: 32-35",
+            "Min Str: 27",
+            "Durability: 32",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Studded Leather"
+    },
+    {
+        "properties": [
+            "Def: 45-48",
+            "Min Str: 36",
+            "Durability: 26",
+            "Soc(s): 3",
+            "Type: Medium"
+        ],
+        "baseItem": "Ring Mail"
+    },
+    {
+        "properties": [
+            "Def: 57-60",
+            "Min Str: 44",
+            "Durability: 36",
+            "Soc(s): 2",
+            "Type: Heavy"
+        ],
+        "baseItem": "Scale Mail"
+    },
+    {
+        "properties": [
+            "Def: 65-68",
+            "Min Str: 30",
+            "Durability: 50",
+            "Soc(s): 3",
+            "Type: Light"
+        ],
+        "baseItem": "Breast Plate"
+    },
+    {
+        "properties": [
+            "Def: 72-75",
+            "Min Str: 48",
+            "Durability: 45",
+            "Soc(s): 2",
+            "Type: Medium"
+        ],
+        "baseItem": "Chain Mail"
+    },
+    {
+        "properties": [
+            "Def: 90-95",
+            "Min Str: 51",
+            "Durability: 30",
+            "Soc(s): 2",
+            "Type: Medium"
+        ],
+        "baseItem": "Splint Mail"
+    },
+    {
+        "properties": [
+            "Def: 90-107",
+            "Min Str: 41",
+            "Durability: 60",
+            "Soc(s): 3",
+            "Type: Light"
+        ],
+        "baseItem": "Light Plate"
+    },
+    {
+        "properties": [
+            "Def: 101-105",
+            "Min Str: 55",
+            "Durability: 48",
+            "Soc(s): 2",
+            "Type: Medium"
+        ],
+        "baseItem": "Field Plate"
+    },
+    {
+        "properties": [
+            "Def: 108-116",
+            "Min Str: 65",
+            "Durability: 60",
+            "Soc(s): 2",
+            "Type: Heavy"
+        ],
+        "baseItem": "Plate Mail"
+    },
+    {
+        "properties": [
+            "Def: 128-135",
+            "Min Str: 70",
+            "Durability: 55",
+            "Soc(s): 4",
+            "Type: Medium"
+        ],
+        "baseItem": "Gothic Plate"
+    },
+    {
+        "properties": [
+            "Def: 150-161",
+            "Min Str: 80",
+            "Durability: 70",
+            "Soc(s): 4",
+            "Type: Heavy"
+        ],
+        "baseItem": "Full Plate Mail"
+    },
+    {
+        "properties": [
+            "Def: 218-233",
+            "Min Str: 100",
+            "Durability: 60",
+            "Soc(s): 4",
+            "Type: Medium"
+        ],
+        "baseItem": "Ancient Armor"
+    },
+    {
+        "properties": [
+            "Def: 4-6",
+            "Min Str: 12",
+            "% Block: [0] Pal: 30% Ama/Asn/Bar: 25% Dru/Nec/Sor: 20%",
+            "Durability: 12",
+            "Soc(s): 1",
+            "Smite Dmg: 1-3",
+            "Type: Light"
+        ],
+        "baseItem": "Buckler"
+    },
+    {
+        "properties": [
+            "Def: 8-10",
+            "Min Str: 22",
+            "% Block: [5] Pal: 35% Ama/Asn/Bar: 30% Dru/Nec/Sor: 25%",
+            "Durability: 16",
+            "Soc(s): 2",
+            "Smite Dmg: 2-3",
+            "Type: Light"
+        ],
+        "baseItem": "Small Shield"
+    },
+    {
+        "properties": [
+            "Def: 12-14",
+            "Min Str: 34",
+            "% Block: [12] Pal: 42% Ama/Asn/Bar: 37% Dru/Nec/Sor: 32%",
+            "Durability: 24",
+            "Soc(s): 3",
+            "Smite Dmg: 2-4",
+            "Type: Medium"
+        ],
+        "baseItem": "Large Shield"
+    },
+    {
+        "properties": [
+            "Def: 16-18",
+            "Min Str: 47",
+            "% Block: [8] Pal: 38% Ama/Asn/Bar: 33% Dru/Nec/Sor: 28%",
+            "Durability: 30",
+            "Soc(s): 3",
+            "Smite Dmg: 2-5",
+            "Type: Light"
+        ],
+        "baseItem": "Kite Shield"
+    },
+    {
+        "properties": [
+            "Def: 15-25",
+            "Min Str: 30",
+            "% Block: [10] Pal: 40% Ama/Asn/Bar: 35% Dru/Nec/Sor: 30%",
+            "Durability: 40",
+            "Soc(s): 2",
+            "Smite Dmg: 5-9",
+            "Type: Light"
+        ],
+        "baseItem": "Spiked Shield"
+    },
+    {
+        "properties": [
+            "Def: 22-25",
+            "Min Str: 75",
+            "% Block: [24] Pal: 54% Ama/Asn/Bar: 49% Dru/Nec/Sor: 44%",
+            "Durability: 60",
+            "Soc(s): 3",
+            "Smite Dmg: 1-5",
+            "Type: Heavy"
+        ],
+        "baseItem": "Tower Shield"
+    },
+    {
+        "properties": [
+            "Def: 10-30",
+            "Min Str: 25",
+            "% Block: [20] Pal: 50% Ama/Asn/Bar: 45% Dru/Nec/Sor: 40%",
+            "Durability: 40",
+            "Soc(s): 2",
+            "Smite Dmg: 3-6",
+            "Type: Light"
+        ],
+        "baseItem": "Bone Shield"
+    },
+    {
+        "properties": [
+            "Def: 30-35",
+            "Min Str: 60",
+            "% Block: [16] Pal: 46% Ama/Asn/Bar: 41% Dru/Nec/Sor: 36%",
+            "Durability: 40",
+            "Soc(s): 3",
+            "Smite Dmg: 2-6",
+            "Type: Medium"
+        ],
+        "baseItem": "Gothic Shield"
+    },
+    {
+        "properties": [
+            "Def: 41-49",
+            "Level: 22",
+            "Min Str: 38",
+            "% Block: [10] Pal: 40% Ama/Asn/Bar: 35% Dru/Nec/Sor: 30%",
+            "Durability: 68",
+            "Soc(s): 1",
+            "Smite Dmg: 8-12",
+            "Type: Light"
+        ],
+        "baseItem": "Defender",
+        "cLevel": 22
+    },
+    {
+        "properties": [
+            "Def: 47-55",
+            "Level: 25",
+            "Min Str: 53",
+            "% Block: [12] Pal: 42% Ama/Asn/Bar: 37% Dru/Nec/Sor: 32%",
+            "Durability: 64",
+            "Soc(s): 2",
+            "Smite Dmg: 7-14",
+            "Type: Light"
+        ],
+        "baseItem": "Round Shield",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 53-61",
+            "Level: 25",
+            "Min Str: 71",
+            "% Block: [14] Pal: 44% Ama/Asn/Bar: 39% Dru/Nec/Sor: 34%",
+            "Durability: 62",
+            "Soc(s): 3",
+            "Smite Dmg: 11-15",
+            "Type: Medium"
+        ],
+        "baseItem": "Scutum",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 58-78",
+            "Level: 25",
+            "Min Str: 65",
+            "% Block: [17] Pal: 47% Ama/Asn/Bar: 42% Dru/Nec/Sor: 37%",
+            "Durability: 55",
+            "Soc(s): 2",
+            "Smite Dmg: 18-35",
+            "Type: Light"
+        ],
+        "baseItem": "Barbed Shield",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 59-67",
+            "Level: 25",
+            "Min Str: 91",
+            "% Block: [18] Pal: 48% Ama/Asn/Bar: 43% Dru/Nec/Sor: 38%",
+            "Durability: 76",
+            "Soc(s): 3",
+            "Smite Dmg: 15-24",
+            "Type: Light"
+        ],
+        "baseItem": "Dragon Shield",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 50-150",
+            "Level: 25",
+            "Min Str: 58",
+            "% Block: [20] Pal: 50% Ama/Asn/Bar: 45% Dru/Nec/Sor: 40%",
+            "Durability: 70",
+            "Soc(s): 2",
+            "Smite Dmg: 14-20",
+            "Type: Light"
+        ],
+        "baseItem": "Grim Shield",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 68-78",
+            "Level: 25",
+            "Min Str: 133",
+            "% Block: [24] Pal: 54% Ama/Asn/Bar: 49% Dru/Nec/Sor: 44%",
+            "Durability: 72",
+            "Soc(s): 3",
+            "Smite Dmg: 10-17",
+            "Type: Heavy"
+        ],
+        "baseItem": "Pavise",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 80-93",
+            "Level: 25",
+            "Min Str: 110",
+            "% Block: [16] Pal: 46% Ama/Asn/Bar: 41% Dru/Nec/Sor: 36%",
+            "Durability: 80",
+            "Soc(s): 3",
+            "Smite Dmg: 12-16",
+            "Type: Medium"
+        ],
+        "baseItem": "Ancient Shield",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 95-110",
+            "Level: 43",
+            "Min Str: 77",
+            "% Block: [22] Pal: 52% Ama/Asn/Bar: 47% Dru/Nec/Sor: 42%",
+            "Durability: 88",
+            "Soc(s): 2",
+            "Smite Dmg: 16-30",
+            "Type: Light"
+        ],
+        "baseItem": "Heater",
+        "cLevel": 43
+    },
+    {
+        "properties": [
+            "Def: 108-123",
+            "Level: 45",
+            "Min Str: 100",
+            "% Block: [20] Pal: 50% Ama/Asn/Bar: 45% Dru/Nec/Sor: 40%",
+            "Durability: 84",
+            "Soc(s): 2",
+            "Smite Dmg: 17-29",
+            "Type: Light"
+        ],
+        "baseItem": "Luna",
+        "cLevel": 45
+    },
+    {
+        "properties": [
+            "Def: 119-135",
+            "Level: 48",
+            "Min Str: 127",
+            "% Block: [24] Pal: 54% Ama/Asn/Bar: 49% Dru/Nec/Sor: 44%",
+            "Durability: 82",
+            "Soc(s): 3",
+            "Smite Dmg: 14-32",
+            "Type: Medium"
+        ],
+        "baseItem": "Hyperion",
+        "cLevel": 48
+    },
+    {
+        "properties": [
+            "Def: 133-148",
+            "Level: 54",
+            "Min Str: 156",
+            "% Block: [22] Pal: 52% Ama/Asn/Bar: 47% Dru/Nec/Sor: 42%",
+            "Durability: 86",
+            "Soc(s): 4",
+            "Smite Dmg: 12-34",
+            "Type: Light"
+        ],
+        "baseItem": "Monarch",
+        "cLevel": 54
+    },
+    {
+        "properties": [
+            "Def: 147-163",
+            "Level: 51",
+            "Min Str: 118",
+            "% Block: [20] Pal: 50% Ama/Asn/Bar: 45% Dru/Nec/Sor: 40%",
+            "Durability: 83",
+            "Soc(s): 3",
+            "Smite Dmg: 26-40",
+            "Type: Light"
+        ],
+        "baseItem": "Blade Barrier",
+        "cLevel": 51
+    },
+    {
+        "properties": [
+            "Def: 145-161",
+            "Level: 59",
+            "Min Str: 219",
+            "% Block: [24] Pal: 54% Ama/Asn/Bar: 49% Dru/Nec/Sor: 44%",
+            "Durability: 92",
+            "Soc(s): 4",
+            "Smite Dmg: 18-28",
+            "Type: Heavy"
+        ],
+        "baseItem": "Aegis",
+        "cLevel": 59
+    },
+    {
+        "properties": [
+            "Def: 158-173",
+            "Level: 57",
+            "Min Str: 106",
+            "% Block: [20] Pal: 50% Ama/Asn/Bar: 45% Dru/Nec/Sor: 40%",
+            "Durability: 74",
+            "Soc(s): 3",
+            "Smite Dmg: 24-38",
+            "Type: Light"
+        ],
+        "baseItem": "Troll Nest",
+        "cLevel": 57
+    },
+    {
+        "properties": [
+            "Def: 153-170",
+            "Level: 63",
+            "Min Str: 185",
+            "% Block: [24] Pal: 54% Ama/Asn/Bar: 49% Dru/Nec/Sor: 44%",
+            "Durability: 100",
+            "Soc(s): 4",
+            "Smite Dmg: 11-35",
+            "Type: Medium"
+        ],
+        "baseItem": "Ward",
+        "cLevel": 63
+    },
+    {
+        "properties": [
+            "Def: 54-62",
+            "Level: 42",
+            "Min Str: 50",
+            "Durability: 12"
+        ],
+        "baseItem": "Bramble Mitts",
+        "cLevel": 42
+    },
+    {
+        "properties": [
+            "Def: 56-65",
+            "Level: 47",
+            "Min Str: 50",
+            "Durability: 14"
+        ],
+        "baseItem": "Vampirebone Gloves",
+        "cLevel": 47
+    },
+    {
+        "properties": [
+            "Def: 59-67",
+            "Level: 51",
+            "Min Str: 106",
+            "Durability: 16"
+        ],
+        "baseItem": "Vambraces",
+        "cLevel": 51
+    },
+    {
+        "properties": [
+            "Def: 59-68",
+            "Level: 57",
+            "Min Str: 151",
+            "Durability: 18"
+        ],
+        "baseItem": "Crusader Gauntlets",
+        "cLevel": 57
+    },
+    {
+        "properties": [
+            "Def: 62-71",
+            "Level: 64",
+            "Min Str: 185",
+            "Durability: 24"
+        ],
+        "baseItem": "Ogre Gauntlets",
+        "cLevel": 64
+    },
+    {
+        "properties": [
+            "Def: 28-35",
+            "Level: 21",
+            "Min Str: 20",
+            "Durability: 12"
+        ],
+        "baseItem": "Demonhide Gloves",
+        "cLevel": 21
+    },
+    {
+        "properties": [
+            "Def: 33-39",
+            "Level: 25",
+            "Min Str: 20",
+            "Durability: 14"
+        ],
+        "baseItem": "Sharkskin Gloves",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 37-44",
+            "Level: 25",
+            "Min Str: 58",
+            "Durability: 16"
+        ],
+        "baseItem": "Heavy Bracers",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 39-47",
+            "Level: 25",
+            "Min Str: 88",
+            "Durability: 18"
+        ],
+        "baseItem": "Battle Gauntlets",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 43-53",
+            "Level: 25",
+            "Min Str: 110",
+            "Durability: 24"
+        ],
+        "baseItem": "War Gauntlets",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 2-3",
+            "Durability: 12"
+        ],
+        "baseItem": "Leather Gloves"
+    },
+    {
+        "properties": [
+            "Def: 5-6",
+            "Durability: 14"
+        ],
+        "baseItem": "Heavy Gloves"
+    },
+    {
+        "properties": [
+            "Def: 8-9",
+            "Min Str: 25",
+            "Durability: 16"
+        ],
+        "baseItem": "Chain Gloves"
+    },
+    {
+        "properties": [
+            "Def: 9-11",
+            "Min Str: 45",
+            "Durability: 18"
+        ],
+        "baseItem": "Light Gauntlets"
+    },
+    {
+        "properties": [
+            "Def: 12-15",
+            "Min Str: 60",
+            "Durability: 24"
+        ],
+        "baseItem": "Gauntlets"
+    },
+    {
+        "properties": [
+            "Def: 2-3",
+            "Durability: 12",
+            "Kick Damage: 3-8"
+        ],
+        "baseItem": "Boots"
+    },
+    {
+        "properties": [
+            "Def: 5-6",
+            "Min Str: 18",
+            "Durability: 14",
+            "Kick Damage: 4-10"
+        ],
+        "baseItem": "Heavy Boots"
+    },
+    {
+        "properties": [
+            "Def: 8-9",
+            "Min Str: 30",
+            "Durability: 16",
+            "Kick Damage: 6-12"
+        ],
+        "baseItem": "Chain Boots"
+    },
+    {
+        "properties": [
+            "Def: 9-11",
+            "Min Str: 50",
+            "Durability: 18",
+            "Kick Damage: 8-16"
+        ],
+        "baseItem": "Light Plated Boots"
+    },
+    {
+        "properties": [
+            "Def: 12-15",
+            "Min Str: 70",
+            "Durability: 24",
+            "Kick Damage: 10-20"
+        ],
+        "baseItem": "Greaves"
+    },
+    {
+        "properties": [
+            "Def: 28-35",
+            "Level: 24",
+            "Min Str: 20",
+            "Durability: 12",
+            "Kick Damage: 26-46"
+        ],
+        "baseItem": "Demonhide Boots",
+        "cLevel": 24
+    },
+    {
+        "properties": [
+            "Def: 33-39",
+            "Level: 25",
+            "Min Str: 47",
+            "Durability: 14",
+            "Kick Damage: 28-50"
+        ],
+        "baseItem": "Sharkskin Boots",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 37-44",
+            "Level: 25",
+            "Min Str: 65",
+            "Durability: 16",
+            "Kick Damage: 23-52"
+        ],
+        "baseItem": "Mesh Boots",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 39-47",
+            "Level: 25",
+            "Min Str: 95",
+            "Durability: 18",
+            "Kick Damage: 37-64"
+        ],
+        "baseItem": "Battle Boots",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 43-53",
+            "Level: 25",
+            "Min Str: 125",
+            "Durability: 24",
+            "Kick Damage: 39-80"
+        ],
+        "baseItem": "War Boots",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 54-62",
+            "Level: 45",
+            "Min Str: 50",
+            "Durability: 12",
+            "Kick Damage: 65-100"
+        ],
+        "baseItem": "Wyrmhide Boots",
+        "cLevel": 45
+    },
+    {
+        "properties": [
+            "Def: 56-65",
+            "Level: 49",
+            "Min Str: 91",
+            "Durability: 14",
+            "Kick Damage: 60-110"
+        ],
+        "baseItem": "Scarabshell Boots",
+        "cLevel": 49
+    },
+    {
+        "properties": [
+            "Def: 59-67",
+            "Level: 54",
+            "Min Str: 118",
+            "Durability: 16",
+            "Kick Damage: 69-118"
+        ],
+        "baseItem": "Boneweave Boots",
+        "cLevel": 54
+    },
+    {
+        "properties": [
+            "Def: 59-68",
+            "Level: 60",
+            "Min Str: 163",
+            "Durability: 18",
+            "Kick Damage: 50-145"
+        ],
+        "baseItem": "Mirrored Boots",
+        "cLevel": 60
+    },
+    {
+        "properties": [
+            "Def: 62-71",
+            "Level: 65",
+            "Min Str: 208",
+            "Durability: 24",
+            "Kick Damage: 83-149"
+        ],
+        "baseItem": "Myrmidon Greaves",
+        "cLevel": 65
+    },
+    {
+        "properties": [
+            "Def: 55-62",
+            "Level: 46",
+            "Min Str: 50",
+            "Durability: 12",
+            "#Slots: 16"
+        ],
+        "baseItem": "Spiderweb Sash",
+        "cLevel": 46
+    },
+    {
+        "properties": [
+            "Def: 56-63",
+            "Level: 51",
+            "Min Str: 50",
+            "Durability: 14",
+            "#Slots: 16"
+        ],
+        "baseItem": "Vampirefang Belt",
+        "cLevel": 51
+    },
+    {
+        "properties": [
+            "Def: 58-65",
+            "Level: 56",
+            "Min Str: 106",
+            "Durability: 16",
+            "#Slots: 16"
+        ],
+        "baseItem": "Mithril Coil",
+        "cLevel": 56
+    },
+    {
+        "properties": [
+            "Def: 59-66",
+            "Level: 62",
+            "Min Str: 151",
+            "Durability: 18",
+            "#Slots: 16"
+        ],
+        "baseItem": "Troll Belt",
+        "cLevel": 62
+    },
+    {
+        "properties": [
+            "Def: 61-71",
+            "Level: 67",
+            "Min Str: 185",
+            "Durability: 24",
+            "#Slots: 16"
+        ],
+        "baseItem": "Colossus Girdle",
+        "cLevel": 67
+    },
+    {
+        "properties": [
+            "Def: 29-34",
+            "Level: 24",
+            "Min Str: 20",
+            "Durability: 12",
+            "#Slots: 16"
+        ],
+        "baseItem": "Demonhide Sash",
+        "cLevel": 24
+    },
+    {
+        "properties": [
+            "Def: 31-36",
+            "Level: 25",
+            "Min Str: 20",
+            "Durability: 14",
+            "#Slots: 16"
+        ],
+        "baseItem": "Sharkskin Belt",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 35-40",
+            "Level: 25",
+            "Min Str: 58",
+            "Durability: 16",
+            "#Slots: 16"
+        ],
+        "baseItem": "Mesh Belt",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 37-42",
+            "Level: 25",
+            "Min Str: 88",
+            "Durability: 18",
+            "#Slots: 16"
+        ],
+        "baseItem": "Battle Belt",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 41-52",
+            "Level: 25",
+            "Min Str: 110",
+            "Durability: 24",
+            "#Slots: 16"
+        ],
+        "baseItem": "War Belt",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 2",
+            "Durability: 12",
+            "#Slots: 8"
+        ],
+        "baseItem": "Sash"
+    },
+    {
+        "properties": [
+            "Def: 3",
+            "Durability: 14",
+            "#Slots: 8"
+        ],
+        "baseItem": "Light Belt"
+    },
+    {
+        "properties": [
+            "Def: 5",
+            "Min Str: 25",
+            "Durability: 16",
+            "#Slots: 12"
+        ],
+        "baseItem": "Belt"
+    },
+    {
+        "properties": [
+            "Def: 6",
+            "Min Str: 45",
+            "Durability: 18",
+            "#Slots: 12"
+        ],
+        "baseItem": "Heavy Belt"
+    },
+    {
+        "properties": [
+            "Def: 8-11",
+            "Min Str: 60",
+            "Durability: 24",
+            "#Slots: 16"
+        ],
+        "baseItem": "Plated Belt"
+    },
+    {
+        "properties": [
+            "1H Damage: 3-6 (4.5 Avg)",
+            "Range+: 0",
+            "Durability: 28",
+            "Soc(s): 2",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Hand Axe",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 4-11 (7.5 Avg)",
+            "Min Str: 32",
+            "Range+: 1",
+            "Durability: 24",
+            "Soc(s): 4",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D,N, S - Normal"
+        ],
+        "baseItem": "Axe",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 5-13 (9 Avg)",
+            "Min Str: 43",
+            "Range+: 1",
+            "Durability: 24",
+            "Soc(s): 5",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Double Axe",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 7-11 (9 Avg)",
+            "Min Str: 49",
+            "Min Dex: 33",
+            "Range+: 1",
+            "Durability: 26",
+            "Soc(s): 6",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Military Pick",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 10-18 (14 Avg)",
+            "Min Str: 67",
+            "Range+: 2",
+            "Durability: 26",
+            "Soc(s): 6",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "War Axe",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 6-13 (9.5 Avg)",
+            "Min Str: 35",
+            "Range+: 1",
+            "Durability: 30",
+            "Soc(s): 4",
+            "Speed by Class: [-10] D - Very Fast N, P, S - Fast Ama, Asn, B - Normal"
+        ],
+        "baseItem": "Large Axe",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 10-18 (14 Avg)",
+            "Min Str: 48",
+            "Range+: 1",
+            "Durability: 35",
+            "Soc(s): 5",
+            "Speed by Class: [0] D, P, S - Fast Ama, Asn, B, N - Normal"
+        ],
+        "baseItem": "Broad Axe",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 12-32 (22 Avg)",
+            "Min Str: 54",
+            "Range+: 1",
+            "Durability: 40",
+            "Soc(s): 5",
+            "Speed by Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Battle Axe",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 9-30 (19.5 Avg)",
+            "Min Str: 63",
+            "Min Dex: 39",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 6",
+            "Speed by Class: [-10] D - Very Fast N, P, S - Fast B, Ama, Asn - Normal"
+        ],
+        "baseItem": "Great Axe",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 22-45 (33.5 Avg)",
+            "Min Str: 70",
+            "Range+: 3",
+            "Durability: 50",
+            "Soc(s): 6",
+            "Speed by Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Giant Axe",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 10-21 (15.5 Avg)",
+            "Level: 19",
+            "Min Str: 25",
+            "Min Dex: 25",
+            "Range+: 0",
+            "Durability: 28",
+            "Soc(s): 2",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Hatchet",
+        "is1h": true,
+        "cLevel": 19
+    },
+    {
+        "properties": [
+            "1H Damage: 10-33 (21.5 Avg)",
+            "Level: 22",
+            "Min Str: 68",
+            "Range+: 1",
+            "Durability: 24",
+            "Soc(s): 4",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D,N, S - Normal"
+        ],
+        "baseItem": "Cleaver",
+        "is1h": true,
+        "cLevel": 22
+    },
+    {
+        "properties": [
+            "1H Damage: 13-38 (25.5 Avg)",
+            "Level: 25",
+            "Min Str: 85",
+            "Range+: 1",
+            "Durability: 24",
+            "Soc(s): 5",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Twin Axe",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 14-34 (24 Avg)",
+            "Level: 25",
+            "Min Str: 94",
+            "Min Dex: 70",
+            "Range+: 1",
+            "Durability: 26",
+            "Soc(s): 6",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Crowbill",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 16-45 (30.5 Avg)",
+            "Level: 25",
+            "Min Str: 121",
+            "Range+: 2",
+            "Durability: 26",
+            "Soc(s): 6",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Naga",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 14-34 (24 Avg)",
+            "Level: 22",
+            "Min Str: 73",
+            "Range+: 1",
+            "Durability: 30",
+            "Soc(s): 4",
+            "Speed By Class: [-10] D - Very Fast N, P, S - Fast Ama, Asn, B - Normal"
+        ],
+        "baseItem": "Military Axe",
+        "is2h": true,
+        "cLevel": 22
+    },
+    {
+        "properties": [
+            "2H Damage: 21-49 (35 Avg)",
+            "Level: 25",
+            "Min Str: 92",
+            "Range+: 1",
+            "Durability: 35",
+            "Soc(s): 5",
+            "Speed By Class: [0] D, P, S - Fast Ama, Asn, B, N - Normal"
+        ],
+        "baseItem": "Bearded Axe",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 24-77 (50.5 Avg)",
+            "Level: 25",
+            "Min Str: 101",
+            "Range+: 1",
+            "Durability: 40",
+            "Soc(s): 5",
+            "Speed By Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Tabar",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 18-70 (44 Avg)",
+            "Level: 25",
+            "Min Str: 115",
+            "Min Dex: 79",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 6",
+            "Speed By Class: [-10] D - Very Fast N, P, S - Fast B, Ama, Asn - Normal"
+        ],
+        "baseItem": "Gothic Axe",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 43-85 (64 Avg)",
+            "Level: 25",
+            "Min Str: 125",
+            "Range+: 3",
+            "Durability: 50",
+            "Soc(s): 6",
+            "Speed By Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Ancient Axe",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 33-58 (45.5 Avg)",
+            "Level: 40",
+            "Min Str: 125",
+            "Min Dex: 67",
+            "Range+: 0",
+            "Durability: 28",
+            "Soc(s): 2",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Tomahawk",
+        "is1h": true,
+        "cLevel": 40
+    },
+    {
+        "properties": [
+            "1H Damage: 38-60 (49 Avg)",
+            "Level: 45",
+            "Min Str: 115",
+            "Min Dex: 83",
+            "Range+: 1",
+            "Durability: 24",
+            "Soc(s): 4",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D,N, S - Normal"
+        ],
+        "baseItem": "Small Crescent",
+        "is1h": true,
+        "cLevel": 45
+    },
+    {
+        "properties": [
+            "1H Damage: 33-66 (49.5 Avg)",
+            "Level: 52",
+            "Min Str: 145",
+            "Min Dex: 45",
+            "Range+: 1",
+            "Durability: 24",
+            "Soc(s): 5",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Ettin Axe",
+        "is1h": true,
+        "cLevel": 52
+    },
+    {
+        "properties": [
+            "1H Damage: 30-48 (39 Avg)",
+            "Level: 59",
+            "Min Str: 133",
+            "Min Dex: 54",
+            "Range+: 1",
+            "Durability: 26",
+            "Soc(s): 6",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "War Spike",
+        "is1h": true,
+        "cLevel": 59
+    },
+    {
+        "properties": [
+            "1H Damage: 24-71 (47.5 Avg)",
+            "Level: 64",
+            "Min Str: 138",
+            "Min Dex: 59",
+            "Range+: 2",
+            "Durability: 26",
+            "Soc(s): 6",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Berserker Axe",
+        "is1h": true,
+        "cLevel": 64
+    },
+    {
+        "properties": [
+            "2H Damage: 25-123 (74 Avg)",
+            "Level: 42",
+            "Min Str: 196",
+            "Range+: 2",
+            "Durability: 30",
+            "Soc(s): 4",
+            "Speed By Class: [-15] D, S - Very Fast N, P - Fast Ama, Asn, B - Normal"
+        ],
+        "baseItem": "Feral Axe",
+        "is2h": true,
+        "cLevel": 42
+    },
+    {
+        "properties": [
+            "2H Damage: 62-110 (86 Avg)",
+            "Level: 48",
+            "Min Str: 166",
+            "Min Dex: 65",
+            "Range+: 2",
+            "Durability: 35",
+            "Soc(s): 5",
+            "Speed By Class: [0] D, P, S - Fast Ama, Asn, B, N - Normal"
+        ],
+        "baseItem": "Silver-Edged Axe",
+        "is2h": true,
+        "cLevel": 48
+    },
+    {
+        "properties": [
+            "2H Damage: 49-137 (93 Avg)",
+            "Level: 54",
+            "Min Str: 189",
+            "Min Dex: 33",
+            "Range+: 2",
+            "Durability: 40",
+            "Soc(s): 5",
+            "Speed By Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Decapitator",
+        "is2h": true,
+        "cLevel": 54
+    },
+    {
+        "properties": [
+            "2H Damage: 59-94 (76.5 Avg)",
+            "Level: 61",
+            "Min Str: 167",
+            "Min Dex: 59",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 6",
+            "Speed By Class: [-10] D - Very Fast N, P, S - Fast B, Ama, Asn - Normal"
+        ],
+        "baseItem": "Champion Axe",
+        "is2h": true,
+        "cLevel": 61
+    },
+    {
+        "properties": [
+            "2H Damage: 60-124 (92 Avg)",
+            "Level: 66",
+            "Min Str: 164",
+            "Min Dex: 55",
+            "Range+: 3",
+            "Durability: 50",
+            "Soc(s): 6",
+            "Speed By Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Glorious Axe",
+        "is2h": true,
+        "cLevel": 66
+    },
+    {
+        "properties": [
+            "2H Damage: 1-4 (2.5 Avg)",
+            "Min Dex: 15",
+            "Soc(s): 3",
+            "Speed by Class: [5] Ama, Asn, B, D, P, S - Fast N - Normal"
+        ],
+        "baseItem": "Short Bow",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 2-6 (4 Avg)",
+            "Min Dex: 28",
+            "Soc(s): 4",
+            "Speed by Class: [-10] Ama, B, D - Very Fast Asn, N, P, S - Fast"
+        ],
+        "baseItem": "Hunter's Bow",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 3-10 (6.5 Avg)",
+            "Min Str: 22",
+            "Min Dex: 19",
+            "Soc(s): 5",
+            "Speed by Class: [0] Ama, Asn, B, D, P, S - Fast N - Normal"
+        ],
+        "baseItem": "Long Bow",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 4-8 (6 Avg)",
+            "Min Str: 25",
+            "Min Dex: 35",
+            "Soc(s): 4",
+            "Speed by Class: [-10] Ama, B, D - Very Fast Asn, N, P, S - Fast"
+        ],
+        "baseItem": "Composite Bow",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 5-11 (8 Avg)",
+            "Min Str: 30",
+            "Min Dex: 40",
+            "Soc(s): 5",
+            "Speed by Class: [0] Ama, Asn, B, D, P, S - Fast N - Normal"
+        ],
+        "baseItem": "Short Battle Bow",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 3-18 (10.5 Avg)",
+            "Min Str: 40",
+            "Min Dex: 50",
+            "Soc(s): 6",
+            "Speed by Class: [10] Ama, B, D - Fast Asn, N, P, S - Normal"
+        ],
+        "baseItem": "Long Battle Bow",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 6-14 (10 Avg)",
+            "Min Str: 35",
+            "Min Dex: 55",
+            "Soc(s): 5",
+            "Speed by Class: [0] Ama, Asn, B, D, P, S - Fast N - Normal"
+        ],
+        "baseItem": "Short War Bow",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 3-23 (13 Avg)",
+            "Min Str: 50",
+            "Min Dex: 65",
+            "Soc(s): 6",
+            "Speed by Class: [10] Ama, B, D - Fast Asn, N, P, S - Normal"
+        ],
+        "baseItem": "Long War Bow",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 6-19 (12.5 Avg)",
+            "Level: 18",
+            "Min Str: 25",
+            "Min Dex: 43",
+            "Soc(s): 3",
+            "Speed by Class: [5] Ama, Asn, B, D, P, S - Fast N - Normal"
+        ],
+        "baseItem": "Edge Bow",
+        "is2h": true,
+        "cLevel": 18
+    },
+    {
+        "properties": [
+            "2H Damage: 8-22 (15 Avg)",
+            "Level: 21",
+            "Min Str: 25",
+            "Min Dex: 62",
+            "Soc(s): 4",
+            "Speed by Class: [-10] Ama, B, D - Very Fast Asn, N, P, S - Fast"
+        ],
+        "baseItem": "Razor Bow",
+        "is2h": true,
+        "cLevel": 21
+    },
+    {
+        "properties": [
+            "2H Damage: 10-29 (19.5 Avg)",
+            "Level: 23",
+            "Min Str: 53",
+            "Min Dex: 49",
+            "Soc(s): 5",
+            "Speed by Class: [0] Ama, Asn, B, D, P, S - Fast N - Normal"
+        ],
+        "baseItem": "Cedar Bow",
+        "is2h": true,
+        "cLevel": 23
+    },
+    {
+        "properties": [
+            "2H Damage: 11-26 (18.5 Avg)",
+            "Level: 25",
+            "Min Str: 58",
+            "Min Dex: 73",
+            "Soc(s): 4",
+            "Speed by Class: [-10] Ama, B, D - Very Fast Asn, N, P, S - Fast"
+        ],
+        "baseItem": "Double Bow",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 13-30 (21.5 Avg)",
+            "Level: 25",
+            "Min Str: 65",
+            "Min Dex: 80",
+            "Soc(s): 5",
+            "Speed by Class: [0] Ama, Asn, B, D, P, S - Fast N - Normal"
+        ],
+        "baseItem": "Short Siege Bow",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 10-42 (26 Avg)",
+            "Level: 25",
+            "Min Str: 80",
+            "Min Dex: 95",
+            "Soc(s): 6",
+            "Speed by Class: [10] Ama, B, D - Fast Asn, N, P, S - Normal"
+        ],
+        "baseItem": "Large Siege Bow",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 14-35 (24.5 Avg)",
+            "Level: 25",
+            "Min Str: 73",
+            "Min Dex: 103",
+            "Soc(s): 5",
+            "Speed by Class: [0] Ama, Asn, B, D, P, S - Fast N - Normal"
+        ],
+        "baseItem": "Rune Bow",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 10-50 (30 Avg)",
+            "Level: 25",
+            "Min Str: 95",
+            "Min Dex: 118",
+            "Soc(s): 6",
+            "Speed by Class: [10] Ama, B, D - Fast Asn, N, P, S - Normal"
+        ],
+        "baseItem": "Gothic Bow",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 23-50 (36.5 Avg)",
+            "Level: 41",
+            "Min Str: 64",
+            "Min Dex: 143",
+            "Soc(s): 3",
+            "Speed by Class: [5] Ama, Asn, B, D, P, S - Fast N - Normal"
+        ],
+        "baseItem": "Spider Bow",
+        "is2h": true,
+        "cLevel": 41
+    },
+    {
+        "properties": [
+            "2H Damage: 21-41 (31 Avg)",
+            "Level: 45",
+            "Min Str: 76",
+            "Min Dex: 119",
+            "Soc(s): 4",
+            "Speed by Class: [-10] Ama, B, D - Very Fast Asn, N, P, S - Fast"
+        ],
+        "baseItem": "Blade Bow",
+        "is2h": true,
+        "cLevel": 45
+    },
+    {
+        "properties": [
+            "2H Damage: 15-59 (37 Avg)",
+            "Level: 47",
+            "Min Str: 52",
+            "Min Dex: 188",
+            "Soc(s): 5",
+            "Speed by Class: [0] Ama, Asn, B, D, P, S - Fast N - Normal"
+        ],
+        "baseItem": "Shadow Bow",
+        "is2h": true,
+        "cLevel": 47
+    },
+    {
+        "properties": [
+            "2H Damage: 12-52 (32 Avg)",
+            "Level: 51",
+            "Min Str: 121",
+            "Min Dex: 107",
+            "Soc(s): 4",
+            "Speed by Class: [-10] Ama, B, D - Very Fast Asn, N, P, S - Fast"
+        ],
+        "baseItem": "Great Bow",
+        "is2h": true,
+        "cLevel": 51
+    },
+    {
+        "properties": [
+            "2H Damage: 33-40 (36.5 Avg)",
+            "Level: 54",
+            "Min Str: 89",
+            "Min Dex: 132",
+            "Soc(s): 5",
+            "Speed by Class: [0] Ama, Asn, B, D, P, S - Fast N - Normal"
+        ],
+        "baseItem": "Diamond Bow",
+        "is2h": true,
+        "cLevel": 54
+    },
+    {
+        "properties": [
+            "2H Damage: 15-63 (39 Avg)",
+            "Level: 57",
+            "Min Str: 97",
+            "Min Dex: 121",
+            "Soc(s): 6",
+            "Speed by Class: [10] Ama, B, D - Fast Asn, N, P, S - Normal"
+        ],
+        "baseItem": "Crusader Bow",
+        "is2h": true,
+        "cLevel": 57
+    },
+    {
+        "properties": [
+            "2H Damage: 20-53 (36.5 Avg)",
+            "Level: 60",
+            "Min Str: 72",
+            "Min Dex: 146",
+            "Soc(s): 5",
+            "Speed by Class: [0] Ama, Asn, B, D, P, S - Fast N - Normal"
+        ],
+        "baseItem": "Ward Bow",
+        "is2h": true,
+        "cLevel": 60
+    },
+    {
+        "properties": [
+            "2H Damage: 10-68 (39 Avg)",
+            "Level: 63",
+            "Min Str: 134",
+            "Min Dex: 167",
+            "Soc(s): 6",
+            "Speed by Class: [10] Ama, B, D - Fast Asn, N, P, S - Normal"
+        ],
+        "baseItem": "Hydra Bow",
+        "is2h": true,
+        "cLevel": 63
+    },
+    {
+        "properties": [
+            "2H Damage: 28-73 (50.5 Avg)",
+            "Level: 42",
+            "Min Str: 83",
+            "Min Dex: 155",
+            "Soc(s): 3",
+            "Speed by Class: [-10] Ama, Asn, B, D, N, P, S - Normal"
+        ],
+        "baseItem": "Pellet Bow",
+        "is2h": true,
+        "cLevel": 42
+    },
+    {
+        "properties": [
+            "2H Damage: 25-87 (56 Avg)",
+            "Level: 50",
+            "Min Str: 117",
+            "Min Dex: 105",
+            "Soc(s): 4",
+            "Speed by Class: [0] D, N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Gorgon Crossbow",
+        "is2h": true,
+        "cLevel": 50
+    },
+    {
+        "properties": [
+            "2H Damage: 32-91 (61.5 Avg)",
+            "Level: 56",
+            "Min Str: 163",
+            "Min Dex: 77",
+            "Soc(s): 6",
+            "Speed by Class: [10] B, D, N, P, S - Slow Ama, Asn - Very Slow"
+        ],
+        "baseItem": "Colossus Crossbow",
+        "is2h": true,
+        "cLevel": 56
+    },
+    {
+        "properties": [
+            "2H Damage: 26-40 (33 Avg)",
+            "Level: 63",
+            "Min Str: 141",
+            "Min Dex: 98",
+            "Soc(s): 5",
+            "Speed by Class: [-60] Ama, Asn, B, D, N, P, S - Very Fast"
+        ],
+        "baseItem": "Demon Crossbow",
+        "is2h": true,
+        "cLevel": 63
+    },
+    {
+        "properties": [
+            "2H Damage: 14-27 (20.5 Avg)",
+            "Level: 22",
+            "Min Str: 52",
+            "Min Dex: 61",
+            "Soc(s): 3",
+            "Speed by Class: [-10] Ama, Asn, B, D, N, P, S - Normal"
+        ],
+        "baseItem": "Arbalest",
+        "is2h": true,
+        "cLevel": 22
+    },
+    {
+        "properties": [
+            "2H Damage: 20-42 (31 Avg)",
+            "Level: 25",
+            "Min Str: 80",
+            "Min Dex: 70",
+            "Soc(s): 4",
+            "Speed by Class: [0] D, N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Siege Crossbow",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 33-55 (44 Avg)",
+            "Level: 25",
+            "Min Str: 110",
+            "Min Dex: 80",
+            "Soc(s): 6",
+            "Speed by Class: [10] B, D, N, P, S - Slow Ama, Asn - Very Slow"
+        ],
+        "baseItem": "Ballista",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 14-32 (23 Avg)",
+            "Level: 25",
+            "Min Str: 80",
+            "Min Dex: 95",
+            "Soc(s): 5",
+            "Speed by Class: [-60] Ama, Asn, B, D, N, P, S - Very Fast"
+        ],
+        "baseItem": "Chu-Ko-Nu",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 6-9 (7.5 Avg)",
+            "Min Str: 21",
+            "Min Dex: 27",
+            "Soc(s): 3",
+            "Speed by Class: [-10] Ama, Asn, B, D, N, P, S - Normal"
+        ],
+        "baseItem": "Light Crossbow",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 9-16 (12.5 Avg)",
+            "Min Str: 40",
+            "Min Dex: 33",
+            "Soc(s): 4",
+            "Speed by Class: [0] D, N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Crossbow",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 14-26 (20 Avg)",
+            "Min Str: 60",
+            "Min Dex: 40",
+            "Soc(s): 6",
+            "Speed by Class: [10] B, D, N, P, S - Slow Ama, Asn - Very Slow"
+        ],
+        "baseItem": "Heavy Crossbow",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 6-12 (9 Avg)",
+            "Min Str: 40",
+            "Min Dex: 50",
+            "Soc(s): 5",
+            "Speed by Class: [-40] D, N, S - Very Fast Ama, Asn, B, P - Fast"
+        ],
+        "baseItem": "Repeating Crossbow",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "Damage: 1-4 (2.5 Avg)",
+            "Range+: 0",
+            "Durability: 16",
+            "Soc(s): 1",
+            "Speed by Class: [-20] Ama, Asn, B, D, N, S - Very Fast P - Fast"
+        ],
+        "baseItem": "Dagger"
+    },
+    {
+        "properties": [
+            "Damage: 3-9 (6 Avg)",
+            "Min Dex: 25",
+            "Range+: 0",
+            "Durability: 20",
+            "Soc(s): 1",
+            "Speed by Class: [0] Ama, Asn, B, D, N, S - Fast P - Normal"
+        ],
+        "baseItem": "Dirk"
+    },
+    {
+        "properties": [
+            "Damage: 2-11 (6.5 Avg)",
+            "Min Dex: 45",
+            "Range+: 0",
+            "Durability: 24",
+            "Soc(s): 3",
+            "Speed by Class: [-20] Ama, Asn, B, D, N, S - Very Fast P - Fast"
+        ],
+        "baseItem": "Kris"
+    },
+    {
+        "properties": [
+            "Damage: 4-15 (9.5 Avg)",
+            "Min Str: 35",
+            "Min Dex: 51",
+            "Range+: 0",
+            "Durability: 24",
+            "Soc(s): 2",
+            "Speed by Class: [-10] Ama, Asn - Very Fast B, D, N, P, S - Fast"
+        ],
+        "baseItem": "Blade"
+    },
+    {
+        "properties": [
+            "Damage: 6-18 (12 Avg)",
+            "Level: 19",
+            "Min Str: 25",
+            "Range+: 0",
+            "Durability: 16",
+            "Soc(s): 1",
+            "Speed by Class: [-20] Ama, Asn, B, D, N, S - Very Fast P - Fast"
+        ],
+        "baseItem": "Poignard",
+        "cLevel": 19
+    },
+    {
+        "properties": [
+            "Damage: 10-26 (18 Avg)",
+            "Level: 24",
+            "Min Str: 25",
+            "Min Dex: 58",
+            "Range+: 0",
+            "Durability: 20",
+            "Soc(s): 1",
+            "Speed by Class: [0] Ama, Asn, B, D, N, S - Fast P - Normal"
+        ],
+        "baseItem": "Rondel",
+        "cLevel": 24
+    },
+    {
+        "properties": [
+            "Damage: 15-31 (23 Avg)",
+            "Level: 25",
+            "Min Str: 25",
+            "Min Dex: 88",
+            "Range+: 0",
+            "Durability: 24",
+            "Soc(s): 3",
+            "Speed by Class: [-20] Ama, Asn, B, D, N, S - Very Fast P - Fast"
+        ],
+        "baseItem": "Cinquedeas",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Damage: 19-36 (27.5 Avg)",
+            "Level: 25",
+            "Min Str: 47",
+            "Min Dex: 97",
+            "Range+: 0",
+            "Durability: 24",
+            "Soc(s): 2",
+            "Speed by Class: [-10] Ama, Asn - Very Fast B, D, N, P, S - Fast"
+        ],
+        "baseItem": "Stiletto",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Damage: 23-49 (36 Avg)",
+            "Level: 43",
+            "Min Str: 38",
+            "Min Dex: 75",
+            "Range+: 0",
+            "Durability: 26",
+            "Soc(s): 1",
+            "Speed by Class: [-20] Ama, Asn, B, D, N, S - Very Fast P - Fast"
+        ],
+        "baseItem": "Bone Knife",
+        "cLevel": 43
+    },
+    {
+        "properties": [
+            "Damage: 37-53 (45 Avg)",
+            "Level: 52",
+            "Min Str: 55",
+            "Min Dex: 98",
+            "Range+: 0",
+            "Durability: 55",
+            "Soc(s): 1",
+            "Speed by Class: [0] Ama, Asn, B, D, N, S - Fast P - Normal"
+        ],
+        "baseItem": "Mithril Point",
+        "cLevel": 52
+    },
+    {
+        "properties": [
+            "Damage: 15-57 (36 Avg)",
+            "Level: 62",
+            "Min Str: 42",
+            "Min Dex: 86",
+            "Range+: 0",
+            "Durability: 36",
+            "Soc(s): 3",
+            "Speed by Class: [-20] Ama, Asn, B, D, N, S - Very Fast P - Fast"
+        ],
+        "baseItem": "Fanged Knife",
+        "cLevel": 62
+    },
+    {
+        "properties": [
+            "Damage: 31-47 (39 Avg)",
+            "Level: 66",
+            "Min Str: 65",
+            "Min Dex: 67",
+            "Range+: 0",
+            "Durability: 47",
+            "Soc(s): 2",
+            "Speed by Class: [-10] Ama, Asn - Very Fast B, D, N, P, S - Fast"
+        ],
+        "baseItem": "Legend Spike",
+        "cLevel": 66
+    },
+    {
+        "properties": [
+            "Throw Damage: 28-55 (41.5 Avg)",
+            "1H Damage: 21-57 (39 Avg)",
+            "Level: 40",
+            "Min Str: 98",
+            "Min Dex: 123",
+            "Melee Range+: 2",
+            "Max Stack: 100",
+            "Speed by Class: [-10] Ama, Asn - Very Fast B, D, N, P, S - Fast"
+        ],
+        "baseItem": "Hyperion Javelin",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 40
+    },
+    {
+        "properties": [
+            "Throw Damage: 21-75 (48 Avg)",
+            "1H Damage: 14-64 (39 Avg)",
+            "Level: 46",
+            "Min Str: 118",
+            "Min Dex: 112",
+            "Melee Range+: 2",
+            "Max Stack: 90",
+            "Speed by Class: [0] Ama, Asn, B, D, N, S - Fast P - Normal"
+        ],
+        "baseItem": "Stygian Pilum",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 46
+    },
+    {
+        "properties": [
+            "Throw Damage: 40-62 (51 Avg)",
+            "1H Damage: 33-63 (48 Avg)",
+            "Level: 53",
+            "Min Str: 127",
+            "Min Dex: 95",
+            "Melee Range+: 2",
+            "Max Stack: 80",
+            "Speed by Class: [10] Ama, Asn - Fast B, D, N, P, S - Normal"
+        ],
+        "baseItem": "Balrog Spear",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 53
+    },
+    {
+        "properties": [
+            "Throw Damage: 30-85 (57.5 Avg)",
+            "1H Damage: 19-60 (39.5 Avg)",
+            "Level: 59",
+            "Min Str: 89",
+            "Min Dex: 137",
+            "Melee Range+: 2",
+            "Max Stack: 75",
+            "Speed by Class: [20] Ama, Asn - Normal B, D, N, P, S - Slow"
+        ],
+        "baseItem": "Ghost Glaive",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 59
+    },
+    {
+        "properties": [
+            "Throw Damage: 11-77 (44 Avg)",
+            "1H Damage: 27-35 (31 Avg)",
+            "Level: 65",
+            "Min Str: 76",
+            "Min Dex: 145",
+            "Melee Range+: 2",
+            "Max Stack: 80",
+            "Speed by Class: [-10] Ama, Asn - Very Fast B, D, N, P, S - Fast"
+        ],
+        "baseItem": "Winged Harpoon",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 65
+    },
+    {
+        "properties": [
+            "Throw Damage: 14-32 (23 Avg)",
+            "1H Damage: 6-19 (12.5 Avg)",
+            "Level: 18",
+            "Min Str: 25",
+            "Min Dex: 25",
+            "Melee Range+: 2",
+            "Max Stack: 60",
+            "Speed by Class: [-10] Ama, Asn - Very Fast B, D, N, P, S - Fast"
+        ],
+        "baseItem": "War Javelin",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 18
+    },
+    {
+        "properties": [
+            "Throw Damage: 16-42 (29 Avg)",
+            "1H Damage: 11-26 (18.5 Avg)",
+            "Level: 25",
+            "Min Str: 25",
+            "Min Dex: 88",
+            "Melee Range+: 2",
+            "Max Stack: 50",
+            "Speed by Class: [0] Ama, Asn, B, D, N, S - Fast P - Normal"
+        ],
+        "baseItem": "Great Pilum",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Throw Damage: 27-50 (38.5 Avg)",
+            "1H Damage: 8-32 (20 Avg)",
+            "Level: 25",
+            "Min Str: 80",
+            "Min Dex: 80",
+            "Melee Range+: 2",
+            "Max Stack: 40",
+            "Speed by Class: [10] Ama, Asn - Fast B, D, N, P, S - Normal"
+        ],
+        "baseItem": "Simbilan",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Throw Damage: 32-60 (46 Avg)",
+            "1H Damage: 13-38 (25.5 Avg)",
+            "Level: 25",
+            "Min Str: 98",
+            "Min Dex: 73",
+            "Melee Range+: 2",
+            "Max Stack: 20",
+            "Speed by Class: [20] Ama, Asn - Normal B, D, N, P, S - Slow"
+        ],
+        "baseItem": "Spiculum",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Throw Damage: 18-54 (36 Avg)",
+            "1H Damage: 13-35 (24 Avg)",
+            "Level: 25",
+            "Min Str: 25",
+            "Min Dex: 118",
+            "Melee Range+: 2",
+            "Max Stack: 80",
+            "Speed by Class: [-10] Ama, Asn - Very Fast B, D, N, P, S - Fast"
+        ],
+        "baseItem": "Harpoon",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Throw Damage: 6-14 (10 Avg)",
+            "1H Damage: 1-5 (3 Avg)",
+            "Melee Range+: 2",
+            "Max Stack: 60",
+            "Speed by Class: [-10] Ama, Asn - Very Fast B, D, N, P, S - Fast"
+        ],
+        "baseItem": "Javelin",
+        "isThrow": true,
+        "is1h": true
+    },
+    {
+        "properties": [
+            "Throw Damage: 7-20 (13.5 Avg)",
+            "1H Damage: 4-9 (6.5 Avg)",
+            "Min Dex: 45",
+            "Melee Range+: 2",
+            "Max Stack: 50",
+            "Speed by Class: [0] Ama, Asn, B, D, N, S - Fast P - Normal"
+        ],
+        "baseItem": "Pilum",
+        "isThrow": true,
+        "is1h": true
+    },
+    {
+        "properties": [
+            "Throw Damage: 10-22 (16 Avg)",
+            "1H Damage: 2-13 (7.5 Avg)",
+            "Min Str: 40",
+            "Min Dex: 40",
+            "Melee Range+: 2",
+            "Max Stack: 40",
+            "Speed by Class: [10] Ama, Asn - Fast B, D, N, P, S - Normal"
+        ],
+        "baseItem": "Short Spear",
+        "isThrow": true,
+        "is1h": true
+    },
+    {
+        "properties": [
+            "Throw Damage: 16-22 (19 Avg)",
+            "1H Damage: 5-17 (11 Avg)",
+            "Min Str: 52",
+            "Min Dex: 35",
+            "Melee Range+: 2",
+            "Max Stack: 40",
+            "Speed by Class: [20] Ama, Asn - Normal B, D, N, P, S - Slow"
+        ],
+        "baseItem": "Glaive",
+        "isThrow": true,
+        "is1h": true
+    },
+    {
+        "properties": [
+            "Throw Damage: 12-30 (21 Avg)",
+            "1H Damage: 5-15 (10 Avg)",
+            "Min Dex: 65",
+            "Melee Range+: 2",
+            "Max Stack: 80",
+            "Speed by Class: [-10] Ama, Asn - Very Fast B, D, N, P, S - Fast"
+        ],
+        "baseItem": "Throwing Spear",
+        "isThrow": true,
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 1-6 (3.5 Avg)",
+            "Range+: 0",
+            "Durability: 24",
+            "Soc(s): 2",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Club",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 5-8 (6.5 Avg)",
+            "Range+: 1",
+            "Durability: 36",
+            "Soc(s): 2",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Spiked Club",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 3-10 (6.5 Avg)",
+            "Min Str: 27",
+            "Range+: 0",
+            "Durability: 60",
+            "Soc(s): 2",
+            "Speeds by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Mace",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 7-16 (11.5 Avg)",
+            "Min Str: 36",
+            "Range+: 1",
+            "Durability: 72",
+            "Soc(s): 3",
+            "Speeds by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Morning Star",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 1-24 (12.5 Avg)",
+            "Min Str: 41",
+            "Min Dex: 35",
+            "Range+: 2",
+            "Durability: 30",
+            "Soc(s): 5",
+            "Speeds by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Flail",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 19-29 (24 Avg)",
+            "Min Str: 53",
+            "Range+: 0",
+            "Durability: 55",
+            "Soc(s): 4",
+            "Speeds by Class: [20] Asn, P - Normal Ama, B, D, N, S - Slow"
+        ],
+        "baseItem": "War Hammer",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 30-43 (36.5 Avg)",
+            "Min Str: 69",
+            "Range+: 1",
+            "Durability: 60",
+            "Soc(s): 6",
+            "Speeds by Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Maul",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 38-58 (48 Avg)",
+            "Min Str: 99",
+            "Range+: 2",
+            "Durability: 60",
+            "Soc(s): 6",
+            "Speeds by Class: [20] D, S - Normal N, P - Slow Ama, Asn, B - Very Slow"
+        ],
+        "baseItem": "Great Maul",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 6-21 (13.5 Avg)",
+            "Level: 18",
+            "Min Str: 25",
+            "Range+: 0",
+            "Durability: 24",
+            "Soc(s): 2",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Cudgel",
+        "is1h": true,
+        "cLevel": 18
+    },
+    {
+        "properties": [
+            "1H Damage: 13-25 (19 Avg)",
+            "Level: 20",
+            "Min Str: 30",
+            "Range+: 1",
+            "Durability: 36",
+            "Soc(s): 3",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Barbed Club",
+        "is1h": true,
+        "cLevel": 20
+    },
+    {
+        "properties": [
+            "1H Damage: 15-23 (19 Avg)",
+            "Level: 23",
+            "Min Str: 61",
+            "Range+: 0",
+            "Durability: 60",
+            "Soc(s): 2",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Flanged Mace",
+        "is1h": true,
+        "cLevel": 23
+    },
+    {
+        "properties": [
+            "1H Damage: 20-31 (25.5 Avg)",
+            "Level: 25",
+            "Min Str: 74",
+            "Range+: 1",
+            "Durability: 72",
+            "Soc(s): 3",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Jagged Star",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 13-35 (24 Avg)",
+            "Level: 25",
+            "Min Str: 82",
+            "Min Dex: 73",
+            "Range+: 2",
+            "Durability: 30",
+            "Soc(s): 5",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Knout",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 35-58 (46.5 Avg)",
+            "Level: 25",
+            "Min Str: 100",
+            "Range+: 0",
+            "Durability: 55",
+            "Soc(s): 4",
+            "Speed by Class: [20] Asn, P - Normal Ama, B, D, N, S - Slow"
+        ],
+        "baseItem": "Battle Hammer",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 53-78 (65.5 Avg)",
+            "Level: 25",
+            "Min Str: 124",
+            "Range+: 1",
+            "Durability: 60",
+            "Soc(s): 6",
+            "Speed By Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "War Club",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 61-99 (80 Avg)",
+            "Level: 25",
+            "Min Str: 169",
+            "Range+: 2",
+            "Durability: 60",
+            "Soc(s): 6",
+            "Speed By Class: [20] D, S - Normal N, P - Slow Ama, Asn, B - Very Slow"
+        ],
+        "baseItem": "Martel de Fer",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 35-43 (39 Avg)",
+            "Level: 39",
+            "Min Str: 88",
+            "Min Dex: 43",
+            "Range+: 0",
+            "Durability: 55",
+            "Soc(s): 2",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Truncheon",
+        "is1h": true,
+        "cLevel": 39
+    },
+    {
+        "properties": [
+            "1H Damage: 32-58 (45 Avg)",
+            "Level: 42",
+            "Min Str: 133",
+            "Range+: 1",
+            "Durability: 65",
+            "Soc(s): 3",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Tyrant Club",
+        "is1h": true,
+        "cLevel": 42
+    },
+    {
+        "properties": [
+            "1H Damage: 41-49 (45 Avg)",
+            "Level: 47",
+            "Min Str: 145",
+            "Min Dex: 46",
+            "Range+: 0",
+            "Durability: 60",
+            "Soc(s): 2",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Reinforced Mace",
+        "is1h": true,
+        "cLevel": 47
+    },
+    {
+        "properties": [
+            "1H Damage: 43-53 (48 Avg)",
+            "Level: 52",
+            "Min Str: 153",
+            "Min Dex: 44",
+            "Range+: 1",
+            "Durability: 72",
+            "Soc(s): 3",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Devil Star",
+        "is1h": true,
+        "cLevel": 52
+    },
+    {
+        "properties": [
+            "1H Damage: 3-80 (41.5 Avg)",
+            "Level: 57",
+            "Min Str: 125",
+            "Min Dex: 77",
+            "Range+: 2",
+            "Durability: 65",
+            "Soc(s): 5",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Scourge",
+        "is1h": true,
+        "cLevel": 57
+    },
+    {
+        "properties": [
+            "1H Damage: 50-61 (55.5 Avg)",
+            "Level: 61",
+            "Min Str: 189",
+            "Range+: 1",
+            "Durability: 65",
+            "Soc(s): 4",
+            "Speed by Class: [20] Asn, P - Normal Ama, B, D, N, S - Slow"
+        ],
+        "baseItem": "Legendary Mallet",
+        "is1h": true,
+        "cLevel": 61
+    },
+    {
+        "properties": [
+            "2H Damage: 77-106 (91.5 Avg)",
+            "Level: 51",
+            "Min Str: 225",
+            "Range+: 1",
+            "Durability: 60",
+            "Soc(s): 6",
+            "Speed By Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Ogre Maul",
+        "is2h": true,
+        "cLevel": 51
+    },
+    {
+        "properties": [
+            "2H Damage: 33-180 (106.5 Avg)",
+            "Level: 65",
+            "Min Str: 253",
+            "Range+: 2",
+            "Durability: 60",
+            "Soc(s): 6",
+            "Speed By Class: [20] D, S - Normal N, P - Slow Ama, Asn, B - Very Slow"
+        ],
+        "baseItem": "Thunder Maul",
+        "is2h": true,
+        "cLevel": 65
+    },
+    {
+        "properties": [
+            "2H Damage: 28-145 (86.5 Avg)",
+            "Level: 45",
+            "Min Str: 195",
+            "Min Dex: 75",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 3",
+            "Speed by Class: [0] D, S - Fast N- Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Ogre Axe",
+        "is2h": true,
+        "cLevel": 45
+    },
+    {
+        "properties": [
+            "2H Damage: 17-165 (91 Avg)",
+            "Level: 48",
+            "Min Str: 210",
+            "Min Dex: 55",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 4",
+            "Speed by Class: [10] D - Fast N,S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Colossus Voulge",
+        "is2h": true,
+        "cLevel": 48
+    },
+    {
+        "properties": [
+            "2H Damage: 12-141 (76.5 Avg)",
+            "Level: 53",
+            "Min Str: 152",
+            "Min Dex: 118",
+            "Range+: 1",
+            "Durability: 65",
+            "Soc(s): 5",
+            "Speed by Class: [-10] D - Very Fast N, P, S - Fast Ama, Asn, B - Normal"
+        ],
+        "baseItem": "Thresher",
+        "is2h": true,
+        "cLevel": 53
+    },
+    {
+        "properties": [
+            "2H Damage: 33-150 (91.5 Avg)",
+            "Level: 59",
+            "Min Str: 165",
+            "Min Dex: 103",
+            "Range+: 3",
+            "Durability: 65",
+            "Soc(s): 5",
+            "Speed by Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Cryptic Axe",
+        "is2h": true,
+        "cLevel": 59
+    },
+    {
+        "properties": [
+            "2H Damage: 46-127 (86.5 Avg)",
+            "Level: 63",
+            "Min Str: 179",
+            "Min Dex: 99",
+            "Range+: 4",
+            "Durability: 55",
+            "Soc(s): 6",
+            "Speed by Class: [0] D, S - Fast Asn, B, N, P - Normal Ama - Slow"
+        ],
+        "baseItem": "Great Poleaxe",
+        "is2h": true,
+        "cLevel": 63
+    },
+    {
+        "properties": [
+            "2H Damage: 40-114 (77 Avg)",
+            "Level: 66",
+            "Min Str: 188",
+            "Min Dex: 140",
+            "Range+: 4",
+            "Durability: 55",
+            "Soc(s): 6",
+            "Speed by Class: [-10] D - Very Fast N, P, S - Fast Ama, Asn, B - Normal"
+        ],
+        "baseItem": "Giant Thresher",
+        "is2h": true,
+        "cLevel": 66
+    },
+    {
+        "properties": [
+            "2H Damage: 6-58 (32 Avg)",
+            "Level: 21",
+            "Min Str: 80",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 3",
+            "Speed by Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Lochaber Axe",
+        "is2h": true,
+        "cLevel": 21
+    },
+    {
+        "properties": [
+            "2H Damage: 14-53 (33.5 Avg)",
+            "Level: 25",
+            "Min Str: 95",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 4",
+            "Speed by Class: [0] D, S - Fast Asn, B, N, P - Normal Ama - Slow"
+        ],
+        "baseItem": "Bill",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 18-45 (31.5 Avg)",
+            "Level: 25",
+            "Min Str: 82",
+            "Min Dex: 82",
+            "Range+: 1",
+            "Durability: 65",
+            "Soc(s): 5",
+            "Speed by Class: [-10] D - Very Fast N, P, S - Fast Ama, Asn, B - Normal"
+        ],
+        "baseItem": "Battle Scythe",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 34-75 (54.5 Avg)",
+            "Level: 23",
+            "Min Str: 113",
+            "Min Dex: 67",
+            "Range+: 3",
+            "Durability: 65",
+            "Soc(s): 5",
+            "Speed by Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Partizan",
+        "is2h": true,
+        "cLevel": 23
+    },
+    {
+        "properties": [
+            "2H Damage: 13-85 (49 Avg)",
+            "Level: 25",
+            "Min Str: 133",
+            "Min Dex: 91",
+            "Range+: 4",
+            "Durability: 55",
+            "Soc(s): 6",
+            "Speed by Class: [0] D, S - Fast Asn, B, N, P - Normal Ama - Slow"
+        ],
+        "baseItem": "Bec-De-Corbin",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 30-70 (50 Avg)",
+            "Level: 25",
+            "Min Str: 140",
+            "Min Dex: 140",
+            "Range+: 4",
+            "Durability: 55",
+            "Soc(s): 6",
+            "Speed by Class: [-10] D - Very Fast N, P, S - Fast Ama, Asn, B - Normal"
+        ],
+        "baseItem": "Grim Scythe",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 1-27 (14 Avg)",
+            "Min Str: 40",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 3",
+            "Speed by Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Bardiche",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 6-21 (13.5 Avg)",
+            "Min Str: 50",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 4",
+            "Speed by Class: [0] D, S - Fast Asn, B, N, P - Normal Ama - Slow"
+        ],
+        "baseItem": "Voulge",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 8-20 (14 Avg)",
+            "Min Str: 41",
+            "Min Dex: 41",
+            "Range+: 1",
+            "Durability: 65",
+            "Soc(s): 5",
+            "Speed by Class: [-10] D - Very Fast N, P, S - Fast Ama, Asn, B - Normal"
+        ],
+        "baseItem": "Scythe",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 18-39 (28.5 Avg)",
+            "Min Str: 62",
+            "Range+: 3",
+            "Durability: 65",
+            "Soc(s): 5",
+            "Speed by Class: [10] D - Fast N, S - Normal Ama, Asn, B, P - Slow"
+        ],
+        "baseItem": "Poleaxe",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 12-45 (28.5 Avg)",
+            "Min Str: 75",
+            "Min Dex: 47",
+            "Range+: 4",
+            "Durability: 55",
+            "Soc(s): 6",
+            "Speed by Class: [0] D, S - Fast Asn, B, N, P - Normal Ama - Slow"
+        ],
+        "baseItem": "Halberd",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 15-36 (25.5 Avg)",
+            "Min Str: 80",
+            "Min Dex: 80",
+            "Range+: 4",
+            "Durability: 55",
+            "Soc(s): 6",
+            "Speed by Class: [-10] D - Very Fast N, P, S - Fast Ama, Asn, B - Normal"
+        ],
+        "baseItem": "War Scythe",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 6-11 (8.5 Avg)",
+            "Min Str: 25",
+            "Range+: 0",
+            "Durability: 50",
+            "Soc(s): 2",
+            "Speed: [0] Fast"
+        ],
+        "baseItem": "Scepter",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 8-18 (13 Avg)",
+            "Min Str: 37",
+            "Range+: 1",
+            "Durability: 60",
+            "Soc(s): 3",
+            "Speed: [10] Fast"
+        ],
+        "baseItem": "Grand Scepter",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 10-17 (13.5 Avg)",
+            "Min Str: 55",
+            "Range+: 1",
+            "Durability: 70",
+            "Soc(s): 5",
+            "Speed: [-10] Very Fast"
+        ],
+        "baseItem": "War Scepter",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 13-24 (18.5 Avg)",
+            "Level: 19",
+            "Min Str: 58",
+            "Range+: 0",
+            "Durability: 50",
+            "Soc(s): 2",
+            "Speed: [0] Fast"
+        ],
+        "baseItem": "Rune Scepter",
+        "is1h": true,
+        "cLevel": 19
+    },
+    {
+        "properties": [
+            "1H Damage: 14-36 (25 Avg)",
+            "Level: 25",
+            "Min Str: 76",
+            "Range+: 1",
+            "Durability: 60",
+            "Soc(s): 3",
+            "Speed: [10] Fast"
+        ],
+        "baseItem": "Holy Water Sprinkler",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 16-38 (27 Avg)",
+            "Level: 25",
+            "Min Str: 103",
+            "Range+: 1",
+            "Durability: 70",
+            "Soc(s): 5",
+            "Speed: [-10] Very Fast"
+        ],
+        "baseItem": "Divine Scepter",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 40-52 (46 Avg)",
+            "Level: 46",
+            "Min Str: 125",
+            "Min Dex: 65",
+            "Range+: 0",
+            "Durability: 50",
+            "Soc(s): 2",
+            "Speed: [0] Fast"
+        ],
+        "baseItem": "Mighty Scepter",
+        "is1h": true,
+        "cLevel": 46
+    },
+    {
+        "properties": [
+            "1H Damage: 45-54 (49.5 Avg)",
+            "Level: 57",
+            "Min Str: 108",
+            "Min Dex: 69",
+            "Range+: 1",
+            "Durability: 60",
+            "Soc(s): 3",
+            "Speed: [10] Fast"
+        ],
+        "baseItem": "Seraph Rod",
+        "is1h": true,
+        "cLevel": 57
+    },
+    {
+        "properties": [
+            "1H Damage: 37-43 (40 Avg)",
+            "Level: 66",
+            "Min Str: 97",
+            "Min Dex: 70",
+            "Range+: 1",
+            "Durability: 70",
+            "Soc(s): 5",
+            "Speed: [-10] Very Fast"
+        ],
+        "baseItem": "Caduceus",
+        "is1h": true,
+        "cLevel": 66
+    },
+    {
+        "properties": [
+            "2H Damage: 35-119 (77 Avg)",
+            "Level: 43",
+            "Min Str: 155",
+            "Min Dex: 120",
+            "Range+: 3",
+            "Durability: 30",
+            "Soc(s): 3",
+            "Speed by Class: [-10] Ama - Fast B, D, N, P, S - Normal Asn - Slow"
+        ],
+        "baseItem": "Hyperion Spear",
+        "is2h": true,
+        "cLevel": 43
+    },
+    {
+        "properties": [
+            "2H Damage: 29-144 (86.5 Avg)",
+            "Level: 49",
+            "Min Str: 168",
+            "Min Dex: 97",
+            "Range+: 3",
+            "Durability: 35",
+            "Soc(s): 4",
+            "Speed by Class: [0] Ama, B - Normal D, N, P, S - Slow Asn - Very Slow"
+        ],
+        "baseItem": "Stygian Pike",
+        "is2h": true,
+        "cLevel": 49
+    },
+    {
+        "properties": [
+            "2H Damage: 42-92 (67 Avg)",
+            "Level: 55",
+            "Min Str: 132",
+            "Min Dex: 134",
+            "Range+: 4",
+            "Durability: 28",
+            "Soc(s): 5",
+            "Speed by Class: [-20] Ama, B, D, P, S - Fast Asn, N - Normal"
+        ],
+        "baseItem": "Mancatcher",
+        "is2h": true,
+        "cLevel": 55
+    },
+    {
+        "properties": [
+            "2H Damage: 18-155 (86.5 Avg)",
+            "Level: 62",
+            "Min Str: 122",
+            "Min Dex: 163",
+            "Range+: 4",
+            "Durability: 28",
+            "Soc(s): 6",
+            "Speed by Class: [0] Ama, B - Normal D, N, P, S - Slow Asn - Very Slow"
+        ],
+        "baseItem": "Ghost Spear",
+        "is2h": true,
+        "cLevel": 62
+    },
+    {
+        "properties": [
+            "2H Damage: 33-178 (105.5 Avg)",
+            "Level: 66",
+            "Min Str: 165",
+            "Min Dex: 106",
+            "Range+: 4",
+            "Durability: 25",
+            "Soc(s): 6",
+            "Speed by Class: [20] Ama - Slow Asn, B, D, N, P, S - Very Slow"
+        ],
+        "baseItem": "War Pike",
+        "is2h": true,
+        "cLevel": 66
+    },
+    {
+        "properties": [
+            "2H Damage: 10-37 (23.5 Avg)",
+            "Level: 21",
+            "Min Str: 25",
+            "Min Dex: 25",
+            "Range+: 3",
+            "Durability: 30",
+            "Soc(s): 3",
+            "Speed by Class: [-10] Ama - Fast B, D, N, P, S - Normal Asn - Slow"
+        ],
+        "baseItem": "War Spear",
+        "is2h": true,
+        "cLevel": 21
+    },
+    {
+        "properties": [
+            "2H Damage: 19-37 (28 Avg)",
+            "Level: 24",
+            "Min Str: 77",
+            "Min Dex: 25",
+            "Range+: 3",
+            "Durability: 35",
+            "Soc(s): 4",
+            "Speed by Class: [0] Ama, B - Normal D, N, P, S - Slow Asn - Very Slow"
+        ],
+        "baseItem": "Fuscina",
+        "is2h": true,
+        "cLevel": 24
+    },
+    {
+        "properties": [
+            "2H Damage: 16-40 (28 Avg)",
+            "Level: 25",
+            "Min Str: 80",
+            "Min Dex: 95",
+            "Range+: 4",
+            "Durability: 28",
+            "Soc(s): 5",
+            "Speed by Class: [-20] Ama, B, D, P, S - Fast Asn, N - Normal"
+        ],
+        "baseItem": "War Fork",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 29-59 (44 Avg)",
+            "Level: 25",
+            "Min Str: 101",
+            "Range+: 4",
+            "Durability: 28",
+            "Soc(s): 6",
+            "Speed by Class: [0] Ama, B - Normal D, N, P, S - Slow Asn - Very Slow"
+        ],
+        "baseItem": "Yari",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 27-114 (70.5 Avg)",
+            "Level: 25",
+            "Min Str: 110",
+            "Min Dex: 88",
+            "Range+: 4",
+            "Durability: 25",
+            "Soc(s): 6",
+            "Speed by Class: [20] Ama - Slow Asn, B, D, N, P, S - Very Slow"
+        ],
+        "baseItem": "Lance",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 3-15 (9 Avg)",
+            "Min Dex: 20",
+            "Range+: 3",
+            "Durability: 30",
+            "Soc(s): 3",
+            "Speed by Class: [-10] Ama - Fast B, D, N, P, S - Normal Asn - Slow"
+        ],
+        "baseItem": "Spear",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 9-15 (12 Avg)",
+            "Min Str: 38",
+            "Min Dex: 24",
+            "Range+: 3",
+            "Durability: 35",
+            "Soc(s): 4",
+            "Speed by Class: [0] Ama, B - Normal D, N, P, S - Slow Asn - Very Slow"
+        ],
+        "baseItem": "Trident",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 7-17 (12 Avg)",
+            "Min Str: 40",
+            "Min Dex: 50",
+            "Range+: 4",
+            "Durability: 28",
+            "Soc(s): 5",
+            "Speed by Class: [-20] Ama, B, D, P, S - Fast Asn, N - Normal"
+        ],
+        "baseItem": "Brandistock",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 15-23 (19 Avg)",
+            "Min Str: 54",
+            "Min Dex: 35",
+            "Range+: 4",
+            "Durability: 28",
+            "Soc(s): 6",
+            "Speed by Class: [0] Ama, B - Normal D, N, P, S - Slow Asn - Very Slow"
+        ],
+        "baseItem": "Spetum",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 14-63 (38.5 Avg)",
+            "Min Str: 60",
+            "Min Dex: 45",
+            "Range+: 4",
+            "Durability: 25",
+            "Soc(s): 6",
+            "Speed by Class: [20] Ama - Slow Asn, B, D, N, P, S - Very Slow"
+        ],
+        "baseItem": "Pike",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 1-5 (3 Avg)",
+            "Range+: 1",
+            "Durability: 20",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Short Staff",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 2-8 (5 Avg)",
+            "Range+: 1",
+            "Durability: 30",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Long Staff",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 4-12 (8 Avg)",
+            "Range+: 1",
+            "Durability: 35",
+            "Soc(s): 4"
+        ],
+        "baseItem": "Gnarled Staff",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 6-13 (9.5 Avg)",
+            "Range+: 1",
+            "Durability: 40",
+            "Soc(s): 4"
+        ],
+        "baseItem": "Battle Staff",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 12-28 (20 Avg)",
+            "Range+: 1",
+            "Durability: 50",
+            "Soc(s): 6"
+        ],
+        "baseItem": "War Staff",
+        "is2h": true
+    },
+    {
+        "properties": [
+            "2H Damage: 6-21 (13.5 Avg)",
+            "Level: 18",
+            "Min Str: 25",
+            "Range+: 1",
+            "Durability: 20",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Jo Staff",
+        "is2h": true,
+        "cLevel": 18
+    },
+    {
+        "properties": [
+            "2H Damage: 8-26 (17 Avg)",
+            "Level: 23",
+            "Min Str: 25",
+            "Range+: 1",
+            "Durability: 30",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Quarterstaff",
+        "is2h": true,
+        "cLevel": 23
+    },
+    {
+        "properties": [
+            "2H Damage: 11-32 (21.5 Avg)",
+            "Level: 25",
+            "Min Str: 25",
+            "Range+: 1",
+            "Durability: 35",
+            "Soc(s): 4"
+        ],
+        "baseItem": "Cedar Staff",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 14-34 (24 Avg)",
+            "Level: 25",
+            "Min Str: 25",
+            "Range+: 1",
+            "Durability: 40",
+            "Soc(s): 4"
+        ],
+        "baseItem": "Gothic Staff",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 24-58 (41 Avg)",
+            "Level: 25",
+            "Min Str: 25",
+            "Range+: 1",
+            "Durability: 50",
+            "Soc(s): 6"
+        ],
+        "baseItem": "Rune Staff",
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "2H Damage: 69-85 (77 Avg)",
+            "Level: 43",
+            "Min Str: 25",
+            "Range+: 1",
+            "Durability: 20",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Walking Stick",
+        "is2h": true,
+        "cLevel": 43
+    },
+    {
+        "properties": [
+            "2H Damage: 75-107 (91 Avg)",
+            "Level: 49",
+            "Min Str: 63",
+            "Min Dex: 35",
+            "Range+: 1",
+            "Durability: 30",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Stalagmite",
+        "is2h": true,
+        "cLevel": 49
+    },
+    {
+        "properties": [
+            "2H Damage: 80-93 (86.5 Avg)",
+            "Level: 55",
+            "Min Str: 44",
+            "Min Dex: 37",
+            "Range+: 1",
+            "Durability: 35",
+            "Soc(s): 4"
+        ],
+        "baseItem": "Elder Staff",
+        "is2h": true,
+        "cLevel": 55
+    },
+    {
+        "properties": [
+            "2H Damage: 65-108 (86.5 Avg)",
+            "Level: 62",
+            "Min Str: 52",
+            "Min Dex: 27",
+            "Range+: 1",
+            "Durability: 40",
+            "Soc(s): 4"
+        ],
+        "baseItem": "Shillelagh",
+        "is2h": true,
+        "cLevel": 62
+    },
+    {
+        "properties": [
+            "2H Damage: 83-99 (91 Avg)",
+            "Level: 66",
+            "Min Str: 34",
+            "Range+: 1",
+            "Durability: 26",
+            "Soc(s): 6"
+        ],
+        "baseItem": "Archon Staff",
+        "is2h": true,
+        "cLevel": 66
+    },
+    {
+        "properties": [
+            "1H Damage: 31-59 (45 Avg)",
+            "Level: 42",
+            "Min Str: 150",
+            "Min Dex: 88",
+            "Range+: 0",
+            "Durability: 24",
+            "Soc(s): 2",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Falcata",
+        "is1h": true,
+        "cLevel": 42
+    },
+    {
+        "properties": [
+            "1H Damage: 26-46 (36 Avg)",
+            "Level: 45",
+            "Min Str: 138",
+            "Min Dex: 95",
+            "Range+: 0",
+            "Durability: 22",
+            "Soc(s): 2",
+            "Speed by Class: [-20] Ama, Asn, B, D, N, P - Very Fast S - Fast"
+        ],
+        "baseItem": "Ataghan",
+        "is1h": true,
+        "cLevel": 45
+    },
+    {
+        "properties": [
+            "1H Damage: 33-45 (39 Avg)",
+            "Level: 47",
+            "Min Str: 109",
+            "Min Dex: 122",
+            "Range+: 0",
+            "Durability: 32",
+            "Soc(s): 2",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Elegant Blade",
+        "is1h": true,
+        "cLevel": 47
+    },
+    {
+        "properties": [
+            "1H Damage: 28-68 (48 Avg)",
+            "Level: 51",
+            "Min Str: 142",
+            "Min Dex: 105",
+            "Range+: 0",
+            "Durability: 32",
+            "Soc(s): 2",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Hydra Edge",
+        "is1h": true,
+        "cLevel": 51
+    },
+    {
+        "properties": [
+            "1H Damage: 31-35 (33 Avg)",
+            "Level: 54",
+            "Min Str: 25",
+            "Min Dex: 136",
+            "Range+: 1",
+            "Durability: Indestructible",
+            "Soc(s): 6",
+            "Speed by Class: [-30] Ama, Asn, B, D, N, P, S - Very Fast"
+        ],
+        "baseItem": "Phase Blade",
+        "is1h": true,
+        "cLevel": 54
+    },
+    {
+        "properties": [
+            "1H Damage: 37-53 (45 Avg)",
+            "Level: 58",
+            "Min Str: 142",
+            "Min Dex: 112",
+            "Range+: 0",
+            "Durability: 32",
+            "Soc(s): 4",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Conquest Sword",
+        "is1h": true,
+        "cLevel": 58
+    },
+    {
+        "properties": [
+            "1H Damage: 5-77 (41 Avg)",
+            "Level: 61",
+            "Min Str: 99",
+            "Min Dex: 109",
+            "Range+: 1",
+            "Durability: 44",
+            "Soc(s): 4",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Cryptic Sword",
+        "is1h": true,
+        "cLevel": 61
+    },
+    {
+        "properties": [
+            "1H Damage: 40-50 (45 Avg)",
+            "Level: 66",
+            "Min Str: 147",
+            "Min Dex: 124",
+            "Range+: 1",
+            "Durability: 44",
+            "Soc(s): 3",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Mythical Sword",
+        "is1h": true,
+        "cLevel": 66
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 22-56 (39 Avg)",
+            "2H Damage: 50-94 (72 Avg)",
+            "Level: 44",
+            "Min Str: 175",
+            "Min Dex: 100",
+            "Range+: 2",
+            "Durability: 44",
+            "Soc(s): 3",
+            "Speed by Class: [-15] Ama, Asn, B, P - Very Fast D, N, S - Fast"
+        ],
+        "baseItem": "Legend Sword",
+        "is1h": true,
+        "is2h": true,
+        "cLevel": 44
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 22-62 (42 Avg)",
+            "2H Damage: 67-96 (81.5 Avg)",
+            "Level: 49",
+            "Min Str: 171",
+            "Min Dex: 104",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 4",
+            "Speed by Class: [-5] Ama, Asn, B, D, N, P, S - Fast"
+        ],
+        "baseItem": "Highland Blade",
+        "is1h": true,
+        "is2h": true,
+        "cLevel": 49
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 15-75 (45 Avg)",
+            "2H Damage: 55-118 (86.5 Avg)",
+            "Level: 53",
+            "Min Str: 185",
+            "Min Dex: 87",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 4",
+            "Speed by Class: [0] Ama, Asn, B, D, P, N - Fast S - Normal"
+        ],
+        "baseItem": "Balrog Blade",
+        "is1h": true,
+        "is2h": true,
+        "cLevel": 53
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 24-54 (39 Avg)",
+            "2H Damage: 71-83 (77 Avg)",
+            "Level: 57",
+            "Min Str: 163",
+            "Min Dex: 103",
+            "Range+: 2",
+            "Durability: 40",
+            "Soc(s): 4",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Champion Sword",
+        "is1h": true,
+        "is2h": true,
+        "cLevel": 57
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 26-70 (48 Avg)",
+            "2H Damage: 61-121 (91 Avg)",
+            "Level: 60",
+            "Min Str: 182",
+            "Min Dex: 95",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 5",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Colossus Sword",
+        "is1h": true,
+        "is2h": true,
+        "cLevel": 60
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 25-65 (45 Avg)",
+            "2H Damage: 58-115 (86.5 Avg)",
+            "Level: 63",
+            "Min Str: 189",
+            "Min Dex: 110",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 6",
+            "Speed by Class: [5] Ama, Asn, B, P - Fast D, N, S - Normal"
+        ],
+        "baseItem": "Colossus Blade",
+        "is1h": true,
+        "is2h": true,
+        "cLevel": 63
+    },
+    {
+        "properties": [
+            "1H Damage: 8-22 (15 Avg)",
+            "Level: 18",
+            "Min Str: 25",
+            "Range+: 0",
+            "Durability: 24",
+            "Soc(s): 2",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Gladius",
+        "is1h": true,
+        "cLevel": 18
+    },
+    {
+        "properties": [
+            "1H Damage: 8-21 (14.5 Avg)",
+            "Level: 25",
+            "Min Str: 25",
+            "Min Dex: 52",
+            "Range+: 0",
+            "Durability: 22",
+            "Soc(s): 2",
+            "Speed by Class: [-30] Ama, Asn, B, D, N, P, S - Very Fast"
+        ],
+        "baseItem": "Cutlass",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 10-24 (17 Avg)",
+            "Level: 23",
+            "Min Str: 58",
+            "Min Dex: 58",
+            "Range+: 0",
+            "Durability: 32",
+            "Soc(s): 2",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Shamshir",
+        "is1h": true,
+        "cLevel": 23
+    },
+    {
+        "properties": [
+            "1H Damage: 16-35 (25.5 Avg)",
+            "Level: 25",
+            "Min Str: 70",
+            "Min Dex: 42",
+            "Range+: 0",
+            "Durability: 32",
+            "Soc(s): 2",
+            "Speed by Class: [20] Asn, P - Normal Ama, B, D, N, S - Slow"
+        ],
+        "baseItem": "Tulwar",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 13-35 (24 Avg)",
+            "Level: 25",
+            "Min Str: 85",
+            "Min Dex: 60",
+            "Range+: 1",
+            "Durability: 20",
+            "Soc(s): 6",
+            "Speed by Class: [0] Ama, Asn, B, D, P, N - Fast S - Normal"
+        ],
+        "baseItem": "Dimensional Blade",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 16-34 (25 Avg)",
+            "Level: 25",
+            "Min Str: 92",
+            "Min Dex: 43",
+            "Range+: 0",
+            "Durability: 32",
+            "Soc(s): 4",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Battle Sword",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 10-42 (26 Avg)",
+            "Level: 25",
+            "Min Str: 103",
+            "Min Dex: 79",
+            "Range+: 1",
+            "Durability: 44",
+            "Soc(s): 4",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Rune Sword",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 18-43 (30.5 Avg)",
+            "Level: 25",
+            "Min Str: 127",
+            "Min Dex: 88",
+            "Range+: 1",
+            "Durability: 44",
+            "Soc(s): 3",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Ancient Sword",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 8-26 (17 Avg)",
+            "2H Damage: 18-40 (29 Avg)",
+            "Level: 25",
+            "Min Str: 73",
+            "Min Dex: 61",
+            "Range+: 2",
+            "Durability: 44",
+            "Soc(s): 3",
+            "Speed by Class: [0] Ama, Asn, B, D, P, N - Fast S - Normal"
+        ],
+        "baseItem": "Espandon",
+        "is1h": true,
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 13-30 (21.5 Avg)",
+            "2H Damage: 26-61 (43.5 Avg)",
+            "Level: 25",
+            "Min Str: 91",
+            "Min Dex: 20",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 4",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Dacian Falx",
+        "is1h": true,
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 10-37 (23.5 Avg)",
+            "2H Damage: 19-58 (38.5 Avg)",
+            "Level: 25",
+            "Min Str: 104",
+            "Min Dex: 71",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 4",
+            "Speed by Class: [0] Ama, Asn, B, D, P, N - Fast S - Normal"
+        ],
+        "baseItem": "Tusk Sword",
+        "is1h": true,
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 14-40 (27 Avg)",
+            "2H Damage: 39-60 (49.5 Avg)",
+            "Level: 25",
+            "Min Str: 113",
+            "Min Dex: 20",
+            "Range+: 1",
+            "Durability: 40",
+            "Soc(s): 4",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Gothic Sword",
+        "is1h": true,
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 19-35 (27 Avg)",
+            "2H Damage: 29-54 (41.5 Avg)",
+            "Level: 25",
+            "Min Str: 125",
+            "Min Dex: 94",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 5",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Zweihander",
+        "is1h": true,
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 24-40 (32 Avg)",
+            "2H Damage: 47-80 (63.5 Avg)",
+            "Level: 25",
+            "Min Str: 170",
+            "Min Dex: 110",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 6",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Executioner Sword",
+        "is1h": true,
+        "is2h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 2-7 (4.5 Avg)",
+            "Range+: 0",
+            "Durability: 24",
+            "Soc(s): 2",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Short Sword",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 2-6 (4 Avg)",
+            "Min Dex: 21",
+            "Range+: 0",
+            "Durability: 22",
+            "Soc(s): 2",
+            "Speed by Class: [-20] Ama, Asn, B, D, N, P - Very Fast S - Fast"
+        ],
+        "baseItem": "Scimitar",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 3-8 (5.5 Avg)",
+            "Min Str: 25",
+            "Min Dex: 25",
+            "Range+: 0",
+            "Durability: 32",
+            "Soc(s): 2",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Sabre",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 9-17 (13 Avg)",
+            "Min Str: 33",
+            "Range+: 0",
+            "Durability: 32",
+            "Soc(s): 2",
+            "Speed by Class: [20] Asn, P - Normal Ama, B, D, N, S - Slow"
+        ],
+        "baseItem": "Falchion",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 5-15 (10 Avg)",
+            "Min Str: 43",
+            "Range+: 1",
+            "Durability: 20",
+            "Soc(s): 6",
+            "Speed by Class: [0] Ama, Asn, B, D, P, N - Fast S - Normal"
+        ],
+        "baseItem": "Crystal Sword",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 7-14 (10.5 Avg)",
+            "Min Str: 48",
+            "Range+: 0",
+            "Durability: 32",
+            "Soc(s): 4",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "Broad Sword",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 3-19 (11 Avg)",
+            "Min Str: 55",
+            "Min Dex: 39",
+            "Range+: 1",
+            "Durability: 44",
+            "Soc(s): 4",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Long Sword",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 8-20 (14 Avg)",
+            "Min Str: 71",
+            "Min Dex: 45",
+            "Range+: 1",
+            "Durability: 44",
+            "Soc(s): 3",
+            "Speed by Class: [0] Ama, Asn, B, D, N, P - Fast S - Normal"
+        ],
+        "baseItem": "War Sword",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 2-9 (5.5 Avg)",
+            "2H Damage: 8-17 (12.5 Avg)",
+            "Min Str: 35",
+            "Min Dex: 27",
+            "Range+: 2",
+            "Durability: 44",
+            "Soc(s): 3",
+            "Speed by Class: [0] Ama, Asn, B, D, P, N - Fast S - Normal"
+        ],
+        "baseItem": "Two-handed Sword",
+        "is1h": true,
+        "is2h": true
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 5-12 (8.5 Avg)",
+            "2H Damage: 13-30 (21.5 Avg)",
+            "Min Str: 47",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 4",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Claymore",
+        "is1h": true,
+        "is2h": true
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 3-16 (9.5 Avg)",
+            "2H Damage: 9-28 (18.5 Avg)",
+            "Min Str: 56",
+            "Min Dex: 34",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 4",
+            "Speed by Class: [0] Ama, Asn, B, D, P, N - Fast S - Normal"
+        ],
+        "baseItem": "Giant Sword",
+        "is1h": true,
+        "is2h": true
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 7-19 (13 Avg)",
+            "2H Damage: 20-28 (24 Avg)",
+            "Min Str: 62",
+            "Range+: 1",
+            "Durability: 40",
+            "Soc(s): 4",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Bastard Sword",
+        "is1h": true,
+        "is2h": true
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 9-15 (12 Avg)",
+            "2H Damage: 13-26 (19.5 Avg)",
+            "Min Str: 70",
+            "Min Dex: 49",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 5",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Flamberge",
+        "is1h": true,
+        "is2h": true
+    },
+    {
+        "properties": [
+            "1H Damage (Barb Only): 12-20 (16 Avg)",
+            "2H Damage: 25-42 (33.5 Avg)",
+            "Min Str: 100",
+            "Min Dex: 60",
+            "Range+: 2",
+            "Durability: 50",
+            "Soc(s): 6",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Great Sword",
+        "is1h": true,
+        "is2h": true
+    },
+    {
+        "properties": [
+            "Throw Damage: 4-9 (6.5 Avg)",
+            "1H Damage: 2-3 (2.5 Avg)",
+            "Min Dex: 21",
+            "Melee Range+: 0",
+            "Max Stack: 160",
+            "Class: Dagger",
+            "Speed by Class: [0] Ama, Asn, B, D, N, S - Fast P - Normal"
+        ],
+        "baseItem": "Throwing Knife",
+        "isThrow": true,
+        "is1h": true
+    },
+    {
+        "properties": [
+            "Throw Damage: 6-11 (8.5 Avg)",
+            "1H Damage: 1-8 (4.5 Avg)",
+            "Min Dex: 51",
+            "Melee Range+: 0",
+            "Max Stack: 160",
+            "Class: Dagger",
+            "Speed by Class: [-20] Ama, Asn B, D, N, S - Very Fast P - Fast"
+        ],
+        "baseItem": "Balanced Knife",
+        "isThrow": true,
+        "is1h": true
+    },
+    {
+        "properties": [
+            "Throw Damage: 8-12 (10 Avg)",
+            "1H Damage: 4-7 (5.5 Avg)",
+            "Min Dex: 40",
+            "Melee Range+: 0",
+            "Max Stack: 130",
+            "Class: Axe",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Throwing Axe",
+        "isThrow": true,
+        "is1h": true
+    },
+    {
+        "properties": [
+            "Throw Damage: 12-15 (13.5 Avg)",
+            "1H Damage: 5-10 (7.5 Avg)",
+            "Min Dex: 57",
+            "Melee Range+: 0",
+            "Max Stack: 130",
+            "Class: Axe",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Balanced Axe",
+        "isThrow": true,
+        "is1h": true
+    },
+    {
+        "properties": [
+            "Throw Damage: 11-24 (17.5 Avg)",
+            "1H Damage: 8-16 (12 Avg)",
+            "Level: 19",
+            "Min Str: 25",
+            "Min Dex: 52",
+            "Melee Range+: 0",
+            "Max Stack: 160",
+            "Class: Dagger",
+            "Speed by Class: [0] Ama, Asn, B, D, N, S - Fast P - Normal"
+        ],
+        "baseItem": "Battle Dart",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 19
+    },
+    {
+        "properties": [
+            "Throw Damage: 14-27 (20.5 Avg)",
+            "1H Damage: 6-24 (15 Avg)",
+            "Level: 25",
+            "Min Str: 25",
+            "Min Dex: 97",
+            "Melee Range+: 0",
+            "Max Stack: 160",
+            "Class: Dagger",
+            "Speed by Class: [-20] Ama, Asn B, D, N, S - Very Fast P - Fast"
+        ],
+        "baseItem": "War Dart",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Throw Damage: 18-33 (25.5 Avg)",
+            "1H Damage: 11-22 (16.5 Avg)",
+            "Level: 22",
+            "Min Str: 25",
+            "Min Dex: 80",
+            "Melee Range+: 0",
+            "Max Stack: 130",
+            "Class: Axe",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Francisca",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 22
+    },
+    {
+        "properties": [
+            "Throw Damage: 24-34 (29 Avg)",
+            "1H Damage: 13-27 (20 Avg)",
+            "Level: 25",
+            "Min Str: 25",
+            "Min Dex: 106",
+            "Melee Range+: 0",
+            "Max Stack: 130",
+            "Class: Axe",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Hurlbat",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Throw Damage: 23-54 (38.5 Avg)",
+            "1H Damage: 23-54 (38.5 Avg)",
+            "Level: 48",
+            "Min Str: 48",
+            "Min Dex: 141",
+            "Melee Range+: 0",
+            "Max Stack: 200",
+            "Class: Dagger",
+            "Speed by Class: [0] Ama, Asn, B, D, N, S - Fast P - Normal"
+        ],
+        "baseItem": "Flying Knife",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 48
+    },
+    {
+        "properties": [
+            "Throw Damage: 23-39 (31 Avg)",
+            "1H Damage: 27-35 (31 Avg)",
+            "Level: 57",
+            "Min Str: 45",
+            "Min Dex: 142",
+            "Melee Range+: 0",
+            "Max Stack: 200",
+            "Class: Dagger",
+            "Speed by Class: [-20] Ama, Asn B, D, N, S - Very Fast P - Fast"
+        ],
+        "baseItem": "Winged Knife",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 57
+    },
+    {
+        "properties": [
+            "Throw Damage: 15-66 (40.5 Avg)",
+            "1H Damage: 17-65 (41 Avg)",
+            "Level: 42",
+            "Min Str: 88",
+            "Min Dex: 108",
+            "Melee Range+: 0",
+            "Max Stack: 180",
+            "Class: Axe",
+            "Speed by Class: [10] Asn, P - Fast Ama, B, D, N, S - Normal"
+        ],
+        "baseItem": "Flying Axe",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 42
+    },
+    {
+        "properties": [
+            "Throw Damage: 7-60 (33.5 Avg)",
+            "1H Damage: 11-56 (33.5 Avg)",
+            "Level: 60",
+            "Min Str: 96",
+            "Min Dex: 122",
+            "Melee Range+: 0",
+            "Max Stack: 180",
+            "Class: Axe",
+            "Speed by Class: [-10] Asn, P - Very Fast Ama, B, D, N, S - Fast"
+        ],
+        "baseItem": "Winged Axe",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 60
+    },
+    {
+        "properties": [
+            "1H Damage: 18-33 (25.5 Avg)",
+            "Level: 41",
+            "Min Str: 25",
+            "Range+: 0",
+            "Durability: 22",
+            "Soc(s): 2",
+            "Speed: [0] Fast"
+        ],
+        "baseItem": "Polished Wand",
+        "is1h": true,
+        "cLevel": 41
+    },
+    {
+        "properties": [
+            "1H Damage: 20-40 (30 Avg)",
+            "Level: 48",
+            "Min Str: 25",
+            "Range+: 0",
+            "Durability: 14",
+            "Soc(s): 2",
+            "Speed: [10] Normal"
+        ],
+        "baseItem": "Ghost Wand",
+        "is1h": true,
+        "cLevel": 48
+    },
+    {
+        "properties": [
+            "1H Damage: 10-31 (20.5 Avg)",
+            "Level: 56",
+            "Min Str: 25",
+            "Range+: 0",
+            "Durability: 17",
+            "Soc(s): 2",
+            "Speed: [-20] Very Fast"
+        ],
+        "baseItem": "Lich Wand",
+        "is1h": true,
+        "cLevel": 56
+    },
+    {
+        "properties": [
+            "1H Damage: 22-28 (25 Avg)",
+            "Level: 64",
+            "Min Str: 25",
+            "Range+: 0",
+            "Durability: 18",
+            "Soc(s): 2",
+            "Speed: [0] Fast"
+        ],
+        "baseItem": "Unearthed Wand",
+        "is1h": true,
+        "cLevel": 64
+    },
+    {
+        "properties": [
+            "1H Damage: 8-18 (13 Avg)",
+            "Level: 19",
+            "Min Str: 25",
+            "Range+: 0",
+            "Durability: 15",
+            "Soc(s): 1",
+            "Speed: [0] Fast"
+        ],
+        "baseItem": "Burnt Wand",
+        "is1h": true,
+        "cLevel": 19
+    },
+    {
+        "properties": [
+            "1H Damage: 8-24 (16 Avg)",
+            "Level: 25",
+            "Min Str: 25",
+            "Range+: 0",
+            "Durability: 15",
+            "Soc(s): 2",
+            "Speed: [10] Normal"
+        ],
+        "baseItem": "Petrified Wand",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 10-22 (16 Avg)",
+            "Level: 25",
+            "Min Str: 25",
+            "Range+: 0",
+            "Durability: 15",
+            "Soc(s): 2",
+            "Speed: [-20] Very Fast"
+        ],
+        "baseItem": "Tomb Wand",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 13-29 (21 Avg)",
+            "Level: 25",
+            "Min Str: 25",
+            "Range+: 0",
+            "Durability: 15",
+            "Soc(s): 2",
+            "Speed: [0] Fast"
+        ],
+        "baseItem": "Grave Wand",
+        "is1h": true,
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "1H Damage: 2-4 (3 Avg)",
+            "Range+: 0",
+            "Durability: 15",
+            "Soc(s): 1",
+            "Speed: [0] Fast"
+        ],
+        "baseItem": "Wand",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 2-8 (5 Avg)",
+            "Range+: 0",
+            "Durability: 15",
+            "Soc(s): 1",
+            "Speed: [10] Normal"
+        ],
+        "baseItem": "Yew Wand",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 3-7 (5 Avg)",
+            "Range+: 0",
+            "Durability: 15",
+            "Soc(s): 2",
+            "Speed: [-20]Very Fast"
+        ],
+        "baseItem": "Bone Wand",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "1H Damage: 5-11 (8 Avg)",
+            "Range+: 0",
+            "Durability: 15",
+            "Soc(s): 2",
+            "Speed: [0] Fast"
+        ],
+        "baseItem": "Grim Wand",
+        "is1h": true
+    },
+    {
+        "properties": [
+            "Def: 10-15",
+            "Level: 3",
+            "Min Str: 25",
+            "Durability: 25",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Jawbone Cap",
+        "cLevel": 3
+    },
+    {
+        "properties": [
+            "Def: 15-20",
+            "Level: 6",
+            "Min Str: 35",
+            "Durability: 35",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Fanged Helm",
+        "cLevel": 6
+    },
+    {
+        "properties": [
+            "Def: 25-30",
+            "Level: 12",
+            "Min Str: 45",
+            "Durability: 45",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Horned Helm",
+        "cLevel": 12
+    },
+    {
+        "properties": [
+            "Def: 30-35",
+            "Level: 15",
+            "Min Str: 55",
+            "Durability: 50",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Assault Helmet",
+        "cLevel": 15
+    },
+    {
+        "properties": [
+            "Def: 35-50",
+            "Level: 18",
+            "Min Str: 65",
+            "Durability: 55",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Avenger Guard",
+        "cLevel": 18
+    },
+    {
+        "properties": [
+            "Def: 55-68",
+            "Level: 25",
+            "Min Str: 58",
+            "Durability: 25",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Jawbone Visor",
+        "cLevel": 25
+    },
+    {
+        "properties": [
+            "Def: 63-75",
+            "Level: 29",
+            "Min Str: 73",
+            "Durability: 35",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Lion Helm",
+        "cLevel": 29
+    },
+    {
+        "properties": [
+            "Def: 78-90",
+            "Level: 29",
+            "Min Str: 88",
+            "Durability: 45",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Rage Mask",
+        "cLevel": 29
+    },
+    {
+        "properties": [
+            "Def: 85-98",
+            "Level: 32",
+            "Min Str: 103",
+            "Durability: 50",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Savage Helmet",
+        "cLevel": 32
+    },
+    {
+        "properties": [
+            "Def: 93-120",
+            "Level: 40",
+            "Min Str: 118",
+            "Durability: 55",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Slayer Guard",
+        "cLevel": 40
+    },
+    {
+        "properties": [
+            "Def: 102-147",
+            "Level: 45",
+            "Min Str: 106",
+            "Durability: 25",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Carnage Helm",
+        "cLevel": 45
+    },
+    {
+        "properties": [
+            "Def: 105-150",
+            "Level: 49",
+            "Min Str: 129",
+            "Durability: 35",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Fury Visor",
+        "cLevel": 49
+    },
+    {
+        "properties": [
+            "Def: 111-156",
+            "Level: 54",
+            "Min Str: 151",
+            "Durability: 45",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Destroyer Helm",
+        "cLevel": 54
+    },
+    {
+        "properties": [
+            "Def: 114-159",
+            "Level: 60",
+            "Min Str: 174",
+            "Durability: 50",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Conqueror Crown",
+        "cLevel": 60
+    },
+    {
+        "properties": [
+            "Def: 117-168",
+            "Level: 65",
+            "Min Str: 196",
+            "Durability: 55",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Guardian Crown",
+        "cLevel": 65
+    },
+    {
+        "properties": [
+            "Def: 101-145",
+            "Level: 46",
+            "Min Str: 86",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Blood Spirit",
+        "cLevel": 46
+    },
+    {
+        "properties": [
+            "Def: 98-147",
+            "Level: 51",
+            "Min Str: 95",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Sun Spirit",
+        "cLevel": 51
+    },
+    {
+        "properties": [
+            "Def: 107-152",
+            "Level: 57",
+            "Min Str: 104",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Earth Spirit",
+        "cLevel": 57
+    },
+    {
+        "properties": [
+            "Def: 103-155",
+            "Level: 62",
+            "Min Str: 113",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Sky Spirit",
+        "cLevel": 62
+    },
+    {
+        "properties": [
+            "Def: 109-159",
+            "Level: 66",
+            "Min Str: 118",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Dream Spirit",
+        "cLevel": 66
+    },
+    {
+        "properties": [
+            "Def: 52-62",
+            "Level: 26",
+            "Min Str: 44",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Alpha Helm",
+        "cLevel": 26
+    },
+    {
+        "properties": [
+            "Def: 46-68",
+            "Level: 30",
+            "Min Str: 50",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Griffon Headdress",
+        "cLevel": 30
+    },
+    {
+        "properties": [
+            "Def: 67-81",
+            "Level: 29",
+            "Min Str: 56",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Hunter's Guise",
+        "cLevel": 29
+    },
+    {
+        "properties": [
+            "Def: 58-87",
+            "Level: 32",
+            "Min Str: 62",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Sacred Feathers",
+        "cLevel": 32
+    },
+    {
+        "properties": [
+            "Def: 73-98",
+            "Level: 41",
+            "Min Str: 65",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Totemic Mask",
+        "cLevel": 41
+    },
+    {
+        "properties": [
+            "Def: 8-11",
+            "Level: 3",
+            "Min Str: 16",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Wolf Head",
+        "cLevel": 3
+    },
+    {
+        "properties": [
+            "Def: 4-15",
+            "Level: 6",
+            "Min Str: 20",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Hawk Helm",
+        "cLevel": 6
+    },
+    {
+        "properties": [
+            "Def: 18-24",
+            "Level: 12",
+            "Min Str: 24",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Antlers",
+        "cLevel": 12
+    },
+    {
+        "properties": [
+            "Def: 12-28",
+            "Level: 15",
+            "Min Str: 28",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Falcon Mask",
+        "cLevel": 15
+    },
+    {
+        "properties": [
+            "Def: 22-35",
+            "Level: 18",
+            "Min Str: 30",
+            "Durability: 20",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Spirit Mask",
+        "cLevel": 18
+    },
+    {
+        "properties": [
+            "Def: 8-12",
+            "Level: 3",
+            "Min Str: 16",
+            "Durability: 20",
+            "% Block: [10] 40%",
+            "Soc(s): 4",
+            "Smite Dmg: 2-6",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Targe",
+        "cLevel": 3
+    },
+    {
+        "properties": [
+            "Def: 10-18",
+            "Level: 6",
+            "Min Str: 26",
+            "Durability: 30",
+            "% Block: [15] 45%",
+            "Soc(s): 4",
+            "Smite Dmg: 2-8",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Rondache",
+        "cLevel": 6
+    },
+    {
+        "properties": [
+            "Def: 16-26",
+            "Level: 12",
+            "Min Str: 40",
+            "Durability: 40",
+            "% Block: [20] 50%",
+            "Soc(s): 4",
+            "Smite Dmg: 3-9",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Heraldic Shield",
+        "cLevel": 12
+    },
+    {
+        "properties": [
+            "Def: 26-36",
+            "Level: 15",
+            "Min Str: 50",
+            "Durability: 50",
+            "% Block: [22] 52%",
+            "Soc(s): 4",
+            "Smite Dmg: 4-10",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Aerin Shield",
+        "cLevel": 15
+    },
+    {
+        "properties": [
+            "Def: 30-40",
+            "Level: 18",
+            "Min Str: 65",
+            "Durability: 60",
+            "% Block: [25] 55%",
+            "Soc(s): 4",
+            "Smite Dmg: 4-12",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Crown Shield",
+        "cLevel": 18
+    },
+    {
+        "properties": [
+            "Def: 101-125",
+            "Level: 26",
+            "Min Str: 44",
+            "Durability: 20",
+            "% Block: [10] 40%",
+            "Soc(s): 4",
+            "Smite Dmg: 12-16",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Akaran Targe",
+        "cLevel": 26
+    },
+    {
+        "properties": [
+            "Def: 113-137",
+            "Level: 30",
+            "Min Str: 59",
+            "Durability: 30",
+            "% Block: [15] 45%",
+            "Soc(s): 4",
+            "Smite Dmg: 15-20",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Akaran Rondache",
+        "cLevel": 30
+    },
+    {
+        "properties": [
+            "Def: 129-153",
+            "Level: 34",
+            "Min Str: 69",
+            "Durability: 40",
+            "% Block: [20] 50%",
+            "Soc(s): 4",
+            "Smite Dmg: 18-24",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Protector Shield",
+        "cLevel": 34
+    },
+    {
+        "properties": [
+            "Def: 144-168",
+            "Level: 38",
+            "Min Str: 89",
+            "Durability: 50",
+            "% Block: [22] 52%",
+            "Soc(s): 4",
+            "Smite Dmg: 20-28",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Gilded Shield",
+        "cLevel": 38
+    },
+    {
+        "properties": [
+            "Def: 156-181",
+            "Level: 41",
+            "Min Str: 114",
+            "Durability: 60",
+            "% Block: [25] 55%",
+            "Soc(s): 4",
+            "Smite Dmg: 24-32",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Royal Shield",
+        "cLevel": 41
+    },
+    {
+        "properties": [
+            "Def: 126-158",
+            "Level: 47",
+            "Min Str: 86",
+            "Durability: 45",
+            "% Block: [30] 60%",
+            "Soc(s): 4",
+            "Smite Dmg: 22-70",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Sacred Targe",
+        "cLevel": 47
+    },
+    {
+        "properties": [
+            "Def: 138-164",
+            "Level: 52",
+            "Min Str: 109",
+            "Durability: 68",
+            "% Block: [28] 58%",
+            "Soc(s): 4",
+            "Smite Dmg: 35-58",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Sacred Rondache",
+        "cLevel": 52
+    },
+    {
+        "properties": [
+            "Def: 154-172",
+            "Level: 55",
+            "Min Str: 124",
+            "Durability: 55",
+            "% Block: [25] 55%",
+            "Soc(s): 4",
+            "Smite Dmg: 10-82",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Kurast Shield",
+        "cLevel": 55
+    },
+    {
+        "properties": [
+            "Def: 169-193",
+            "Level: 61",
+            "Min Str: 142",
+            "Durability: 65",
+            "% Block: [22] 52%",
+            "Soc(s): 4",
+            "Smite Dmg: 46-46",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Zakarum Shield",
+        "cLevel": 61
+    },
+    {
+        "properties": [
+            "Def: 182-225",
+            "Level: 66",
+            "Min Str: 148",
+            "Durability: 90",
+            "% Block: [19] 49%",
+            "Soc(s): 4",
+            "Smite Dmg: 5-87",
+            "Type: Light"
+        ],
+        "paladinShield": true,
+        "baseItem": "Vortex Shield",
+        "cLevel": 66
+    },
+    {
+        "properties": [
+            "Def: 95-139",
+            "Level: 44",
+            "Min Str: 77",
+            "Durability: 20",
+            "% Block: [3] 23%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Minion Skull",
+        "cLevel": 44
+    },
+    {
+        "properties": [
+            "Def: 96-141",
+            "Level: 50",
+            "Min Str: 82",
+            "Durability: 20",
+            "% Block: [5] 25%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Hellspawn Skull",
+        "cLevel": 50
+    },
+    {
+        "properties": [
+            "Def: 98-142",
+            "Level: 49",
+            "Min Str: 91",
+            "Durability: 20",
+            "% Block: [8] 28%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Overseer Skull",
+        "cLevel": 49
+    },
+    {
+        "properties": [
+            "Def: 100-146",
+            "Level: 60",
+            "Min Str: 95",
+            "Durability: 20",
+            "% Block: [10] 30%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Succubus Skull",
+        "cLevel": 60
+    },
+    {
+        "properties": [
+            "Def: 103-148",
+            "Level: 65",
+            "Min Str: 106",
+            "Durability: 20",
+            "% Block: [12] 32%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Bloodlord Skull",
+        "cLevel": 65
+    },
+    {
+        "properties": [
+            "Def: 38-48",
+            "Level: 24",
+            "Min Str: 38",
+            "Durability: 20",
+            "% Block: [3] 23%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Mummified Trophy",
+        "cLevel": 24
+    },
+    {
+        "properties": [
+            "Def: 41-52",
+            "Level: 29",
+            "Min Str: 41",
+            "Durability: 20",
+            "% Block: [5] 25%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Fetish Trophy",
+        "cLevel": 29
+    },
+    {
+        "properties": [
+            "Def: 44-55",
+            "Level: 33",
+            "Min Str: 47",
+            "Durability: 20",
+            "% Block: [8] 28%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Sexton Trophy",
+        "cLevel": 33
+    },
+    {
+        "properties": [
+            "Def: 50-64",
+            "Level: 36",
+            "Min Str: 50",
+            "Durability: 20",
+            "% Block: [10] 30%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Cantor Trophy",
+        "cLevel": 36
+    },
+    {
+        "properties": [
+            "Def: 58-70",
+            "Level: 40",
+            "Min Str: 58",
+            "Durability: 20",
+            "% Block: [12] 32%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Hierophant Trophy",
+        "cLevel": 40
+    },
+    {
+        "properties": [
+            "Def: 2-5",
+            "Level: 3",
+            "Min Str: 12",
+            "Durability: 20",
+            "% Block: [3] 23%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Preserved Head",
+        "cLevel": 3
+    },
+    {
+        "properties": [
+            "Def: 4-8",
+            "Level: 6",
+            "Min Str: 14",
+            "Durability: 20",
+            "% Block: [5] 25%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Zombie Head",
+        "cLevel": 6
+    },
+    {
+        "properties": [
+            "Def: 6-10",
+            "Level: 12",
+            "Min Str: 18",
+            "Durability: 20",
+            "% Block: [8] 28%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Unraveller Head",
+        "cLevel": 12
+    },
+    {
+        "properties": [
+            "Def: 10-16",
+            "Level: 15",
+            "Min Str: 20",
+            "Durability: 20",
+            "% Block: [10] 30%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Gargoyle Head",
+        "cLevel": 15
+    },
+    {
+        "properties": [
+            "Def: 15-20",
+            "Level: 18",
+            "Min Str: 25",
+            "Durability: 20",
+            "% Block: [12] 32%",
+            "Soc(s): 2",
+            "Type: Light"
+        ],
+        "baseItem": "Demon Head",
+        "cLevel": 18
+    },
+    {
+        "properties": [
+            "2H Damage: 7 To 12 (9.5 Avg)",
+            "Level: 14",
+            "Min Str: 30",
+            "Min Dex: 45",
+            "Soc(s): 5",
+            "Class: Bow",
+            "Speed: [0] Fast"
+        ],
+        "baseItem": "Stag Bow",
+        "is2h": true,
+        "cLevel": 14
+    },
+    {
+        "properties": [
+            "2H Damage: 9 To 19 (14 Avg)",
+            "Level: 20",
+            "Min Str: 35",
+            "Min Dex: 60",
+            "Soc(s): 5",
+            "Class: Bow",
+            "Speed: [10] Fast"
+        ],
+        "baseItem": "Reflex Bow",
+        "is2h": true,
+        "cLevel": 20
+    },
+    {
+        "properties": [
+            "2H Damage: 18 To 24 (21 Avg)",
+            "Level: 14",
+            "Min Str: 54",
+            "Min Dex: 40",
+            "Range+: 4",
+            "Durability: 28",
+            "Soc(s): 6",
+            "Class: Spear",
+            "Speed: [0] Normal"
+        ],
+        "baseItem": "Maiden Spear",
+        "is2h": true,
+        "cLevel": 14
+    },
+    {
+        "properties": [
+            "2H Damage: 23 To 55 (39 Avg)",
+            "Level: 20",
+            "Min Str: 63",
+            "Min Dex: 52",
+            "Range+: 4",
+            "Durability: 25",
+            "Soc(s): 6",
+            "Class: Spear",
+            "Speed: [10] Normal"
+        ],
+        "baseItem": "Maiden Pike",
+        "is2h": true,
+        "cLevel": 20
+    },
+    {
+        "properties": [
+            "Throw Damage: 6 To 22 (14 Avg)",
+            "1H Damage: 8 To 14 (11 Avg)",
+            "Level: 17",
+            "Min Str: 33",
+            "Min Dex: 47",
+            "Melee Range+: 2",
+            "Max Stack: 80",
+            "Class: Javelin",
+            "Speed: [-10] Very Fast"
+        ],
+        "baseItem": "Maiden Javelin",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 17
+    },
+    {
+        "properties": [
+            "2H Damage: 16 To 29 (22.5 Avg)",
+            "Level: 29",
+            "Min Str: 56",
+            "Min Dex: 77",
+            "Soc(s): 5",
+            "Class: Bow",
+            "Speed: [0] Fast"
+        ],
+        "baseItem": "Ashwood Bow",
+        "is2h": true,
+        "cLevel": 29
+    },
+    {
+        "properties": [
+            "2H Damage: 19 To 41 (30 Avg)",
+            "Level: 35",
+            "Min Str: 73",
+            "Min Dex: 110",
+            "Soc(s): 5",
+            "Class: Bow",
+            "Speed: [10] Fast"
+        ],
+        "baseItem": "Ceremonial Bow",
+        "is2h": true,
+        "cLevel": 35
+    },
+    {
+        "properties": [
+            "2H Damage: 34 To 51 (42.5 Avg)",
+            "Level: 32",
+            "Min Str: 101",
+            "Min Dex: 80",
+            "Range+: 4",
+            "Durability: 28",
+            "Soc(s): 6",
+            "Class: Spear",
+            "Speed: [0] Normal"
+        ],
+        "baseItem": "Ceremonial Spear",
+        "is2h": true,
+        "cLevel": 32
+    },
+    {
+        "properties": [
+            "2H Damage: 42 To 101 (71.5 Avg)",
+            "Level: 38",
+            "Min Str: 115",
+            "Min Dex: 98",
+            "Range+: 4",
+            "Durability: 25",
+            "Soc(s): 6",
+            "Class: Spear",
+            "Speed: [20] Normal"
+        ],
+        "baseItem": "Ceremonial Pike",
+        "is2h": true,
+        "cLevel": 38
+    },
+    {
+        "properties": [
+            "Throw Damage: 18 To 54 (36 Avg)",
+            "1H Damage: 18 To 35 (26.5 Avg)",
+            "Level: 26",
+            "Min Str: 25",
+            "Min Dex: 109",
+            "Melee Range+: 2",
+            "Max Stack: 80",
+            "Class: Javelin",
+            "Speed: [-10] Very Fast"
+        ],
+        "baseItem": "Ceremonial Javelin",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 26
+    },
+    {
+        "properties": [
+            "2H Damage: 20 To 47 (33.5 Avg)",
+            "Level: 39",
+            "Min Str: 87",
+            "Min Dex: 187",
+            "Soc(s): 5",
+            "Class: Bow",
+            "Speed: [-10] Fast"
+        ],
+        "baseItem": "Matriarchal Bow",
+        "is2h": true,
+        "cLevel": 39
+    },
+    {
+        "properties": [
+            "2H Damage: 14 To 72 (43 Avg)",
+            "Level: 58",
+            "Min Str: 108",
+            "Min Dex: 152",
+            "Soc(s): 5",
+            "Class: Bow",
+            "Speed: [10] Fast"
+        ],
+        "baseItem": "Grand Matron Bow",
+        "is2h": true,
+        "cLevel": 58
+    },
+    {
+        "properties": [
+            "2H Damage: 65 To 95 (80 Avg)",
+            "Level: 45",
+            "Min Str: 114",
+            "Min Dex: 142",
+            "Range+: 4",
+            "Durability: 28",
+            "Soc(s): 6",
+            "Class: Spear",
+            "Speed: [0] Normal"
+        ],
+        "baseItem": "Matriarchal Spear",
+        "is2h": true,
+        "cLevel": 45
+    },
+    {
+        "properties": [
+            "2H Damage: 37 To 153 (95 Avg)",
+            "Level: 60",
+            "Min Str: 132",
+            "Min Dex: 149",
+            "Range+: 4",
+            "Durability: 25",
+            "Soc(s): 6",
+            "Class: Spear",
+            "Speed: [20] Normal"
+        ],
+        "baseItem": "Matriarchal Pike",
+        "is2h": true,
+        "cLevel": 60
+    },
+    {
+        "properties": [
+            "Throw Damage: 35 To 66 (50.5 Avg)",
+            "1H Damage: 30 To 54 (42 Avg)",
+            "Level: 48",
+            "Min Str: 107",
+            "Min Dex: 151",
+            "Melee Range+: 2",
+            "Max Stack: 80",
+            "Class: Javelin",
+            "Speed: [-10] Very Fast"
+        ],
+        "baseItem": "Matriarchal Javelin",
+        "isThrow": true,
+        "is1h": true,
+        "cLevel": 48
+    },
+    {
+        "properties": [
+            "1H Damage: 39 To 52 (45.5 Avg)",
+            "Level: 44",
+            "Min Str: 99",
+            "Min Dex: 99",
+            "Range+: 1",
+            "Durability: 48",
+            "Soc(s): 3",
+            "+Skills: Yes",
+            "Speed: [0] Very Fast"
+        ],
+        "baseItem": "Suwayyah",
+        "is1h": true,
+        "cLevel": 44
+    },
+    {
+        "properties": [
+            "1H Damage: 34 To 45 (39.5 Avg)",
+            "Level: 46",
+            "Min Str: 105",
+            "Min Dex: 105",
+            "Range+: 1",
+            "Durability: 56",
+            "Soc(s): 3",
+            "+Skills: Yes",
+            "Speed: [-10] Very Fast"
+        ],
+        "baseItem": "Wrist Sword",
+        "is1h": true,
+        "cLevel": 46
+    },
+    {
+        "properties": [
+            "1H Damage: 44 To 53 (48.5 Avg)",
+            "Level: 51",
+            "Min Str: 108",
+            "Min Dex: 108",
+            "Range+: 1",
+            "Durability: 64",
+            "Soc(s): 2",
+            "+Skills: Yes",
+            "Speed: [10] Fast"
+        ],
+        "baseItem": "War Fist",
+        "is1h": true,
+        "cLevel": 51
+    },
+    {
+        "properties": [
+            "1H Damage: 36 To 42 (39 Avg)",
+            "Level: 54",
+            "Min Str: 110",
+            "Min Dex: 110",
+            "Range+: 1",
+            "Durability: 72",
+            "Soc(s): 2",
+            "+Skills: Yes",
+            "Speed: [-10] Very Fast"
+        ],
+        "baseItem": "Battle Cestus",
+        "is1h": true,
+        "cLevel": 54
+    },
+    {
+        "properties": [
+            "1H Damage: 22 To 53 (37.5 Avg)",
+            "Level: 58",
+            "Min Str: 113",
+            "Min Dex: 113",
+            "Range+: 1",
+            "Durability: 52",
+            "Soc(s): 3",
+            "+Skills: Yes",
+            "Speed: [-20] Very Fast"
+        ],
+        "baseItem": "Feral Claws",
+        "is1h": true,
+        "cLevel": 58
+    },
+    {
+        "properties": [
+            "1H Damage: 24 To 44 (34 Avg)",
+            "Level: 60",
+            "Min Str: 115",
+            "Min Dex: 115",
+            "Range+: 1",
+            "Durability: 69",
+            "Soc(s): 3",
+            "+Skills: Yes",
+            "Speed: [-30] Very Fast"
+        ],
+        "baseItem": "Runic Talons",
+        "is1h": true,
+        "cLevel": 60
+    },
+    {
+        "properties": [
+            "1H Damage: 40 To 51 (45.5 Avg)",
+            "Level: 64",
+            "Min Str: 118",
+            "Min Dex: 118",
+            "Range+: 1",
+            "Durability: 68",
+            "Soc(s): 3",
+            "+Skills: Yes",
+            "Speed: [0] Very Fast"
+        ],
+        "baseItem": "Scissors Suwayyah",
+        "is1h": true,
+        "cLevel": 64
+    },
+    {
+        "properties": [
+            "1H Damage: 11 To 24 (17.5 Avg)",
+            "Level: 21",
+            "Min Str: 57",
+            "Min Dex: 57",
+            "Range+: 1",
+            "Durability: 48",
+            "Soc(s): 3",
+            "+Skills: No",
+            "Speed: [0] Very Fast"
+        ],
+        "baseItem": "Quhab",
+        "is1h": true,
+        "cLevel": 21
+    },
+    {
+        "properties": [
+            "1H Damage: 13 To 27 (20 Avg)",
+            "Level: 24",
+            "Min Str: 66",
+            "Min Dex: 66",
+            "Range+: 1",
+            "Durability: 56",
+            "Soc(s): 2",
+            "+Skills: No",
+            "Speed: [-10] Very Fast"
+        ],
+        "baseItem": "Wrist Spike",
+        "is1h": true,
+        "cLevel": 24
+    },
+    {
+        "properties": [
+            "1H Damage: 8 To 37 (22.5 Avg)",
+            "Level: 27",
+            "Min Str: 69",
+            "Min Dex: 69",
+            "Range+: 1",
+            "Durability: 64",
+            "Soc(s): 2",
+            "+Skills: No",
+            "Speed: [10] Fast"
+        ],
+        "baseItem": "Fascia",
+        "is1h": true,
+        "cLevel": 27
+    },
+    {
+        "properties": [
+            "1H Damage: 16 To 37 (26.5 Avg)",
+            "Level: 30",
+            "Min Str: 73",
+            "Min Dex: 73",
+            "Range+: 1",
+            "Durability: 72",
+            "Soc(s): 2",
+            "+Skills: Yes",
+            "Speed: [-10] Very Fast"
+        ],
+        "baseItem": "Hand Scythe",
+        "is1h": true,
+        "cLevel": 30
+    },
+    {
+        "properties": [
+            "1H Damage: 18 To 37 (27.5 Avg)",
+            "Level: 33",
+            "Min Str: 76",
+            "Min Dex: 76",
+            "Range+: 1",
+            "Durability: 52",
+            "Soc(s): 3",
+            "+Skills: Yes",
+            "Speed: [-20] Very Fast"
+        ],
+        "baseItem": "Greater Claws",
+        "is1h": true,
+        "cLevel": 33
+    },
+    {
+        "properties": [
+            "1H Damage: 21 To 35 (28 Avg)",
+            "Level: 37",
+            "Min Str: 79",
+            "Min Dex: 79",
+            "Range+: 1",
+            "Durability: 69",
+            "Soc(s): 3",
+            "+Skills: Yes",
+            "Speed: [-30] Very Fast"
+        ],
+        "baseItem": "Greater Talons",
+        "is1h": true,
+        "cLevel": 37
+    },
+    {
+        "properties": [
+            "1H Damage: 19 To 40 (29.5 Avg)",
+            "Level: 40",
+            "Min Str: 82",
+            "Min Dex: 82",
+            "Range+: 1",
+            "Durability: 68",
+            "Soc(s): 3",
+            "+Skills: Yes",
+            "Speed: [0] Very Fast"
+        ],
+        "baseItem": "Scissors Quhab",
+        "is1h": true,
+        "cLevel": 40
+    },
+    {
+        "properties": [
+            "1H Damage: 4 To 7 (5.5 Avg)",
+            "Level: 1",
+            "Min Str: 20",
+            "Min Dex: 20",
+            "Range+: 1",
+            "Durability: 48",
+            "Soc(s): 2",
+            "+Skills: No",
+            "Speed: [-10] Very Fast"
+        ],
+        "baseItem": "Katar",
+        "is1h": true,
+        "cLevel": 1
+    },
+    {
+        "properties": [
+            "1H Damage: 5 To 9 (7 Avg)",
+            "Level: 1",
+            "Min Str: 33",
+            "Min Dex: 33",
+            "Range+: 1",
+            "Durability: 52",
+            "Soc(s): 2",
+            "+Skills: No",
+            "Speed: [0] Very Fast"
+        ],
+        "baseItem": "Wrist Blade",
+        "is1h": true,
+        "cLevel": 1
+    },
+    {
+        "properties": [
+            "1H Damage: 2 To 15 (8.5 Avg)",
+            "Level: 1",
+            "Min Str: 37",
+            "Min Dex: 37",
+            "Range+: 1",
+            "Durability: 56",
+            "Soc(s): 2",
+            "+Skills: No",
+            "Speed: [10] Fast"
+        ],
+        "baseItem": "Hatchet Hands",
+        "is1h": true,
+        "cLevel": 1
+    },
+    {
+        "properties": [
+            "1H Damage: 7 To 15 (11 Avg)",
+            "Level: 1",
+            "Min Str: 42",
+            "Min Dex: 42",
+            "Range+: 1",
+            "Durability: 72",
+            "Soc(s): 2",
+            "+Skills: No",
+            "Speed: [0] Very Fast"
+        ],
+        "baseItem": "Cestus",
+        "is1h": true,
+        "cLevel": 1
+    },
+    {
+        "properties": [
+            "1H Damage: 8 To 15 (11.5 Avg)",
+            "Level: 1",
+            "Min Str: 46",
+            "Min Dex: 46",
+            "Range+: 1",
+            "Durability: 64",
+            "Soc(s): 3",
+            "+Skills: No",
+            "Speed: [-10] Very Fast"
+        ],
+        "baseItem": "Claws",
+        "is1h": true,
+        "cLevel": 1
+    },
+    {
+        "properties": [
+            "1H Damage: 10 To 14 (12 Avg)",
+            "Level: 1",
+            "Min Str: 50",
+            "Min Dex: 50",
+            "Range+: 1",
+            "Durability: 69",
+            "Soc(s): 3",
+            "+Skills: No",
+            "Speed: [-20] Very Fast"
+        ],
+        "baseItem": "Blade Talons",
+        "is1h": true,
+        "cLevel": 1
+    },
+    {
+        "properties": [
+            "1H Damage: 9 To 17 (13 Avg)",
+            "Level: 1",
+            "Min Str: 55",
+            "Min Dex: 55",
+            "Range+: 1",
+            "Durability: 68",
+            "Soc(s): 3",
+            "+Skills: No",
+            "Speed: [-10] Very Fast"
+        ],
+        "baseItem": "Scissors Katar",
+        "is1h": true,
+        "cLevel": 1
+    },
+    {
+        "properties": [
+            "1H Damage: 2 To 5 (3.5 avg)",
+            "Level: 1",
+            "Range+: 0",
+            "Durability: 20",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Eagle Orb",
+        "is1h": true,
+        "cLevel": 1
+    },
+    {
+        "properties": [
+            "1H Damage: 3 To 8 (5.5 avg)",
+            "Level: 1",
+            "Range+: 0",
+            "Durability: 30",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Sacred Globe",
+        "is1h": true,
+        "cLevel": 1
+    },
+    {
+        "properties": [
+            "1H Damage: 4 To 10 (7 avg)",
+            "Level: 8",
+            "Range+: 0",
+            "Durability: 35",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Smoked Sphere",
+        "is1h": true,
+        "cLevel": 8
+    },
+    {
+        "properties": [
+            "1H Damage: 5 To 12 (8.5 avg)",
+            "Level: 13",
+            "Range+: 0",
+            "Durability: 40",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Clasped Orb",
+        "is1h": true,
+        "cLevel": 13
+    },
+    {
+        "properties": [
+            "1H Damage: 8 To 18 (13 avg)",
+            "Level: 18",
+            "Range+: 0",
+            "Durability: 50",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Jared's Stone",
+        "is1h": true,
+        "cLevel": 18
+    },
+    {
+        "properties": [
+            "1H Damage: 8 To 21 (14.5 Avg)",
+            "Level: 24",
+            "Range+: 0",
+            "Durability: 20",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Glowing Orb",
+        "is1h": true,
+        "cLevel": 24
+    },
+    {
+        "properties": [
+            "1H Damage: 10 To 26 (18 Avg)",
+            "Level: 27",
+            "Range+: 0",
+            "Durability: 30",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Crystalline Globe",
+        "is1h": true,
+        "cLevel": 27
+    },
+    {
+        "properties": [
+            "1H Damage: 11 To 29 (20 Avg)",
+            "Level: 30",
+            "Range+: 0",
+            "Durability: 35",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Cloudy Sphere",
+        "is1h": true,
+        "cLevel": 30
+    },
+    {
+        "properties": [
+            "1H Damage: 13 To 32 (22.5 Avg)",
+            "Level: 34",
+            "Range+: 0",
+            "Durability: 40",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Sparkling Ball",
+        "is1h": true,
+        "cLevel": 34
+    },
+    {
+        "properties": [
+            "1H Damage: 18 To 42 (30 Avg)",
+            "Level: 37",
+            "Range+: 0",
+            "Durability: 50",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Swirling Crystal",
+        "is1h": true,
+        "cLevel": 37
+    },
+    {
+        "properties": [
+            "1H Damage: 21 To 46 (33.5 avg)",
+            "Level: 44",
+            "Range+: 0",
+            "Durability: 20",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Heavenly Stone",
+        "is1h": true,
+        "cLevel": 44
+    },
+    {
+        "properties": [
+            "1H Damage: 18 To 50 (34 avg)",
+            "Level: 50",
+            "Range+: 0",
+            "Durability: 30",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Eldritch Orb",
+        "is1h": true,
+        "cLevel": 50
+    },
+    {
+        "properties": [
+            "1H Damage: 23 To 55 (39 avg)",
+            "Level: 56",
+            "Range+: 0",
+            "Durability: 35",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Demon Heart",
+        "is1h": true,
+        "cLevel": 56
+    },
+    {
+        "properties": [
+            "1H Damage: 12 To 66 (39 avg)",
+            "Level: 63",
+            "Range+: 0",
+            "Durability: 40",
+            "Soc(s): 2"
+        ],
+        "baseItem": "Vortex Orb",
+        "is1h": true,
+        "cLevel": 63
+    },
+    {
+        "properties": [
+            "1H Damage: 30 To 53 (41.5 avg)",
+            "Level: 66",
+            "Range+: 0",
+            "Durability: 50",
+            "Soc(s): 3"
+        ],
+        "baseItem": "Dimensional Shard",
+        "is1h": true,
+        "cLevel": 66
+    }
+]
