@@ -124,4 +124,38 @@ declare module '@diablorun/diablorun-data' {
       paladinShield?: boolean;
     },
   ];
+
+  export const superUniqueMonsters: {
+    [monsterName: string]: MonsterDetails;
+  };
+
+  export interface MonsterDetails {
+    additionalTriggers?: string[];
+    normal: Difficulty;
+    nightmare: Difficulty;
+    hell: Difficulty;
+    ubber?: Difficulty;
+    name: string;
+    monsterType?: string;
+    presetAttribute?: string[];
+  }
+
+  export interface Difficulty {
+    resistances: Resistances;
+    minions?: number;
+    hp: string;
+    drain: string;
+    location: string;
+    level: number;
+    rune?: string;
+  }
+
+  export interface Resistances {
+    cold: number;
+    fire: number;
+    light: number;
+    magic: number;
+    phys: number;
+    poison: number;
+  }
 }

@@ -17,6 +17,7 @@ module.exports = {
   runewords: require('./runewords.json'),
   setItems: require('./set-items.json'),
   sets: require('./sets.json'),
+  superUniqueMonsters: require('./super-unique-monsters.json'),
   skills: require('./skills.json'),
   stats: require('./stats.json'),
   unids: require('./unids.json'),

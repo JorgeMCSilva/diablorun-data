@@ -1,0 +1,3623 @@
+{
+    "Corpsefire": {
+        "monsterType": "Zombie",
+        "normal": {
+            "resistances": {
+                "cold": 20,
+                "fire": 20,
+                "light": 20,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "minions": 5,
+            "hp": "28 - 48",
+            "drain": "100%",
+            "location": "Den of Evil",
+            "level": 4
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 20,
+                "fire": 20,
+                "light": 20,
+                "magic": 0,
+                "phys": 0,
+                "poison": 75
+            },
+            "minions": 6,
+            "hp": "1653 - 2361",
+            "drain": "75%",
+            "location": "Den of Evil",
+            "rune": "Io",
+            "level": 39
+        },
+        "hell": {
+            "resistances": {
+                "cold": 120,
+                "fire": 20,
+                "light": 20,
+                "magic": 0,
+                "phys": 50,
+                "poison": 75
+            },
+            "minions": 7,
+            "hp": "11532 - 16476",
+            "drain": "50%",
+            "location": "Den of Evil",
+            "rune": "Cham",
+            "level": 82
+        },
+        "name": "Corpsefire",
+        "presetAttribute": [
+            "Spectral Hit"
+        ]
+    },
+    "Bishibosh": {
+        "monsterType": "Fallen Shaman",
+        "normal": {
+            "resistances": {
+                "cold": 40,
+                "fire": 140,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 2,
+            "hp": "20 - 36",
+            "drain": "100%",
+            "location": "Cold Plains",
+            "level": 5
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 40,
+                "fire": 165,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 3,
+            "hp": "864 - 1416",
+            "drain": "75%",
+            "location": "Cold Plains",
+            "rune": "Io",
+            "level": 39
+        },
+        "hell": {
+            "resistances": {
+                "cold": 40,
+                "fire": 175,
+                "light": 40,
+                "magic": 0,
+                "phys": 15,
+                "poison": 0
+            },
+            "minions": 4,
+            "hp": "4648 - 7608",
+            "drain": "66%",
+            "location": "Cold Plains",
+            "rune": "Lo",
+            "level": 71
+        },
+        "name": "Bishibosh",
+        "presetAttribute": [
+            "Magic Resistant",
+            "Fire Enchanted"
+        ]
+    },
+    "Blood Raven": {
+        "monsterType": "Corrupt Rogue Archer",
+        "normal": {
+            "resistances": {
+                "cold": 50,
+                "fire": 50,
+                "light": 50,
+                "magic": 50,
+                "phys": 0,
+                "poison": 50
+            },
+            "hp": "113",
+            "drain": "100%",
+            "location": "Burial Grounds",
+            "level": 10
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 50,
+                "fire": 50,
+                "light": 50,
+                "magic": 50,
+                "phys": 25,
+                "poison": 50
+            },
+            "hp": "9832",
+            "drain": "85%",
+            "location": "Burial Grounds",
+            "rune": "Io",
+            "level": 43
+        },
+        "hell": {
+            "resistances": {
+                "cold": 50,
+                "fire": 50,
+                "light": 50,
+                "magic": 50,
+                "phys": 50,
+                "poison": 50
+            },
+            "hp": "57829",
+            "drain": "75%",
+            "location": "Burial Grounds",
+            "rune": "Vex",
+            "level": 88
+        },
+        "name": "Blood Raven"
+    },
+    "Bonebreaker": {
+        "monsterType": "Skeleton",
+        "normal": {
+            "resistances": {
+                "cold": 40,
+                "fire": 40,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "minions": 5,
+            "hp": "28 - 44",
+            "drain": "0%",
+            "location": "Crypt",
+            "level": 5
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 40,
+                "fire": 40,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 75
+            },
+            "minions": 6,
+            "hp": "1173 - 1677",
+            "drain": "0%",
+            "location": "Crypt",
+            "rune": "Io",
+            "level": 40
+        },
+        "hell": {
+            "resistances": {
+                "cold": 40,
+                "fire": 40,
+                "light": 100,
+                "magic": 0,
+                "phys": 33,
+                "poison": 75
+            },
+            "minions": 7,
+            "hp": "5916 - 8454",
+            "drain": "0%",
+            "location": "Crypt",
+            "rune": "Cham",
+            "level": 86
+        },
+        "name": "Bonebreaker",
+        "presetAttribute": [
+            "Extra Strong",
+            "Magic Resistant"
+        ]
+    },
+    "Coldcrow": {
+        "monsterType": "Dark Ranger",
+        "normal": {
+            "resistances": {
+                "cold": 75,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 4,
+            "hp": "52 - 76",
+            "drain": "100%",
+            "location": "Cave",
+            "level": 7
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 75,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 5,
+            "hp": "921 - 1593",
+            "drain": "100%",
+            "location": "Cave",
+            "rune": "Io",
+            "level": 39
+        },
+        "hell": {
+            "resistances": {
+                "cold": 100,
+                "fire": 25,
+                "light": 100,
+                "magic": 0,
+                "phys": 15,
+                "poison": 0
+            },
+            "minions": 6,
+            "hp": "4648 - 8030",
+            "drain": "100%",
+            "location": "Cave",
+            "rune": "Cham",
+            "level": 80
+        },
+        "name": "Coldcrow",
+        "presetAttribute": [
+            "Cold Enchanted"
+        ]
+    },
+    "Rakanishu": {
+        "monsterType": "Carver",
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 75,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "16 - 36",
+            "drain": "100%",
+            "location": "Stony Field",
+            "level": 8
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 75,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "444 - 978",
+            "drain": "85%",
+            "location": "Stony Field",
+            "rune": "Io",
+            "level": 40
+        },
+        "hell": {
+            "resistances": {
+                "cold": 40,
+                "fire": 110,
+                "light": 75,
+                "magic": 0,
+                "phys": 15,
+                "poison": 0
+            },
+            "hp": "2112 - 4648",
+            "drain": "75%",
+            "location": "Stony Field",
+            "rune": "Lo",
+            "level": 71
+        },
+        "name": "Rakanishu",
+        "presetAttribute": [
+            "Lightning Enchanted",
+            "Extra Fast"
+        ]
+    },
+    "Treehead Woodfist": {
+        "monsterType": "Brute",
+        "additionalTriggers": [
+            "Treehead"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 2,
+            "hp": "92 - 152",
+            "drain": "100%",
+            "location": "Dark Wood",
+            "level": 8
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 3,
+            "hp": "2577 - 3735",
+            "drain": "100%",
+            "location": "Dark Wood",
+            "rune": "Io",
+            "level": 41
+        },
+        "hell": {
+            "resistances": {
+                "cold": 120,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 50,
+                "poison": 0
+            },
+            "minions": 4,
+            "hp": "12590 - 18236",
+            "drain": "100%",
+            "location": "Dark Wood",
+            "rune": "Lo",
+            "level": 71
+        },
+        "name": "Treehead Woodfist",
+        "presetAttribute": [
+            "Extra Strong",
+            "Extra Fast"
+        ]
+    },
+    "Griswold": {
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "hp": "412",
+            "drain": "100%",
+            "location": "Tristram",
+            "level": 8
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "hp": "11436",
+            "drain": "85%",
+            "location": "Tristram",
+            "rune": "Vex",
+            "level": 42
+        },
+        "hell": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 50,
+                "magic": 0,
+                "phys": 50,
+                "poison": 120
+            },
+            "hp": "73774",
+            "drain": "66%",
+            "location": "Tristram",
+            "rune": "Vex",
+            "level": 79
+        },
+        "name": "Griswold",
+        "presetAttribute": [
+            "Cursed"
+        ]
+    },
+    "The Countess": {
+        "monsterType": "Dark Stalker",
+        "additionalTriggers": [
+            "Countess"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 75,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "96 - 161",
+            "drain": "100%",
+            "location": "Forgotten Tower",
+            "rune": "Ral",
+            "level": 11
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "1497 - 2496",
+            "drain": "100%",
+            "location": "Forgotten Tower",
+            "rune": "Ko",
+            "level": 45
+        },
+        "hell": {
+            "resistances": {
+                "cold": 130,
+                "fire": 108,
+                "light": 33,
+                "magic": 20,
+                "phys": 20,
+                "poison": 20
+            },
+            "hp": "7004 - 11674",
+            "drain": "100%",
+            "location": "Forgotten Tower",
+            "rune": "Lo",
+            "level": 82
+        },
+        "name": "The Countess",
+        "presetAttribute": [
+            "Fire Enchanted"
+        ]
+    },
+    "Pitspawn Fouldog": {
+        "additionalTriggers": [
+            "Pitspawn",
+            "Fouldog"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 75,
+                "fire": 0,
+                "light": 60,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 4,
+            "hp": "96 - 184",
+            "drain": "100%",
+            "location": "Jail",
+            "level": 14
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 75,
+                "fire": 0,
+                "light": 80,
+                "magic": 0,
+                "phys": 0,
+                "poison": 75
+            },
+            "minions": 5,
+            "hp": "1419 - 2622",
+            "drain": "85%",
+            "location": "Jail",
+            "rune": "Ko",
+            "level": 44
+        },
+        "hell": {
+            "resistances": {
+                "cold": 75,
+                "fire": 0,
+                "light": 105,
+                "magic": 0,
+                "phys": 25,
+                "poison": 0
+            },
+            "minions": 6,
+            "hp": "6092 - 11248",
+            "drain": "75%",
+            "location": "Jail",
+            "rune": "Ber",
+            "level": 74
+        },
+        "name": "Pitspawn Fouldog",
+        "monsterType": "Tainted",
+        "presetAttribute": [
+            "Cursed",
+            "Cold Enchanted"
+        ]
+    },
+    "Flamespike the Crawler": {
+        "additionalTriggers": [
+            "Flamespike"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 75,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 6,
+            "hp": "24 - 104",
+            "drain": "100%",
+            "location": "Inner Cloister",
+            "level": 12
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 75,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 7,
+            "hp": "396 - 1386",
+            "drain": "100%",
+            "location": "Inner Cloister",
+            "level": 44
+        },
+        "hell": {
+            "resistances": {
+                "cold": 50,
+                "fire": 75,
+                "light": 0,
+                "magic": 0,
+                "phys": 50,
+                "poison": 0
+            },
+            "minions": 8,
+            "hp": "1782 - 6238",
+            "drain": "100%",
+            "location": "Inner Cloister",
+            "level": 75
+        },
+        "name": "Flamespike the Crawler",
+        "monsterType": "Razor Spine",
+        "presetAttribute": [
+            "Fire Enchanted",
+            "Cursed"
+        ]
+    },
+    "Bone Ash": {
+        "normal": {
+            "resistances": {
+                "cold": 115,
+                "fire": 40,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 70
+            },
+            "hp": "108 - 152",
+            "drain": "0%",
+            "location": "Cathedral",
+            "level": 17
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 115,
+                "fire": 40,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 60
+            },
+            "hp": "1314 - 1911",
+            "drain": "0%",
+            "location": "Cathedral",
+            "rune": "Ko",
+            "level": 45
+        },
+        "hell": {
+            "resistances": {
+                "cold": 130,
+                "fire": 40,
+                "light": 40,
+                "magic": 0,
+                "phys": 33,
+                "poison": 75
+            },
+            "hp": "6040 - 8786",
+            "drain": "0%",
+            "location": "Cathedral",
+            "rune": "Ber",
+            "level": 75
+        },
+        "name": "Bone Ash",
+        "monsterType": "Burning Dead Mage",
+        "presetAttribute": [
+            "Magic Resistant",
+            "Extra Strong",
+            "Cold Enchanted"
+        ]
+    },
+    "The Smith": {
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": -50
+            },
+            "hp": "404",
+            "drain": "100%",
+            "location": "Barracks",
+            "level": 13
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 25,
+                "light": 0,
+                "magic": 0,
+                "phys": 10,
+                "poison": -50
+            },
+            "hp": "8748 - 9840",
+            "drain": "85%",
+            "location": "Barracks",
+            "rune": "Vex",
+            "level": 43
+        },
+        "hell": {
+            "resistances": {
+                "cold": 0,
+                "fire": 50,
+                "light": 0,
+                "magic": 0,
+                "phys": 25,
+                "poison": -50
+            },
+            "hp": "43936 - 49428",
+            "drain": "66%",
+            "location": "Barracks",
+            "rune": "Vex",
+            "level": 73
+        },
+        "name": "The Smith",
+        "monsterType": "",
+        "presetAttribute": [
+            "Extra Strong"
+        ]
+    },
+    "The Cow King": {
+        "additionalTriggers": [
+            "Cow King"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 40,
+                "fire": 40,
+                "light": 115,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 6,
+            "hp": "636 - 1368",
+            "drain": "100%",
+            "location": "Secret Cow Level",
+            "level": 31
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 65,
+                "fire": 65,
+                "light": 140,
+                "magic": 15,
+                "phys": 33,
+                "poison": 25
+            },
+            "minions": 7,
+            "hp": "9099 - 11169",
+            "drain": "75%",
+            "location": "Secret Cow Level",
+            "rune": "Vex",
+            "level": 67
+        },
+        "hell": {
+            "resistances": {
+                "cold": 90,
+                "fire": 90,
+                "light": 165,
+                "magic": 33,
+                "phys": 50,
+                "poison": 33
+            },
+            "minions": 8,
+            "hp": "25176 - 30898",
+            "drain": "66%",
+            "location": "Secret Cow Level",
+            "rune": "Vex",
+            "level": 84
+        },
+        "name": "The Cow King",
+        "monsterType": "Hell Bovine",
+        "presetAttribute": [
+            "Magic Resistant",
+            "Lightning Enchanted"
+        ]
+    },
+    "Andariel": {
+        "normal": {
+            "resistances": {
+                "cold": 50,
+                "fire": -50,
+                "light": 50,
+                "magic": 0,
+                "phys": 0,
+                "poison": 80
+            },
+            "hp": "1024",
+            "drain": "100%",
+            "location": "Catacombs",
+            "rune": "Nef",
+            "level": 12
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 50,
+                "fire": -50,
+                "light": 50,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "hp": "24800",
+            "drain": "66%",
+            "location": "Catacombs",
+            "rune": "Ko",
+            "level": 49
+        },
+        "hell": {
+            "resistances": {
+                "cold": 66,
+                "fire": -50,
+                "light": 66,
+                "magic": 0,
+                "phys": 66,
+                "poison": 66
+            },
+            "hp": "60031",
+            "drain": "33%",
+            "location": "Catacombs",
+            "rune": "Lo",
+            "level": 75
+        },
+        "ubber": {
+            "resistances": {
+                "cold": 75,
+                "fire": 75,
+                "light": 75,
+                "magic": 75,
+                "phys": 66,
+                "poison": 185
+            },
+            "hp": "650000-660000",
+            "drain": "33%",
+            "location": "Matron's Den",
+            "level": 110
+        },
+        "name": "Andariel",
+        "monsterType": "Demon"
+    },
+    "Radament": {
+        "normal": {
+            "resistances": {
+                "cold": 40,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "minions": 3,
+            "hp": "1112",
+            "drain": "100%",
+            "location": "Sewers",
+            "rune": "Ral",
+            "level": 19
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 60,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 60
+            },
+            "minions": 4,
+            "hp": "14520",
+            "drain": "75%",
+            "location": "Sewers",
+            "rune": "Lem",
+            "level": 47
+        },
+        "hell": {
+            "resistances": {
+                "cold": 60,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 50,
+                "poison": 80
+            },
+            "minions": 5,
+            "hp": "59520",
+            "drain": "50%",
+            "location": "Sewers",
+            "rune": "Ber",
+            "level": 78
+        },
+        "name": "Radament",
+        "monsterType": "Greater Mummy",
+        "presetAttribute": [
+            "Extra Fast"
+        ]
+    },
+    "Creeping Feature": {
+        "additionalTriggers": [
+            "Creeping"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 75,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 70
+            },
+            "minions": 5,
+            "hp": "140 - 324",
+            "drain": "100%",
+            "location": "Stony Tomb",
+            "rune": "Nef",
+            "level": 18
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 75,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 80
+            },
+            "minions": 6,
+            "hp": "2391 - 3345",
+            "drain": "66%",
+            "location": "Stony Tomb",
+            "rune": "Lem",
+            "level": 47
+        },
+        "hell": {
+            "resistances": {
+                "cold": 108,
+                "fire": 0,
+                "light": 33,
+                "magic": 0,
+                "phys": 50,
+                "poison": 100
+            },
+            "minions": 7,
+            "hp": "10984 - 15376",
+            "drain": "33%",
+            "location": "Stony Tomb",
+            "rune": "Cham",
+            "level": 82
+        },
+        "name": "Creeping Feature",
+        "monsterType": "Decayed",
+        "presetAttribute": [
+            "Extra Strong",
+            "Cold Enchanted"
+        ]
+    },
+    "Bloodwitch the Wild": {
+        "additionalTriggers": [
+            "Bloodwitch"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 5,
+            "hp": "108 - 184",
+            "drain": "100%",
+            "location": "Halls of the Dead",
+            "rune": "Nef",
+            "level": 17
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 6,
+            "hp": "1374 - 2292",
+            "drain": "100%",
+            "location": "Halls of the Dead",
+            "rune": "Lem",
+            "level": 48
+        },
+        "hell": {
+            "resistances": {
+                "cold": 100,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 15,
+                "poison": 0
+            },
+            "minions": 7,
+            "hp": "6038 - 10064",
+            "drain": "100%",
+            "location": "Halls of the Dead",
+            "rune": "Cham",
+            "level": 85
+        },
+        "name": "Bloodwitch the Wild",
+        "monsterType": "Huntress",
+        "presetAttribute": [
+            "Extra Strong",
+            "Cursed"
+        ]
+    },
+    "Beetleburst": {
+        "normal": {
+            "resistances": {
+                "cold": 40,
+                "fire": 40,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 3,
+            "hp": "152 - 248",
+            "drain": "100%",
+            "location": "Far Oasis",
+            "rune": "Nef",
+            "level": 17
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 40,
+                "fire": 40,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 4,
+            "hp": "1746 - 2745",
+            "drain": "75%",
+            "location": "Far Oasis",
+            "rune": "Lem",
+            "level": 48
+        },
+        "hell": {
+            "resistances": {
+                "cold": 40,
+                "fire": 40,
+                "light": 105,
+                "magic": 0,
+                "phys": 50,
+                "poison": 0
+            },
+            "minions": 5,
+            "hp": "7204 - 11322",
+            "drain": "50%",
+            "location": "Far Oasis",
+            "rune": "Cham",
+            "level": 85
+        },
+        "name": "Beetleburst",
+        "monsterType": "Scarab Demon",
+        "presetAttribute": [
+            "Magic Resistant"
+        ]
+    },
+    "Sand Maggot Queen": {
+        "additionalTriggers": [
+            "Maggot Queen"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 115,
+                "fire": 40,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "228 - 372",
+            "drain": "100%",
+            "location": "Maggot Lair",
+            "rune": "Nef",
+            "level": 14
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 115,
+                "fire": 40,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "5721 - 7020",
+            "drain": "75%",
+            "location": "Maggot Lair",
+            "rune": "Lem",
+            "level": 49
+        },
+        "hell": {
+            "resistances": {
+                "cold": 115,
+                "fire": 40,
+                "light": 40,
+                "magic": 0,
+                "phys": 50,
+                "poison": 120
+            },
+            "hp": "25176 - 30898",
+            "drain": "50%",
+            "location": "Maggot Lair",
+            "rune": "Zod",
+            "level": 88
+        },
+        "name": "Coldworm the Burrower",
+        "monsterType": "Sand Maggot Queen",
+        "presetAttribute": [
+            "Cold Enchanted",
+            "Magic Resistant"
+        ]
+    },
+    "Dark Elder": {
+        "normal": {
+            "resistances": {
+                "cold": 40,
+                "fire": 40,
+                "light": 40,
+                "magic": 50,
+                "phys": 0,
+                "poison": 50
+            },
+            "minions": 4,
+            "hp": "260 - 460",
+            "drain": "100%",
+            "location": "Lost City",
+            "rune": "Nef",
+            "level": 20
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 40,
+                "fire": 40,
+                "light": 40,
+                "magic": 75,
+                "phys": 0,
+                "poison": 75
+            },
+            "minions": 5,
+            "hp": "2730 - 3900",
+            "drain": "75%",
+            "location": "Lost City",
+            "rune": "Lem",
+            "level": 49
+        },
+        "hell": {
+            "resistances": {
+                "cold": 40,
+                "fire": 40,
+                "light": 40,
+                "magic": 100,
+                "phys": 50,
+                "poison": 75
+            },
+            "minions": 6,
+            "hp": "11050 - 15786",
+            "drain": "50%",
+            "location": "Lost City",
+            "rune": "Cham",
+            "level": 80
+        },
+        "name": "Dark Elder",
+        "monsterType": "Plague Bearer",
+        "presetAttribute": [
+            "Extra Fast",
+            "Magic Resistant"
+        ]
+    },
+    "Fangskin": {
+        "normal": {
+            "resistances": {
+                "cold": 40,
+                "fire": 0,
+                "light": 75,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 4,
+            "hp": "168 - 276",
+            "drain": "100%",
+            "location": "Claw Viper Temple",
+            "rune": "Nef",
+            "level": 21
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 70,
+                "fire": 0,
+                "light": 75,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 5,
+            "hp": "1950 - 2859",
+            "drain": "75%",
+            "location": "Claw Viper Temple",
+            "rune": "Lem",
+            "level": 50
+        },
+        "hell": {
+            "resistances": {
+                "cold": 110,
+                "fire": 33,
+                "light": 75,
+                "magic": 0,
+                "phys": 40,
+                "poison": 0
+            },
+            "minions": 6,
+            "hp": "7892 - 11576",
+            "drain": "50%",
+            "location": "Claw Viper Temple",
+            "rune": "Cham",
+            "level": 86
+        },
+        "name": "Fangskin",
+        "monsterType": "Salamander",
+        "presetAttribute": [
+            "Lightning Enchanted",
+            "Extra Fast"
+        ]
+    },
+    "Fire Eye": {
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 75,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 3,
+            "hp": "344 - 540",
+            "drain": "100%",
+            "location": "Palace Cellar",
+            "rune": "Nef",
+            "level": 21
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 75,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 4,
+            "hp": "3645 - 4860",
+            "drain": "75%",
+            "location": "Palace Cellar",
+            "rune": "Lem",
+            "level": 51
+        },
+        "hell": {
+            "resistances": {
+                "cold": 0,
+                "fire": 185,
+                "light": 50,
+                "magic": 0,
+                "phys": 25,
+                "poison": 33
+            },
+            "minions": 5,
+            "hp": "14516 - 19356",
+            "drain": "66%",
+            "location": "Palace Cellar",
+            "rune": "Cham",
+            "level": 81
+        },
+        "name": "Fire Eye",
+        "monsterType": "Invader",
+        "presetAttribute": [
+            "Fire Enchanted",
+            "Extra Fast"
+        ]
+    },
+    "The Summoner": {
+        "additionalTriggers": [
+            "Summoner"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 75,
+                "fire": 30,
+                "light": 30,
+                "magic": 30,
+                "phys": 30,
+                "poison": 30
+            },
+            "hp": "82 - 110",
+            "drain": "100%",
+            "location": "Arcane Sanctuary",
+            "rune": "Nef",
+            "level": 18
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 75,
+                "fire": 30,
+                "light": 30,
+                "magic": 30,
+                "phys": 30,
+                "poison": 30
+            },
+            "hp": "1290 - 1642",
+            "drain": "75%",
+            "location": "Arcane Sanctuary",
+            "rune": "Ko",
+            "level": 51
+        },
+        "hell": {
+            "resistances": {
+                "cold": 75,
+                "fire": 30,
+                "light": 30,
+                "magic": 30,
+                "phys": 30,
+                "poison": 30
+            },
+            "hp": "6167 - 7849",
+            "drain": "50%",
+            "location": "Arcane Sanctuary",
+            "rune": "Lo",
+            "level": 82
+        },
+        "name": "The Summoner",
+        "monsterType": "",
+        "presetAttribute": [
+            "Extra Strong",
+            "Extra Fast"
+        ]
+    },
+    "Ancient Kaa the Soulless": {
+        "additionalTriggers": [
+            "kaa"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 75,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "minions": 3,
+            "hp": "560 - 688",
+            "drain": "100%",
+            "location": "Arcane Sanctuary",
+            "rune": "Ral",
+            "level": 22
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 75,
+                "magic": 50,
+                "phys": 0,
+                "poison": 50
+            },
+            "minions": 4,
+            "hp": "4935 - 6096",
+            "drain": "66%",
+            "location": "Arcane Sanctuary",
+            "rune": "Um",
+            "level": 52
+        },
+        "hell": {
+            "resistances": {
+                "cold": 100,
+                "fire": 20,
+                "light": 95,
+                "magic": 100,
+                "phys": 33,
+                "poison": 50
+            },
+            "minions": 5,
+            "hp": "19062 - 23548",
+            "drain": "33%",
+            "location": "Arcane Sanctuary",
+            "rune": "Cham",
+            "level": 83
+        },
+        "name": "Ancient Kaa the Soulless",
+        "monsterType": "Greater Mummy",
+        "presetAttribute": [
+            "Mana Burn",
+            "Extra Strong",
+            "Lightning Enchanted"
+        ]
+    },
+    "Duriel": {
+        "normal": {
+            "resistances": {
+                "cold": 50,
+                "fire": 20,
+                "light": 20,
+                "magic": 0,
+                "phys": 0,
+                "poison": 20
+            },
+            "hp": "3995",
+            "drain": "100%",
+            "location": "Tal Rasha's Chamber",
+            "rune": "Ral",
+            "level": 22
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 75,
+                "fire": 50,
+                "light": 50,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "hp": "55799",
+            "drain": "100%",
+            "location": "Tal Rasha's Chamber",
+            "rune": "Lem",
+            "level": 55
+        },
+        "hell": {
+            "resistances": {
+                "cold": 95,
+                "fire": 75,
+                "light": 75,
+                "magic": 33,
+                "phys": 50,
+                "poison": 75
+            },
+            "hp": "84524",
+            "drain": "100%",
+            "location": "Tal Rasha's Chamber",
+            "rune": "Ber",
+            "level": 88
+        },
+        "ubber": {
+            "resistances": {
+                "cold": 150,
+                "fire": 75,
+                "light": 75,
+                "magic": 75,
+                "phys": 50,
+                "poison": 75
+            },
+            "hp": "650000-660000",
+            "drain": "100%",
+            "location": "Forgotten Sands",
+            "level": 110
+        },
+        "name": "Duriel",
+        "monsterType": "Demon"
+    },
+    "Sszark the Burning": {
+        "additionalTriggers": [
+            "Sszark"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 5,
+            "hp": "504 - 644",
+            "drain": "100%",
+            "location": "Spider Cavern",
+            "rune": "Ral",
+            "level": 25
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 6,
+            "hp": "4512 - 5715",
+            "drain": "75%",
+            "location": "Spider Cavern",
+            "rune": "Um",
+            "level": 53
+        },
+        "hell": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 115,
+                "magic": 0,
+                "phys": 50,
+                "poison": 60
+            },
+            "minions": 7,
+            "hp": "16476 - 20868",
+            "drain": "50%",
+            "location": "Spider Cavern",
+            "rune": "Cham",
+            "level": 82
+        },
+        "name": "Sszark the Burning",
+        "monsterType": "Flame Spider",
+        "presetAttribute": [
+            "Extra Strong",
+            "Cursed"
+        ]
+    },
+    "Soul Killer Shaman": {
+        "additionalTriggers": [
+            "Soul Killer"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 40,
+                "fire": 115,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 6,
+            "hp": "244 - 400",
+            "drain": "100%",
+            "location": "Flayer Dungeon",
+            "rune": "Ral",
+            "level": 27
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 40,
+                "fire": 115,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 7,
+            "hp": "2022 - 3264",
+            "drain": "100%",
+            "location": "Flayer Dungeon",
+            "rune": "Um",
+            "level": 54
+        },
+        "hell": {
+            "resistances": {
+                "cold": 40,
+                "fire": 195,
+                "light": 65,
+                "magic": 25,
+                "phys": 25,
+                "poison": 50
+            },
+            "minions": 8,
+            "hp": "7588 - 12256",
+            "drain": "100%",
+            "location": "Flayer Dungeon",
+            "rune": "Cham",
+            "level": 85
+        },
+        "name": "Witch Doctor Endugu",
+        "monsterType": "Soul Killer Shaman",
+        "presetAttribute": [
+            "Magic Resistant",
+            "Fire Enchanted"
+        ]
+    },
+    "Stormtree": {
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 75,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 4,
+            "hp": "544 - 880",
+            "drain": "100%",
+            "location": "Flayer Jungle",
+            "rune": "Ral",
+            "level": 26
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 75,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 5,
+            "hp": "6102 - 7389",
+            "drain": "85%",
+            "location": "Flayer Jungle",
+            "rune": "Um",
+            "level": 53
+        },
+        "hell": {
+            "resistances": {
+                "cold": 140,
+                "fire": 0,
+                "light": 75,
+                "magic": 0,
+                "phys": 25,
+                "poison": 0
+            },
+            "minions": 6,
+            "hp": "21742 - 26320",
+            "drain": "75%",
+            "location": "Flayer Jungle",
+            "rune": "Cham",
+            "level": 83
+        },
+        "name": "Stormtree",
+        "monsterType": "Thrasher",
+        "presetAttribute": [
+            "Extra Fast",
+            "Lightning Enchanted"
+        ]
+    },
+    "Battlemaid Sarina": {
+        "additionalTriggers": [
+            "Sarina"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 20,
+                "fire": 20,
+                "light": 20,
+                "magic": 0,
+                "phys": 20,
+                "poison": 0
+            },
+            "minions": 9,
+            "hp": "228 - 380",
+            "drain": "100%",
+            "location": "Ruined Temple",
+            "rune": "Ral",
+            "level": 26
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 20,
+                "fire": 20,
+                "light": 20,
+                "magic": 0,
+                "phys": 20,
+                "poison": 0
+            },
+            "minions": 10,
+            "hp": "1989 - 3315",
+            "drain": "100%",
+            "location": "Ruined Temple",
+            "rune": "Um",
+            "level": 56
+        },
+        "hell": {
+            "resistances": {
+                "cold": 150,
+                "fire": 53,
+                "light": 53,
+                "magic": 20,
+                "phys": 40,
+                "poison": 20
+            },
+            "minions": 11,
+            "hp": "7280 - 12134",
+            "drain": "100%",
+            "location": "Ruined Temple",
+            "rune": "Cham",
+            "level": 87
+        },
+        "name": "Battlemaid Sarina",
+        "monsterType": "Flesh Hunter",
+        "presetAttribute": [
+            "Extra Fast",
+            "Spectral Hit"
+        ]
+    },
+    "Icehawk Riftwing": {
+        "additionalTriggers": [
+            "Riftwing",
+            "Icehawk"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 75,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 7,
+            "hp": "144 - 504",
+            "drain": "100%",
+            "location": "Kurast Sewers",
+            "rune": "Ral",
+            "level": 25
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 75,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 8,
+            "hp": "2175 - 3420",
+            "drain": "85%",
+            "location": "Kurast Sewers",
+            "rune": "Um",
+            "level": 55
+        },
+        "hell": {
+            "resistances": {
+                "cold": 175,
+                "fire": 0,
+                "light": 0,
+                "magic": 25,
+                "phys": 15,
+                "poison": 0
+            },
+            "minions": 9,
+            "hp": "8010 - 12588",
+            "drain": "75%",
+            "location": "Kurast Sewers",
+            "rune": "Cham",
+            "level": 87
+        },
+        "name": "Icehawk Riftwing",
+        "monsterType": "Gloombat",
+        "presetAttribute": [
+            "Cold Enchanted",
+            "Teleporting"
+        ]
+    },
+    "Ismail Vilehand": {
+        "additionalTriggers": [
+            "Ismail",
+            "Vilehand"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 2,
+            "hp": "764 - 1524",
+            "drain": "100%",
+            "location": "Travincal",
+            "rune": "Sol",
+            "level": 28
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 3,
+            "hp": "7248 - 12684",
+            "drain": "85%",
+            "location": "Travincal",
+            "rune": "Um",
+            "level": 57
+        },
+        "hell": {
+            "resistances": {
+                "cold": 33,
+                "fire": 120,
+                "light": 33,
+                "magic": 0,
+                "phys": 50,
+                "poison": 33
+            },
+            "minions": 4,
+            "hp": "26108 - 45688",
+            "drain": "66%",
+            "location": "Travincal",
+            "rune": "Cham",
+            "level": 85
+        },
+        "name": "Ismail Vilehand",
+        "monsterType": "Council Member",
+        "presetAttribute": [
+            "Extra Fast",
+            "Cursed"
+        ]
+    },
+    "Geleb Flamefinger": {
+        "additionalTriggers": [
+            "Geleb",
+            "Flamefinger"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 75,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 2,
+            "hp": "764 - 1524",
+            "drain": "100%",
+            "location": "Travincal",
+            "rune": "Sol",
+            "level": 28
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 75,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 3,
+            "hp": "7248 - 12684",
+            "drain": "85%",
+            "location": "Travincal",
+            "rune": "Um",
+            "level": 57
+        },
+        "hell": {
+            "resistances": {
+                "cold": 33,
+                "fire": 108,
+                "light": 100,
+                "magic": 0,
+                "phys": 50,
+                "poison": 33
+            },
+            "minions": 4,
+            "hp": "26108 - 45688",
+            "drain": "66%",
+            "location": "Travincal",
+            "rune": "Cham",
+            "level": 85
+        },
+        "name": "Geleb Flamefinger",
+        "monsterType": "Council Member",
+        "presetAttribute": [
+            "Extra Strong",
+            "Fire Enchanted"
+        ]
+    },
+    "Toorc Icefist": {
+        "additionalTriggers": [
+            "Toorc",
+            "Icefist"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 75,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "764 - 1524",
+            "drain": "100%",
+            "location": "Travincal",
+            "rune": "Sol",
+            "level": 28
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 75,
+                "fire": 75,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "7248 - 12684",
+            "drain": "85%",
+            "location": "Travincal",
+            "rune": "Um",
+            "level": 57
+        },
+        "hell": {
+            "resistances": {
+                "cold": 108,
+                "fire": 120,
+                "light": 33,
+                "magic": 0,
+                "phys": 50,
+                "poison": 33
+            },
+            "hp": "26108 - 45688",
+            "drain": "66%",
+            "location": "Travincal",
+            "rune": "Cham",
+            "level": 85
+        },
+        "name": "Toorc Icefist",
+        "monsterType": "Council Member",
+        "presetAttribute": [
+            "Cold Enchanted",
+            "Stone Skin"
+        ]
+    },
+    "Bremm Sparkfist": {
+        "additionalTriggers": [
+            "Bremm",
+            "Sparkfist"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 75,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 2,
+            "hp": "764 - 1524",
+            "drain": "100%",
+            "location": "Durance of Hate",
+            "rune": "Sol",
+            "level": 28
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 75,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 3,
+            "hp": "7248 - 12684",
+            "drain": "85%",
+            "location": "Durance of Hate",
+            "rune": "Um",
+            "level": 58
+        },
+        "hell": {
+            "resistances": {
+                "cold": 32,
+                "fire": 33,
+                "light": 175,
+                "magic": 0,
+                "phys": 50,
+                "poison": 33
+            },
+            "minions": 4,
+            "hp": "26108 - 45688",
+            "drain": "66%",
+            "location": "Durance of Hate",
+            "rune": "Cham",
+            "level": 86
+        },
+        "name": "Bremm Sparkfist",
+        "monsterType": "Council Member",
+        "presetAttribute": [
+            "Aura Enchanted",
+            "Lightning Enchanted"
+        ]
+    },
+    "Maffer Dragonhand": {
+        "additionalTriggers": [
+            "Maffer",
+            "Dragonhand"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "764 - 1524",
+            "drain": "100%",
+            "location": "Durance of Hate",
+            "rune": "Sol",
+            "level": 28
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "7248 - 12684",
+            "drain": "85%",
+            "location": "Durance of Hate",
+            "rune": "Um",
+            "level": 58
+        },
+        "hell": {
+            "resistances": {
+                "cold": 33,
+                "fire": 33,
+                "light": 100,
+                "magic": 0,
+                "phys": 50,
+                "poison": 33
+            },
+            "hp": "26108 - 45688",
+            "drain": "66%",
+            "location": "Durance of Hate",
+            "rune": "Cham",
+            "level": 86
+        },
+        "name": "Maffer Dragonhand",
+        "monsterType": "Council Member",
+        "presetAttribute": [
+            "Extra Strong",
+            "Extra Fast"
+        ]
+    },
+    "Wyand Voidbringer": {
+        "additionalTriggers": [
+            "Wyand",
+            "Voidbringer"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "764 - 1524",
+            "drain": "100%",
+            "location": "Durance of Hate",
+            "rune": "Sol",
+            "level": 28
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "7248 - 12684",
+            "drain": "85%",
+            "location": "Durance of Hate",
+            "rune": "Um",
+            "level": 58
+        },
+        "hell": {
+            "resistances": {
+                "cold": 33,
+                "fire": 33,
+                "light": 100,
+                "magic": 0,
+                "phys": 50,
+                "poison": 33
+            },
+            "hp": "26108 - 45688",
+            "drain": "66%",
+            "location": "Durance of Hate",
+            "rune": "Cham",
+            "level": 86
+        },
+        "name": "Wyand Voidbringer",
+        "monsterType": "Council Member",
+        "presetAttribute": [
+            "Mana Burn",
+            "Teleporting"
+        ]
+    },
+    "Mephisto": {
+        "normal": {
+            "resistances": {
+                "cold": 25,
+                "fire": 33,
+                "light": 33,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "hp": "6036",
+            "drain": "100%",
+            "location": "Durance of Hate",
+            "rune": "Sol",
+            "level": 26
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 25,
+                "fire": 50,
+                "light": 50,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "hp": "74547",
+            "drain": "0%",
+            "location": "Durance of Hate",
+            "rune": "Um",
+            "level": 59
+        },
+        "hell": {
+            "resistances": {
+                "cold": 75,
+                "fire": 75,
+                "light": 75,
+                "magic": 50,
+                "phys": 20,
+                "poison": 75
+            },
+            "hp": "94320",
+            "drain": "0%",
+            "location": "Durance of Hate",
+            "rune": "Cham",
+            "level": 87
+        },
+        "ubber": {
+            "resistances": {
+                "cold": 75,
+                "fire": 75,
+                "light": 110,
+                "magic": 75,
+                "phys": 20,
+                "poison": 110
+            },
+            "hp": "650000 - 660000",
+            "drain": "0%",
+            "location": "Chaos Tristram",
+            "level": 110
+        },
+        "name": "Mephisto",
+        "monsterType": "Demon"
+    },
+    "Izual": {
+        "normal": {
+            "resistances": {
+                "cold": 75,
+                "fire": 30,
+                "light": 30,
+                "magic": 30,
+                "phys": 30,
+                "poison": 30
+            },
+            "hp": "11946",
+            "drain": "100%",
+            "location": "Plains of Despair",
+            "rune": "Sol",
+            "level": 29
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 75,
+                "fire": 30,
+                "light": 30,
+                "magic": 30,
+                "phys": 30,
+                "poison": 5300
+            },
+            "hp": "41811",
+            "drain": "75%",
+            "location": "Plains of Despair",
+            "rune": "Um",
+            "level": 60
+        },
+        "hell": {
+            "resistances": {
+                "cold": 75,
+                "fire": 30,
+                "light": 30,
+                "magic": 30,
+                "phys": 30,
+                "poison": 30
+            },
+            "hp": "57365",
+            "drain": "50%",
+            "location": "Plains of Despair",
+            "rune": "Cham",
+            "level": 86
+        },
+        "ubber": {
+            "resistances": {
+                "cold": 185,
+                "fire": 75,
+                "light": 75,
+                "magic": 75,
+                "phys": 30,
+                "poison": 75
+            },
+            "hp": "650000 - 660000",
+            "drain": "50%",
+            "location": "Furnace of Pain",
+            "level": 110
+        },
+        "name": "Izual",
+        "monsterType": "Demon"
+    },
+    "Hephasto the Armorer": {
+        "additionalTriggers": [
+            "Hephasto"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 20,
+                "fire": 20,
+                "light": 20,
+                "magic": 0,
+                "phys": 0,
+                "poison": -50
+            },
+            "hp": "3040",
+            "drain": "100%",
+            "location": "River of Flame",
+            "rune": "Dol",
+            "level": 28
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 20,
+                "fire": 20,
+                "light": 20,
+                "magic": 0,
+                "phys": 0,
+                "poison": -50
+            },
+            "hp": "30642",
+            "drain": "85%",
+            "location": "River of Flame",
+            "rune": "Ist",
+            "level": 60
+        },
+        "hell": {
+            "resistances": {
+                "cold": 45,
+                "fire": 75,
+                "light": 45,
+                "magic": 0,
+                "phys": 50,
+                "poison": 0
+            },
+            "hp": "99210",
+            "drain": "75%",
+            "location": "River of Flame",
+            "rune": "Zod",
+            "level": 88
+        },
+        "name": "Hephasto the Armorer",
+        "monsterType": "",
+        "presetAttribute": [
+            "Spectral Hit",
+            "Extra Fast"
+        ]
+    },
+    "Grand Vizier of Chaos": {
+        "additionalTriggers": [
+            "Grand Vizier",
+            "Vizier of Chaos"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 135,
+                "light": 60,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 9,
+            "hp": "812 - 1120",
+            "drain": "100%",
+            "location": "Chaos Sanctuary",
+            "rune": "Sol",
+            "level": 33
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 150,
+                "light": 75,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 10,
+            "hp": "3060 - 4209",
+            "drain": "66%",
+            "location": "Chaos Sanctuary",
+            "rune": "Ist",
+            "level": 61
+        },
+        "hell": {
+            "resistances": {
+                "cold": 0,
+                "fire": 175,
+                "light": 0,
+                "magic": 0,
+                "phys": 50,
+                "poison": 0
+            },
+            "minions": 11,
+            "hp": "9890 - 13600",
+            "drain": "33%",
+            "location": "Chaos Sanctuary",
+            "rune": "Zod",
+            "level": 88
+        },
+        "name": "Grand Vizier of Chaos",
+        "monsterType": "Storm Caster",
+        "presetAttribute": [
+            "Extra Strong",
+            "Fire Enchanted"
+        ]
+    },
+    "Infector of Souls": {
+        "additionalTriggers": [
+            "Infector"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 20,
+                "fire": 90,
+                "light": 20,
+                "magic": 0,
+                "phys": 0,
+                "poison": 70
+            },
+            "minions": 9,
+            "hp": "1020 - 1220",
+            "drain": "100%",
+            "location": "Chaos Sanctuary",
+            "rune": "Sol",
+            "level": 33
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 20,
+                "fire": 80,
+                "light": 20,
+                "magic": 0,
+                "phys": 0,
+                "poison": 100
+            },
+            "minions": 10,
+            "hp": "7818 - 9306",
+            "drain": "85%",
+            "location": "Chaos Sanctuary",
+            "rune": "Ist",
+            "level": 61
+        },
+        "hell": {
+            "resistances": {
+                "cold": 70,
+                "fire": 130,
+                "light": 75,
+                "magic": 0,
+                "phys": 50,
+                "poison": 75
+            },
+            "minions": 11,
+            "hp": "25480 - 30334",
+            "drain": "66%",
+            "location": "Chaos Sanctuary",
+            "rune": "Zod",
+            "level": 88
+        },
+        "name": "Infector of Souls",
+        "monsterType": "Venom Lord",
+        "presetAttribute": [
+            "Extra Fast",
+            "Spectral Hit"
+        ]
+    },
+    "Lord De Seis": {
+        "normal": {
+            "resistances": {
+                "cold": 60,
+                "fire": 60,
+                "light": 60,
+                "magic": 0,
+                "phys": 0,
+                "poison": 60
+            },
+            "minions": 6,
+            "hp": "696 - 916",
+            "drain": "100%",
+            "location": "Chaos Sanctuary",
+            "rune": "Sol",
+            "level": 33
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 60,
+                "fire": 60,
+                "light": 60,
+                "magic": 0,
+                "phys": 0,
+                "poison": 60
+            },
+            "minions": 7,
+            "hp": "4593 - 5742",
+            "drain": "75%",
+            "location": "Chaos Sanctuary",
+            "rune": "Um",
+            "level": 61
+        },
+        "hell": {
+            "resistances": {
+                "cold": 180,
+                "fire": 60,
+                "light": 60,
+                "magic": 25,
+                "phys": 33,
+                "poison": 75
+            },
+            "minions": 8,
+            "hp": "14836 - 18546",
+            "drain": "33%",
+            "location": "Chaos Sanctuary",
+            "rune": "Cham",
+            "level": 88
+        },
+        "name": "Lord De Seis",
+        "monsterType": "Oblivion Knight",
+        "presetAttribute": [
+            "Extra Strong",
+            "Aura Enchanted (Fanaticism)"
+        ]
+    },
+    "Diablo": {
+        "normal": {
+            "resistances": {
+                "cold": 33,
+                "fire": 33,
+                "light": 33,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "hp": "13818",
+            "drain": "100%",
+            "location": "Chaos Sanctuary",
+            "rune": "Dol",
+            "level": 40
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 50,
+                "fire": 50,
+                "light": 50,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "hp": "90749",
+            "drain": "50%",
+            "location": "Chaos Sanctuary",
+            "rune": "Ist",
+            "level": 62
+        },
+        "hell": {
+            "resistances": {
+                "cold": 50,
+                "fire": 50,
+                "light": 50,
+                "magic": 0,
+                "phys": 45,
+                "poison": 50
+            },
+            "hp": "113812",
+            "drain": "0%",
+            "location": "Chaos Sanctuary",
+            "rune": "Zod",
+            "level": 94
+        },
+        "ubber": {
+            "resistances": {
+                "cold": 95,
+                "fire": 95,
+                "light": 95,
+                "magic": 50,
+                "phys": 50,
+                "poison": 95
+            },
+            "hp": "642700",
+            "drain": "15%",
+            "location": "Spawns Randomly",
+            "level": 110
+        },
+        "name": "Diablo",
+        "monsterType": "Demon"
+    },
+    "Dac Farren": {
+        "additionalTriggers": [
+            "Dac",
+            "Farren"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 75,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 4,
+            "hp": "296 - 428",
+            "drain": "100%",
+            "location": "Bloody Foothills",
+            "rune": "Dol",
+            "level": 37
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 75,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 5,
+            "hp": "1767 - 2550",
+            "drain": "100%",
+            "location": "Bloody Foothills",
+            "rune": "Ist",
+            "level": 61
+        },
+        "hell": {
+            "resistances": {
+                "cold": 108,
+                "fire": 110,
+                "light": 25,
+                "magic": 25,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 6,
+            "hp": "5148 - 7438",
+            "drain": "100%",
+            "location": "Bloody Foothills",
+            "rune": "Zod",
+            "level": 83
+        },
+        "name": "Dac Farren",
+        "monsterType": "Demon Gremlin",
+        "presetAttribute": [
+            "Cold Enchanted"
+        ]
+    },
+    "Shenk the Overseer": {
+        "additionalTriggers": [
+            "Shenk"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "2400 - 2400",
+            "drain": "100%",
+            "location": "Bloody Foothills",
+            "rune": "Dol",
+            "level": 36
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "5742 - 7272",
+            "drain": "100%",
+            "location": "Bloody Foothills",
+            "rune": "Ist",
+            "level": 61
+        },
+        "hell": {
+            "resistances": {
+                "cold": 120,
+                "fire": 33,
+                "light": 20,
+                "magic": 0,
+                "phys": 40,
+                "poison": 0
+            },
+            "hp": "16820 - 21306",
+            "drain": "100%",
+            "location": "Bloody Foothills",
+            "rune": "Zod",
+            "level": 83
+        },
+        "name": "Shenk the Overseer",
+        "monsterType": "Overseer",
+        "presetAttribute": [
+            "Extra Strong"
+        ]
+    },
+    "Eldritch the Rectifier": {
+        "additionalTriggers": [
+            "Eldritch"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 8,
+            "hp": "1076 - 1348",
+            "drain": "100%",
+            "location": "Frigid Highlands",
+            "rune": "Dol",
+            "level": 34
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 50,
+                "fire": 25,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 25
+            },
+            "minions": 9,
+            "hp": "3828 - 4785",
+            "drain": "85%",
+            "location": "Frigid Highlands",
+            "rune": "Ist",
+            "level": 62
+        },
+        "hell": {
+            "resistances": {
+                "cold": 130,
+                "fire": 66,
+                "light": 15,
+                "magic": 0,
+                "phys": 25,
+                "poison": 15
+            },
+            "minions": 10,
+            "hp": "10984 - 13730",
+            "drain": "75%",
+            "location": "Frigid Highlands",
+            "rune": "Zod",
+            "level": 84
+        },
+        "name": "Eldritch the Rectifier",
+        "monsterType": "Enslaved",
+        "presetAttribute": [
+            "Extra Fast"
+        ]
+    },
+    "Eyeback the Unleashed": {
+        "additionalTriggers": [
+            "Eyeback"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 2,
+            "hp": "736 - 912",
+            "drain": "100%",
+            "location": "Frigid Highlands",
+            "rune": "Dol",
+            "level": 35
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 25,
+                "fire": 25,
+                "light": 50,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 3,
+            "hp": "4401 - 5550",
+            "drain": "85%",
+            "location": "Frigid Highlands",
+            "rune": "Ist",
+            "level": 62
+        },
+        "hell": {
+            "resistances": {
+                "cold": 50,
+                "fire": 50,
+                "light": 100,
+                "magic": 0,
+                "phys": 33,
+                "poison": 0
+            },
+            "minions": 4,
+            "hp": "12896 - 16260",
+            "drain": "75%",
+            "location": "Frigid Highlands",
+            "rune": "Zod",
+            "level": 84
+        },
+        "name": "Eyeback the Unleashed",
+        "monsterType": "Death Mauler",
+        "presetAttribute": [
+            "Extra Strong",
+            "Extra Fast"
+        ]
+    },
+    "Sharptooth Slayer": {
+        "additionalTriggers": [
+            "Sharptooth"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 3,
+            "hp": "2756 - 2756",
+            "drain": "100%",
+            "location": "Frigid Highlands",
+            "rune": "Dol",
+            "level": 39
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "6204 - 7860",
+            "drain": "100%",
+            "location": "Frigid Highlands",
+            "rune": "Ist",
+            "level": 62
+        },
+        "hell": {
+            "resistances": {
+                "cold": 140,
+                "fire": 33,
+                "light": 20,
+                "magic": 0,
+                "phys": 40,
+                "poison": 0
+            },
+            "hp": "17510 - 22180",
+            "drain": "100%",
+            "location": "Frigid Highlands",
+            "rune": "Zod",
+            "level": 84
+        },
+        "name": "Sharptooth Slayer",
+        "monsterType": "Overlord",
+        "presetAttribute": [
+            "Extra Fast"
+        ]
+    },
+    "Thresh Socket": {
+        "additionalTriggers": [
+            "Thresh"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "3000",
+            "drain": "100%",
+            "location": "Arreat Plateau",
+            "rune": "Dol",
+            "level": 41
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "14514 - 16932",
+            "drain": "100%",
+            "location": "Arreat Plateau",
+            "rune": "Ist",
+            "level": 63
+        },
+        "hell": {
+            "resistances": {
+                "cold": 120,
+                "fire": 75,
+                "light": 33,
+                "magic": 0,
+                "phys": 50,
+                "poison": 0
+            },
+            "hp": "41198 - 48064",
+            "drain": "100%",
+            "location": "Arreat Plateau",
+            "rune": "Zod",
+            "level": 84
+        },
+        "name": "Thresh Socket",
+        "monsterType": "Blood Bringer",
+        "presetAttribute": [
+            "Cursed"
+        ]
+    },
+    "Frozenstein": {
+        "normal": {
+            "resistances": {
+                "cold": 150,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": null,
+            "hp": "1836 - 2216",
+            "drain": "100%",
+            "location": "Crystalline Passage",
+            "rune": "Dol",
+            "level": 46
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 160,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": null,
+            "hp": "6726 - 9114",
+            "drain": "100%",
+            "location": "Crystalline Passage",
+            "rune": "Ist",
+            "level": 64
+        },
+        "hell": {
+            "resistances": {
+                "cold": 285,
+                "fire": 0,
+                "light": 25,
+                "magic": 0,
+                "phys": 40,
+                "poison": 0
+            },
+            "minions": null,
+            "hp": "19164 - 25964",
+            "drain": "100%",
+            "location": "Crystalline Passage",
+            "rune": "Zod",
+            "level": 85
+        },
+        "name": "Frozenstein",
+        "monsterType": "Frozen Abyss",
+        "presetAttribute": [
+            "Cold Enchanted",
+            "Mana Burn"
+        ]
+    },
+    "Bonesaw Breaker": {
+        "additionalTriggers": [
+            "Bonesaw"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 40,
+                "fire": 40,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 80
+            },
+            "minions": 5,
+            "hp": "720 - 1080",
+            "drain": "100%",
+            "location": "Glacial Trail",
+            "rune": "Dol",
+            "level": 36
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 40,
+                "fire": 40,
+                "light": 40,
+                "magic": 0,
+                "phys": 0,
+                "poison": 80
+            },
+            "minions": 6,
+            "hp": "4659 - 5718",
+            "drain": "75%",
+            "location": "Glacial Trail",
+            "rune": "Ist",
+            "level": 64
+        },
+        "hell": {
+            "resistances": {
+                "cold": 150,
+                "fire": 40,
+                "light": 73,
+                "magic": 0,
+                "phys": 50,
+                "poison": 80
+            },
+            "minions": 7,
+            "hp": "12840 - 15758",
+            "drain": "66%",
+            "location": "Glacial Trail",
+            "rune": "Zod",
+            "level": 85
+        },
+        "name": "Bonesaw Breaker",
+        "monsterType": "Reanimated Horde",
+        "presetAttribute": [
+            "Extra Strong",
+            "Magic Resistant"
+        ]
+    },
+    "Snapchip Shatter": {
+        "additionalTriggers": [
+            "Snapchip"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 150,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 4,
+            "hp": "2164 - 2880",
+            "drain": "100%",
+            "location": "Icy Cellar",
+            "rune": "Dol",
+            "level": 40
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 175,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 5,
+            "hp": "7860 - 9513",
+            "drain": "85%",
+            "location": "Icy Cellar",
+            "rune": "Ist",
+            "level": 65
+        },
+        "hell": {
+            "resistances": {
+                "cold": 225,
+                "fire": 0,
+                "light": 33,
+                "magic": 0,
+                "phys": 25,
+                "poison": 33
+            },
+            "minions": 6,
+            "hp": "22180 - 26850",
+            "drain": "75%",
+            "location": "Icy Cellar",
+            "rune": "Zod",
+            "level": 86
+        },
+        "name": "Snapchip Shatter",
+        "monsterType": "Frozen Creeper",
+        "presetAttribute": [
+            "Cursed",
+            "Cold Enchanted"
+        ]
+    },
+    "Pindleskin": {
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 75,
+                "light": 0,
+                "magic": 50,
+                "phys": 0,
+                "poison": 70
+            },
+            "minions": 6,
+            "hp": "1064 - 1588",
+            "drain": "100%",
+            "location": "Nihlathak's Temple",
+            "rune": "Dol",
+            "level": 45
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 75,
+                "light": 0,
+                "magic": 50,
+                "phys": 0,
+                "poison": 100
+            },
+            "minions": 7,
+            "hp": "4998 - 6135",
+            "drain": "75%",
+            "location": "Nihlathak's Temple",
+            "rune": "Ist",
+            "level": 66
+        },
+        "hell": {
+            "resistances": {
+                "cold": 50,
+                "fire": 75,
+                "light": 33,
+                "magic": 50,
+                "phys": 50,
+                "poison": 100
+            },
+            "minions": 8,
+            "hp": "13600 - 16690",
+            "drain": "66%",
+            "location": "Nihlathak's Temple",
+            "rune": "Zod",
+            "level": 86
+        },
+        "name": "Pindleskin",
+        "monsterType": "Defiled Warrior",
+        "presetAttribute": [
+            "Fire Enchanted"
+        ]
+    },
+    "Nihlathak": {
+        "normal": {
+            "resistances": {
+                "cold": 70,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 70
+            },
+            "hp": "3644",
+            "drain": "100%",
+            "location": "Halls of Vaught",
+            "rune": "Dol",
+            "level": 68
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 70,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 70
+            },
+            "hp": "9654",
+            "drain": "100%",
+            "location": "Halls of Vaught",
+            "rune": "Ist",
+            "level": 73
+        },
+        "hell": {
+            "resistances": {
+                "cold": 70,
+                "fire": 33,
+                "light": 33,
+                "magic": 25,
+                "phys": 0,
+                "poison": 70
+            },
+            "hp": "26690",
+            "drain": "100%",
+            "location": "Halls of Vaught",
+            "rune": "Zod",
+            "level": 95
+        },
+        "name": "Nihlathak",
+        "monsterType": "Animal"
+    },
+    "Korlic": {
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 70,
+                "light": 0,
+                "magic": 0,
+                "phys": 70,
+                "poison": 70
+            },
+            "hp": "3800 - 4560",
+            "drain": "100%",
+            "location": "Arreat Summit",
+            "level": 40
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 70,
+                "light": 0,
+                "magic": 0,
+                "phys": 70,
+                "poison": 60
+            },
+            "hp": "29106 - 38808",
+            "drain": "100%",
+            "location": "Arreat Summit",
+            "level": 71
+        },
+        "hell": {
+            "resistances": {
+                "cold": 150,
+                "fire": 70,
+                "light": 50,
+                "magic": 0,
+                "phys": 40,
+                "poison": 50
+            },
+            "hp": "102592 - 128240",
+            "drain": "100%",
+            "location": "Arreat Summit",
+            "level": 90
+        },
+        "name": "Korlic"
+    },
+    "Madawc": {
+        "normal": {
+            "resistances": {
+                "cold": 70,
+                "fire": 0,
+                "light": 70,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "3800 - 4560",
+            "drain": "100%",
+            "location": "Arreat Summit",
+            "level": 40
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 70,
+                "fire": 0,
+                "light": 70,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "hp": "29106 - 38808",
+            "drain": "100%",
+            "location": "Arreat Summit",
+            "level": 71
+        },
+        "hell": {
+            "resistances": {
+                "cold": 70,
+                "fire": 50,
+                "light": 100,
+                "magic": 0,
+                "phys": 40,
+                "poison": 50
+            },
+            "hp": "102592 - 128240",
+            "drain": "100%",
+            "location": "Arreat Summit",
+            "level": 90
+        },
+        "name": "Madawc"
+    },
+    "Talic": {
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 70,
+                "light": 0,
+                "magic": 0,
+                "phys": 70,
+                "poison": 70
+            },
+            "hp": "3800 - 4560",
+            "drain": "100%",
+            "location": "Arreat Summit",
+            "level": 40
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 70,
+                "light": 0,
+                "magic": 0,
+                "phys": 70,
+                "poison": 70
+            },
+            "hp": "29106 - 38808",
+            "drain": "100%",
+            "location": "Arreat Summit",
+            "level": 71
+        },
+        "hell": {
+            "resistances": {
+                "cold": 50,
+                "fire": 110,
+                "light": 50,
+                "magic": 0,
+                "phys": 40,
+                "poison": 50
+            },
+            "hp": "102592 - 128240",
+            "drain": "100%",
+            "location": "Arreat Summit",
+            "level": 90
+        },
+        "name": "Talic"
+    },
+    "Colenzo the Annihilator": {
+        "additionalTriggers": [
+            "Colenzo"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 145,
+                "light": 0,
+                "magic": 20,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 5,
+            "hp": "556 - 920",
+            "drain": "100%",
+            "location": "Throne of Destruction",
+            "rune": "Dol",
+            "level": 43
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 175,
+                "light": 0,
+                "magic": 50,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 6,
+            "hp": "1935 - 3165",
+            "drain": "75%",
+            "location": "Throne of Destruction",
+            "rune": "Lo",
+            "level": 69
+        },
+        "hell": {
+            "resistances": {
+                "cold": 0,
+                "fire": 195,
+                "light": 0,
+                "magic": 50,
+                "phys": 25,
+                "poison": 0
+            },
+            "minions": 7,
+            "hp": "6546 - 10712",
+            "drain": "66%",
+            "location": "Throne of Destruction",
+            "rune": "Zod",
+            "level": 88
+        },
+        "name": "Colenzo the Annihilator",
+        "monsterType": "Warped Shaman",
+        "presetAttribute": [
+            "Fire Enchanted"
+        ]
+    },
+    "Achmel the Cursed": {
+        "additionalTriggers": [
+            "Achmel"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 125
+            },
+            "minions": 3,
+            "hp": "1648 - 2020",
+            "drain": "100%",
+            "location": "Throne of Destruction",
+            "rune": "Dol",
+            "level": 43
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 25,
+                "fire": 25,
+                "light": 25,
+                "magic": 25,
+                "phys": 0,
+                "poison": 125
+            },
+            "minions": 4,
+            "hp": "7548 - 9324",
+            "drain": "66%",
+            "location": "Throne of Destruction",
+            "rune": "Lo",
+            "level": 69
+        },
+        "hell": {
+            "resistances": {
+                "cold": 66,
+                "fire": 66,
+                "light": 66,
+                "magic": 100,
+                "phys": 33,
+                "poison": 125
+            },
+            "minions": 5,
+            "hp": "21018 - 25964",
+            "drain": "33%",
+            "location": "Throne of Destruction",
+            "rune": "Zod",
+            "level": 88
+        },
+        "name": "Achmel the Cursed",
+        "monsterType": "Greater Mummy"
+    },
+    "Bartuc the Bloody": {
+        "additionalTriggers": [
+            "Bartuc"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 75,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 5,
+            "hp": "1632 - 3256",
+            "drain": "100%",
+            "location": "Throne of Destruction",
+            "rune": "Dol",
+            "level": 43
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 75,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 6,
+            "hp": "10671 - 13095",
+            "drain": "75%",
+            "location": "Throne of Destruction",
+            "rune": "Lo",
+            "level": 69
+        },
+        "hell": {
+            "resistances": {
+                "cold": 0,
+                "fire": 0,
+                "light": 75,
+                "magic": 0,
+                "phys": 0,
+                "poison": 0
+            },
+            "minions": 7,
+            "hp": "31248 - 38350",
+            "drain": "50%",
+            "location": "Throne of Destruction",
+            "rune": "Zod",
+            "level": 96
+        },
+        "name": "Bartuc the Bloody",
+        "monsterType": "Council Member",
+        "presetAttribute": [
+            "Lightning Enchanted"
+        ]
+    },
+    "Ventar the Unholy": {
+        "additionalTriggers": [
+            "Ventar"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 0,
+                "fire": 70,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 70
+            },
+            "minions": 8,
+            "hp": "1632 - 3256",
+            "drain": "100%",
+            "location": "Throne of Destruction",
+            "rune": "Dol",
+            "level": 43
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 0,
+                "fire": 80,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 100
+            },
+            "minions": 9,
+            "hp": "14553 - 16977",
+            "drain": "75%",
+            "location": "Throne of Destruction",
+            "rune": "Lo",
+            "level": 69
+        },
+        "hell": {
+            "resistances": {
+                "cold": 0,
+                "fire": 95,
+                "light": 0,
+                "magic": 0,
+                "phys": 0,
+                "poison": 120
+            },
+            "minions": 10,
+            "hp": "42612 - 49714",
+            "drain": "50%",
+            "location": "Throne of Destruction",
+            "rune": "Zod",
+            "level": 96
+        },
+        "name": "Ventar the Unholy",
+        "monsterType": "Venom Lord",
+        "presetAttribute": [
+            "Extra Fast"
+        ]
+    },
+    "Lister the Tormentor": {
+        "additionalTriggers": [
+            "Lister"
+        ],
+        "normal": {
+            "resistances": {
+                "cold": 70,
+                "fire": 70,
+                "light": 20,
+                "magic": 0,
+                "phys": 0,
+                "poison": 95
+            },
+            "minions": 5,
+            "hp": "6852 - 9580",
+            "drain": "100%",
+            "location": "Throne of Destruction",
+            "rune": "Dol",
+            "level": 58
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 70,
+                "fire": 95,
+                "light": 20,
+                "magic": 0,
+                "phys": 0,
+                "poison": 95
+            },
+            "minions": 6,
+            "hp": "20859 - 23283",
+            "drain": "75%",
+            "location": "Throne of Destruction",
+            "rune": "Lo",
+            "level": 71
+        },
+        "hell": {
+            "resistances": {
+                "cold": 70,
+                "fire": 120,
+                "light": 53,
+                "magic": 0,
+                "phys": 50,
+                "poison": 95
+            },
+            "minions": 7,
+            "hp": "60088 - 67074",
+            "drain": "50%",
+            "location": "Throne of Destruction",
+            "rune": "Zod",
+            "level": 95
+        },
+        "name": "Lister the Tormentor",
+        "monsterType": "Minion of Destruction",
+        "presetAttribute": [
+            "Spectral Hit"
+        ]
+    },
+    "Baal": {
+        "normal": {
+            "resistances": {
+                "cold": 33,
+                "fire": 33,
+                "light": 33,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "hp": "26484",
+            "drain": "100%",
+            "location": "The Worldstone Chamber",
+            "rune": "Io",
+            "level": 60
+        },
+        "nightmare": {
+            "resistances": {
+                "cold": 50,
+                "fire": 50,
+                "light": 50,
+                "magic": 0,
+                "phys": 0,
+                "poison": 50
+            },
+            "hp": "117596",
+            "drain": "50%",
+            "location": "The Worldstone Chamber",
+            "rune": "Vex",
+            "level": 75
+        },
+        "hell": {
+            "resistances": {
+                "cold": 50,
+                "fire": 50,
+                "light": 50,
+                "magic": 0,
+                "phys": 50,
+                "poison": 50
+            },
+            "hp": "493701",
+            "drain": "20%",
+            "location": "The Worldstone Chamber",
+            "rune": "Zod",
+            "level": 99
+        },
+        "ubber": {
+            "resistances": {
+                "cold": 185,
+                "fire": 115,
+                "light": 75,
+                "magic": 75,
+                "phys": 50,
+                "poison": 75
+            },
+            "hp": "650000-660000",
+            "drain": "20%",
+            "location": "Chaos Tristram",
+            "level": 110
+        },
+        "name": "Baal",
+        "monsterType": "Demon"
+    }
+}
